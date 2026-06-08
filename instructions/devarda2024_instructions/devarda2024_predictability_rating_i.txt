@@ -1,0 +1,5 @@
+How much would you expect to read the target word as the next word of this sentence fragment:
+
+<<{sentence_fragment_and_word}>>
+
+Rate on a scale from 1 (Not at all) to 5 (Very much). Answer with one digit.

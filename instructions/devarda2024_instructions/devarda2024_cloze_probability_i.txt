@@ -1,0 +1,3 @@
+[Field-1]... - Write the next word of the sentence:
+
+<<{sentence_fragment}>>... - Write the next word of the sentence: Answer with one word.

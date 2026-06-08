@@ -1,0 +1,5 @@
+(General Instructions) In this section, you will be presented with a series of objects. Please name as many possible uses for each object as you think of by typing them below each object. Please keep in mind that a single object will have more than one use. For example, a ball can be thrown or bounced or even stepped on. When listing multiple uses for one object, please separate each use with a comma (i.e., thrown, bounced, stepped on).
+
+(Trial Instructions) Please name all of the ways you could use this object. Keep in mind that one object can have many uses. Separate your responses with a comma.
+
+Please list as many uses for this object as you can, separated by commas: <<{word}>>

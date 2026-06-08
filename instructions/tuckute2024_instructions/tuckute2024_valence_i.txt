@@ -1,0 +1,3 @@
+In this survey, you will be asked to rate 100 sentences. We would like you to rate each sentence according to how much it made you feel happy, pleased, content, and/or hopeful on a scale from 1 (not at all) to 7 (very much). For example, sentences like “The puppy snuggles on the couch.” or “I celebrated my birthday with my best friends.” have meanings that are pleasant and positive, so you might rate them as a 6 or a 7. In contrast, sentences like “The woman was about to vomit.” or “The murder took place around midnight.” do not, so you might rate them as a 1 or a 2. Question phrasing for each item: - How much does the sentence make you feel happy, pleased, content, and/or hopeful?
+
+Please rate the sentence <<{sentence}>> on a scale from 1 to 7. Answer with one digit.

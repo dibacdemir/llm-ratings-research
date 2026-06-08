@@ -1,0 +1,4 @@
+Is the following sentence grammatically correct in English?
+Answer yes or no.
+
+<<{sentence}>

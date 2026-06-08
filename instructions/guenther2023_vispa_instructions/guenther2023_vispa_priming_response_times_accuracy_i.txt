@@ -1,0 +1,6 @@
+The exact instructions are not reproduced verbatim in the paper. The Procedure sections for each study paraphrase what participants were told. The verbatim instructions might be in the OSF repository at https://osf.io/qvw9c. What the paper reports:
+
+Study 5 (Priming / visual decision task): Participants were instructed they would be presented with pairs of images in short succession and that their task was to decide whether the second image was real or distorted by pressing the F or J key.
+
+Is the second image real or distorted? <<{image_pair}>>
+Answer real or distorted.

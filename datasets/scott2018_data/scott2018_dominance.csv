@@ -1,0 +1,5554 @@
+word,mean,std,n
+abattoir,4.333,1.285,21
+abbey,4.667,1.551,33
+abbreviate,5.235,1.238,34
+abdicate,4.419,2.182,31
+abdication,4.8,1.96,25
+abdomen,5.441,1.666,34
+abdominal,4.667,1.511,33
+abduct,3.065,2.299,31
+abducted,2.871,2.549,31
+abduction,2.886,2.122,35
+aberration,4.852,1.799,27
+abide,4.5,2.345,32
+ability,6.971,1.465,34
+able,6.886,1.953,35
+abode,5.8,1.514,30
+abortion,5.429,2.811,35
+abroad,5.118,1.762,34
+abrupt,4.629,1.822,35
+absorb,5.125,1.166,32
+abstract,4.914,1.888,35
+absurd,4.719,1.546,32
+absurdly,4.697,1.527,33
+abundance,6.2,1.564,35
+abundant,6.094,1.665,32
+abuse,2.5,1.768,32
+abuser,3.743,2.902,35
+abyss,3.433,2.124,30
+academic,5.788,2.384,33
+accelerate,6.794,1.471,34
+accent,5.182,1.678,33
+accept,5.969,1.896,32
+acceptance,5.943,2.097,35
+access,5.794,1.711,34
+accident,3.029,1.524,34
+accidental,4.182,1.8,33
+accordion,5.441,1.648,34
+accountant,4.367,1.643,30
+accuse,4.844,2.048,32
+accused,2.971,1.807,34
+ace,6.129,1.385,31
+ache,3.313,1.261,32
+aches,2.813,1.102,32
+achieve,7.091,1.73,33
+achieved,7.441,1.418,34
+achievement,7.452,1.187,31
+acorn,5.5,1.173,32
+acquire,5.939,1.791,33
+acrobat,5.129,1.497,31
+activate,6.343,1.851,35
+active,6.581,1.13,31
+activity,6.286,1.485,35
+actor,5.618,1.715,34
+actress,5.121,1.665,33
+actual,5.235,1.628,34
+actually,5.177,1.445,34
+acute,4.912,1.56,34
+adage,5.222,1.227,18
+adapt,5.8,1.786,35
+add,5.618,1.237,34
+addict,3.086,2.234,35
+addicted,2.364,1.936,33
+addition,5.629,1.017,35
+address,5.364,1.41,33
+address (postal),5.114,1.489,35
+address (speak to),6.182,2.066,33
+adequate,4.765,1.783,34
+adjective,4.844,1.523,32
+adjust,5.667,1.511,33
+admiral,6.613,2.281,31
+admire,5.875,1.833,32
+admired,6.714,2.159,35
+adopt,5.469,1.561,32
+adorable,5.375,1.996,32
+adore,5.516,2.138,31
+adult,6.091,2.165,33
+adultery,4.412,2.415,34
+adults,5.629,2.179,35
+advanced,6.118,1.922,34
+advantage,7.194,1.49,31
+adventure,7.313,1.828,32
+adverb,5.235,1.031,34
+adverse,3.636,1.534,33
+adversity,4.3,2.084,30
+advice,5.229,2.03,35
+advise,5.813,1.991,32
+advisor,5.147,2.017,34
+advisors,4.774,1.736,31
+aeroplane,4.529,1.44,34
+afar,4.457,1.38,35
+affair,4.441,2.403,34
+affect,5.177,2.203,34
+affection,5.588,2.184,34
+affectionate,6.273,1.78,33
+afford,5.2,2.24,35
+affordable,4.857,1.693,35
+afraid,2.706,1.791,34
+after,4.576,1.156,33
+afterlife,3.455,1.986,33
+age,4.714,1.75,35
+aged,3.849,2.217,33
+agent,5.213,1.728,61
+aggression,5.242,2.753,33
+aggressive,5.909,2.442,33
+agile,5.788,1.919,33
+agility,6.543,1.872,35
+agony,3.091,1.913,33
+agree,6.794,1.549,34
+agreement,5.485,2.258,33
+aid,5.031,1.705,32
+aim,6.829,1.748,35
+aim (objective),5.909,2.021,33
+aim (target),6.714,1.631,35
+air,4.933,1.672,30
+airplane,5.455,2.061,33
+airport,5.531,1.904,32
+aisle,4.71,1.223,31
+albatross,5.29,1.62,62
+album,5.323,0.894,31
+alcohol,4.882,1.967,34
+alcoholic,2.886,2.175,35
+alert,6.194,2.007,31
+algebra,3.871,1.68,31
+alien,4.2,1.6,35
+alimony,4.5,1.658,24
+alive,7.121,2.1,33
+all,5.419,1.409,31
+allergy,2.765,1.516,34
+alley,4.324,1.077,34
+alligator,3.719,1.924,32
+allow,5.727,2.219,33
+allowed,4.914,2.477,35
+allure,4.97,1.899,33
+aloft,5.065,1.216,31
+alone,4.265,2.266,34
+aloof,5.097,1.94,31
+aloud,5.857,1.659,35
+altar,4.968,1.909,31
+alter,4.719,1.824,32
+altitude,5.606,1.922,33
+amateur,3.657,1.82,35
+amaze,6.364,1.772,33
+amazing,6.824,1.599,34
+ambassador,5.871,2.211,31
+amber,4.645,0.863,31
+ambition,7.559,1.63,34
+ambulance,3.429,1.841,35
+ammunition,6.188,2.297,32
+amount,5.484,1.365,31
+amphibian,5.235,1.113,34
+amplifier,5.903,1.489,31
+amplify,6.455,1.689,33
+amputate,3.743,2.322,35
+amuse,6.0,1.572,34
+amusement,6.543,1.556,35
+amusing,6.206,1.779,34
+analogue,5.031,1.287,32
+analyst,5.364,1.473,33
+anchor,5.143,2.257,35
+ancient,4.516,1.563,31
+anecdote,5.546,1.671,33
+angel,5.063,1.87,32
+anger,4.618,2.364,34
+angle,4.818,1.14,33
+angry,5.419,2.38,31
+anguish,3.788,1.838,33
+animal,5.485,1.811,33
+animals,5.576,2.089,33
+animosity,4.484,1.998,31
+ankle,5.0,0.968,32
+annoy,5.382,2.142,34
+annoyance,5.0,2.06,33
+annoying,4.088,1.704,34
+answer,5.8,1.618,35
+ant,4.514,1.962,35
+anteater,5.333,1.407,33
+antelope,5.229,1.514,35
+anthem,5.455,1.395,33
+anthropology,5.344,1.613,32
+anticipation,5.0,2.16,33
+anus,5.0,1.372,34
+anxiety,2.313,1.509,32
+anxious,3.265,1.945,34
+apathy,4.429,1.678,28
+ape,5.03,1.487,33
+apex,5.44,1.627,25
+apologize,5.03,2.037,33
+apology,5.371,2.38,35
+appalling,4.235,1.783,34
+appear,5.172,1.743,29
+appearance,4.688,2.083,32
+appeared,5.323,1.254,31
+applause,6.686,1.635,35
+apple,5.485,1.209,33
+Apple (brand),4.6,2.44,35
+apple (fruit),5.286,1.385,35
+appliance,5.242,1.985,33
+applied,5.742,1.866,31
+apply,5.697,1.696,33
+appoint,5.727,2.219,33
+appointment,4.706,1.871,34
+appreciate,6.161,1.526,31
+approval,4.794,2.18,34
+approve,6.546,1.876,33
+apricot,5.121,1.343,33
+apron,4.344,1.492,32
+aptitude,6.118,1.491,34
+arch,4.903,1.399,31
+archaeology,5.412,1.593,34
+archer,6.088,1.401,34
+archery,6.206,1.51,34
+architect,5.314,1.801,35
+archive,5.0,1.393,33
+argue,5.2,2.388,35
+argument,5.25,2.437,32
+arise,6.171,1.298,35
+aristocracy,4.588,2.557,34
+aristocratic,4.742,2.016,31
+arm,5.774,1.408,31
+arm (limb),5.941,1.909,34
+arm (weapon),6.636,1.872,33
+armadillo,4.939,1.099,33
+armed,5.923,2.719,65
+armour,6.031,2.158,32
+armoury,5.636,2.012,33
+arms,5.636,1.322,33
+arms (limbs),6.5,1.377,34
+arms (weapons),4.147,2.51,34
+army,4.424,2.594,66
+aroma,5.235,1.395,34
+arouse,6.5,1.854,32
+aroused,5.667,2.671,33
+array,5.161,1.526,31
+arrest,4.057,2.704,35
+arrested,3.063,2.164,32
+arrive,5.647,1.551,34
+arrogant,5.452,2.434,31
+arrow,5.455,1.777,33
+arrows,5.353,1.588,34
+arse,5.667,2.055,33
+arsehole,4.971,2.107,34
+arson,5.088,2.381,34
+art,5.938,1.694,32
+artist,6.0,1.82,32
+arts,5.743,1.778,35
+ascend,6.818,1.113,33
+ascent,5.818,1.696,33
+ashamed,2.818,1.641,33
+ashes,4.677,1.81,34
+aspect,5.469,1.414,32
+aspirin,4.656,1.428,32
+ass,5.242,1.724,33
+ass (donkey),5.559,2.061,34
+ass (insult),4.188,2.113,32
+assassin,3.529,2.118,34
+assassinate,6.273,2.609,33
+assault,3.75,2.305,32
+asshole,5.629,2.38,35
+assist,6.182,1.336,33
+assistant,4.771,2.474,35
+assuring,6.032,1.943,31
+asteroid,4.353,2.028,34
+asthma,3.031,1.944,32
+astonish,5.206,1.324,34
+astonished,4.857,1.884,35
+astronaut,5.063,1.435,32
+astronomer,5.438,1.435,32
+astronomy,5.086,1.888,35
+athletic,6.219,1.556,32
+athletics,5.677,2.082,34
+atmosphere,4.839,1.568,31
+atom,4.324,1.567,34
+atomic,4.394,2.719,33
+atoms,4.152,2.062,33
+atrocious,4.5,1.989,34
+atrocity,3.903,2.234,31
+attack,4.147,2.724,34
+attacker,4.057,2.787,35
+attempt,5.743,1.36,35
+attendant,4.8,1.817,35
+attention,5.529,2.354,34
+attic,4.793,1.242,29
+attitude,5.636,2.186,33
+attract,6.771,1.289,35
+attraction,6.0,2.118,33
+attractive,6.147,1.801,34
+attribute,5.788,2.071,33
+auction,4.588,2.116,34
+auctioneer,5.226,1.64,31
+audience,5.121,2.071,33
+auditorium,5.061,1.496,33
+aunt,4.727,1.108,33
+authentic,6.281,1.526,32
+author,5.546,1.76,33
+autopsy,4.206,2.041,34
+autumn,4.829,1.183,35
+avalanche,4.129,2.779,31
+avenge,6.594,1.885,32
+avenue,5.0,1.047,31
+award,6.588,1.682,34
+awarded,6.29,1.669,31
+aware,7.156,1.622,32
+away,4.546,1.499,33
+awe,4.912,2.406,34
+awesome,6.656,1.632,32
+awful,3.971,1.92,35
+awkward,3.031,1.287,32
+axe,5.324,2.124,34
+axle,5.286,0.749,28
+baboon,5.029,1.63,35
+baby,4.313,2.615,32
+background,4.758,1.232,33
+bacon,5.781,1.932,32
+bacteria,3.853,1.881,34
+bad,4.471,2.132,34
+badge,5.353,1.512,34
+badger,5.088,1.245,34
+bag,5.688,1.379,32
+baggage,3.548,1.663,31
+bail,4.371,1.551,35
+bait,3.767,1.627,30
+bake,6.029,1.581,34
+baker,5.429,1.358,35
+bald,4.424,1.97,33
+ball,5.594,1.693,32
+ball (dance),5.235,1.783,34
+ball (sphere),5.029,1.807,34
+balloon,5.375,1.452,32
+ballroom,5.516,1.604,31
+bamboo,5.706,1.446,34
+ban,3.906,2.296,32
+banal,4.333,1.522,21
+banana,5.219,1.268,32
+band,5.303,1.359,33
+band (music),6.143,1.376,35
+band (ribbon),5.353,1.453,34
+bandage,4.441,1.333,34
+bandit,5.118,1.967,34
+bandits,3.794,1.875,34
+bang,4.412,2.238,34
+banjo,5.2,1.43,35
+bank,4.229,1.987,35
+bank (money),4.281,2.225,32
+bank (rely),4.094,2.021,32
+bank (river),4.531,1.346,32
+banker,4.471,2.252,34
+bankrupt,2.548,1.643,31
+banks,4.265,1.686,34
+banks (money),3.559,2.488,34
+banks (river),4.735,1.915,34
+banner,5.258,1.191,31
+bar,5.529,1.46,34
+bar (legal),4.656,2.025,32
+bar (metal),5.382,1.534,34
+bar (musical),5.514,1.592,35
+bar (pub),5.743,1.401,35
+bare,4.25,1.696,32
+barely,4.0,1.372,34
+barge,5.625,1.85,32
+barge (boat),5.171,1.464,35
+barge (push),5.758,2.462,33
+bark,5.8,1.653,35
+bark (dog),4.879,1.754,33
+bark (tree),5.515,1.282,33
+barley,5.147,1.033,34
+barn,5.441,1.594,34
+barnacle,4.484,1.317,31
+baroque,4.958,0.978,24
+barrage,4.519,2.079,27
+barrel,5.061,1.153,33
+barrier,3.486,2.407,35
+basement,4.412,1.629,34
+basket,5.171,1.055,35
+basketball,4.909,1.334,33
+bass,5.455,0.856,33
+bass (fish),4.765,1.113,34
+bass (guitar),6.0,2.015,33
+bassoon,5.375,1.111,24
+bastard,5.0,2.342,31
+bastards,5.0,1.884,31
+bat,5.161,1.505,31
+bat (animal),5.059,1.027,34
+bat (club),5.469,1.952,32
+bath,5.656,1.688,32
+bathroom,5.324,1.429,34
+battered,3.774,2.195,31
+battery,4.943,1.638,35
+battle,5.559,2.145,34
+bayonet,4.667,2.006,30
+bazooka,5.267,2.032,30
+beach,5.581,1.386,31
+bead,5.353,1.607,34
+beagle,4.833,1.241,30
+beak,5.0,1.0,34
+beaker,4.853,1.167,34
+bean,5.543,1.13,35
+bear,5.077,2.186,65
+beard,5.606,1.594,66
+beast,5.721,2.261,68
+beat,5.152,2.12,33
+beat (hit),4.938,2.15,32
+beat (mix),5.303,1.714,33
+beat (rhythm),5.629,1.987,35
+beaten,3.182,2.367,33
+beautician,4.379,1.424,29
+beautiful,6.344,1.688,32
+beauty,5.594,2.234,32
+beaver,5.233,1.283,30
+become,5.807,1.804,31
+bed,5.441,2.003,34
+bee,5.281,1.566,32
+beef,5.765,1.19,34
+beehive,4.471,1.974,34
+beer,5.353,1.861,34
+beet,5.242,1.102,33
+beetle,5.061,1.953,33
+befall,3.807,1.281,31
+beg,2.909,2.021,33
+beggar,4.323,2.161,31
+begin,5.941,1.662,34
+beginning,5.758,2.161,33
+behalf,5.088,1.483,34
+behave,4.613,1.79,31
+behaviour,5.735,1.686,34
+behind,4.091,1.832,33
+beige,4.618,2.087,34
+belfry,4.889,1.595,18
+belief,5.143,2.509,35
+believe,5.633,2.213,30
+bell,5.294,1.486,34
+belly,4.516,1.644,31
+belong,5.303,1.977,33
+belt,4.807,1.306,31
+bench,5.029,1.248,34
+bend,4.857,1.417,35
+beneficial,5.886,1.879,35
+benefit,5.771,1.987,35
+bereavement,2.938,1.903,32
+berry,5.114,1.214,35
+best,6.818,1.696,33
+betray,3.697,2.167,33
+betrayal,3.767,2.472,30
+beverage,5.735,1.787,34
+beware,3.719,1.94,32
+bicycle,5.969,1.425,32
+bid,6.355,1.449,31
+bigot,4.758,1.776,33
+bike,6.147,1.458,34
+billion,5.529,1.974,34
+binder,5.03,1.446,33
+biology,4.5,1.819,34
+bird,6.133,1.668,30
+birth,4.25,2.264,32
+birthday,6.147,1.801,34
+biscuit,5.588,1.833,34
+bishop,4.25,1.561,32
+bison,5.433,1.647,30
+bit,4.455,1.305,33
+bit (bite),5.471,1.959,34
+bit (horse bridal),5.037,1.071,27
+bit (small amount),4.677,1.387,34
+bitch,4.758,2.547,33
+bitchy,5.057,2.342,35
+bitter,4.324,1.921,34
+bizarre,4.844,1.622,32
+black,5.4,2.114,35
+blackmail,3.824,2.717,34
+blacksmith,5.088,1.314,34
+blade,5.543,2.359,35
+blame,3.765,2.073,34
+bland,4.548,1.266,31
+blank,4.771,1.436,35
+blasphemy,4.719,2.225,32
+blaze,5.629,2.112,35
+blazes,4.333,1.955,30
+bleak,3.441,1.735,34
+blend,5.219,1.111,32
+blender,5.333,1.135,30
+bless,4.733,1.931,30
+blessed,5.286,2.445,35
+blessing,5.273,1.927,33
+blessings,5.188,1.96,32
+blimp,4.807,1.229,31
+blind,2.697,1.696,33
+bliss,5.969,2.243,32
+blister,3.857,1.376,35
+block,5.0,1.985,34
+bloke,5.485,1.52,33
+blond,5.182,1.486,33
+blonde,5.258,2.314,31
+blood,4.765,1.516,34
+bloody,5.059,1.878,34
+bloom,5.613,1.336,31
+blossom,5.353,1.661,34
+blouse,5.125,1.409,32
+blow,5.677,1.675,34
+blow (hit),4.774,2.419,31
+blow (wind),4.429,1.841,35
+blubber,4.088,1.463,34
+blubber (cry),3.5,2.252,34
+blubber (fat),4.121,1.493,33
+blue,5.313,1.722,32
+blueberry,5.387,1.262,31
+bluff,5.515,1.94,33
+blunder,4.03,1.547,33
+blunt,5.097,1.532,31
+board,5.229,1.197,35
+board (enter),5.091,1.865,33
+board (executive),5.97,2.368,33
+board (wooden),4.943,1.413,35
+boarded,5.059,1.798,34
+boast,6.273,1.42,33
+boastful,6.969,1.862,32
+boat,5.46,1.641,63
+body,4.909,1.96,33
+boil,4.781,1.268,32
+boiler,5.563,1.273,32
+bold,7.118,1.529,34
+bollocks,5.971,1.781,35
+bomb,4.182,2.823,33
+bomber,4.452,2.551,31
+bond,4.943,1.881,35
+bondage,4.594,2.892,32
+bonds,4.936,2.109,31
+bonds (money),4.794,1.997,34
+bonds (restraints),3.029,2.606,34
+bone,5.219,1.576,32
+bones,5.371,1.806,35
+bongo,5.656,0.956,32
+bonnet,4.966,1.217,29
+bonus,5.697,1.507,33
+book,6.03,1.66,33
+book (read),5.839,1.687,31
+book (reserve),6.235,2.073,34
+bookcase,5.697,1.193,33
+boom,5.429,2.394,35
+boost,6.529,1.613,34
+boot,5.548,1.499,31
+boot (car),5.606,1.391,33
+boot (evict),4.382,2.474,34
+boot (shoe),5.771,1.709,35
+bored,4.088,1.314,34
+boredom,4.229,1.914,35
+boring,3.657,1.866,35
+born,4.516,1.847,31
+borrow,4.03,1.566,33
+bosom,5.265,1.754,34
+boss,4.5,3.118,34
+botanist,4.769,1.219,26
+botany,4.889,1.474,27
+bother,4.412,1.593,34
+bottle,5.097,1.254,31
+bottom,3.636,1.554,33
+bought,6.303,1.446,33
+boulder,5.419,1.737,31
+bounce,6.065,1.435,31
+bouncy,5.657,1.603,35
+bound,3.765,2.579,34
+bouquet,5.343,1.218,35
+bout,4.429,1.522,28
+bow,4.788,2.071,33
+bow (bend),4.206,1.711,34
+bow (ribbon),4.818,2.167,33
+bow (ship),5.345,1.646,29
+bow (weapon),6.235,2.129,34
+bowel,4.706,1.425,34
+bowl,5.324,1.23,34
+box,4.936,1.39,31
+box (container),4.571,1.46,35
+box (sport),6.03,2.022,33
+boxer,5.147,2.463,34
+boxer (dog),5.441,1.785,34
+boxer (fighter),6.188,2.442,32
+boxing,5.455,2.133,33
+boy,5.229,1.569,35
+boycott,5.273,2.562,33
+bra,4.971,1.665,35
+bracelet,5.6,1.744,35
+bracket,4.643,0.895,28
+brain,6.844,1.752,32
+brainy,7.031,1.51,32
+brake,5.029,1.844,35
+brand,4.594,2.075,32
+brass,5.467,1.118,30
+brasserie,4.97,1.696,33
+brassiere,5.121,1.591,33
+brave,7.412,1.7,34
+bravery,7.188,1.667,32
+brazen,5.893,1.819,28
+breach,5.031,1.96,32
+bread,4.75,1.414,32
+break,4.563,1.903,32
+break (destroy),5.853,2.451,34
+break (luck),4.655,1.988,29
+break (rest),5.97,1.766,33
+breakfast,5.588,1.536,34
+breast,5.647,1.432,34
+breasts,5.647,1.939,34
+breeze,5.129,1.827,31
+brew,5.156,1.752,32
+brewer,5.0,0.791,32
+bribe,4.412,2.463,34
+bridal,5.25,1.714,32
+bridal (horse),5.061,1.071,33
+bridal (marriage),4.909,1.73,33
+bride,5.324,2.206,34
+bridegroom,4.833,1.593,30
+bridesmaid,4.5,2.09,34
+bridesmaids,5.0,1.782,34
+bridge,5.588,1.912,34
+bridge (card game),5.121,1.629,33
+bridge (structure),5.394,2.187,33
+brief,4.813,1.184,32
+bright,5.882,1.529,34
+bright (light),5.412,1.574,34
+bright (smart),6.914,1.948,35
+brilliant,7.086,1.538,35
+brilliant (great),7.781,1.053,32
+brilliant (intelligent),7.543,1.179,35
+brilliant (luminous),6.424,2.336,33
+brink,4.25,1.436,32
+brisk,5.781,1.317,32
+broccoli,5.069,1.617,29
+broken,3.559,1.718,34
+bronze,5.677,1.156,34
+broom,5.121,1.148,33
+brother,5.441,1.333,34
+brow,5.061,0.919,33
+brown,4.906,1.071,32
+brunch,5.529,0.848,34
+brunette,5.794,1.51,34
+brush,5.688,0.982,32
+brushed,4.724,1.229,29
+brutal,4.971,2.36,35
+brute,4.5,2.379,34
+bubble,4.912,2.454,34
+bubbly,5.618,1.329,34
+buffalo,5.118,1.659,34
+bugle,4.957,1.122,23
+build,6.412,1.417,34
+builder,5.333,1.428,33
+building,5.063,1.499,32
+bulb,5.258,0.983,31
+bulb (light),5.515,1.329,33
+bulb (plant),5.5,1.299,32
+bulge,4.758,1.793,33
+bulk,5.706,1.6,34
+bull,5.563,2.633,32
+bulldozer,5.212,1.903,33
+bullet,4.824,2.294,34
+bullish,5.5,1.911,30
+bully,3.606,2.974,33
+bundle,4.706,1.273,34
+bungalow,5.242,1.558,33
+bunk,5.257,1.227,35
+bunk (bed),5.273,1.895,33
+bunk (truant),5.655,1.917,29
+bunny,5.147,1.942,34
+buoy,4.645,1.824,31
+burden,2.697,1.623,33
+burger,5.636,1.473,33
+burglar,3.531,2.091,32
+burglary,3.424,2.216,33
+burgle,3.656,1.796,32
+burial,3.667,2.127,33
+burn,4.688,1.629,32
+burner,5.086,1.61,35
+burnt,3.871,1.56,31
+burst,4.941,1.83,34
+bury,4.029,1.765,35
+bus,4.588,1.309,34
+business,5.788,2.157,33
+businessman,5.314,1.801,35
+bust,5.743,1.778,35
+bust (break),4.581,1.88,31
+bust (breasts),5.543,1.778,35
+bust (sculpture),5.063,1.368,32
+busy,4.559,2.172,34
+busybody,4.839,1.902,31
+butcher,4.971,1.812,35
+butler,4.794,2.259,34
+butt,4.742,1.191,31
+butter,5.267,1.504,30
+butterfly,5.486,1.903,35
+button,5.559,1.575,34
+buy,5.886,1.939,35
+buzzard,5.313,1.467,32
+cabin,5.091,0.965,33
+cabinet,4.794,1.471,34
+cabinet (closet),4.938,1.519,32
+cabinet (council),3.313,1.911,32
+cacti,4.914,1.204,35
+cactus,5.457,1.537,35
+cafe,6.061,1.455,33
+cake,5.059,1.392,34
+cakes,6.333,1.271,33
+calcium,4.844,1.481,32
+calculus,4.226,1.913,31
+calendar,4.647,1.607,34
+calf,5.265,1.72,34
+calf (cow),4.424,1.393,33
+calf (muscle),5.939,1.127,33
+call,6.063,1.713,32
+call (shout),6.515,1.844,33
+call (telephone),5.588,1.734,34
+call (visit),5.853,1.957,34
+calm,5.941,2.014,34
+camel,5.4,0.841,30
+camera,5.294,1.618,34
+camouflage,6.088,2.02,34
+camp,4.882,1.367,34
+camp (effeminate),4.75,2.179,32
+camp (tents),5.065,1.759,31
+camper,5.429,1.316,35
+campus,5.188,1.704,32
+canal,4.853,1.331,34
+cancer,3.194,2.752,31
+candidate,5.129,1.827,31
+candle,5.969,1.425,32
+candy,5.114,1.785,35
+candyfloss,5.086,1.5,35
+cane,4.594,1.869,32
+cane (beat),4.853,2.557,34
+cane (stick),4.364,2.042,33
+cane (sugar),4.849,1.077,33
+cannon,5.897,2.234,29
+canoe,5.242,1.596,33
+canyon,4.758,1.457,33
+cap,6.0,1.549,35
+cap (hat),5.229,1.197,35
+cap (limit),3.875,2.162,32
+capable,7.371,1.396,35
+capacity,5.182,1.696,33
+cape,6.031,1.132,32
+captivate,5.758,2.336,33
+captivating,6.419,1.7,31
+captive,2.5,1.732,32
+capture,4.824,3.053,34
+car,6.382,2.029,34
+caravan,5.303,1.314,33
+carbohydrate,5.273,1.746,33
+carbon,4.594,1.247,32
+carcass,4.433,1.499,30
+card,5.25,1.392,32
+care,5.594,2.192,32
+career,6.457,2.545,35
+careful,4.5,2.033,34
+caress,5.424,1.776,33
+carnival,5.314,1.669,35
+carol,5.147,1.331,34
+carp,5.069,1.202,29
+carpenter,5.677,1.254,34
+carpet,5.455,1.94,33
+carriage,5.156,1.394,32
+carrot,5.343,1.241,35
+carry,5.5,1.82,32
+carve,5.735,1.787,34
+case,4.846,1.231,65
+case (container),4.667,1.341,33
+case (instance),5.059,1.474,34
+case (legal),4.647,1.984,34
+cash,6.03,2.456,33
+cashier,5.059,1.305,34
+casino,4.412,2.277,34
+cast,4.8,1.41,35
+cast (actors),4.629,1.742,35
+cast (plaster bandage),3.294,1.618,34
+cast (throw),6.455,1.395,33
+castle,5.968,1.975,31
+casual,5.324,1.567,34
+casualty,3.514,2.116,35
+cat,5.091,1.602,33
+catapult,5.633,2.041,30
+catastrophe,3.152,2.451,33
+catch,5.625,1.709,32
+catch (a ball),6.118,1.906,34
+catch (drawback),3.677,1.673,31
+catch (restraint),4.412,1.957,34
+catch (romantic),5.25,1.854,32
+caterpillar,5.469,1.5,32
+cathedral,4.429,1.809,35
+cattle,5.412,2.184,34
+caught,3.088,1.788,34
+cauliflower,5.636,1.432,33
+caution,3.471,1.667,34
+cautious,3.941,1.748,34
+cave,4.6,1.885,35
+caviar,5.129,1.661,31
+cavity,4.147,1.611,34
+cease,4.706,1.918,34
+ceiling,4.647,1.713,34
+celebrate,7.129,1.184,31
+celebration,6.429,1.678,35
+celebrity,4.469,2.165,32
+celery,5.314,1.737,35
+cell,3.824,2.216,34
+cell (biological),4.667,2.084,33
+cell (jail),3.121,2.114,33
+cellar,4.353,1.185,34
+cello,5.177,1.271,34
+cells,4.25,1.677,32
+cement,5.147,1.629,34
+cemetery,3.286,1.614,35
+cervix,5.091,1.897,33
+chain,4.686,2.302,35
+chair,5.515,1.743,33
+chair (head),4.9,2.135,30
+chair (seat),5.606,1.476,33
+chalice,5.786,1.589,28
+chalk,5.0,1.173,32
+chameleon,5.767,1.687,30
+champion,7.121,1.737,33
+chance,4.242,1.939,33
+chandelier,5.094,1.355,32
+change,5.2,2.162,35
+change (coins),5.265,1.481,34
+change (transform),6.2,1.737,35
+chaos,3.939,2.173,33
+chaotic,4.091,2.539,33
+chapel,4.235,1.986,34
+charge,6.281,2.168,32
+charge (card),5.031,1.571,32
+charge (dependent),4.625,2.497,32
+charge (electric),4.875,1.833,32
+charge (price),4.182,2.052,33
+charge (rush),6.367,2.041,30
+charity,5.4,1.96,35
+charlatan,4.656,2.086,32
+charm,6.118,2.125,34
+charm (lucky),5.147,2.144,34
+charm (social allure),6.235,2.143,34
+charming,6.147,1.574,34
+chasm,4.778,1.663,27
+chauffeur,5.559,2.379,34
+cheap,4.727,1.989,33
+check,4.938,1.499,32
+cheek,5.161,0.766,31
+cheer,6.514,1.442,35
+cheer (happiness),7.029,1.699,35
+cheer (support),6.818,1.486,33
+cheerful,6.8,1.238,35
+cheers,6.177,1.543,34
+cheese,5.167,1.241,30
+cheetah,4.882,1.623,34
+chef,5.667,1.853,33
+chemist,4.912,2.077,34
+chemistry,5.455,1.794,33
+chemistry (rapport),5.606,1.89,33
+chemistry (science),5.177,1.671,34
+cheque,5.594,1.818,32
+cherry,5.03,1.167,33
+chess,5.529,1.595,34
+chest,5.344,1.779,32
+chest (cabinet),5.371,1.244,35
+chest (torso),5.971,1.562,34
+chestnut,5.4,1.269,35
+chew,6.059,1.662,34
+chewy,4.567,0.989,30
+chief,5.914,2.872,35
+chihuahua,5.581,1.7,31
+child,3.677,2.116,31
+children,4.567,2.044,30
+chime,5.429,1.379,35
+chimpanzee,5.313,1.609,32
+chin,5.344,1.29,32
+chip,5.094,1.071,32
+chipmunk,5.242,1.558,33
+chips,5.533,1.147,30
+chisel,5.129,1.68,31
+chocolate,5.471,1.702,34
+choir,5.0,1.231,33
+choke,3.25,2.062,32
+choked,3.303,2.456,33
+choose,7.235,2.059,34
+choral,5.414,1.13,29
+chord,5.697,1.359,33
+chose,6.441,1.752,34
+Christmas,5.6,1.96,35
+chubby,3.943,1.941,35
+chunk,4.886,1.166,35
+church,3.125,1.867,32
+chute,5.219,1.138,32
+cigar,5.807,1.674,31
+cigarette,3.968,2.024,31
+cinema,5.229,1.311,35
+circle,4.967,1.538,30
+circuit,4.677,1.585,34
+circular,5.0,1.231,33
+circulate,5.273,1.162,33
+circulation,5.229,2.058,35
+circumstances,3.424,1.498,33
+circus,4.758,1.478,33
+citation,5.03,1.193,33
+cite,5.063,1.749,32
+city,4.936,2.169,31
+civilian,3.515,1.54,33
+civilization,5.171,2.408,35
+civilized,5.303,2.329,33
+clam,5.371,1.623,35
+clan,5.03,1.732,33
+clarinet,5.758,1.256,33
+class,4.412,1.611,34
+class (school),4.029,2.294,34
+class (status),4.121,2.129,33
+classical,5.059,1.589,34
+classify,5.091,1.781,33
+clause,4.515,1.69,33
+claw,4.742,1.813,31
+claws,4.844,2.002,32
+claymore,5.044,1.628,23
+clean,6.088,2.063,34
+cleaner,4.818,2.022,33
+cleaner (maid),4.853,2.002,34
+cleaner (more clean),5.394,2.269,33
+clear,6.25,1.837,32
+clergy,3.969,1.811,32
+clever,6.824,1.774,34
+click,6.029,1.63,35
+client,5.156,1.873,32
+cliff,4.571,1.626,35
+climate,4.097,2.131,31
+climax,6.576,1.985,33
+climb,6.314,1.563,35
+climber,5.588,1.768,34
+cling,3.941,1.494,34
+clingy,3.765,2.276,34
+cloak,5.706,1.525,34
+clock,4.188,2.186,32
+clone,3.414,1.451,29
+close,4.581,1.582,31
+close (near),5.063,1.456,32
+close (stairwell),4.939,1.496,33
+closure,5.313,2.242,32
+cloth,5.091,1.055,33
+clothes,5.529,1.538,34
+clothing,5.882,1.586,34
+cloud,4.563,1.676,32
+cloud (sky),5.061,1.669,33
+cloud (spoil),3.818,1.359,33
+cloudy,4.094,1.774,32
+clove,4.882,0.932,34
+clover,5.457,1.662,35
+clown,4.754,1.55,65
+club,5.235,1.864,34
+club (card suit),5.303,1.243,33
+club (disco),5.576,1.688,33
+club (hit),4.933,2.159,30
+club (organisation),5.177,1.74,34
+club (tool),5.375,1.763,32
+clue,5.156,2.108,32
+clueless,3.576,1.67,33
+clumsy,4.265,2.077,34
+cluster,4.781,1.34,32
+clutch,5.286,1.876,35
+clutch (bag),5.0,1.454,35
+clutch (car),5.765,1.699,34
+clutch (grab),4.914,2.407,35
+clutter,4.121,1.552,33
+coach,5.771,1.868,35
+coach (bus),4.182,1.381,33
+coach (trainer),4.688,2.128,32
+coarse,4.75,1.984,32
+coast,5.385,1.605,65
+coast (beach),5.424,1.907,33
+coast (glide),5.242,1.349,33
+coaster,4.594,1.296,32
+coat,5.844,1.523,32
+coat (cover),5.629,1.098,35
+coat (jacket),5.656,1.688,32
+cobble,4.853,1.088,34
+cock,5.984,1.858,64
+cock (bird),5.324,1.47,34
+cock (dick),5.636,1.611,33
+cock (tilt),5.286,1.86,35
+cockerel,5.767,1.521,30
+cockney,5.063,0.864,32
+cockroach,4.188,1.776,32
+cocktail,5.571,1.695,35
+cod,4.879,1.493,33
+code,5.147,1.478,34
+coerce,3.966,2.371,29
+coffee,5.8,1.6,35
+coffin,3.212,1.919,33
+coin,5.303,1.85,33
+coke,4.941,1.714,34
+coke (coal),5.29,1.419,31
+coke (cocaine),4.088,2.049,34
+coke (cola),5.152,1.861,33
+cola,5.121,1.472,33
+cold,3.588,1.751,34
+cold (illness),2.771,1.495,35
+cold (temperature),4.485,2.062,33
+collage,5.114,1.237,35
+collar,4.741,1.554,27
+collate,5.276,1.506,29
+collect,5.485,1.635,33
+college,5.118,1.997,34
+colonel,5.424,2.629,33
+colony,5.303,1.883,33
+colour,6.029,1.871,34
+column,5.656,1.613,32
+comb,5.618,1.284,34
+combat,5.515,2.148,33
+combatant,5.71,2.399,31
+combustion,4.824,2.05,34
+comedian,5.735,1.4,34
+comedy,5.594,1.538,32
+comet,4.743,2.156,35
+comfort,5.118,2.097,34
+comfortable,6.0,2.283,33
+comma,4.688,1.685,32
+command,6.063,2.893,32
+commander,5.486,2.842,35
+commanding,6.333,2.727,33
+comment,5.879,1.552,33
+committee,4.546,2.119,33
+common,4.355,1.206,31
+communication,6.029,1.647,35
+compare,5.5,1.225,32
+comparison,5.424,1.706,33
+compass,5.441,2.117,34
+compete,6.212,2.185,33
+competence,6.788,1.719,33
+competent,7.0,1.67,33
+competition,6.114,1.72,35
+complement,5.171,2.021,35
+complete,6.857,1.869,35
+complex,4.758,1.892,33
+complex (behaviour),5.324,1.89,34
+complex (buildings),5.324,1.47,34
+complex (difficult),4.457,2.322,35
+complicated,4.029,1.978,35
+compliment,6.943,1.706,35
+compose,6.0,1.837,32
+composer,5.529,1.851,34
+compute,5.5,1.786,34
+computer,5.938,1.836,32
+comrade,6.125,1.867,32
+conceal,3.969,1.723,32
+concealed,3.936,1.74,31
+concentrate,6.118,1.827,34
+concept,5.886,1.785,35
+conceptual,5.75,1.527,28
+concert,6.182,1.914,33
+conclude,5.382,1.415,34
+conclusion,6.059,2.014,34
+concoct,5.517,1.653,29
+concoction,5.529,1.557,34
+concrete,5.576,1.939,33
+condemn,4.576,2.283,33
+condescend,3.968,2.177,31
+condescending,3.273,2.273,33
+conductor,4.853,2.158,34
+confer,5.455,1.104,33
+conference,5.455,2.046,33
+confess,4.606,2.449,33
+confetti,5.656,1.079,32
+confide,5.543,2.061,35
+confidence,7.5,1.48,34
+confident,7.516,1.794,31
+confirm,5.882,2.097,34
+confirmation,5.886,1.703,35
+conform,2.943,2.083,35
+conformity,2.457,1.918,35
+confuse,3.97,1.605,33
+confused,3.219,1.515,32
+confusion,3.486,1.826,35
+connect,5.576,1.538,33
+connection,5.727,1.309,33
+connoisseur,6.31,2.053,29
+conquer,7.364,2.281,33
+conqueror,6.686,2.702,35
+conquest,7.152,1.844,33
+consent,6.364,2.422,33
+console,4.677,1.89,34
+consonant,5.333,1.271,33
+construction,5.5,1.714,32
+consult,4.943,1.999,35
+contain,4.548,1.411,31
+container,4.677,1.843,34
+contempt,5.286,1.95,35
+contend,5.323,1.749,31
+contender,6.364,1.872,33
+content,4.882,1.659,34
+content (contents),5.294,1.446,34
+content (happy),7.267,1.459,30
+contents,5.257,1.317,35
+context,4.833,1.267,30
+continent,5.088,1.483,34
+continental,4.967,0.795,30
+contract,4.5,2.428,34
+contract (agreement),4.735,2.524,34
+contract (catch),3.618,2.029,34
+contribute,6.706,1.637,34
+contribution,6.559,1.538,34
+convene,5.167,1.416,30
+convener,5.32,1.714,25
+convent,3.097,1.614,31
+convention,3.871,2.012,31
+convert,4.727,1.989,33
+convict,4.343,2.216,35
+conviction,4.588,2.625,34
+convoy,5.0,1.609,34
+cook,5.606,1.999,33
+cooker,5.286,1.426,35
+cool,5.177,1.823,34
+cool (popular),6.375,1.965,32
+cool (temperature),4.333,1.837,33
+cooperate,5.059,1.909,34
+copy,4.156,1.349,32
+coral,5.344,0.922,32
+cord,4.844,1.372,32
+core,5.677,1.614,31
+cork,5.414,1.035,29
+corn,5.177,0.663,34
+corn (foot),3.788,1.365,33
+corn (maize),5.4,1.292,35
+corner,4.594,1.32,32
+corner (edge),5.294,1.741,34
+corner (surround),4.177,1.917,34
+cornered,2.29,1.954,31
+cornflour,4.903,1.279,31
+corporation,3.886,2.594,35
+corpse,3.516,1.864,31
+corridor,4.97,1.058,33
+corrupt,4.059,2.287,34
+cortex,5.3,1.847,30
+cost,3.807,1.731,31
+costly,3.429,1.609,35
+costume,5.849,1.559,33
+cosy,5.912,2.406,34
+cottage,5.029,1.599,34
+cotton,4.647,1.453,34
+couch,5.344,1.428,64
+couch (express),5.167,1.067,30
+couch (sofa),5.147,1.417,34
+cough,4.457,1.887,35
+councillor,3.086,1.628,35
+counsellor,4.242,2.425,33
+count,5.629,1.436,35
+count (numbers),5.735,1.975,34
+count (title),5.242,1.859,33
+counter,5.438,1.171,32
+counter (keeping account),5.059,1.909,34
+counter (oppose),5.906,1.877,32
+counter (worktop),5.088,1.245,34
+country,5.75,1.969,32
+county,4.818,1.403,33
+coup,4.852,1.715,27
+couple,5.424,1.498,33
+couple (a few),5.229,1.244,35
+couple (romantic pair),5.471,1.835,34
+courage,7.758,1.303,33
+courageous,7.057,1.62,35
+course,4.647,1.877,34
+course (class),4.485,2.091,33
+course (path),5.853,2.06,34
+court,3.484,1.776,31
+court (law),3.688,2.324,32
+court (sport),5.636,1.856,33
+court (woo),5.448,1.61,29
+courtship,5.543,1.537,35
+courtyard,4.939,1.205,33
+cover,4.938,1.802,32
+covert,5.344,2.025,32
+cow,5.029,1.543,34
+coward,3.364,1.888,33
+cowardice,3.118,2.311,34
+cowardly,2.844,1.583,32
+cowboy,5.735,1.441,34
+cowboy (reckless),5.75,2.151,32
+cowboy (wild west),5.912,1.821,34
+crab,4.771,1.396,35
+crab (cranky person),4.618,2.015,34
+crab (shellfish),5.485,1.417,33
+cradle,4.029,1.92,35
+craft,5.455,1.924,33
+craft (skill),6.152,1.54,33
+craft (vessel),5.212,1.409,33
+crag,4.591,1.467,22
+cranium,5.633,1.354,30
+crank,5.235,1.716,34
+crank (grouch),5.065,1.759,31
+crank (winch),5.167,1.241,30
+crap,4.618,1.831,34
+crash,3.719,1.972,32
+crater,4.697,1.547,33
+crawl,4.303,1.8,33
+crayon,5.657,1.788,35
+crazy,4.879,2.071,33
+cream,5.219,1.243,32
+create,6.818,1.833,33
+creator,5.714,3.122,35
+creature,5.267,1.315,30
+credit,5.088,1.869,34
+credit (money),5.485,2.231,33
+credit (praise),6.059,1.765,34
+creek,4.903,0.928,31
+creep,4.206,1.982,34
+crest,5.375,0.893,32
+crevice,3.933,1.825,30
+cricket,4.618,1.476,34
+cricket (insect),5.118,1.795,34
+cricket (sport),5.0,1.414,33
+crime,4.059,2.425,34
+criminal,4.314,2.162,35
+crisis,2.829,1.844,35
+crisp,5.343,1.567,35
+crisp (chip),5.394,1.301,33
+crisp (sharp),6.114,1.368,35
+critic,4.909,2.466,33
+criticism,3.156,1.822,32
+criticize,4.882,2.423,34
+crocodile,4.5,2.33,34
+crook,4.219,2.088,32
+crook (criminal),3.941,1.846,34
+crook (stick),5.0,1.299,32
+crop,5.182,1.217,33
+crops,5.032,1.909,31
+cross,5.229,1.658,35
+cross (an object),4.849,1.52,33
+cross (annoyed),5.543,1.991,35
+cross (offend),4.546,2.046,33
+cross (pass),5.559,1.439,34
+crossbow,5.382,1.925,34
+crossed,4.794,1.711,34
+crow,5.29,1.507,31
+crowd,4.177,2.149,34
+crown,5.807,2.191,31
+crucifix,3.188,1.845,32
+crucify,3.697,2.418,33
+crude,5.0,1.323,32
+cruel,4.971,2.467,35
+cruise,5.29,1.669,31
+crumb,5.0,1.768,32
+crumble,4.0,1.775,33
+crunch,5.563,1.144,32
+crunchy,5.382,1.058,34
+crush,4.941,2.196,34
+crushed,3.576,2.336,33
+crust,4.853,1.033,34
+crutch,3.171,1.464,35
+cry,3.576,1.907,33
+cry (shout),4.857,2.03,35
+cry (weep),4.257,2.116,35
+crying,2.912,1.483,34
+crystal,5.829,1.159,35
+cube,4.781,1.576,32
+cuddle,4.886,2.447,35
+cues,4.667,1.735,33
+cues (prompts),4.118,1.367,34
+cues (snooker),5.424,1.393,33
+cuisine,5.6,1.776,35
+cultural,4.697,1.605,33
+culture,4.903,2.085,31
+cunning,5.939,2.322,33
+cunt,5.063,1.936,32
+cup,5.147,0.944,34
+curb,4.697,1.359,33
+cure,6.0,1.561,32
+curious,6.065,1.848,31
+currant,5.171,1.699,35
+currency,3.844,1.97,32
+current,5.375,1.293,32
+curry,5.242,1.558,33
+curse,3.531,2.385,32
+curtain,4.893,1.08,28
+cushion,4.824,1.543,34
+custom,5.303,2.181,33
+cut,4.5,1.82,32
+cut (clip),5.229,1.551,35
+cut (of meat),5.576,1.436,33
+cut (share),4.576,1.478,33
+cut (wound),4.226,1.453,31
+cute,5.029,1.63,35
+cycle,5.455,1.519,33
+cyclone,4.061,2.282,33
+cymbals,5.406,1.966,32
+cynical,5.118,2.04,34
+Dad,4.618,2.462,34
+daffodil,5.091,1.798,33
+dagger,4.853,2.51,34
+daisy,4.735,1.379,34
+damage,4.441,1.882,34
+damaged,3.6,2.017,35
+Dame,5.469,1.968,32
+damp,4.486,1.105,35
+damsel,3.743,2.047,35
+dance,5.909,1.848,33
+dancer,6.235,1.88,34
+dancing,6.147,2.185,34
+dandruff,3.758,1.615,33
+danger,3.212,2.114,33
+dangerous,4.563,2.669,32
+dangle,4.406,1.578,32
+dapper,5.871,1.896,31
+dare,5.594,2.075,32
+dark,4.5,1.944,34
+darkness,3.088,1.704,34
+darling,5.147,2.031,34
+data,4.697,1.749,33
+date,5.152,1.909,33
+date (calendar),4.941,1.608,34
+date (fruit),5.471,1.613,34
+date (romantic),5.774,1.773,31
+daughter,4.914,1.73,35
+dawn,5.656,1.29,32
+daybreak,4.968,1.943,31
+daylight,5.606,1.89,33
+daze,4.235,1.816,34
+dazzle,5.774,1.288,31
+dead,2.588,2.031,34
+deaf,2.625,1.536,32
+deal,5.971,1.917,34
+deal (bargain),5.912,1.772,34
+deal (playing cards),5.939,2.399,33
+deal (with),5.909,2.065,33
+dear,5.2,1.546,35
+death,3.853,2.669,34
+debacle,3.875,1.092,24
+debt,2.657,2.164,35
+debtor,3.781,2.027,32
+decadent,6.161,1.953,31
+decay,4.143,1.869,35
+deceit,3.813,2.351,32
+deceive,3.971,2.007,34
+decent,5.875,1.364,32
+deception,4.143,2.789,35
+deck,5.2,1.238,35
+deck (cards),5.5,1.146,32
+deck (ship),5.156,1.563,32
+declare,6.294,1.963,34
+decompose,3.849,1.351,33
+decorate,6.171,1.812,35
+decoration,5.25,1.479,32
+decorator,5.118,1.301,34
+decree,5.147,1.611,34
+deduct,4.807,1.424,31
+deduction,6.063,2.03,32
+deed,5.188,1.424,32
+deep,4.588,2.031,34
+deer,5.156,1.439,32
+defame,4.133,1.477,30
+defeat,3.333,2.408,33
+defiant,6.875,1.916,32
+define,5.7,1.038,30
+definition,4.636,1.275,33
+deformed,2.906,1.684,32
+defy,6.688,2.493,32
+dejected,3.71,2.098,31
+delay,3.485,1.438,33
+delicious,5.824,1.271,34
+delight,5.824,1.79,34
+delighted,6.441,1.701,34
+delightful,6.6,1.571,35
+delirium,3.152,2.091,33
+delude,4.031,2.069,32
+deluded,4.171,1.964,35
+deluge,4.393,1.676,28
+democracy,5.219,2.176,32
+democratic,5.455,2.548,33
+demolish,5.2,2.723,35
+demon,4.219,2.595,32
+dense,4.419,1.661,31
+dentist,3.971,1.706,34
+depress,3.406,1.818,32
+depressed,2.546,1.844,33
+depression,2.206,1.605,34
+derelict,4.424,1.724,33
+descend,4.313,1.509,32
+descent,4.594,1.998,32
+describe,5.875,1.166,32
+description,5.546,1.827,33
+desert,4.258,2.228,31
+deserve,6.114,1.282,35
+deserving,6.0,1.888,32
+design,5.853,1.833,34
+designer,5.625,2.342,32
+desirable,6.387,1.659,31
+desire,5.879,2.332,33
+desk,4.807,1.674,31
+desks,4.6,1.332,30
+desolate,3.735,1.82,34
+despair,2.424,1.181,33
+desperate,3.424,2.582,33
+desperation,2.853,1.957,34
+despise,5.129,2.211,31
+dessert,5.242,1.875,33
+destination,5.941,1.552,34
+destiny,4.382,2.485,34
+destroy,6.059,2.485,34
+destroyer,4.657,2.868,35
+destruction,5.147,2.735,34
+detach,5.333,1.735,33
+detached,4.829,1.699,35
+detail,5.618,1.515,34
+detailed,5.294,1.807,34
+determination,7.5,1.595,34
+determine,6.879,1.629,33
+determined,7.692,1.413,65
+detest,5.152,2.245,33
+detonate,5.774,2.324,31
+detonation,4.625,2.329,32
+develop,6.406,1.578,32
+development,5.909,1.422,33
+deviant,5.471,1.989,34
+deviation,4.844,1.77,32
+device,5.486,1.296,35
+devil,4.182,2.54,33
+devise,5.594,1.578,32
+devote,4.765,2.498,34
+devoted,6.177,1.917,34
+devotion,4.829,2.873,35
+diabetes,3.219,1.833,32
+diamond,5.75,1.854,32
+diamonds,6.0,1.493,35
+dice,4.069,1.701,29
+dictionary,5.303,1.93,33
+die,2.939,2.473,33
+died,2.967,2.089,30
+diffusion,4.206,1.491,34
+digest,5.059,1.814,34
+digestion,4.441,1.684,34
+digit,5.382,1.164,34
+digit (finger),5.086,1.556,35
+digit (number),5.382,1.456,34
+digital,5.286,1.523,35
+digits,4.882,1.231,34
+digits (fingers),5.829,1.298,35
+digits (numbers),5.114,1.41,35
+dignified,7.0,2.188,33
+dignity,6.971,1.483,35
+dildo,5.455,2.271,33
+dim,4.333,1.589,33
+dinner,5.849,1.351,33
+dinosaur,5.412,2.06,34
+diploma,6.563,1.999,32
+diplomat,5.344,1.864,32
+dire,4.212,1.665,33
+direct,6.758,1.843,33
+direction,5.781,1.653,32
+dirt,4.829,1.483,35
+dirty,4.265,1.559,34
+disappoint,3.6,1.553,35
+disappointed,3.485,1.559,33
+disaster,2.727,2.233,33
+disband,4.313,1.356,32
+disciple,3.559,2.291,34
+discipline,4.129,2.587,31
+disclose,4.871,1.54,31
+disclosure,4.941,1.644,34
+disco,5.774,1.539,31
+discomfort,2.909,1.288,33
+disconnect,4.25,1.969,32
+discourage,4.059,2.086,34
+discover,6.839,1.568,31
+discovery,6.559,1.459,34
+discrete,5.121,1.472,33
+discretion,5.182,2.194,33
+disdain,4.667,1.814,30
+disease,3.177,2.332,34
+diseased,3.353,2.519,34
+disfigured,2.97,1.193,33
+disgust,4.853,2.088,34
+disgusted,5.486,2.034,35
+disgusting,4.057,1.413,35
+dish,5.375,0.96,32
+disloyal,3.429,1.932,35
+dismiss,4.344,2.393,32
+disparity,3.667,1.886,30
+displeased,4.543,2.156,35
+dispose,4.824,1.902,34
+disposition,4.529,1.44,34
+dissent,5.161,2.034,31
+dissident,4.846,2.161,26
+distant,3.774,1.496,31
+distinction,6.219,1.745,32
+distinguish,6.0,1.073,33
+distract,4.257,1.73,35
+distraction,3.455,1.157,33
+distress,2.914,1.763,35
+distressed,3.182,1.566,33
+disturb,4.563,2.29,32
+disturbed,3.412,1.784,34
+ditch,4.455,1.578,33
+dive,5.829,1.874,35
+diver,5.433,1.499,30
+diverse,5.286,1.426,35
+divert,4.387,1.58,31
+divination,4.577,1.864,26
+divine,5.419,2.6,31
+divorce,4.344,2.025,32
+dizzy,3.531,1.479,32
+docile,3.621,1.827,29
+dock,4.824,0.746,34
+dock (deduct),3.656,1.881,32
+dock (ship),4.636,1.251,33
+doctor,4.353,1.984,34
+doctrine,4.367,2.652,30
+document,5.588,1.263,34
+dodgy,4.121,1.701,33
+dog,6.242,1.793,33
+dogma,2.815,1.541,27
+dole,3.517,1.754,29
+doll,4.618,1.715,34
+dollar,5.057,1.999,35
+dolls,5.686,1.508,35
+dolphin,5.194,1.09,31
+dome,4.807,1.49,31
+dominate,8.371,1.416,35
+donkey,5.343,1.689,35
+doom,2.75,1.871,32
+doomed,2.594,1.918,32
+door,5.156,1.121,32
+doorman,4.529,2.278,34
+dope,4.613,1.559,31
+dope (drugs),3.618,2.115,34
+dope (idiot),4.324,1.827,34
+dopey,4.394,1.969,33
+dose,4.182,1.833,33
+doubt,3.382,1.515,34
+dough,5.382,1.534,34
+dough (baking),5.735,1.804,34
+dough (money),5.177,2.268,34
+dove,5.147,1.396,34
+dove (bird),5.824,1.617,34
+dove (dive),5.625,1.556,32
+down,4.5,1.649,34
+down (direction),3.936,1.413,31
+down (fur),4.909,1.334,33
+down (sad),3.129,1.314,31
+drab,3.938,1.321,32
+draft,4.765,1.554,34
+draft (breeze),4.424,1.985,33
+draft (first version),5.618,1.663,34
+drag,3.941,1.97,34
+dragon,5.867,2.432,30
+drama,4.677,1.744,34
+draught,4.276,1.436,29
+draw,6.257,1.317,35
+draw (artistic),6.029,2.007,35
+draw (attract),5.971,2.077,35
+draw (choose),5.235,2.184,34
+draw (tie),5.333,1.664,33
+drawers,5.114,1.036,35
+drawing,5.265,2.077,34
+dread,3.0,1.39,29
+dream,5.125,2.509,32
+dreams,4.882,1.891,34
+dreary,3.781,1.515,32
+dress,5.879,2.071,33
+dress (formal),5.625,1.916,32
+dress (put on clothes),6.813,1.446,32
+dress (skirt),5.2,1.283,35
+dressed,5.879,1.95,33
+dresser,4.743,1.155,35
+drift,4.706,1.824,34
+drifter,4.576,1.478,33
+drifting,4.03,1.8,33
+drill,5.719,1.956,32
+drill (practice),3.714,1.814,35
+drill (tool),6.343,2.203,35
+drive,6.094,2.323,32
+drive (car),6.514,2.048,35
+drive (motivation),7.303,1.642,33
+drop,4.515,1.94,33
+drop (fall),3.967,1.169,30
+drop (rain),5.03,1.899,33
+dropped,3.618,1.456,34
+drought,3.242,2.132,33
+drown,2.735,1.945,34
+drug,5.314,2.447,35
+drugged,3.088,2.241,34
+drum,6.167,1.368,30
+drummer,6.029,1.502,35
+drums,6.367,1.449,30
+drunk,4.286,2.337,35
+dubious,3.906,1.308,32
+duck,5.086,1.105,35
+duck (bird),5.031,1.571,32
+duck (cricket),5.148,1.325,27
+duck (crouch),4.636,1.997,33
+duet,5.273,1.052,33
+duke,5.25,2.236,32
+dull,4.206,1.875,34
+dumb,3.182,1.424,33
+dummy,4.606,1.669,33
+dummy (idiot),3.938,1.936,32
+dummy (mannequin),4.636,2.027,33
+dummy (nipple),4.343,1.492,35
+dump,4.333,1.787,33
+dune,5.121,1.365,33
+dung,4.486,1.339,35
+dungeon,2.807,1.891,31
+durable,6.576,1.724,33
+dusk,4.765,1.285,34
+dust,4.686,1.982,35
+dustbin,5.194,1.574,31
+duster,5.324,1.604,34
+dustpan,4.75,1.323,32
+dusty,4.438,1.273,32
+duty,4.485,2.363,33
+duvet,5.5,1.432,30
+dwarf,4.452,1.24,31
+dwell,4.323,1.673,31
+dye,5.29,1.3,31
+dying,2.424,1.518,33
+dynamite,5.125,2.288,32
+dynasty,4.667,2.445,33
+eager,6.647,1.348,34
+eagle,5.529,2.428,34
+ear,5.118,1.231,34
+earn,6.265,2.174,34
+earphones,5.588,1.375,34
+earth,4.706,1.791,34
+earthquake,4.029,2.741,35
+ease,6.143,1.838,35
+easy,6.371,2.044,35
+easygoing,5.667,2.07,33
+eat,5.667,1.7,33
+eatery,4.968,1.448,31
+eccentric,6.516,1.663,31
+economic,3.3,1.865,30
+economy,3.156,1.986,32
+ecstasy,5.382,1.941,34
+ecstatic,7.0,1.782,34
+edge,5.177,1.855,34
+edifice,5.056,1.353,18
+edit,5.941,1.349,34
+edition,5.226,0.906,31
+editor,5.849,1.94,33
+educate,5.912,2.228,34
+education,5.636,2.24,33
+eel,4.882,1.43,34
+eerie,3.818,1.546,33
+efficient,6.882,1.491,34
+effort,5.353,2.042,34
+egg,5.441,1.769,34
+ego,6.516,2.046,31
+elaborate,6.088,1.269,34
+elated,6.188,1.629,32
+elation,6.387,1.538,31
+elbow,5.484,1.103,31
+elder,5.281,1.841,32
+eldest,6.355,2.193,31
+electric,5.647,1.73,34
+electrician,4.807,1.176,31
+electricity,5.686,1.785,35
+electronic,5.971,1.505,34
+elegant,6.343,1.788,35
+elephant,5.364,1.592,66
+elevator,4.406,1.982,32
+elf,5.061,1.455,33
+elite,6.6,2.577,35
+elitist,5.152,2.883,33
+elk,4.897,1.062,29
+elm,5.061,1.324,33
+elude,5.469,1.984,32
+emancipation,5.483,2.527,29
+embarrass,2.758,1.577,33
+embarrassment,2.882,1.728,34
+embezzle,5.103,2.139,29
+embrace,5.824,2.007,34
+emerald,5.313,1.31,32
+emergency,3.424,2.161,33
+emotion,4.813,2.171,32
+emotional,4.156,2.195,32
+empathy,6.147,1.751,34
+emphasis,6.091,1.545,33
+emphasize,6.219,1.709,32
+empire,5.743,2.951,35
+employ,4.706,2.163,34
+employee,3.706,1.933,34
+employer,3.294,2.492,34
+employment,4.529,2.464,34
+emporium,5.576,1.415,33
+empty,3.438,1.784,32
+enact,5.686,2.214,35
+encore,6.241,1.654,29
+encyclopedia,5.121,1.365,33
+end,4.061,2.173,33
+ending,4.364,2.129,33
+endless,3.839,1.706,31
+endure,4.765,2.289,34
+engage,5.706,1.506,34
+engaged,5.576,2.001,33
+engagement,5.25,1.768,32
+engaging,6.177,1.599,34
+engine,5.882,2.139,34
+engineer,5.677,1.567,34
+enhance,5.914,1.645,35
+enjoy,6.059,1.552,34
+enjoyment,6.882,1.623,34
+enquire,5.429,1.777,35
+enquiry,5.091,1.764,33
+enraged,5.686,2.364,35
+ensure,6.029,1.859,35
+entail,5.233,1.055,30
+enter,6.364,1.554,33
+enterprise,6.457,1.627,35
+enthral,5.852,1.995,27
+enthusiasm,7.094,1.588,32
+enthusiastic,6.938,1.853,32
+entitle,6.194,1.712,31
+entrepreneur,6.424,2.045,66
+entry,5.697,1.586,33
+envelope,4.886,1.652,35
+epidemic,2.765,1.496,34
+episode,4.788,1.297,33
+episodic,4.724,1.855,29
+equal,5.743,1.499,35
+equality,5.844,2.252,32
+equipment,5.714,1.891,35
+erase,4.968,2.163,31
+erode,4.265,1.852,34
+eroded,3.625,1.556,32
+erotic,6.273,1.675,33
+errand,5.194,1.255,31
+error,3.548,1.542,31
+eruption,4.265,2.465,34
+escape,5.735,2.393,34
+escaped,5.606,2.309,33
+escapee,5.212,2.306,33
+escort,4.265,1.836,34
+essence,5.758,1.498,33
+estate,5.086,1.811,35
+estimate,5.063,1.321,32
+ethnic,4.781,1.293,32
+euphoria,6.636,2.101,33
+evaluate,5.857,1.641,35
+evangelist,4.367,1.703,30
+even,5.171,1.298,35
+even (odd),5.629,1.774,35
+even (still),5.333,1.385,33
+evening,5.486,1.228,35
+event,5.382,1.741,68
+ever,4.727,1.797,33
+every,5.364,1.473,33
+everything,5.813,2.083,32
+evidence,5.188,1.609,32
+evil,3.8,2.671,35
+evoke,5.484,1.624,31
+exact,5.824,1.823,34
+exam,4.212,2.556,33
+examination,4.091,2.391,33
+excel,6.382,2.058,34
+excellence,6.6,2.141,35
+excellent,6.781,1.866,32
+excited,6.886,1.26,35
+excitement,6.294,1.871,34
+exciting,6.441,1.718,34
+exclaim,6.379,1.4,29
+exclude,4.161,2.424,31
+exclusion,3.6,2.114,35
+excrement,4.333,1.491,33
+excuse,5.25,2.151,32
+execute,4.912,2.884,34
+execute (accomplish),6.706,2.468,34
+execute (kill),3.97,2.855,33
+execution,3.177,2.526,34
+executioner,4.514,3.12,35
+exercise,6.824,2.007,34
+exert,6.457,2.156,35
+exertion,5.484,2.077,31
+exhaust,4.455,1.94,33
+exhausted,3.543,1.826,35
+exhaustion,3.091,1.897,33
+exhibit,4.844,1.349,32
+exist,5.794,2.435,34
+existence,5.758,2.27,33
+expand,5.97,1.623,33
+expanse,5.452,1.738,31
+expedition,6.781,1.615,32
+expel,4.5,1.945,30
+expensive,4.706,2.051,34
+experiment,5.0,2.288,34
+expert,7.032,2.008,31
+explain,6.257,1.794,35
+exploration,6.788,1.719,33
+explore,7.375,1.083,32
+explorer,6.457,1.918,35
+export,5.235,1.646,34
+express,6.647,1.78,34
+expression,6.161,1.648,31
+exquisite,6.0,1.707,35
+exterminate,5.5,2.84,32
+extravagant,6.324,1.951,34
+extreme,5.452,2.153,31
+eye,6.057,1.585,35
+eyebrows,5.088,1.147,34
+eyelashes,5.606,1.984,33
+eyes,5.824,1.992,34
+fabric,4.971,1.404,34
+fabricate,5.063,1.391,32
+fabrication,4.273,1.562,33
+fabulous,6.294,1.654,34
+face,5.394,1.434,33
+Facebook,4.486,2.156,35
+facility,4.571,1.609,35
+fact,6.303,2.052,33
+faction,5.133,1.979,30
+factory,4.091,1.929,33
+fade,4.212,1.365,33
+faded,3.613,1.384,31
+faeces,4.5,1.17,34
+fail,3.094,1.942,32
+failure,3.417,2.385,36
+faint,3.234,1.618,64
+faint (colllapse),3.121,1.365,33
+faint (weak),2.424,1.415,33
+fair,6.063,1.478,32
+fair (exhibition),5.235,1.554,34
+fair (honest),6.235,1.535,34
+fair (light),5.257,1.592,35
+fair (weather),5.059,1.765,34
+fairy,5.033,1.718,61
+faith,4.618,2.567,34
+faithful,5.743,2.832,35
+fake,4.5,2.179,32
+falcon,5.971,1.618,34
+fall,3.097,1.653,31
+fall (drop),3.75,1.581,32
+fall (season),4.742,1.163,31
+fallacy,4.7,1.595,30
+FALSE,4.206,1.623,34
+falter,3.613,1.384,31
+fame,5.125,2.713,32
+family,4.484,1.812,31
+famous,6.0,2.283,33
+fanciful,5.424,1.826,33
+fans,5.118,2.125,34
+fans (air),5.125,0.992,32
+fans (sports),5.333,1.627,33
+fantastic,6.235,1.496,34
+fantasy,6.657,2.124,35
+fare,4.235,1.285,34
+fare (charge),3.667,1.77,33
+fare (food),5.0,1.259,29
+farewell,4.324,1.604,34
+farm,5.212,1.122,33
+farmer,5.818,1.546,33
+fart,5.735,1.771,34
+fascinating,5.667,2.01,33
+fashion,5.485,2.032,33
+fast,6.382,1.831,34
+fast (quick),6.156,1.734,32
+fast (starve),4.485,2.204,33
+fat,4.265,2.174,34
+fatal,3.314,2.265,35
+fate,3.559,2.291,34
+father,4.636,2.544,33
+father (dad),4.941,2.222,34
+father (priest),3.5,2.145,34
+fatigue,2.8,1.621,30
+fault,4.324,1.859,34
+favour,5.5,1.904,32
+fear,2.824,2.05,34
+fearful,2.194,1.06,31
+feat,5.7,1.441,30
+feature,5.029,0.954,34
+feeble,2.774,2.011,31
+feet,5.567,1.478,67
+feet (body),5.765,2.045,34
+feet (length),4.882,1.43,34
+feline,4.938,1.919,32
+fence,4.774,1.896,31
+ferret,5.258,1.48,31
+ferry,4.912,1.337,34
+festival,6.059,1.552,34
+festive,5.771,1.64,35
+feudal,3.688,1.96,32
+feudalism,3.68,2.275,25
+fever,3.242,1.652,33
+few,4.143,1.533,35
+fiber,4.807,1.533,31
+fibre,4.909,1.621,33
+fiction,4.758,1.28,33
+fictitious,4.179,1.983,28
+fiddle,5.029,1.636,34
+fiddle (adjust),5.156,1.839,32
+fiddle (violin),5.094,1.487,32
+fiddler,5.03,1.337,33
+field,5.125,1.536,32
+fierce,7.086,1.763,35
+fight,6.258,1.883,31
+fighter,5.941,2.196,34
+fighting,5.514,2.26,35
+figment,4.903,1.729,31
+figure,5.333,2.113,33
+figure (body shape),4.618,2.029,34
+figure (graph),4.412,1.784,34
+figure (number),5.0,1.481,31
+figure (reckon),5.6,1.727,35
+file,5.0,1.561,32
+file (record),4.939,2.014,33
+file (tool),5.323,1.423,31
+fill,5.235,1.88,34
+filling,5.333,1.47,33
+film,5.364,1.298,33
+filter,5.147,1.7,34
+filth,4.177,1.653,34
+filthy,4.706,2.163,34
+finance,4.706,1.978,34
+financial,4.455,2.176,33
+finger,5.088,1.422,34
+fingers,5.371,1.354,35
+finish,6.571,2.155,35
+fire,5.182,2.43,33
+fire (employment),4.743,2.902,35
+fire (flames),4.875,2.69,32
+fire (gun),5.333,2.482,33
+fireman,4.853,2.277,34
+fireplace,5.441,1.866,34
+fireworks,6.094,1.774,32
+firm,6.0,1.595,33
+first,6.424,1.724,33
+fish,5.546,1.281,33
+fisherman,5.294,1.177,34
+fist,5.529,1.882,34
+fit,5.886,1.703,35
+fit (convulsion),3.061,1.757,33
+fit (healthy),7.059,1.862,34
+fit (suitable),5.618,1.698,34
+fizzy,5.25,1.031,32
+flab,3.714,1.75,35
+flabby,3.516,1.663,31
+flap,5.0,1.042,35
+flask,5.241,1.039,29
+flatulence,3.667,1.535,30
+flatulent,4.344,1.962,32
+flea,4.375,1.781,32
+flee,3.452,2.014,31
+fleet,4.914,1.592,35
+flesh,5.182,1.623,33
+flick,6.03,1.425,33
+flick (movement),5.618,1.941,34
+flick (movie),5.194,1.804,31
+flicker,5.0,1.128,33
+flight,5.371,2.192,35
+flint,5.406,1.433,32
+flirt,6.086,2.143,35
+flirty,6.886,1.686,35
+float,5.212,1.701,33
+flood,4.559,2.303,34
+florist,4.941,1.552,34
+flour,5.364,1.344,33
+flourish,6.059,2.248,34
+flow,4.706,1.758,34
+flower,5.242,1.615,33
+fluent,7.03,1.359,33
+fluid,5.194,1.615,31
+flute,5.69,1.6,29
+flutter,5.129,1.809,31
+fly,6.031,1.551,32
+fly (insect),5.029,1.647,35
+fly (through air),6.029,2.256,34
+foam,4.71,0.957,31
+fodder,4.96,1.216,25
+foggy,4.258,1.866,31
+foible,4.25,1.299,16
+foil,5.206,1.301,34
+foil (metal),5.029,1.071,34
+foil (prevent),5.242,2.594,33
+fold,5.0,1.481,31
+folder,5.286,1.446,35
+folk,4.807,1.119,31
+follow,3.706,2.243,34
+folly,5.0,1.058,25
+fond,5.6,1.571,35
+food,6.606,1.874,33
+fool,4.471,1.835,34
+foolish,3.788,2.171,33
+foot,5.552,1.522,29
+foot (body),5.412,1.629,34
+foot (length),4.914,1.795,35
+football,5.548,1.738,31
+forage,5.2,1.137,30
+force,4.829,2.863,35
+forceful,4.697,2.758,33
+ford,4.758,1.326,33
+forehead,5.114,1.237,35
+foreign,5.063,1.56,32
+foreigner,4.75,1.785,32
+forest,4.656,1.864,32
+forge,5.621,1.789,29
+forget,4.029,1.765,35
+forgetful,2.939,1.369,33
+fork,5.631,1.26,65
+fork (cutlery),5.794,2.069,34
+fork (road),4.727,1.911,33
+form,5.441,1.333,34
+formation,4.567,1.499,30
+former,4.767,1.309,30
+fort,6.265,2.034,34
+fortress,5.484,2.312,31
+fortuitous,5.857,1.726,21
+fortunate,6.059,1.97,34
+fortune,6.6,2.003,35
+forty,5.219,1.243,32
+forum,4.939,1.324,33
+fought,5.879,2.199,33
+foul,4.353,1.57,34
+foul (disgusting),3.5,1.649,34
+foul (penalty),4.188,1.53,32
+fountain,5.457,1.295,35
+fowl,4.212,1.513,33
+fox,5.0,1.371,33
+foxes,4.733,1.181,30
+foxy,5.9,1.469,30
+fragrance,5.6,1.377,35
+fragrant,5.324,1.206,34
+frail,3.294,2.269,34
+frame,4.5,1.48,34
+franchise,4.667,2.184,33
+frank,5.576,1.652,33
+frantic,4.114,2.095,35
+fraud,3.941,2.155,34
+freak,4.094,1.926,32
+freaky,4.719,1.858,32
+freckle,5.265,1.614,34
+free,7.0,2.414,35
+freed,6.774,2.446,31
+freedom,7.735,1.461,34
+freeze,4.061,1.874,33
+fresh,5.394,1.434,33
+friction,4.625,1.933,32
+fridge,5.677,1.761,34
+friend,5.788,1.572,33
+friendly,7.194,1.378,31
+friendship,5.758,1.923,33
+fright,3.25,2.0,32
+frightened,2.375,1.763,32
+frightening,3.375,1.763,32
+frigid,3.625,1.746,32
+frock,4.844,1.176,32
+frog,5.313,1.446,32
+froth,5.258,1.046,31
+frown,4.735,1.633,34
+frozen,3.743,1.81,35
+frugal,5.348,1.784,23
+frustrate,3.882,2.435,34
+frustrated,3.706,2.217,34
+frustration,3.429,2.168,35
+fuck,6.167,2.282,30
+fuck (exclamation),6.343,2.028,35
+fuck (sex),6.849,2.176,33
+fucker,6.061,2.201,33
+fucks,6.267,2.065,30
+fuel,5.5,1.558,34
+full,5.286,1.782,35
+fun,6.941,1.999,34
+function,5.618,1.681,34
+fund,5.281,1.736,32
+funeral,3.353,1.678,34
+fungal,3.939,1.254,33
+fungus,4.629,1.396,35
+funky,6.029,1.465,34
+funny,6.657,1.912,35
+fur,5.515,1.579,33
+furious,6.143,2.332,35
+furniture,5.235,1.628,34
+furry,4.909,1.525,33
+fury,5.853,2.522,34
+fuse,4.914,1.73,35
+fusion,5.333,1.735,33
+fuss,4.667,1.531,33
+futile,3.182,1.546,33
+future,5.364,2.556,33
+gadget,6.177,1.361,34
+gag,3.882,2.166,34
+gag (choker),3.429,2.155,35
+gag (joke),5.455,1.578,33
+gaiety,5.852,1.84,27
+gain,6.471,1.44,34
+gala,4.886,1.669,35
+galaxy,3.871,2.446,31
+gale,4.457,1.962,35
+gallant,5.9,2.211,30
+galleon,5.172,1.341,29
+gallery,5.2,1.108,30
+galley,4.923,1.412,26
+game,5.667,1.428,33
+game (animal),5.594,2.013,32
+game (sport),5.765,1.554,34
+garbage,4.971,2.121,34
+garden,5.909,1.464,33
+gardener,5.515,1.234,33
+gardens,4.943,1.433,35
+garlic,5.517,1.405,29
+garment,5.344,1.36,32
+garter,5.581,1.897,31
+gash,4.057,1.308,35
+gasp,4.029,1.612,35
+gastric,4.0,1.32,31
+gate,4.765,1.733,34
+gather,5.441,1.648,34
+gaunt,4.655,1.469,29
+gay,5.294,1.525,34
+gay (homosexual),5.147,1.865,34
+gay (joyous),6.281,1.644,32
+gaze,6.03,1.66,33
+gazelle,5.219,1.653,32
+gear,5.5,1.275,32
+gem,5.206,1.324,34
+gender,5.059,2.057,34
+general,5.118,1.157,34
+general (common),5.061,0.983,33
+general (military),5.514,3.148,35
+generation,5.118,1.549,34
+generous,6.029,2.091,35
+genes,4.1,2.413,30
+genius,6.742,1.934,31
+genocide,2.875,2.472,32
+gentle,5.235,1.926,34
+gentleman,5.563,1.999,32
+geologist,4.697,1.446,33
+geology,4.912,1.522,34
+gerbil,5.129,1.338,31
+germinate,4.563,1.345,32
+germs,3.849,2.091,33
+gesture,5.559,1.913,34
+ghastly,4.424,1.955,33
+ghetto,4.0,1.97,34
+ghost,4.088,1.442,34
+ghoul,4.688,1.379,32
+giant,5.2,2.528,35
+gift,5.548,1.682,31
+giggle,6.171,1.665,35
+gin,5.257,1.872,35
+gingerbread,4.849,1.635,33
+giraffe,5.286,1.278,35
+girdle,4.379,1.628,29
+girl,5.469,1.984,32
+girls,5.258,1.967,31
+girly,4.03,2.139,33
+gist,5.571,1.555,35
+give,5.818,1.604,33
+glacial,4.903,1.614,31
+glacier,4.839,1.851,31
+glad,5.656,1.533,32
+glamorous,5.839,2.002,31
+glamour,5.452,2.107,31
+glance,5.303,1.359,33
+glanced,5.118,1.795,34
+glass,5.129,1.238,31
+glasses,5.03,1.867,33
+glasses (drinks),5.588,1.353,34
+glasses (eye),4.758,1.741,33
+glee,6.212,1.754,33
+glimpse,5.118,1.471,34
+glitter,5.543,2.089,35
+gloat,5.419,2.211,31
+global,4.647,2.375,34
+globe,5.188,1.878,32
+gloom,3.559,1.735,34
+gloomy,3.839,1.628,31
+glorious,5.914,1.779,35
+glory,7.182,1.546,33
+glove,5.941,1.984,34
+gloves,5.235,1.395,34
+glow,5.939,1.324,33
+glowing,6.0,1.515,34
+glue,5.088,1.442,34
+goal,6.235,1.832,34
+goat,5.355,1.333,31
+goblet,5.257,1.401,35
+goblin,4.735,1.481,34
+god,4.909,2.442,33
+goddess,6.2,2.493,35
+gods,4.971,2.995,34
+goggles,5.121,0.946,33
+gold,6.212,1.629,33
+golden,5.743,1.887,35
+goldfish,4.788,1.871,33
+golf,5.294,1.707,34
+golfer,5.774,1.361,31
+good,6.281,1.663,32
+goodbye,4.765,2.157,34
+goodness,5.969,1.551,32
+goofy,5.206,1.728,34
+goose,5.257,1.13,35
+gore,4.125,1.746,32
+gorge,5.152,1.417,33
+gorge (canyon),4.697,2.181,33
+gorge (overeat),4.324,2.434,34
+gorgeous,6.6,2.1,35
+gorilla,5.531,1.871,32
+gossip,4.829,2.558,35
+gothic,5.485,1.777,33
+govern,5.121,2.941,33
+government,3.6,2.685,35
+grab,5.613,2.337,31
+grace,5.114,1.939,35
+graceful,5.909,1.944,33
+grade,5.667,2.01,33
+grade (mark),4.412,1.927,34
+grade (slope),5.03,1.714,33
+gradual,5.177,1.294,34
+graduate,6.912,1.946,34
+graduation,5.8,2.352,35
+grain,5.177,1.524,34
+grain (sand),4.8,1.43,35
+grain (wheat),5.156,1.822,32
+grammar,5.314,1.617,35
+grampa,5.029,1.689,34
+grandfather,5.212,1.647,33
+grandma,4.114,1.72,35
+grandmother,5.086,2.075,35
+grandpa,4.968,1.555,31
+granite,5.576,1.859,33
+granny,5.059,1.862,34
+grape,5.233,0.989,30
+grapes,5.406,1.32,32
+graph,5.125,1.556,32
+graphic,5.543,1.499,35
+grasp,5.941,1.939,34
+grass,5.871,1.289,31
+grasshopper,5.219,1.653,32
+grateful,5.406,1.966,32
+gratitude,5.438,2.549,32
+grave,3.313,1.895,32
+grave (cemetary),3.735,1.754,34
+grave (serious),4.853,2.475,34
+gravel,4.933,1.124,30
+gravity,3.469,2.549,32
+grease,4.794,1.231,34
+great,6.636,1.534,33
+greed,4.647,2.235,34
+greedy,5.29,2.372,31
+green,5.483,1.249,29
+green (colour),5.059,1.644,34
+green (environmental),5.455,1.794,33
+green (naive),4.094,1.926,32
+greet,5.382,2.087,34
+grenade,5.531,2.562,32
+grey,4.706,1.525,34
+griddle,4.7,1.32,30
+grief,3.629,2.099,35
+grieve,3.206,1.875,34
+grim,3.743,1.574,35
+grime,3.939,1.757,33
+grin,6.257,1.338,35
+grind,5.0,1.775,33
+gripe,4.44,1.602,25
+groom,5.273,1.601,33
+groom (bride),5.394,1.65,33
+groom (look after),5.667,2.184,33
+gross,4.364,1.432,33
+grotesque,4.129,1.845,31
+ground,5.485,1.725,33
+grow,5.452,1.643,31
+growl,5.571,2.259,35
+guard,4.879,2.603,33
+guest,4.839,1.526,31
+guide,5.344,2.313,32
+guided,2.943,1.788,35
+guilt,3.118,1.694,34
+guilty,3.576,2.438,33
+guitar,5.688,1.285,32
+gullet,4.25,1.243,28
+gullible,3.177,1.562,34
+gun,5.147,2.992,34
+gym,5.4,2.107,30
+gymnast,5.257,1.857,35
+gymnastics,5.531,1.299,32
+habit,4.292,1.854,65
+habit (nun),4.233,1.585,30
+habit (smoking),3.364,2.41,33
+habituate,4.448,1.248,29
+hackney,4.536,1.679,28
+hair,5.4,1.705,30
+hairdryer,5.5,1.46,34
+half,5.114,1.489,35
+hall,4.903,1.118,31
+hallucination,3.265,1.72,34
+hallway,4.706,0.666,34
+ham,5.0,1.195,35
+hamlet,5.061,1.229,33
+hammer,5.571,2.208,35
+hammered,5.182,2.037,33
+hammered (drunk),3.857,2.497,35
+hammered (nail),5.735,2.091,34
+hammock,5.294,1.226,34
+hamster,5.618,1.609,34
+hand,5.735,2.062,34
+handbag,5.182,1.486,33
+handful,5.515,1.559,33
+handicapped,2.943,1.82,35
+handkerchief,5.281,1.663,32
+handle,5.97,1.749,33
+handler,4.677,2.272,34
+hands,6.161,1.706,31
+handsome,6.229,1.532,35
+handy,5.824,1.248,34
+hang,4.394,1.301,33
+hanged,3.257,2.208,35
+hankering,4.219,1.653,32
+hanky,4.912,1.721,34
+haphazard,4.067,1.731,30
+happily,6.629,1.692,35
+happiness,6.273,2.064,33
+happy,7.182,1.29,33
+harbour,5.265,1.4,34
+hard,5.563,1.903,32
+hard (not easy),3.943,1.881,35
+hard (not soft),5.618,1.863,34
+hardship,2.758,1.843,33
+harm,4.118,2.471,34
+harmful,4.114,2.605,35
+harmonica,5.353,1.258,34
+harmony,5.625,1.85,32
+harness,4.29,2.203,31
+harp,5.354,1.705,65
+harp (instrument),4.429,1.555,35
+harp (pick on),4.618,1.91,34
+harpsichord,5.667,1.392,21
+harsh,4.571,2.195,35
+harvest,5.516,1.341,31
+hat,5.313,1.53,32
+hatch,5.286,1.406,35
+hate,4.353,2.949,34
+hatred,4.824,2.395,34
+have,6.455,1.707,33
+haven,5.441,1.882,34
+hawk,5.939,1.953,33
+hawk (bird),5.303,1.732,33
+hawk (sell),5.615,1.643,26
+hay,5.097,1.254,31
+hazard,4.114,2.162,35
+haze,3.765,1.477,34
+head,6.171,1.383,35
+head (body),6.677,1.49,34
+head (leader),6.265,3.061,34
+head (semen),5.182,1.817,33
+headache,2.794,1.255,34
+headlights,5.452,1.456,31
+headphones,5.914,1.68,35
+headquarters,5.647,2.181,34
+heal,5.412,2.002,34
+health,5.484,1.757,31
+healthy,6.529,2.004,34
+hear,5.546,1.671,33
+heard,5.152,2.076,33
+hearing,5.912,2.035,34
+hearing (court),3.909,2.165,33
+hearing (ear),5.697,1.507,33
+heart,5.71,1.904,31
+hearth,5.138,1.358,29
+heater,5.485,1.131,33
+heaven,4.514,2.383,35
+heavy,4.032,2.04,31
+hedgehog,5.533,0.884,30
+heel,5.057,1.638,35
+heir,5.371,2.451,35
+helicopter,5.844,1.889,32
+hell,3.0,2.293,35
+help,4.061,2.282,33
+helpful,6.394,1.74,33
+helpless,2.406,2.163,32
+hen,4.588,1.437,34
+hen (chicken),5.147,1.833,34
+hen (woman),4.727,1.797,33
+henchman,3.968,1.992,31
+herb,5.091,1.464,33
+herbal,5.152,1.373,33
+herd,3.849,2.134,33
+heredity,3.767,1.927,30
+hernia,3.121,1.513,33
+hero,6.727,2.049,33
+heroin,3.853,2.591,34
+heroine,6.206,2.805,34
+heroism,6.559,1.928,34
+herring,5.235,1.61,34
+hesitant,3.258,1.319,31
+hesitate,3.333,0.974,33
+hesitation,3.441,1.459,34
+hidden,4.0,1.799,34
+hide,3.563,1.713,32
+hideaway,4.177,1.806,34
+hierarchy,4.515,2.476,33
+high,6.063,2.397,32
+highway,5.353,1.696,34
+hilarious,6.688,1.758,32
+hill,5.438,1.197,32
+hinder,3.71,1.441,31
+hint,4.514,1.251,35
+hippie,5.5,1.82,32
+hippo,5.029,1.524,34
+hippopotamus,5.114,1.72,35
+historical,4.429,1.841,35
+history,4.667,2.01,33
+hit,5.971,2.236,35
+hit (beat on),4.576,2.511,33
+hit (music),5.735,1.668,34
+hobble,3.588,1.458,34
+hockey,5.469,1.968,32
+hog,5.353,1.829,34
+hold,5.182,2.124,33
+hold (grasp),6.531,1.581,32
+hold (store),5.576,1.498,33
+holiday,6.688,1.424,32
+holidays,6.563,1.638,32
+hollow,4.088,1.245,34
+holy,4.559,2.239,34
+home,6.375,1.654,32
+homicide,3.914,2.322,35
+honest,6.333,1.902,33
+honesty,6.333,2.211,33
+honey,5.286,1.798,35
+honeycomb,5.543,1.962,35
+honeymoon,5.774,1.475,31
+honour,6.971,1.647,35
+hood,4.844,1.372,32
+hooded,4.939,1.556,33
+hoof,4.807,0.737,31
+hook,4.8,1.327,35
+hooker,4.677,2.068,34
+hooker (prostitute),4.485,2.414,33
+hooker (rugby),5.733,1.389,30
+hooves,5.059,1.259,34
+hope,6.212,2.129,33
+hopeful,6.0,2.056,35
+horn,5.229,1.333,35
+horrible,3.807,1.693,31
+horrid,3.829,1.558,35
+horror,4.063,1.968,32
+horse,6.125,1.495,32
+hospital,3.257,1.778,35
+host,6.0,2.229,33
+hostage,2.286,1.994,35
+hostess,5.412,1.833,34
+hostile,4.419,2.433,31
+hotel,5.219,1.473,32
+hound,5.2,1.45,35
+hound (dog),5.758,1.759,33
+hound (persist),4.824,2.176,34
+hour,5.091,1.288,33
+house,5.625,1.635,32
+hover,5.581,1.582,31
+hovercraft,5.314,1.545,35
+hug,5.97,1.946,33
+hull,5.088,0.853,34
+human,5.9,1.375,30
+humane,5.971,2.121,34
+humanitarian,6.419,1.947,31
+humanity,5.059,2.141,34
+humble,5.171,2.274,35
+humiliate,3.094,1.877,32
+humiliated,2.171,1.108,35
+humiliation,2.485,1.725,33
+hummingbird,4.939,1.575,33
+humorous,6.871,1.385,31
+humour,6.471,1.702,34
+hurdle,5.364,1.789,33
+hurricane,3.697,2.668,33
+hurry,4.706,1.963,34
+hurt,3.548,2.153,31
+husband,5.382,1.698,34
+hush,3.8,1.653,35
+hydrant,4.771,1.149,35
+hymn,4.571,1.887,35
+hypothesis,5.514,1.713,35
+ice,4.839,1.505,31
+iceberg,5.257,1.762,35
+icing,5.3,1.552,30
+idea,6.788,2.056,33
+ideal,5.818,1.527,33
+identity,6.941,1.413,34
+idiot,4.382,2.0,34
+idiotic,4.543,2.297,35
+idle,3.909,1.832,33
+idol,4.548,2.138,31
+igloo,5.143,1.156,28
+ignorant,4.182,2.43,33
+ignore,5.118,2.055,34
+ill,3.0,1.393,33
+illness,3.03,1.8,33
+illusion,3.829,1.978,35
+illustration,5.5,1.377,34
+image,4.818,1.466,33
+imagination,7.371,1.605,35
+imaginative,6.912,1.976,34
+imagine,6.657,2.39,35
+imam,4.45,1.857,20
+immature,4.824,2.419,34
+immense,6.188,2.157,32
+immoral,5.229,2.294,35
+immune,5.656,2.419,32
+immunity,5.818,2.48,33
+impact,5.742,1.796,31
+impair,3.939,1.556,33
+impaired,2.625,1.654,32
+import,5.118,1.388,34
+important,6.645,1.927,31
+imported,5.212,1.771,33
+impose,5.032,2.456,31
+imposing,5.235,2.302,34
+impossible,3.206,2.459,34
+impotent,3.621,1.937,29
+impress,6.429,1.4,35
+impression,5.657,1.62,35
+impressionism,4.636,1.72,33
+impressive,7.114,1.582,35
+impropriety,4.654,1.492,26
+improve,6.143,1.775,35
+improvement,6.438,1.919,32
+impulse,5.5,1.883,34
+impulsive,5.939,2.558,33
+inane,3.917,1.47,24
+incentive,5.5,1.962,30
+incest,4.206,1.937,34
+inch,4.727,0.897,33
+incident,3.781,1.672,32
+incompetent,3.677,1.843,34
+incredible,7.121,1.629,33
+indentify,5.241,1.906,29
+independence,7.813,1.845,32
+independent,7.936,1.759,31
+index,4.469,1.436,32
+indifferent,5.2,1.909,35
+indoor,4.882,1.549,34
+induce,5.188,2.338,32
+industrial,5.286,1.921,35
+industry,4.606,2.498,33
+inebriated,3.536,1.991,28
+inefficient,3.563,1.619,32
+infant,4.875,2.219,32
+infatuation,4.032,1.992,31
+infect,4.129,2.282,31
+infection,3.114,1.753,35
+infectious,2.912,2.049,34
+inferior,3.5,2.704,32
+infinite,4.647,2.554,34
+infinity,5.849,2.732,33
+infirm,3.72,1.563,25
+infirmary,4.0,2.016,32
+inflame,4.286,1.578,35
+infringe,4.441,1.575,34
+ingratitude,4.063,1.478,32
+inhabitant,4.629,1.884,35
+injury,3.788,1.981,33
+ink,5.968,1.307,31
+inkling,5.364,1.322,33
+inn,4.735,1.614,34
+innate,4.719,1.441,32
+innocent,4.25,2.318,32
+input,5.5,1.455,30
+insane,3.765,2.798,34
+insanity,2.97,1.784,33
+insect,4.788,2.041,33
+insecticide,5.063,2.076,32
+insecure,2.742,1.983,31
+insecurity,2.758,1.81,33
+insincere,4.258,1.796,31
+insolent,4.483,1.993,29
+inspect,6.088,1.704,34
+inspection,4.059,2.155,34
+inspector,4.818,2.393,33
+inspiration,6.971,1.839,34
+inspire,7.0,1.706,33
+inspired,6.735,1.771,34
+install,5.625,1.615,32
+installed,5.647,1.78,34
+instance,5.138,1.224,29
+instant,6.0,1.586,31
+instinct,6.171,2.336,35
+institution,3.939,2.373,33
+instructor,4.688,2.186,32
+instrument,5.912,1.738,34
+insufficient,2.71,1.419,31
+insult,5.0,2.044,34
+insulting,4.471,2.104,34
+insurance,4.879,2.114,33
+intellect,7.206,1.41,34
+intellectual,6.912,2.442,34
+intelligence,7.438,1.836,32
+intelligent,6.943,1.941,35
+intend,5.647,1.432,34
+intense,5.086,2.089,35
+intercontinental,5.364,1.41,33
+intercourse,5.849,2.062,33
+interest,6.343,1.286,35
+interest (attention),6.5,1.77,34
+interest (monetary),4.75,1.785,32
+interesting,6.324,1.778,34
+interim,4.68,0.926,25
+interview,3.406,1.918,32
+intimate,5.941,2.262,34
+introduce,6.242,1.498,33
+introduction,5.333,1.223,33
+intruder,3.314,2.315,35
+invader,3.794,2.324,34
+inventor,6.813,1.878,32
+invest,6.286,1.322,35
+investigation,4.727,2.093,33
+investment,5.969,1.944,32
+invoice,4.471,1.036,34
+iron,5.743,2.102,35
+iron (metal),5.879,1.629,33
+iron (press),4.943,1.453,35
+ironing,4.424,1.776,33
+irony,5.303,1.8,33
+irresistible,6.129,2.091,31
+irritate,4.886,1.894,35
+irritating,4.5,1.768,32
+irritation,3.774,1.862,31
+island,5.029,1.543,34
+islander,4.939,1.65,33
+isle,4.5,2.0,32
+issue,4.735,2.019,34
+issue (distribute),5.229,1.495,35
+issue (topic),5.471,1.519,34
+itchy,3.452,1.583,31
+item,5.147,0.944,34
+ivory,5.267,1.389,30
+jackal,5.258,1.367,31
+jacket,5.629,1.456,35
+jacuzzi,6.114,1.368,35
+jaguar,5.516,2.138,31
+jail,2.886,2.175,35
+jailer,3.781,2.381,32
+jam,5.387,1.21,31
+jam (preserve),5.188,0.726,32
+jam (traffic),3.0,1.985,34
+jargon,4.032,1.787,31
+jazz,5.303,1.467,33
+jealous,4.206,2.621,34
+jealousy,3.576,2.06,33
+jeans,5.531,1.414,32
+jeep,5.71,1.43,62
+jelly,4.743,1.25,35
+jellyfish,4.529,1.753,34
+jeopardy,3.059,1.939,34
+jet,5.333,1.57,33
+jewel,5.941,1.571,34
+jewellery,5.647,1.643,34
+jewels,5.514,1.977,35
+jigsaw,5.563,1.54,32
+job,4.886,2.616,35
+jockey,5.5,1.5,34
+jog,6.242,1.724,33
+jogging,5.323,1.553,31
+joiner,5.029,1.562,34
+joint,5.0,1.323,32
+joint (elbow),4.788,1.701,33
+joint (meat),5.531,1.803,32
+joke,6.353,1.57,34
+jolly,6.156,1.873,32
+journal,5.853,1.574,34
+joy,6.588,1.734,34
+joyful,6.273,1.523,33
+jubilant,6.394,1.536,33
+judge,4.8,2.616,35
+judge (courtroom),4.313,3.005,32
+judge (evaluate),6.486,2.222,35
+jug,5.688,1.356,32
+juggle,5.818,1.192,33
+juggler,5.353,1.412,34
+jumble,4.306,1.35,36
+jumper,4.909,1.401,33
+jumper (athlete),5.697,1.605,33
+jumper (sweater),5.353,1.412,34
+jungle,5.29,1.083,31
+junk,4.743,1.537,35
+jury,3.794,1.891,34
+justice,6.206,1.937,34
+justify,5.529,1.557,34
+kangaroo,5.065,1.268,31
+keen,6.156,1.583,32
+keg,5.129,1.699,31
+ketchup,5.424,1.415,33
+key,6.114,1.817,35
+key (crucial),5.871,1.896,31
+key (keyboard),5.514,1.402,35
+key (lock),6.281,1.586,32
+key (musical),5.324,1.778,34
+keyboard,5.419,1.04,31
+keys,5.441,1.575,34
+kick,5.714,2.022,35
+kidnap,3.618,2.679,34
+kidnapped,2.364,2.129,33
+kidney,4.886,1.368,35
+kids,5.5,1.883,34
+kids (children),5.031,2.338,32
+kids (goats),4.6,1.126,35
+kill,4.371,3.181,35
+killed,3.714,2.614,35
+killer,4.875,2.804,32
+kilt,5.943,1.17,35
+kin,5.313,1.648,32
+kind,6.467,1.565,30
+kind (nice),5.969,1.845,32
+kind (type),4.971,1.612,35
+king,5.912,3.266,34
+kingdom,5.219,2.643,32
+kinky,5.727,2.078,33
+kipper,5.258,1.191,31
+kiss,6.242,2.283,33
+kissing,6.0,1.837,32
+kite,5.235,1.113,34
+kite (bird),5.265,1.596,34
+kite (toy),5.882,1.623,34
+kitten,5.324,2.011,34
+kiwi,5.441,1.666,34
+kiwi (bird),5.303,0.87,33
+kiwi (fruit),5.429,1.555,35
+kiwi (New Zealander),5.0,0.916,31
+kneel,4.286,1.631,35
+knife,5.968,2.376,31
+knifed,3.281,2.197,32
+knight,5.455,2.061,33
+knit,5.212,1.966,33
+knock,5.387,1.43,31
+knot,4.486,1.73,35
+knots,4.294,1.466,34
+knots (rope),5.091,2.065,33
+knots (speed),5.394,1.434,33
+know,7.097,1.174,31
+knowledge,7.226,1.717,31
+knuckle,5.771,2.016,35
+knuckles,5.647,1.78,34
+koala,5.29,1.141,31
+label,4.029,1.812,35
+lace,4.543,1.574,35
+laced,5.2,1.6,35
+laces,4.857,1.312,35
+lacking,3.061,1.516,33
+lad,5.382,1.799,34
+ladder,5.394,1.922,33
+ladies,4.939,1.687,33
+lady,5.727,1.693,33
+ladybird,5.235,1.941,34
+lager,5.364,1.514,33
+lagoon,5.323,1.147,31
+lake,5.324,1.277,34
+lamb,4.813,1.648,32
+lamp,5.156,1.176,32
+lance,5.321,1.627,28
+land,5.766,1.549,64
+landing,5.171,1.298,35
+landing (plane),5.03,1.766,33
+landing (stairs),5.156,1.622,32
+landscape,5.697,1.899,33
+lane,4.546,1.725,33
+language,5.844,1.922,32
+lantern,5.6,1.292,35
+lapel,4.793,1.423,29
+large,5.969,1.912,32
+lark,5.035,1.245,29
+lark (bird),5.258,1.244,31
+lark (fun),6.344,1.67,32
+last,4.294,1.6,34
+latent,4.2,1.4,30
+laugh,7.0,2.072,34
+laughter,6.581,1.792,31
+launch,6.188,1.57,32
+lavish,6.188,1.96,32
+law,3.548,2.367,31
+lawn,5.032,1.713,31
+lawsuit,3.629,1.943,35
+lawyer,5.412,2.238,34
+lazy,5.118,2.026,34
+lead,6.057,2.317,35
+lead (direct),6.457,2.611,35
+lead (heavy metal),5.114,1.703,35
+lead (leash),4.606,2.806,33
+leader,7.771,1.532,35
+leaf,5.412,1.849,34
+leaflet,4.765,1.436,34
+league,5.242,1.634,33
+lean,5.0,2.174,33
+lean (skinny),4.424,1.634,33
+lean (tilt),4.912,1.755,34
+learn,6.516,1.701,31
+learning,6.839,1.762,31
+least,3.829,1.341,35
+leather,5.677,1.47,34
+leaves,5.514,1.052,35
+lecture,4.294,1.807,34
+lecturer,4.257,2.285,35
+ledge,4.629,1.475,35
+leg,5.686,1.563,35
+leg (component),5.594,1.765,32
+leg (limb),5.657,1.603,35
+legal,3.364,2.172,33
+legend,6.412,2.06,34
+legend (key),4.852,0.803,27
+legend (tale),5.829,1.483,35
+leggings,5.029,1.159,35
+legion,4.6,1.943,30
+legislation,3.688,2.627,32
+legislator,4.719,2.197,32
+legs,6.2,1.275,30
+leisure,6.029,1.74,34
+lemon,5.267,1.181,30
+lemonade,5.724,1.142,29
+lend,4.667,1.837,33
+length,5.393,0.976,28
+leopard,5.0,1.758,33
+leprosy,3.156,1.563,32
+lesbian,5.735,1.521,34
+lesson,4.824,2.242,34
+letter,5.2,1.41,35
+letter (alphabet),5.515,1.708,33
+letter (correspondence),5.8,1.327,35
+letters,6.182,1.466,33
+letters (alphabet),5.441,1.09,34
+letters (correspondence),5.424,1.457,33
+lettuce,5.353,1.661,34
+liar,4.625,1.949,32
+liberty,6.879,1.61,33
+librarian,4.531,1.82,32
+library,5.531,2.015,32
+lice,3.645,1.514,31
+lid,5.171,1.341,35
+lie,5.364,2.144,33
+lie (position),4.8,1.983,35
+lie (untruth),4.382,2.723,34
+lies,3.5,1.765,30
+lies (position),4.758,2.175,33
+lies (untruths),4.088,2.254,34
+life,6.235,2.276,34
+lift,5.294,1.933,34
+lift (elevator),4.875,1.763,32
+lift (raise),6.294,1.582,34
+light,5.933,1.459,30
+light (brightness),5.546,1.86,33
+light (weight),4.5,2.076,34
+lightbulb,5.355,1.033,31
+lighthouse,5.2,1.582,35
+lighting,5.765,1.535,34
+lightning,3.939,2.348,33
+lights,5.735,1.578,34
+like,5.906,1.756,32
+like (love),5.5,2.332,32
+like (similar to),5.121,0.729,33
+lilac,4.839,0.723,31
+limb,5.0,1.014,35
+limb (body),5.914,1.842,35
+limb (tree),5.061,1.229,33
+limber,5.516,1.411,31
+lime,5.3,1.464,30
+limit,3.4,2.059,35
+limited,3.03,1.899,33
+limousine,6.03,1.766,33
+limp,4.0,1.74,35
+line,4.735,1.441,34
+linear,4.618,1.766,34
+link,5.531,1.172,32
+lion,5.492,2.587,63
+lioness,5.469,2.872,32
+lip,5.636,1.344,33
+lips,5.344,1.265,32
+lipstick,5.258,2.109,31
+liquid,4.941,1.136,34
+liquor,4.941,1.748,34
+list,5.03,1.527,33
+listless,4.25,1.803,32
+literature,5.853,1.849,34
+litre,5.177,1.271,34
+litter,5.086,1.811,35
+litter (animal babies),4.936,1.684,31
+litter (trash),5.588,1.865,34
+little,4.531,2.165,32
+live,6.636,1.72,33
+live (not recorded),5.606,1.324,33
+live (to exist),7.118,1.906,34
+lively,6.971,1.2,34
+lizard,5.531,1.714,32
+llama,5.206,1.346,34
+load,5.382,1.372,34
+loaf,5.182,1.217,33
+loaf (be lazy),4.879,1.903,33
+loaf (bread),5.118,1.207,34
+loan,3.394,1.874,33
+lobster,5.257,1.155,35
+locate,5.343,1.308,35
+location,5.394,1.858,33
+lock,5.118,1.906,34
+lock (door),5.242,2.547,33
+lock (hair),5.382,1.534,34
+locker,5.152,1.282,33
+locket,5.485,1.635,33
+log,4.818,1.14,33
+log (record),5.273,1.675,33
+log (wood),5.645,1.597,31
+logs,5.226,1.288,31
+logs (records),5.177,1.562,34
+logs (wood),5.618,1.372,34
+loins,5.29,1.249,31
+lonely,3.219,2.26,32
+long,5.314,1.237,35
+long (not short),5.294,1.775,34
+long (yearn),3.906,1.942,32
+longing,3.971,1.74,34
+loop,4.765,1.8,34
+loophole,4.936,2.242,31
+loose,4.75,1.458,32
+lord,4.333,2.47,33
+lorry,5.457,1.499,35
+lose,3.719,1.908,32
+loser,3.235,2.001,34
+lost,2.742,1.015,31
+lottery,4.088,2.161,34
+loud,5.588,2.144,34
+louse,4.548,2.107,31
+lousy,3.912,1.738,34
+lovable,5.629,2.553,35
+love,5.303,2.897,33
+lovely,5.706,1.741,34
+lover,5.486,2.103,35
+loving,6.257,2.359,35
+low,3.743,1.461,35
+loyal,5.849,2.258,33
+loyalty,6.2,2.095,35
+lubricant,5.719,1.956,32
+lubricate,5.091,1.24,33
+luck,4.882,2.687,34
+lucky,5.375,1.933,32
+luggage,5.457,1.48,35
+lumber,5.094,1.422,32
+lumber (move slowly),3.515,1.438,33
+lumber (wood),5.606,1.347,33
+lump,4.344,1.29,32
+lunch,5.629,0.959,35
+lunching,5.621,1.563,29
+lungs,5.118,1.676,34
+lure,3.971,2.216,34
+luscious,5.706,1.84,34
+lush,5.382,1.329,34
+lust,4.743,2.832,35
+luxury,5.871,2.106,31
+lynx,5.0,1.291,30
+lyrics,5.1,1.325,30
+macabre,4.958,1.513,24
+macaroni,5.194,1.446,31
+machine,5.061,2.029,33
+mad,5.4,2.2,30
+mad (angry),5.765,2.184,34
+mad (crazy),4.273,2.136,33
+madman,4.303,2.492,33
+madness,3.059,1.97,34
+magazine,4.906,1.588,32
+magazine (ammunition),5.706,2.23,34
+magazine (publication),5.353,1.473,34
+maggot,4.824,2.162,34
+magic,5.343,2.069,35
+magical,6.0,2.056,35
+magnificent,6.943,2.124,35
+magnitude,6.281,1.924,32
+maid,3.971,2.145,35
+maiden,4.219,1.798,32
+maids,4.455,1.955,33
+mail,5.061,1.594,33
+main,6.177,1.774,34
+maize,5.097,1.254,31
+major,6.313,1.685,32
+majority,5.905,2.209,63
+make,7.0,1.414,33
+malady,4.091,1.203,22
+malaria,3.114,2.025,35
+malice,4.735,2.133,34
+malicious,4.714,2.385,35
+mall,4.719,2.004,32
+mallet,5.294,1.978,34
+mammal,6.152,1.559,33
+mammoth,5.588,1.833,34
+man,6.029,2.443,34
+management,5.655,2.439,29
+manager,4.941,2.879,34
+mangle,4.267,1.861,30
+maniac,3.909,2.314,33
+manic,4.645,1.806,31
+mankind,5.152,2.091,33
+manner,4.657,1.413,35
+mansion,6.719,1.7,32
+manure,4.484,1.132,31
+many,5.182,1.783,33
+marital,4.912,2.133,34
+mark,4.794,1.51,34
+mark (grade),5.4,2.369,35
+mark (smudge),4.939,1.127,33
+market,5.152,1.373,33
+marquee,5.121,1.037,33
+marriage,4.657,2.402,35
+married,4.486,2.089,35
+marry,4.667,2.225,33
+marsh,4.571,1.46,35
+marshal,4.485,2.376,33
+martial,4.645,1.893,31
+marvel,5.75,1.837,32
+mask,5.818,2.181,33
+mask (cover),4.613,1.844,31
+mask (face),4.879,1.966,33
+mass,5.375,1.728,32
+mass (large number),5.364,1.997,33
+mass (religious),3.343,2.028,35
+mass (weight),5.324,1.548,34
+massacre,3.829,2.602,35
+massive,5.758,2.031,33
+mast,5.807,1.468,31
+master,6.097,3.073,31
+masturbate,5.914,1.962,35
+masturbation,6.657,1.655,35
+match,4.968,1.636,31
+match (fire),5.714,1.921,35
+match (game),5.156,1.543,32
+match (pairing),5.118,1.471,34
+matches,5.452,0.91,31
+mate,5.971,1.671,34
+mate (copulate),6.152,1.654,33
+mate (friend),6.235,2.073,34
+material,5.394,1.324,33
+mates,6.844,1.679,32
+mathematics,5.667,2.04,33
+matrix,4.563,1.657,32
+matron,4.152,1.877,33
+mattress,5.743,1.155,35
+mauve,4.909,1.19,33
+maximum,6.303,1.867,33
+maze,3.5,1.785,32
+meadow,4.794,1.745,34
+meagre,3.862,1.591,29
+mean,4.212,2.071,33
+mean (average),4.546,1.616,33
+mean (intend),6.143,2.18,35
+mean (nasty),4.727,2.365,33
+mean (stingy),3.818,1.678,33
+measles,3.091,1.764,33
+measure,5.194,1.674,31
+meat,5.971,1.404,35
+mechanic,4.912,1.652,34
+mechanism,5.543,1.537,35
+medal,6.529,1.77,34
+medallion,5.697,1.962,33
+meddle,4.941,1.679,34
+medicine,4.794,2.411,34
+medieval,4.936,1.544,31
+medium,4.971,0.453,34
+medium (intermediate),5.121,0.879,33
+medium (spiritualist),4.406,1.674,32
+meek,3.367,1.779,30
+meet,5.353,1.493,34
+meeting,5.294,1.544,34
+melody,5.794,2.22,34
+melon,5.419,1.13,31
+melt,4.324,1.387,34
+melted,4.727,2.107,33
+memoirs,5.529,1.613,34
+memory,5.457,2.102,35
+menace,5.088,2.174,34
+merchant,5.188,1.488,32
+merciful,5.543,2.033,35
+mercy,4.371,2.508,35
+mermaid,5.281,1.231,32
+merry,6.406,1.271,32
+mess,4.182,1.749,33
+message,5.543,1.273,35
+messenger,5.029,1.871,34
+messy,5.188,2.038,32
+metal,5.419,1.409,31
+methane,4.677,1.344,34
+method,5.457,1.679,35
+metre,4.758,1.256,33
+metric,5.0,1.015,33
+metropolis,5.156,2.048,32
+mice,5.387,1.62,31
+microphone,5.765,1.214,34
+microscope,6.206,1.549,34
+microwave,5.647,1.391,34
+middle,4.97,0.834,33
+midget,4.177,1.445,34
+midst,4.706,1.249,34
+midwife,4.559,2.212,34
+might,5.781,2.088,32
+might (possibly),4.714,1.936,35
+might (strength),7.375,2.103,32
+mighty,6.788,1.919,33
+mild,3.936,1.564,31
+mildew,4.667,1.035,33
+mile,5.125,1.244,32
+mileage,4.939,2.044,33
+military,4.324,2.815,34
+milk,5.091,1.781,33
+mill,4.9,1.446,30
+million,6.029,1.807,34
+millionaire,6.647,2.299,34
+mimic,5.029,1.647,35
+mind,6.355,1.617,31
+miner,4.765,1.059,34
+mingle,5.771,1.605,35
+minimum,3.636,1.888,33
+minister,5.343,1.926,35
+mink,5.0,0.916,31
+minor,3.91,1.609,67
+minority,3.618,1.956,34
+mint,5.258,1.015,31
+mint (food),5.706,1.425,34
+mint (money),6.219,2.011,32
+minute,4.765,1.816,34
+minute (small),3.818,1.783,33
+minute (time),4.5,1.937,32
+miracle,4.086,2.103,35
+miraculous,5.559,1.85,34
+mirage,3.875,1.576,32
+mirror,5.063,1.391,32
+mischief,5.765,1.949,68
+mischievous,6.441,1.928,34
+misconception,3.667,1.578,30
+miser,4.458,1.607,24
+miserable,3.147,1.611,34
+misery,3.265,1.852,34
+missile,5.233,2.276,30
+mission,6.5,1.736,34
+mistake,3.515,1.971,33
+mistress,5.118,2.233,34
+mob,4.091,2.379,33
+mobility,5.697,2.355,33
+mock,3.765,1.88,34
+mode,4.882,0.9,34
+model,5.029,1.828,35
+modest,5.265,1.379,34
+moist,4.941,1.349,34
+moisture,4.688,0.846,32
+mole,4.875,1.709,32
+mole (animal),4.514,1.381,35
+mole (skin),4.412,1.331,34
+mole (spy),4.677,1.673,31
+molecule,4.162,2.119,68
+Mom,4.813,2.404,32
+moment,5.719,1.441,32
+momentum,5.765,1.592,34
+monarch,4.818,2.668,33
+monarchy,3.807,1.941,31
+money,4.636,2.568,33
+monk,3.938,1.983,32
+monkey,5.257,0.769,35
+monster,4.273,2.39,33
+month,4.765,1.415,34
+monument,5.254,1.79,67
+mood,4.882,1.762,34
+moody,4.882,2.069,34
+moon,4.633,1.779,30
+mooring,5.107,1.145,28
+moose,4.781,0.992,32
+moral,5.909,2.137,33
+morality,6.065,1.865,31
+morbid,4.088,1.597,34
+morgue,3.091,2.109,33
+morsel,3.903,1.692,31
+mosque,3.871,1.755,31
+mosquito,4.231,1.796,65
+moss,5.242,1.256,33
+most,5.563,1.499,32
+moth,4.813,1.55,32
+mother,4.914,2.59,35
+motherfucker,6.4,1.87,35
+motion,6.143,1.457,35
+motor,5.571,1.479,35
+motorbike,6.5,1.803,32
+motorway,5.091,1.747,33
+mould,4.3,1.773,30
+mound,4.774,1.475,31
+mount,5.91,1.59,67
+mountain,5.844,1.922,32
+mountains,5.5,2.379,34
+mounted,5.094,1.893,32
+mouse,5.121,1.981,33
+mouth,5.563,1.197,32
+move,6.371,1.495,35
+movie,4.839,1.648,31
+muck,4.667,1.511,33
+mucous,4.412,1.536,34
+muddy,4.857,1.096,63
+muffin,5.563,1.321,32
+mug,5.0,1.213,34
+mug (cup),5.912,1.597,34
+mug (face),5.229,1.774,35
+mugged,2.647,1.813,34
+mule,4.879,1.482,66
+multiplication,5.206,1.53,34
+multiply,6.0,1.715,34
+Mum,4.219,1.932,32
+mumble,4.765,1.895,34
+Mummy,4.879,2.434,33
+mural,5.567,1.309,30
+murder,4.161,2.908,31
+murderer,4.143,2.779,35
+murmur,3.886,1.508,35
+muscle,6.441,2.291,34
+muscular,6.613,1.6,31
+museum,5.188,1.627,69
+mushroom,4.971,1.224,34
+mushroom (expand),5.267,1.459,30
+mushroom (food),5.088,1.422,34
+music,7.086,1.857,35
+musical,5.323,1.673,31
+musician,5.719,1.7,32
+musket,5.3,1.952,30
+musketeers,5.788,1.533,33
+mussel,4.941,1.434,34
+mustang,5.794,1.641,34
+mustard,5.364,1.226,33
+mutation,3.594,2.105,32
+mutilate,4.515,2.63,33
+mystery,4.515,2.162,33
+mystic,5.273,1.78,33
+myth,4.516,1.604,31
+mythology,5.091,1.083,33
+nail,5.548,1.266,31
+nail (finger),5.257,1.421,35
+nail (hammer),5.939,1.774,33
+naive,3.065,1.605,31
+naked,3.906,2.337,32
+name,5.543,2.195,35
+named,4.424,1.67,33
+namesake,4.625,1.635,32
+nanny,3.75,1.561,32
+narcotic,4.0,1.645,34
+narrow,3.515,1.54,33
+nasty,5.484,2.551,31
+nation,4.5,2.488,34
+national,4.844,2.063,32
+natural,5.147,2.017,34
+nature,5.194,2.162,31
+naughty,5.853,1.957,34
+nausea,3.03,1.141,33
+naval,5.294,1.724,34
+navel,4.971,1.445,34
+navy,5.0,2.376,34
+near,5.212,1.225,33
+neat,5.686,1.982,35
+necessary,4.771,1.958,35
+necessity,4.419,2.06,31
+neck,5.424,0.889,33
+necklace,6.029,1.748,35
+nectar,5.571,1.077,35
+need,3.333,2.197,33
+needle,4.486,1.826,35
+needy,3.114,1.753,35
+negative,3.735,1.82,34
+neglect,3.188,1.81,32
+neglected,2.588,1.942,34
+negotiate,6.0,1.646,31
+negotiation,6.177,2.176,34
+negotiator,6.594,2.075,32
+neighbour,5.419,1.264,31
+neon,5.114,1.166,35
+nephew,5.529,1.311,34
+nervous,2.647,1.281,34
+nest,5.136,1.623,66
+net,4.686,1.563,35
+nettle,4.061,1.632,33
+network,5.188,1.845,32
+neural,5.367,1.378,30
+neurotic,3.941,1.814,34
+neutral,4.774,1.099,31
+neutron,4.788,1.771,33
+new,5.71,1.223,31
+news,3.813,1.776,32
+nice,5.571,2.06,35
+niece,5.324,1.206,34
+night,5.375,2.073,32
+nightfall,4.469,1.952,32
+nightmare,3.294,2.383,34
+nimble,5.529,2.047,34
+nipple,5.059,1.474,34
+noise,5.324,1.64,34
+noisy,4.971,1.781,35
+nonchalant,5.5,1.991,28
+none,4.4,1.76,35
+nonsense,4.667,1.82,33
+noon,4.886,1.389,35
+noose,3.091,1.929,33
+norm,4.441,1.85,34
+nose,5.097,1.201,31
+note,5.656,1.383,32
+notebook,5.455,1.479,33
+notepad,5.697,1.507,33
+notice,5.294,1.151,34
+notion,5.567,1.202,30
+noun,4.781,1.473,32
+nourish,5.906,1.809,32
+nourishment,5.559,1.85,34
+novel,5.406,1.497,32
+novel (book),5.343,1.585,35
+novel (new),5.559,1.594,34
+novice,4.486,1.933,35
+nucleus,5.697,1.784,33
+nude,4.941,2.754,34
+nugget,4.939,1.099,33
+nuisance,4.294,1.775,34
+nun,4.3,2.1,30
+nuptials,4.897,1.918,29
+nurse,4.29,1.708,31
+nursery,4.061,1.413,33
+nurture,5.618,2.115,34
+nut,5.129,1.263,31
+nut (bolt),4.971,1.295,34
+nut (crazy person),4.324,2.232,34
+nut (food),6.0,1.59,34
+nutmeg,5.0,0.985,33
+nutrient,4.824,1.963,34
+nutrition,5.853,1.865,34
+nutritious,5.429,1.99,35
+nuts,5.471,1.46,34
+nuts (bolts),5.4,1.101,35
+nuts (crazy),3.886,2.188,35
+nuts (food),5.406,1.296,32
+nuts (testicles),5.686,1.953,35
+nylon,4.906,1.128,32
+nymph,4.769,1.25,26
+oak,5.355,1.427,31
+oath,5.029,2.121,34
+oats,4.818,1.641,33
+obedience,3.452,2.698,31
+obedient,3.0,2.326,34
+obese,4.375,2.204,32
+obesity,4.235,2.352,34
+obey,2.412,2.251,34
+object,5.2,1.19,35
+object (disagree),6.206,2.026,34
+object (thing),5.686,1.508,35
+objective,5.735,1.804,34
+oblige,4.088,2.306,34
+obliging,3.968,2.307,31
+oblivion,4.147,2.647,34
+oblivious,3.387,1.407,31
+obnoxious,5.121,2.011,33
+oboe,5.107,1.012,28
+obscene,4.647,1.78,34
+obscenity,4.882,1.997,34
+obscure,4.939,1.613,33
+observation,5.394,2.335,33
+observe,5.941,2.313,34
+obsess,3.886,2.638,35
+obsession,4.059,2.338,34
+obsessive,3.8,2.34,35
+obstacle,3.765,2.016,34
+obvious,6.029,1.562,34
+occasion,5.441,1.479,34
+occasionally,4.636,1.666,33
+occupation,5.971,1.665,35
+occupy,5.5,2.367,34
+occur,4.969,0.847,32
+occurrence,4.853,1.517,34
+ocean,3.677,1.821,31
+octopus,4.933,1.413,30
+odd,4.647,2.056,34
+odour,4.625,1.672,32
+offence,4.441,1.818,34
+offend,5.273,2.192,33
+offensive,4.875,2.26,32
+office,4.515,1.672,33
+officer,3.882,2.373,34
+offshoot,4.962,1.285,26
+oil,5.457,1.36,35
+older,5.516,2.123,31
+olive,5.485,0.989,33
+omission,4.412,1.7,34
+omit,4.906,1.568,32
+onion,5.31,1.511,29
+only,4.529,2.159,34
+onslaught,3.71,2.035,31
+open,6.909,1.64,33
+opening,5.71,1.63,31
+opinion,7.057,1.82,35
+opium,4.433,1.856,30
+opportunist,6.303,1.586,33
+opportunity,6.903,1.467,31
+oppose,6.645,1.876,31
+opposition,4.677,1.936,34
+oppress,2.765,2.567,34
+optimal,6.303,1.642,33
+optimism,7.382,1.534,34
+optimist,7.455,1.671,33
+optimistic,7.206,1.677,34
+option,5.735,1.836,34
+oral,5.314,1.652,35
+orange,5.594,1.32,32
+orange (colour),5.543,1.179,35
+orange (fruit),5.4,1.247,35
+orangutan,5.697,1.267,33
+orbit,4.29,2.067,31
+orchard,5.0,1.373,35
+orchestra,5.077,1.73,65
+ordain,5.483,1.567,29
+ordeal,3.242,1.518,33
+ordinary,4.469,1.5,32
+organ,4.8,1.621,30
+organ (liver),5.324,1.744,34
+organ (piano),5.781,1.536,32
+organise,6.576,1.875,33
+organised,7.0,2.029,34
+organism,5.059,1.97,34
+orgasm,6.324,2.111,34
+origin,4.971,1.654,34
+ornament,5.667,1.511,33
+ostrich,5.159,1.421,69
+other,4.667,1.247,33
+otter,5.171,1.028,35
+ounce,4.455,1.258,33
+outbreak,4.294,2.243,34
+outcast,2.839,1.706,31
+outcome,5.171,1.732,35
+outdoors,5.794,1.471,34
+outlook,6.375,1.596,32
+output,5.546,1.86,33
+outrage,5.6,2.381,35
+outside,5.333,1.77,33
+outsider,4.114,2.122,35
+outstanding,6.467,1.945,30
+oval,4.914,0.996,35
+oven,5.457,1.338,35
+over,5.0,1.749,34
+over (above),6.758,1.349,33
+over (cricket),5.0,1.259,29
+over (finished),4.714,2.397,35
+overcast,4.324,1.408,34
+overdose,4.152,2.548,33
+overt,6.0,1.633,30
+owl,5.485,1.158,33
+own,7.265,1.703,34
+owner,6.969,2.378,32
+ownership,7.063,1.983,32
+oxygen,5.0,2.318,35
+oyster,5.333,1.664,33
+pacifism,5.242,1.81,33
+pacifist,5.71,2.082,31
+pack,5.03,2.081,33
+pack (fill),5.265,1.379,34
+pack (group),4.941,2.612,34
+package,5.033,1.303,30
+packet,5.257,1.179,35
+pact,4.355,2.025,31
+padlock,4.382,2.223,34
+page,5.375,0.927,32
+page (call),5.515,1.794,33
+page (paper),5.355,1.714,31
+page (ward),4.696,1.159,23
+pail,4.929,1.534,28
+pain,2.912,1.652,34
+painful,3.818,2.443,33
+paint,5.441,1.701,34
+paintbrush,5.294,2.256,34
+painter,5.424,1.457,33
+pair,5.1,1.221,30
+palace,5.323,2.319,31
+pale,4.063,1.435,32
+pamphlet,4.727,1.213,33
+pan,4.849,1.54,33
+pan (camera),5.719,1.546,32
+pan (criticise),4.2,2.386,30
+pan (pot),5.606,1.434,33
+pancake,5.086,1.5,35
+panda,5.559,1.143,34
+panic,2.571,1.498,35
+panorama,5.235,2.001,34
+panther,5.543,2.169,35
+paper,5.69,1.621,29
+paperclip,4.813,1.261,32
+parachute,5.212,1.572,33
+parade,5.563,1.321,32
+paradise,6.469,2.046,32
+paradox,4.8,1.447,30
+paragraph,5.5,1.289,34
+paralyse,2.382,1.609,34
+paralysis,2.324,2.124,34
+paranoid,2.606,1.89,33
+parasite,3.382,2.072,34
+parcel,5.353,1.453,34
+parish,3.9,1.7,30
+park,5.3,1.676,30
+park (car),5.594,1.765,32
+park (public land),5.429,1.841,35
+parlour,5.032,0.897,31
+parochial,4.063,2.41,16
+parole,3.121,1.822,33
+parrot,5.182,1.336,33
+parsley,5.194,0.931,31
+part,4.886,1.063,35
+part (divide),4.618,1.609,34
+part (portion),4.697,2.007,33
+partial,4.735,1.578,34
+particular,4.857,1.759,35
+parts,4.969,1.311,32
+party,6.394,1.536,33
+party (celebration),6.543,1.794,35
+party (group),5.324,1.778,34
+pass,5.471,1.753,34
+pass (move past),5.714,1.683,35
+pass (permission),4.182,2.139,33
+pass (route),5.514,1.481,35
+passage,5.167,1.267,30
+passageway,5.0,1.749,34
+passion,6.618,1.609,34
+passionate,7.061,2.187,33
+passive,3.849,2.324,33
+pasta,5.515,1.104,33
+paste,5.333,1.385,33
+pastry,5.094,1.444,32
+patch,5.188,1.467,32
+patch (area),5.118,1.231,34
+patch (repair),5.647,1.643,34
+patent,5.412,1.611,34
+path,5.727,1.42,33
+patient,5.091,2.404,33
+patient (medical),3.529,1.929,34
+patient (tolerant),4.941,2.437,34
+patriot,6.276,2.032,29
+patrol,4.853,2.185,34
+patron,4.759,1.381,29
+pause,4.529,1.595,34
+payment,4.742,1.759,31
+payroll,4.286,2.036,35
+pea,5.313,1.13,32
+peace,6.059,1.798,34
+peaceful,6.03,2.249,33
+peach,5.265,1.29,34
+peacock,5.697,1.732,33
+peal,5.212,1.297,33
+peanut,5.188,1.236,32
+pear,4.886,1.063,35
+pearl,5.609,1.376,64
+peas,4.896,1.223,67
+pebble,5.091,1.694,33
+pecan,5.057,1.145,35
+peck,5.03,1.817,33
+peculiar,4.625,1.452,32
+peddle,5.588,1.647,34
+peek,5.088,1.721,34
+peel,5.281,1.586,32
+peep,5.0,1.626,31
+peer,5.29,1.507,31
+peer (colleague),5.212,1.572,33
+peer (look),5.114,1.753,35
+peers,4.313,1.81,32
+peg,5.235,1.33,34
+pelt,5.258,1.722,31
+pelvis,5.273,1.543,33
+pen,6.125,2.073,32
+pen (cage),3.486,1.795,35
+pen (ink),5.571,2.346,35
+penalty,3.933,2.065,30
+pence,4.829,1.183,35
+pencil,6.364,1.63,33
+penguin,5.219,0.544,32
+penicillin,5.267,1.632,30
+penis,5.771,2.269,35
+penny,4.936,1.523,31
+pension,3.75,1.765,28
+pensive,4.633,1.494,30
+penthouse,6.114,1.6,35
+people,5.457,2.359,35
+pepper,5.265,1.421,34
+pepper (black),5.471,1.5,34
+pepper (lightly cover),5.438,1.435,32
+pepper (vegetable),5.229,1.623,35
+perceive,5.971,1.404,35
+percent,5.057,1.094,35
+perception,5.657,2.042,35
+perform,6.594,1.748,32
+performance,6.588,1.682,34
+performer,5.765,1.816,34
+perfume,5.344,1.898,32
+period,4.419,1.642,31
+periodical,4.533,1.784,30
+periodical (intermittent),4.172,1.533,29
+periodical (newspaper),4.733,1.731,30
+perjury,4.035,1.65,29
+perky,6.281,1.256,32
+permanent,4.531,2.194,32
+permission,3.2,2.388,35
+perpetrator,3.938,2.164,32
+persecute,4.455,2.487,33
+persecution,3.343,2.097,35
+persist,5.971,2.229,34
+persistent,6.882,1.875,34
+person,5.471,1.311,34
+personal,5.938,2.304,32
+personality,6.0,2.222,32
+perspiration,3.971,1.558,35
+pervert,4.121,2.212,33
+pessimist,3.706,2.066,34
+pest,4.419,1.828,31
+pester,3.967,1.703,30
+pet,5.467,1.727,30
+petal,5.171,1.612,35
+petrol,4.667,1.645,33
+petty,3.8,2.095,35
+phantom,4.353,2.071,34
+pharmacist,4.485,2.076,33
+pharmacy,4.912,1.442,34
+phase,4.8,1.19,35
+pheasant,4.735,1.703,34
+phenomenal,6.314,1.769,35
+phenomenon,5.324,1.778,34
+philosophy,5.455,1.908,33
+phone,5.133,1.962,30
+photo,5.606,1.153,33
+photographer,5.484,1.604,31
+phrase,5.143,0.867,35
+physical,6.424,1.724,33
+physician,4.469,1.714,32
+physics,4.394,1.757,33
+pianist,6.029,2.065,34
+piano,5.969,1.447,32
+pick,5.594,1.518,32
+picket,4.933,1.459,30
+pickle,5.182,1.336,33
+pickle (difficulty),3.875,1.9,32
+pickle (preserve),5.156,1.149,32
+picture,5.697,1.291,33
+pie,5.429,1.536,35
+piece,5.147,1.115,34
+pier,5.267,1.063,30
+pig,5.313,1.184,32
+pigeon,5.636,1.514,33
+pile,4.882,1.388,34
+pill,4.031,1.591,32
+pillow,5.543,2.234,35
+pilot,4.939,2.411,33
+pimp,5.057,2.693,35
+pimple,3.788,1.533,33
+pin,4.909,1.443,33
+pinch,5.281,1.7,32
+pine,5.088,1.095,34
+pine (long for),3.514,1.713,35
+pine (tree/wood),5.647,1.625,34
+pineapple,5.029,1.071,34
+pink,4.686,1.769,35
+pint,5.469,1.323,32
+pint (beer),5.471,1.786,34
+pint (volume),5.147,1.593,34
+pioneer,6.242,1.843,33
+pipe,5.257,1.38,35
+pipe (tobacco),5.121,1.754,33
+pipe (water),4.857,1.175,35
+pistol,5.441,2.58,34
+piston,4.893,1.345,28
+pitch,5.3,1.215,30
+pitch (field of play),5.818,1.527,33
+pitch (musical),5.091,2.123,33
+pitch (tar),4.7,0.971,30
+pitch (throw),6.03,1.547,33
+pitiful,3.844,2.224,32
+pity,3.727,1.42,33
+pizza,5.633,1.278,30
+plain,4.618,1.164,34
+plan,6.235,1.8,34
+plane,4.559,2.103,34
+plane (aircraft),5.206,1.891,34
+plane (surface),4.939,1.205,33
+plane (wood),5.455,0.924,33
+planet,4.324,2.179,34
+plank,4.833,1.267,30
+plant,5.647,1.432,34
+plant (factory),4.618,1.456,34
+plant (flower),4.906,1.548,32
+plant (position),5.794,1.762,34
+plantation,4.367,1.449,30
+plasma,5.0,1.213,34
+plaster,5.241,1.005,29
+plaster (bandage),4.265,1.754,34
+plaster (wall),5.2,1.849,35
+plate,5.152,0.783,33
+platter,5.0,1.393,34
+play,6.765,1.646,34
+play (game),6.273,1.238,33
+play (stage performance),5.629,1.64,35
+player,5.364,1.738,33
+playful,6.743,1.295,35
+plea,3.235,1.956,34
+plead,2.727,1.863,33
+please,4.457,2.116,35
+pleasure,5.97,2.38,33
+pledge,4.706,1.672,34
+pliers,5.606,1.391,33
+plight,4.032,1.675,31
+plot,4.879,1.572,33
+plot (conspiracy),3.969,2.284,32
+plot (graph),5.656,1.513,32
+plot (land),5.242,1.741,33
+plot (story),5.286,1.322,35
+plough,5.548,1.738,31
+ploy,5.061,1.791,33
+plug,4.914,1.538,35
+plug (blockage),4.206,1.324,34
+plug (electric),5.667,1.318,33
+plum,4.882,1.078,34
+plumber,5.121,1.225,33
+plump,4.849,1.725,33
+plural,4.931,1.507,29
+poach,4.9,1.491,30
+poach (cook),5.333,1.428,33
+poach (hunt),5.438,2.193,32
+pocket,5.235,1.19,34
+poet,5.677,1.254,31
+poetry,5.229,1.725,35
+point,5.441,1.735,34
+point (argument),6.5,2.09,34
+point (finger),5.971,2.294,34
+point (location),4.941,1.552,34
+poison,4.546,2.363,33
+poisoned,3.2,2.29,35
+poke,5.343,1.286,35
+poker,5.147,1.751,34
+poker (cards),5.4,1.885,35
+poker (rod),5.031,1.723,32
+polar,5.171,1.298,35
+pole,5.424,1.596,33
+police,3.719,2.649,32
+policeman,4.794,2.888,34
+polish,5.5,1.595,34
+polite,5.156,2.002,32
+politician,4.849,2.572,33
+poll,4.849,1.579,33
+pollute,3.844,1.734,32
+pollution,3.382,1.572,34
+polyester,4.818,1.403,33
+ponce,4.667,1.518,24
+pond,5.235,1.307,34
+pony,5.529,1.519,34
+poodle,5.171,1.781,35
+pool,5.206,1.346,34
+pool (billiards),5.546,1.689,33
+pool (shared),4.677,1.23,34
+pool (water),5.118,1.728,34
+poor,3.313,1.667,32
+pope,4.086,2.103,35
+population,4.5,1.837,32
+pork,5.5,1.289,34
+porpoise,5.0,0.903,27
+port,4.886,0.622,35
+port (harbour),4.969,0.918,32
+port (wine),5.824,1.382,34
+portal,4.941,1.714,34
+porter,4.719,1.305,32
+portion,4.677,1.905,34
+portrait,5.242,1.303,33
+position,5.4,1.87,35
+positive,6.324,1.921,34
+possess,5.441,2.569,34
+possession,5.886,2.539,35
+possessive,4.909,2.978,33
+post,5.0,1.163,34
+post (mail),4.906,1.627,32
+post (pole),5.452,1.187,31
+post (position),5.774,1.827,31
+poster,4.971,1.464,35
+postman,5.091,0.996,33
+posture,6.177,1.504,34
+pot,5.303,1.425,33
+pot (drugs),4.531,2.385,32
+pot (pan),5.429,0.965,35
+potato,5.353,1.57,34
+potent,6.333,1.918,33
+pottery,5.31,1.054,29
+poultry,4.941,1.514,34
+pound,5.333,1.787,33
+pound (dogs),4.029,1.543,34
+pound (hammer),6.343,2.242,35
+pound (money),4.906,2.156,32
+pound (weight),5.514,1.948,35
+poverty,3.156,2.108,32
+power,7.242,2.283,33
+powerful,7.938,1.435,32
+powerless,1.941,1.514,34
+practical,6.758,1.181,33
+practice,6.529,1.959,34
+prairie,4.931,1.507,29
+praise,6.0,1.925,34
+pram,5.121,1.771,33
+prawn,4.686,1.166,35
+pray,4.152,2.245,33
+prayer,4.343,2.216,35
+precise,6.5,1.696,32
+predicament,3.324,1.843,34
+preface,4.818,1.029,33
+prefix,4.686,0.949,35
+premium,5.818,2.022,33
+present,5.576,1.518,33
+present (gift),5.667,1.837,33
+present (show),6.382,1.956,34
+president,5.469,2.773,32
+pressure,3.706,2.32,34
+prestige,6.219,2.011,32
+pretty,6.091,2.006,33
+pretzel,5.371,1.123,35
+prevent,5.147,2.074,34
+preview,5.343,1.17,35
+prick,5.0,2.06,33
+prick (dick),4.879,1.981,33
+prick (stab),4.543,1.872,35
+pride,6.794,2.041,34
+pride (feeling),7.097,2.022,31
+pride (lions),5.273,2.378,33
+primal,5.656,2.38,32
+primary,4.818,1.749,33
+prince,5.063,2.249,32
+princess,5.029,2.189,34
+print,5.25,1.09,32
+prior,4.807,0.931,31
+prison,2.344,1.864,32
+prisoner,2.606,2.029,33
+privacy,5.677,2.31,34
+private,5.543,2.182,35
+prize,6.567,1.585,30
+probe,5.484,2.062,31
+process,5.0,1.863,34
+process (modify),5.471,1.974,34
+process (procedure),5.618,1.863,34
+process (understand),6.088,1.669,34
+procession,4.853,1.665,34
+product,4.771,1.658,35
+production,5.943,1.548,35
+profession,6.333,1.918,33
+professional,7.0,1.568,35
+professor,5.353,2.287,34
+profile,5.303,1.193,33
+profit,6.029,1.886,34
+profound,5.735,2.214,34
+programme,4.781,1.495,32
+progress,6.531,1.561,32
+progression,6.281,1.505,32
+project,5.281,1.841,32
+project (enterprise),6.206,1.728,34
+project (protrude),5.441,1.594,34
+projector,5.629,1.173,35
+prolong,4.235,1.33,34
+promote,6.546,1.671,33
+promotion,6.588,2.045,34
+prone,3.813,1.488,32
+pronoun,4.771,1.853,35
+proof,5.625,1.728,32
+proper,5.156,2.167,32
+property,5.559,1.769,34
+prophet,4.8,2.104,30
+propose,6.559,1.701,34
+proprietor,5.448,1.428,29
+prose,5.118,1.43,34
+prosecute,4.303,2.552,33
+prosecution,3.879,2.447,33
+prosecutor,4.588,2.669,34
+prosper,6.75,1.5,32
+prosperity,6.882,1.859,34
+prosperous,6.485,1.743,33
+prostitute,4.086,2.075,35
+protect,6.457,2.169,35
+protected,4.971,2.572,34
+protection,4.914,2.442,35
+protest,6.939,1.874,33
+proud,7.03,1.557,66
+prove,5.657,2.083,35
+provide,6.424,1.371,33
+proxy,4.68,1.157,25
+prudent,4.839,2.049,31
+prune,4.394,1.301,33
+prune (fruit),5.485,1.69,33
+prune (trim),5.677,1.821,31
+psychiatrist,4.594,2.134,32
+psychologist,4.4,2.059,35
+psychology,4.677,1.604,34
+psychopath,4.0,2.575,35
+psychotic,3.364,2.267,33
+public,4.818,1.833,33
+pudding,4.629,1.658,35
+puffin,5.265,1.596,34
+puke,3.065,1.458,31
+pull,5.457,2.033,35
+pull (attratcion),5.424,2.362,33
+pull (drag),5.118,2.026,34
+pulley,5.172,1.464,29
+pulpit,4.448,1.993,29
+pulse,5.206,1.952,34
+pulse (e.g. beans),5.194,1.857,31
+pulse (heartbeat),5.147,2.158,34
+pump,5.882,1.997,34
+pumpkin,5.412,1.166,34
+pumps,4.971,1.295,34
+pumps (equipment),4.886,1.41,35
+pumps (shoes),5.794,1.451,34
+punch,6.156,2.078,32
+punch (drink),5.2,1.721,35
+punch (strike),5.97,2.588,33
+pungent,4.853,1.498,34
+punish,3.182,2.208,33
+punishment,3.516,2.435,31
+pupil,5.156,1.787,32
+pupil (eye),5.314,1.635,35
+pupil (school),4.177,2.32,34
+puppy,6.033,1.622,30
+pure,5.97,2.329,33
+purple,5.364,1.298,33
+purse,5.125,1.536,32
+pursue,6.667,1.7,33
+pursued,4.75,2.179,32
+pursuit,6.086,2.02,35
+pus,3.813,1.333,32
+push,5.743,2.061,35
+pussy,5.588,2.171,34
+pussy (cat),5.576,2.06,33
+pussy (vagina),5.914,1.811,35
+pussy (wimp),3.029,2.107,34
+putrid,4.0,1.361,27
+puzzle,5.257,1.61,35
+puzzle (jigsaw),4.97,1.66,33
+puzzle (mystery),4.697,1.992,33
+pyramid,5.613,1.384,31
+python,4.576,1.985,33
+quack,4.382,1.534,34
+quack (charlatan),4.63,1.908,27
+quack (duck),4.971,1.124,34
+quality,5.971,2.176,34
+quantity,5.647,1.281,34
+quantum,4.182,1.8,33
+quarrel,4.941,1.731,34
+quarry,4.931,1.202,29
+quay,5.2,0.833,30
+queen,4.656,2.89,32
+queen (gay),5.118,1.795,34
+queen (king),5.333,2.716,33
+quest,6.647,1.607,34
+question,5.394,1.858,33
+queue,3.469,1.561,32
+quibble,4.688,1.379,32
+quick,6.242,1.498,33
+quiescent,4.133,1.543,15
+quiet,3.719,1.824,32
+quietly,3.788,1.966,33
+quill,5.483,1.329,29
+quit,5.194,2.799,31
+quite,4.906,1.756,32
+quitter,4.088,2.077,34
+rabbi,4.813,1.667,32
+rabbit,5.257,1.401,35
+rabies,2.875,1.833,32
+raccoon,5.265,1.196,34
+race,5.429,1.644,35
+race (colour),4.849,1.987,33
+race (contest),5.406,1.95,32
+racist,5.286,2.742,35
+racket,5.75,1.639,32
+racket (noise),4.543,2.102,35
+racket (tennis),5.452,0.874,31
+radiant,6.438,1.6,32
+radiator,5.419,1.04,31
+radio,5.844,1.277,32
+rage,5.886,2.516,35
+rail,4.697,1.337,33
+railroad,5.03,1.977,33
+rain,4.029,1.654,34
+rainbow,5.294,2.094,34
+rainforest,5.303,1.732,33
+raise,5.529,1.702,34
+raise (bring up),4.943,2.097,35
+raise (increase),5.857,1.334,35
+raise (lift),6.257,1.48,35
+raisin,5.406,1.433,32
+ranch,5.457,1.179,35
+rancid,4.065,1.933,31
+random,4.455,1.689,33
+randy,5.233,1.521,30
+range,4.813,1.446,32
+range (array),5.412,1.437,34
+range (outdoors),5.75,1.581,32
+ranger,5.121,1.066,33
+rank,6.25,2.25,32
+rank (foul),4.515,1.743,33
+rank (position),6.171,2.145,35
+rape,2.529,2.464,34
+rapist,3.114,2.412,35
+rare,5.094,1.665,32
+rare (uncommon),5.515,1.777,33
+rare (uncooked),4.849,1.131,33
+rash,3.686,1.833,35
+rash (reckless),4.875,2.247,32
+rash (skin),3.6,1.589,35
+raspberry,5.29,1.349,31
+rat,4.941,1.305,34
+rat (animal),4.807,1.674,31
+rat (inform),4.546,2.105,33
+rate,5.529,1.419,34
+rather,5.636,1.473,33
+rating,5.529,2.159,34
+ration,3.515,1.94,33
+rattle,4.909,1.525,33
+rattlesnake,3.5,1.871,32
+raven,5.581,1.561,31
+razor,5.939,1.575,33
+react,5.343,1.941,35
+reaction,5.343,1.351,35
+read,6.457,1.662,35
+real,5.343,1.723,35
+realize,5.879,1.996,33
+rear,4.714,1.322,35
+rear (behind),4.765,1.832,34
+rear (raise),4.818,1.696,33
+reason,5.546,1.94,33
+reasonable,5.583,1.738,36
+reassure,5.406,2.059,32
+reassuring,5.794,2.011,34
+rebound,4.912,1.976,34
+recall,5.781,1.672,32
+recent,5.091,1.19,33
+recital,4.939,1.825,33
+recite,5.471,1.819,34
+recognition,6.273,1.188,33
+recognize,6.303,1.467,33
+record,5.515,1.52,33
+record (information),5.229,2.044,35
+record (to register),5.258,1.458,31
+rectangle,5.171,1.363,35
+red,5.75,1.732,32
+reduce,4.706,2.051,34
+reef,4.867,1.176,30
+reel,5.161,1.05,31
+refill,5.514,1.538,35
+reflect,5.719,1.484,32
+reflection,5.909,2.109,33
+reflex,4.485,2.062,33
+refresh,5.618,1.879,34
+refreshment,5.758,1.498,33
+refrigerator,4.967,1.11,30
+refugee,2.813,1.55,32
+reggae,5.313,1.285,32
+regime,3.485,2.298,33
+region,4.941,1.514,34
+regional,4.765,1.238,34
+register,5.0,1.601,32
+regret,2.886,1.389,35
+regular,4.571,1.294,35
+regulation,3.303,2.289,33
+reindeer,5.086,1.204,35
+reject,4.333,2.531,33
+rejected,2.688,1.861,32
+relate,5.088,1.292,34
+relation,4.706,1.362,34
+relative,5.333,1.531,33
+relax,6.303,1.93,33
+relaxing,6.667,1.902,33
+relay,5.226,1.475,31
+release,6.303,1.732,33
+reliable,6.2,1.582,35
+relic,4.781,1.653,32
+relieved,5.629,1.987,35
+religion,3.647,2.531,34
+relish,6.0,1.537,33
+remark,5.118,1.711,34
+remarkable,6.529,1.867,34
+remedy,4.533,1.821,30
+remind,5.147,1.478,34
+reminder,4.727,1.543,33
+remorse,3.563,1.784,32
+remorseful,3.355,1.752,31
+remote,4.543,1.826,35
+remote (controller),6.697,1.766,33
+remote (distant),3.625,2.043,32
+rendezvous,5.967,1.538,30
+rent,3.941,1.955,34
+repel,5.333,1.918,33
+repent,4.559,2.061,34
+replace,4.719,1.328,32
+replacement,3.714,1.596,35
+report,4.829,2.118,35
+reporter,4.431,1.718,65
+reptile,5.171,1.404,35
+reptilian,4.758,1.415,33
+request,4.875,1.98,32
+rescue,5.177,2.189,34
+research,6.219,1.576,32
+researcher,5.903,1.907,31
+resent,4.441,1.897,34
+resentful,4.03,2.431,33
+resentment,4.324,2.506,34
+reserve,4.576,1.776,33
+reserved,4.273,1.847,33
+reset,5.375,1.949,32
+resident,5.0,1.951,31
+residential,4.818,1.445,33
+residual,4.241,1.194,29
+residue,4.353,1.185,34
+resign,4.4,1.977,30
+resort,5.242,1.652,33
+respect,7.0,1.645,34
+responsibility,5.758,2.462,33
+responsible,6.765,2.17,34
+rest,5.061,2.131,33
+restaurant,5.143,1.915,35
+restore,6.194,1.595,31
+retail,4.794,1.982,34
+retailer,4.563,1.638,32
+reunion,5.375,1.495,32
+reunite,5.853,1.537,34
+reverent,4.679,1.311,28
+reverse,4.467,1.056,30
+review,4.765,1.285,34
+revoke,4.515,2.105,33
+revolt,6.4,2.027,30
+revolting,4.152,1.971,33
+revolution,6.324,2.373,34
+revolve,4.938,1.6,32
+revolver,4.375,2.302,32
+reward,5.441,2.354,34
+rhapsody,5.103,1.423,29
+rheumatism,3.375,1.654,24
+rhino,5.257,1.962,35
+rhinoceros,5.594,2.289,32
+rhyme,4.886,1.368,35
+rhythm,5.727,2.064,33
+ribs,5.182,0.968,33
+rice,5.094,1.1,32
+rich,6.629,2.508,35
+riches,6.438,1.802,32
+riddle,4.594,1.497,32
+ride,5.441,1.648,34
+rider,6.063,1.519,32
+ridicule,3.059,1.924,34
+ridiculous,4.333,1.735,33
+rifle,5.529,2.354,34
+right,6.152,1.893,33
+right (correct),7.088,2.063,34
+right (left),5.559,1.397,34
+right (legal claim),6.382,2.646,34
+rigid,5.063,2.703,32
+ring,5.194,1.533,31
+ring (jewellery),5.771,1.495,35
+ring (sound),4.909,1.19,33
+ring (surround),4.265,2.133,34
+riot,5.097,2.752,31
+ripe,4.941,1.259,34
+risk,4.882,1.827,34
+risky,4.441,2.416,34
+ritual,4.576,2.202,33
+ritualistic,3.313,1.81,32
+rival,5.125,1.9,32
+river,4.912,1.579,34
+road,5.313,1.722,32
+roar,6.914,2.247,35
+robber,3.344,1.533,32
+robbery,3.771,2.269,35
+robe,4.912,1.422,34
+robin,5.343,1.013,35
+rock,5.8,1.618,35
+rocket,6.188,1.629,32
+rocket (go quickly),6.657,1.567,35
+rocket (leaves),5.853,1.849,34
+rocket (projectile),5.219,1.866,32
+rod,5.424,1.81,33
+rogue,5.406,1.783,32
+role,5.667,1.82,33
+roll,5.121,1.122,33
+roll (bread),5.226,1.408,31
+roll (turn over),5.033,1.56,30
+rollercoaster,4.324,2.41,34
+rolling,4.576,1.478,33
+romance,5.486,1.918,35
+romantic,4.971,2.256,34
+romanticize,5.618,2.156,34
+roof,5.161,1.167,31
+roofer,5.242,1.045,33
+rooster,5.515,1.559,33
+root,4.969,1.591,32
+rose,5.514,1.18,35
+rot,3.969,1.723,32
+rotten,4.147,1.801,34
+rough,5.233,1.726,30
+royal,5.581,2.46,31
+rubble,4.936,1.343,31
+ruby,5.486,1.519,35
+rude,4.853,2.031,34
+ruffle,5.303,1.586,33
+rugby,5.807,2.429,31
+ruin,4.559,2.103,34
+ruined,4.03,2.125,33
+ruler,5.323,2.488,65
+ruler (leader),5.727,3.305,33
+ruler (measure),5.143,1.496,35
+rumour,3.257,1.762,35
+run,6.429,1.932,35
+run (race),6.515,1.635,33
+run (series),5.088,1.38,34
+run (stockings),4.656,1.573,32
+run (test),4.781,1.866,32
+runner,6.242,1.518,33
+rural,5.267,1.632,30
+rust,3.943,1.97,35
+rusty,4.375,1.269,32
+sack,4.294,1.466,34
+sad,3.031,1.489,32
+sadness,3.0,1.984,31
+safe,5.719,2.154,32
+safely,5.571,2.195,35
+safety,5.324,2.111,34
+sage,5.0,1.118,32
+sage (herb),5.576,1.129,33
+sage (wise man),6.03,1.992,33
+sail,5.758,1.415,33
+sailor,5.086,1.663,35
+saint,4.7,1.952,30
+salad,5.267,1.526,30
+salary,4.788,2.199,33
+sale,5.645,1.676,31
+salmon,5.029,1.465,34
+saloon,4.833,1.067,30
+salsa,5.406,1.32,32
+salt,5.171,1.341,35
+salty,5.188,0.95,32
+salutation,5.7,1.81,30
+salute,5.303,2.209,33
+salvage,6.031,2.008,32
+salvaged,5.088,2.133,34
+same,4.818,0.672,33
+sandals,5.706,1.425,34
+sandwich,5.118,1.586,34
+sane,6.029,2.104,35
+sanity,5.714,2.711,35
+sapphire,5.424,1.596,33
+satire,5.303,1.425,33
+satisfaction,6.206,1.906,34
+satisfied,6.688,1.895,32
+sauce,5.333,1.247,33
+sauna,4.941,1.924,34
+sausage,5.455,1.281,33
+savant,5.75,1.614,24
+saviour,5.031,2.555,32
+saxophone,5.177,1.524,34
+scab,4.438,1.413,32
+scald,3.969,1.425,32
+scale,4.971,1.295,34
+scale (fish),5.206,1.389,34
+scale (magnitude),5.029,1.92,35
+scale (musical),5.647,1.532,34
+scale (weighing),4.688,2.338,32
+scalp,5.156,1.149,32
+scalpel,5.382,1.627,34
+scandal,4.324,2.219,34
+scapegoat,3.419,1.774,31
+scar,4.743,1.887,35
+scarce,3.758,1.558,33
+scare,3.677,1.614,31
+scarecrow,5.2,1.558,30
+scared,2.606,1.874,33
+scarf,5.129,1.54,31
+scarlet,5.943,1.351,35
+scars,4.0,1.553,34
+scary,3.406,1.748,32
+scent,5.594,1.8,32
+sceptic,5.294,2.19,34
+sceptical,4.818,2.167,33
+scheme,5.242,1.303,33
+scholar,6.059,1.846,34
+school,3.765,2.237,34
+science,5.618,2.072,34
+scientific,5.882,2.166,34
+scientist,5.818,2.096,33
+scissors,5.543,1.518,35
+scoop,4.906,1.548,32
+scooter,5.727,1.262,33
+scope,4.69,1.206,29
+scorch,4.697,1.642,33
+score,5.355,1.381,31
+scored,5.839,1.868,31
+scorn,4.129,1.913,31
+scorpion,4.829,1.444,35
+scrap,5.0,1.458,32
+scream,4.912,2.582,34
+screaming,4.156,2.347,32
+screw,5.059,1.474,34
+screw (builder),5.563,1.694,32
+screw (sex),5.25,2.264,32
+screwdriver,6.2,1.41,35
+script,4.727,1.879,33
+scrum,5.387,1.64,31
+scum,4.118,1.952,34
+scurvy,3.438,2.091,32
+sea,4.206,1.952,34
+seahorse,5.364,1.648,33
+seal,4.903,1.766,31
+seal (animal),5.265,1.066,34
+seal (close),5.625,1.536,32
+seasick,3.147,1.865,34
+season,4.938,1.059,32
+season (add spice),6.206,1.549,34
+season (period of time),4.441,1.575,34
+seasonal,4.177,1.79,34
+seasonings,5.576,1.615,33
+seat,4.939,1.74,33
+second,4.765,1.238,34
+second (position),5.0,1.91,34
+second (unit of time),4.314,1.753,35
+secretary,4.657,1.739,35
+section,4.686,0.887,35
+sector,4.939,1.74,33
+secure,5.457,2.76,35
+sediment,4.697,1.058,33
+seduce,6.061,2.159,33
+seduction,6.29,2.051,31
+seed,5.656,1.314,32
+seek,5.125,1.615,32
+seesaw,4.606,1.254,33
+seize,6.212,2.52,33
+seldom,3.968,1.787,31
+select,6.529,1.311,34
+select (choose),6.875,1.763,32
+select (elite),5.375,2.497,32
+selection,5.853,1.833,34
+selfish,5.412,2.475,34
+sell,6.235,1.716,34
+semester,3.844,1.752,32
+send,5.667,1.45,33
+senior,5.323,1.873,31
+sensation,5.5,2.118,34
+sensational,6.333,1.491,33
+sense,6.029,1.828,35
+sense (common),6.25,1.837,32
+sense (feel),5.914,2.247,35
+sensible,6.032,2.117,31
+sensitive,3.455,1.559,33
+sensual,6.344,1.67,32
+sentence,5.194,1.712,31
+sentence (phrase),5.229,1.098,35
+sentence (prison),2.455,1.653,33
+sentiment,5.424,1.724,33
+sentimental,4.588,2.184,34
+septic,3.667,1.804,33
+serene,5.6,2.107,30
+series,4.657,1.12,35
+serious,5.849,1.598,33
+sermon,4.212,2.071,33
+serve,3.629,2.166,35
+serve (perform duties),3.364,2.397,33
+serve (tennis),6.114,1.737,35
+service,4.697,1.679,33
+services,4.636,1.432,33
+session,4.606,1.301,33
+set,5.314,1.833,35
+set (determined),6.818,2.249,33
+set (group),4.849,1.184,33
+set (solidify),5.424,1.371,33
+setback,3.636,1.823,33
+settle,4.886,1.997,35
+settlement,4.971,1.671,34
+several,5.029,1.183,35
+severe,4.559,2.089,34
+sew,4.879,1.387,33
+sewer,3.971,1.445,34
+sex,6.03,1.867,33
+sex (gender),4.657,2.484,35
+sex (intercourse),6.323,1.73,31
+sexual,6.686,2.095,35
+sexy,6.625,2.342,32
+shade,5.294,1.151,34
+shade (out of the sun),4.969,1.686,32
+shade (tint),5.371,1.456,35
+shadow,4.303,1.487,33
+shaft,4.774,1.621,31
+shake,5.406,2.09,32
+shaky,3.313,1.488,32
+shallow,4.147,1.593,34
+shame,3.059,1.893,34
+shameful,3.394,1.938,33
+shampoo,5.469,1.52,32
+shape,5.212,1.365,33
+share,5.529,1.667,34
+shark,4.358,2.348,67
+sharp,5.313,2.068,32
+sharp (blade),4.971,2.547,35
+sharp (smart),7.303,1.527,33
+sharpen,6.257,1.662,35
+shave,5.606,1.74,33
+shawl,4.613,1.452,31
+shear,4.75,1.392,32
+sheep,4.226,2.075,31
+sheepskin,5.063,1.368,32
+sheer,4.788,1.552,33
+sheer (thin),4.091,1.798,33
+sheer (utter),4.767,1.745,30
+shelf,5.258,1.135,31
+shell,4.281,1.546,32
+shell (military),5.636,2.144,33
+shell (sea),5.152,1.209,33
+shelter,5.143,1.807,35
+sherry,4.677,1.202,31
+shield,5.824,1.886,34
+shine,6.057,1.706,35
+shiny,5.5,1.335,30
+ship,5.758,1.393,33
+ship (boat),4.912,2.035,34
+ship (transport),5.177,1.15,34
+ships,5.5,1.458,32
+shirt,5.6,1.405,30
+shit,5.171,2.131,35
+shock,3.667,1.35,30
+shocking,4.419,2.06,31
+shoe,5.219,1.243,32
+shoes,5.871,1.263,31
+shoot,6.394,2.373,33
+shoot (film),5.419,1.13,31
+shoot (gun),6.088,2.594,34
+shoot (plant),5.0,1.138,34
+shooting,5.438,2.657,32
+shore,4.765,1.395,34
+short,3.469,1.5,32
+shortage,3.758,1.859,33
+shot,4.909,2.021,33
+shot (gun),4.171,2.524,35
+shot (injection),4.486,1.933,35
+shotgun,4.543,2.655,35
+show,5.857,1.417,35
+shrew,4.719,1.79,32
+shrewd,5.029,1.993,35
+shriek,4.677,2.111,34
+shrill,4.333,1.35,30
+shrimp,4.97,1.642,33
+shroud,3.9,1.165,30
+shrug,5.353,1.588,34
+shudder,3.939,1.969,33
+shuddering,3.939,1.496,33
+shy,2.807,1.446,31
+sick,3.25,1.436,32
+sick (disgusting),4.706,1.582,34
+sick (ill),2.971,1.902,34
+sickness,2.286,1.11,35
+sigh,4.412,1.629,34
+signal,5.265,1.804,34
+silence,4.735,2.279,34
+silent,4.171,2.624,35
+silk,5.469,2.0,32
+silly,5.233,1.874,30
+simmer,5.286,1.385,35
+simple,5.781,1.452,32
+sin,4.625,2.421,32
+sincere,5.765,1.941,34
+sing,6.313,1.57,32
+singer,5.147,1.927,34
+singular,5.588,1.7,34
+sinister,4.0,2.179,32
+sink,4.633,1.538,30
+sink (dishes),4.781,1.727,32
+sink (go down),3.818,2.467,33
+sins,4.121,2.185,33
+sissy,3.8,1.687,35
+sister,5.257,1.556,35
+sit,5.588,1.957,34
+situation,4.486,1.991,35
+skeleton,5.0,1.595,33
+sketch,5.412,1.309,34
+sketch (drawing),5.629,1.758,35
+sketch (play),5.394,1.205,33
+ski,5.618,1.715,34
+skiing,5.625,1.615,32
+skijump,5.486,1.977,35
+skill,6.719,1.908,32
+skilled,7.206,1.711,34
+skin,5.3,1.345,30
+skinny,4.147,1.927,34
+skirt,5.515,1.743,33
+skirt (clothes),5.486,1.381,35
+skirt (go around),5.029,1.671,34
+skis,5.182,1.898,33
+skull,5.188,1.285,32
+skunk,4.727,1.638,33
+sky,4.265,2.266,34
+skyline,5.0,1.749,34
+skyscraper,5.229,2.368,35
+slab,5.182,1.678,33
+slack,4.941,1.349,34
+slap,5.188,2.555,32
+slash,4.939,2.282,33
+slaughter,5.0,2.817,31
+slaughterhouse,4.314,2.649,35
+slave,2.27,2.169,63
+sleek,5.909,1.288,33
+sleep,5.485,2.664,33
+sleepy,3.353,1.643,34
+slide,5.088,1.821,34
+slight,4.125,1.023,32
+slight (little),4.4,1.534,35
+slight (offend),4.706,1.672,34
+slime,4.25,1.09,32
+slimy,4.371,1.758,35
+slip,3.943,1.756,35
+slip (mistake),3.394,1.391,33
+slip (notepaper),4.886,1.389,35
+slip (slide),4.0,1.815,34
+slippers,4.909,1.676,33
+slippery,3.97,1.834,33
+slope,4.147,2.13,34
+slow,3.469,1.541,32
+slug,4.567,1.944,30
+slug (hit),4.909,1.73,33
+slug (insect),5.875,1.746,32
+sluggish,4.303,2.037,33
+slum,3.688,2.053,32
+slump,4.636,1.534,33
+slush,4.636,0.979,33
+small,3.914,2.222,35
+smallpox,3.412,1.881,34
+smart,7.091,1.781,33
+smart (intelligent),6.559,2.017,34
+smart (well-dressed),6.857,2.282,35
+smash,5.938,2.076,32
+smear,5.0,1.531,35
+smell,3.97,1.403,33
+smelly,4.455,1.777,33
+smile,6.839,1.394,31
+smiling,6.353,2.113,34
+smoke,4.438,1.919,32
+smoker,3.514,2.31,35
+smooth,5.4,1.989,35
+snack,5.441,1.459,34
+snail,4.9,1.3,30
+snake,5.257,2.047,35
+snaked,4.355,1.733,31
+snap,5.531,1.541,32
+snapped,4.364,1.755,33
+snatch,4.968,1.892,31
+snob,5.182,1.678,33
+snort,5.029,1.444,35
+snow,4.912,1.946,34
+snowman,6.206,1.605,34
+snuggle,5.242,2.031,33
+soak,4.853,1.629,34
+soar,6.612,1.727,67
+sob,3.371,1.569,35
+sober,6.508,1.993,65
+sobriety,4.724,2.148,29
+social,6.194,2.039,31
+socialist,5.188,2.083,32
+society,4.424,2.413,33
+sock,5.563,1.478,32
+sock (clothes),5.906,1.548,32
+sock (hit),5.281,1.972,32
+sofa,5.588,1.458,34
+soft,5.029,1.963,34
+softly,4.882,1.811,34
+soil,5.235,1.535,34
+soil (earth),5.382,1.591,34
+soil (mess up),3.686,1.982,35
+solar,4.697,1.867,33
+soldier,4.161,2.438,31
+sole,5.294,1.383,34
+sole (fish),4.788,1.273,33
+sole (only),5.333,2.127,33
+sole (shoe),5.063,1.248,32
+solemn,3.5,1.561,32
+solid,5.853,1.683,34
+solution,6.706,1.506,34
+solution (answer),6.758,1.907,33
+solution (chemical),4.882,1.694,34
+son,5.886,2.081,35
+sonar,5.233,1.283,30
+song,5.706,1.637,34
+sonic,5.567,1.499,30
+sonnet,5.0,1.348,33
+soothe,5.571,2.018,35
+soothing,4.571,2.182,35
+sore,3.546,1.597,33
+sorrow,3.6,2.114,35
+soul,5.394,2.088,33
+soup,5.824,1.424,34
+sour,4.543,1.627,35
+source,5.429,1.536,35
+sovereign,5.467,2.187,30
+sow,5.419,1.622,31
+soya,4.818,1.527,33
+spa,5.807,1.874,31
+space,4.457,2.272,35
+space (galaxies),3.912,2.344,34
+space (room),5.171,1.483,35
+spaceship,5.382,1.749,34
+spade,5.533,1.431,30
+spade (cards),5.364,1.573,33
+spade (shovel),5.324,1.509,34
+spank,5.029,2.803,35
+spanner,5.581,1.498,31
+spark,5.629,1.958,35
+sparkle,5.818,1.623,33
+speak,6.824,1.671,34
+speaker,6.129,1.211,31
+speaker (amplifier),5.743,1.574,35
+speaker (orator),6.091,1.99,33
+spear,5.879,2.143,33
+special,6.088,1.652,34
+speciality,6.265,1.787,34
+spectacular,6.818,1.381,33
+speech,6.882,1.567,34
+speed,6.933,1.093,30
+speedy,6.235,1.956,34
+spell,5.441,1.612,34
+spell (alphabet),5.657,1.788,35
+spell (magical),5.457,2.383,35
+spell (time period),5.0,1.576,33
+spelling,5.314,1.469,35
+sperm,5.765,2.426,34
+sphere,5.344,1.107,32
+spherical,4.818,0.968,33
+spider,5.03,1.732,33
+spin,5.912,1.837,34
+spinach,4.97,1.487,33
+spine,5.697,1.547,33
+spire,5.281,1.397,32
+spirit,6.091,2.021,33
+spirit (drink),5.118,1.997,34
+spirit (ghost),4.118,2.097,34
+spirit (intention),6.714,1.631,35
+spirit (soul),5.853,2.277,34
+spit,5.5,2.062,34
+split,4.086,1.339,35
+sponge,5.171,1.699,35
+sponsor,4.903,1.653,31
+spooky,4.129,1.718,31
+spoon,5.813,1.488,32
+sport,6.029,1.844,35
+sports,5.656,1.632,32
+spot,4.5,0.992,30
+spot (pimple),3.882,1.549,34
+spot (stain),4.581,1.101,31
+spouse,5.257,1.537,35
+spray,5.206,1.158,34
+spread,5.441,1.479,34
+spread (food),5.206,1.231,34
+spread (open),5.2,1.77,35
+spree,5.931,1.76,29
+spring,5.618,1.553,34
+spring (coil),4.971,1.543,34
+spring (jump),5.429,1.573,35
+spring (season),5.343,2.124,35
+spur,5.552,1.452,29
+spurs,5.242,1.558,33
+squad,5.382,1.783,34
+square,4.906,1.234,32
+squash,5.543,1.746,35
+squash (crush),4.8,2.149,35
+squash (sport),5.531,1.323,32
+squash (vegetable),5.029,1.298,35
+squat,5.059,2.014,34
+squat (crouch),4.636,1.514,33
+squat (short),4.588,1.375,34
+squeeze,5.697,2.222,33
+squid,5.125,1.293,32
+squirrel,5.114,1.582,35
+stab,4.059,2.566,34
+stack,5.344,1.079,32
+stadium,5.229,1.587,35
+staff,3.879,1.701,33
+staff (stick),6.03,1.962,33
+staff (workforce),4.647,2.071,34
+stag,5.897,1.826,29
+stage,5.333,1.739,30
+stagecoach,4.818,1.585,33
+stagnant,3.857,1.355,28
+stain,4.412,1.298,68
+stake,5.177,1.562,34
+stake (investment),4.943,1.897,35
+stake (wooden),5.387,1.735,31
+stale,4.333,1.193,30
+stall,4.824,0.821,34
+stall (hesitate),3.818,1.29,33
+stall (kiosk),4.968,1.636,31
+stallion,5.941,1.697,34
+stammer,3.133,1.056,30
+stamp,5.161,1.416,31
+stance,6.529,1.959,34
+stand,6.323,1.446,31
+staple,5.471,1.169,34
+staple (mainstay),4.936,1.19,31
+staple (stationery),5.114,1.237,35
+stapler,5.765,1.733,34
+star,5.382,1.925,34
+star (celebrity),5.485,2.217,33
+star (sky),5.086,1.795,35
+stare,4.656,1.796,32
+starfish,5.697,1.623,33
+stark,4.871,1.601,31
+start,6.548,1.364,31
+startle,3.677,1.727,34
+starve,3.429,2.233,35
+starving,3.0,1.891,33
+statue,5.441,1.479,34
+status,5.971,2.007,34
+statute,5.067,1.861,30
+stay,4.829,1.715,35
+steak,6.065,1.564,31
+steal,5.97,2.329,33
+stealth,6.0,1.826,33
+steam,5.031,1.38,32
+steel,5.455,1.76,33
+steep,4.262,1.659,61
+steer,5.706,2.022,34
+steer (cows),5.407,1.79,27
+steer (direct),6.645,2.056,31
+stem,5.343,1.218,35
+stem (origin),4.71,1.169,31
+stem (plant),5.294,1.486,34
+stench,4.387,1.407,31
+stereotype,3.618,2.044,34
+stern,5.242,2.089,33
+stern (attitude),5.531,2.692,32
+stern (ship),5.182,1.833,33
+steroids,5.161,2.172,31
+stethoscope,5.29,2.158,31
+steward,4.364,2.101,33
+stick,5.313,1.379,32
+stick (glue),5.029,1.665,35
+stick (thin piece of wood),4.686,1.526,35
+sticky,4.543,1.48,35
+stiff,4.765,1.516,34
+sting,4.029,1.797,35
+stingy,3.625,1.516,32
+stink,4.829,1.576,35
+stir,5.485,1.579,33
+stir (cook),5.438,1.435,32
+stir (make trouble),6.333,2.055,33
+stir (move),6.314,1.939,35
+stock,4.781,1.672,32
+stock (finance),4.156,2.002,32
+stock (inventory),5.588,1.555,34
+stock (soup),5.581,1.071,31
+stolen,4.0,2.236,34
+stomach,4.882,1.529,34
+stone,5.29,1.083,31
+stone (rock),5.629,1.569,35
+stone (weight),5.156,1.603,32
+stool,5.375,1.139,32
+stool (chair),4.912,1.597,34
+stool (faeces),4.265,1.975,34
+stop,4.333,2.844,30
+storage,5.571,1.379,35
+store,5.3,0.586,30
+store (put away for future),5.697,2.007,33
+store (shop),4.971,1.505,34
+storeroom,4.839,1.167,31
+storm,4.088,2.683,34
+story,6.031,1.425,32
+stout,4.515,1.282,33
+stove,5.706,1.758,34
+strain,3.618,1.91,34
+strand,4.257,1.36,35
+strange,4.353,1.234,34
+stranger,4.246,1.714,69
+strangle,4.242,2.882,33
+strap,4.6,1.824,35
+straw,4.849,1.351,33
+straw (drinking),4.971,1.444,35
+straw (hay),5.182,1.882,33
+strawberry,5.548,1.24,31
+stray,4.636,1.685,33
+streak,5.714,1.161,35
+stream,5.0,1.863,34
+street,5.152,1.077,33
+strength,7.576,1.28,33
+stress,3.059,1.846,34
+stressful,3.438,2.358,32
+stretch,5.323,1.329,31
+strict,3.875,2.484,32
+strictly,4.0,2.128,34
+stride,6.824,1.445,34
+strife,3.871,1.661,31
+strike,5.697,2.096,33
+strike (hit),5.882,2.709,34
+strike (picket),5.697,1.834,33
+string,4.914,1.68,35
+strip,5.161,1.526,31
+strip (naked),5.686,2.765,35
+strip (narrow piece),4.529,1.311,34
+strip (street),4.849,1.258,33
+stripper,4.781,2.088,32
+stroke,4.143,2.113,35
+stroke (brain),2.636,2.042,33
+stroke (pet),6.088,2.306,34
+stroll,5.971,1.599,34
+strong,7.618,1.783,34
+struggle,3.0,1.627,34
+stubble,5.743,1.518,35
+stuck,3.457,1.826,35
+student,5.857,1.807,35
+study,5.206,2.386,34
+stumble,3.419,1.185,31
+stupid,3.455,1.653,33
+style,5.943,1.897,35
+stylish,6.029,2.189,34
+subdue,3.813,2.157,32
+subject,4.697,1.425,33
+subjective,4.714,1.965,35
+sublime,5.613,1.946,31
+submarine,4.594,1.711,32
+substance,5.5,1.479,32
+substantial,6.364,1.473,33
+substitute,4.455,1.559,33
+subtle,4.882,1.529,34
+subtract,4.647,1.432,34
+suburb,4.25,1.768,32
+suburbs,4.25,1.479,32
+success,7.588,1.375,34
+successful,7.091,1.929,33
+suffer,2.941,2.1,34
+suffering,3.235,1.956,34
+suffix,4.9,1.599,30
+suffocate,2.969,2.084,32
+sugar,5.097,1.672,31
+suicidal,4.057,2.868,35
+suicide,4.25,2.84,32
+suit,5.5,1.959,34
+suit (legal),4.8,1.939,30
+suit (playing cards),5.212,1.472,33
+suit (special clothes),6.515,1.725,33
+suit (to be fit for),5.656,1.914,32
+suitcase,5.706,1.34,34
+sulk,3.647,1.78,34
+sulky,4.273,1.523,33
+sulphur,4.97,0.969,33
+sultan,5.355,2.041,31
+summary,5.2,1.064,35
+summer,5.371,1.914,35
+sun,5.758,2.132,33
+sunburn,4.0,2.056,35
+sunk,3.788,1.683,33
+sunlight,5.121,1.996,33
+sunny,5.706,2.269,34
+sunrise,5.5,2.136,32
+sunset,4.824,2.294,34
+sunshine,6.094,2.082,32
+super,6.938,1.676,32
+superb,7.156,1.349,32
+supermarket,5.059,1.662,34
+supplication,4.9,1.375,20
+support,5.143,2.002,35
+supportive,6.0,1.663,34
+suppress,3.559,2.199,34
+suppression,3.0,1.67,33
+supreme,6.853,2.475,34
+sure,7.118,1.451,34
+surf,5.533,1.408,30
+surf (breaking waves),5.743,1.713,35
+surf (riding waves),5.688,2.186,32
+surfer,5.529,1.576,34
+surge,6.3,1.636,30
+surgeon,4.324,2.517,34
+surgery,3.849,2.376,33
+surplus,5.029,2.242,34
+surprise,3.647,1.713,34
+surprising,5.088,1.522,34
+surrender,2.813,2.053,32
+surveyor,4.839,1.78,31
+survive,6.147,2.328,34
+survivor,6.97,1.8,33
+suspect,4.152,1.743,33
+suspend,3.912,1.616,34
+suspended,3.429,2.004,35
+suspension,4.143,1.929,35
+suspicion,3.914,1.842,35
+sustain,6.03,1.732,33
+sustenance,4.939,2.088,33
+swamp,4.686,1.489,35
+swan,5.743,2.089,35
+swarm,4.455,1.876,33
+sway,4.647,1.661,34
+sweat,4.735,2.077,34
+sweater,5.071,0.961,28
+sweatshirt,5.242,1.181,33
+sweaty,4.219,2.011,32
+sweep,5.758,1.615,33
+sweeper,5.281,1.231,32
+sweet,5.206,1.471,34
+sweet (nice),5.559,1.538,34
+sweet (sugar),4.914,2.075,35
+sweetheart,4.765,2.059,34
+sweets,5.636,1.997,33
+swift,5.771,1.289,35
+swift (bird),5.697,1.732,33
+swift (quick),5.774,1.995,31
+swim,6.086,1.73,35
+swimmer,5.485,1.395,33
+swimming,6.094,1.284,32
+swindle,4.767,2.171,30
+swing,5.677,1.28,31
+sword,6.212,1.996,33
+syllable,5.03,1.058,33
+symbol,5.576,1.793,33
+sympathy,5.177,2.189,34
+symphony,5.03,1.784,33
+symptom,3.265,1.4,34
+synagogue,4.353,1.625,34
+syphilis,3.233,1.82,30
+syringe,3.645,1.91,31
+system,4.265,2.133,34
+table,5.033,1.14,30
+table (chart),5.229,1.197,35
+table (desk),5.206,0.994,34
+tablespoon,5.303,1.66,33
+taboo,4.118,1.952,34
+tact,5.182,1.914,33
+tail,5.281,0.838,32
+take,6.636,1.738,33
+tale,6.029,1.671,34
+talent,6.606,1.687,33
+talented,6.912,1.652,34
+tall,6.406,2.029,32
+tame,4.485,2.19,33
+tamper,5.057,1.926,35
+tandem,4.214,1.176,28
+tangerine,5.486,1.746,35
+tango,5.355,1.514,31
+tango (dance),6.515,1.811,33
+tango (drink),5.636,1.096,33
+tank,4.914,2.677,35
+tank (army),4.406,2.935,32
+tank (fish),5.171,1.576,35
+tank (storage),5.121,1.32,33
+tanker,5.267,2.235,30
+tape,4.909,1.311,33
+taper,4.704,0.853,27
+tapestry,5.441,1.241,34
+tarantula,4.4,1.711,35
+target,5.455,2.244,33
+tariff,4.559,1.818,34
+taser,4.258,2.77,31
+taste,5.849,1.672,33
+tasty,5.971,1.823,34
+taught,5.194,1.767,31
+taxi,4.968,1.379,31
+teach,6.121,1.855,33
+teacher,4.219,2.19,32
+team,5.516,1.794,31
+tease,5.0,2.016,32
+teasing,4.735,2.133,34
+teaspoon,5.143,1.291,35
+technical,4.788,1.754,33
+technicality,4.429,1.695,35
+technician,5.031,1.38,32
+tedious,4.0,1.97,34
+teeth,5.233,1.82,30
+telephone,5.486,2.034,35
+telescope,5.546,1.104,33
+television,5.353,1.747,34
+temerity,4.333,2.055,15
+tempest,4.654,1.753,26
+temple,4.735,2.266,34
+temple (forehead),5.516,1.16,31
+temple (worship),4.424,2.629,33
+tempo,5.4,1.2,35
+tempt,4.735,2.393,34
+temptation,4.353,2.35,34
+tendency,4.938,1.56,32
+tender,4.758,2.475,33
+tender (sensitive),4.429,1.975,35
+tender (soft),5.324,2.323,34
+tennis,5.636,1.41,33
+tense,4.094,1.99,32
+tense (strained),3.97,2.153,33
+tense (verb),4.727,1.675,33
+tension,4.065,1.74,31
+tent,5.429,1.46,35
+tepid,4.742,1.502,31
+termite,4.971,1.74,34
+terrible,3.871,2.136,31
+terrific,6.886,1.669,35
+terrify,3.882,2.494,34
+terrifying,3.857,2.799,35
+terror,3.118,2.18,34
+terrorist,4.294,2.855,34
+test,4.343,2.137,35
+text,5.571,1.42,35
+text (phone message),5.914,1.795,35
+text (written work),5.485,1.743,33
+texture,5.286,1.161,35
+thank,5.355,1.381,31
+thankful,6.212,2.129,33
+thanks,5.818,1.8,33
+theatre,5.419,1.498,31
+theatrical,5.882,1.922,34
+thematic,5.044,1.16,23
+theme,5.129,1.737,31
+theologian,5.214,1.372,28
+theology,3.939,1.722,33
+theoretical,4.75,1.785,32
+theory,5.286,1.766,35
+therapist,4.0,2.058,34
+therapy,3.794,2.041,34
+thermometer,4.853,1.309,34
+thesaurus,5.4,1.855,35
+thick,4.909,1.658,33
+thicket,4.906,2.006,32
+thief,3.781,1.948,32
+thigh,5.533,1.648,30
+thighs,5.371,1.354,35
+thimble,4.567,1.892,30
+thin,4.688,1.722,32
+thinner,4.618,2.142,34
+third,4.613,1.559,31
+thirst,3.774,1.698,31
+thirsty,3.853,1.784,34
+thistle,5.0,1.592,30
+thorn,4.242,1.156,33
+thought,6.353,2.14,34
+thoughtful,6.75,1.458,32
+thoughtless,4.324,1.727,34
+threat,4.171,2.667,35
+threatening,3.788,2.694,33
+thrifty,6.061,1.669,33
+thrill,6.735,1.54,34
+thrilling,6.286,1.782,35
+throat,5.457,1.537,35
+throne,6.143,2.769,35
+throw,6.121,1.472,33
+thrust,6.353,1.551,34
+thumb,5.882,1.711,34
+ticket,5.412,1.375,34
+ticket (admission),5.344,1.651,32
+ticket (parking),3.943,1.926,35
+tickle,4.419,1.931,31
+ticklish,3.546,1.794,33
+tidy,5.667,2.305,33
+tie,5.212,1.533,33
+tie (bind),4.529,2.428,34
+tie (neck),5.147,2.251,34
+tie (stalemate),5.294,1.362,34
+tiger,4.853,2.403,34
+tight,3.667,2.055,33
+till,4.912,0.919,34
+tilt,5.0,1.436,33
+time,3.576,2.243,33
+timid,2.833,1.695,30
+tinsel,5.5,1.785,32
+tiny,3.936,1.795,31
+tire,4.029,1.339,34
+tired,3.613,1.64,31
+titan,6.3,2.41,30
+titanic,4.882,2.323,34
+titanic (ship),4.677,2.085,31
+titanic (size),5.382,2.352,34
+toad,4.941,1.282,34
+toast,5.794,1.677,34
+toast (bread),5.471,1.519,34
+toast (speech),5.647,1.861,34
+toaster,5.294,1.177,34
+tobacco,5.294,1.978,34
+toddler,4.0,2.028,35
+toe,5.677,1.64,34
+toes,5.286,1.596,35
+toga,5.788,1.572,33
+toilet,4.5,1.714,32
+toll,4.226,1.408,31
+tomahawk,5.652,1.947,23
+tomato,5.314,1.214,35
+tomb,3.516,1.365,31
+tone,5.743,1.679,35
+tone (colour),5.0,1.128,33
+tone (music),5.424,1.498,33
+tone (voice),5.844,1.805,32
+tongue,5.531,1.118,32
+tool,6.206,1.41,34
+tooth,5.258,1.391,31
+toothache,3.242,1.724,33
+toothbrush,6.265,1.633,34
+top,5.943,1.62,35
+top (apex),6.406,1.783,32
+top (shirt),6.03,1.403,33
+top (spinning),5.412,1.375,34
+torch,5.727,2.049,33
+torch (burn),5.226,1.736,31
+torch (flashlight),5.824,1.382,34
+torment,3.161,2.018,31
+tornado,3.594,2.596,32
+tortoise,5.241,1.194,29
+torture,2.912,2.594,34
+torturer,4.355,3.075,31
+toss,5.206,1.623,34
+tosser,5.061,1.413,33
+toucan,5.071,1.624,28
+touch,5.824,1.977,34
+touchy,4.486,1.948,35
+tough,5.97,2.153,33
+tour,5.147,1.353,34
+tourist,4.765,1.733,34
+toward,6.343,1.17,35
+towel,5.69,1.148,29
+tower,5.057,2.124,35
+town,4.75,1.696,32
+toxic,3.539,1.993,65
+toxin,4.147,1.942,34
+toy,5.677,1.675,34
+toys,6.156,1.228,32
+trace,4.469,1.581,32
+trace (copy),5.235,2.157,34
+trace (small amount),4.594,1.765,32
+track,4.833,1.241,30
+traction,5.241,1.612,29
+traction (grip),5.938,1.638,32
+traction (medical),4.462,1.623,26
+tractor,5.371,1.289,35
+trade,4.882,1.471,34
+traffic,3.219,1.515,32
+tragedy,2.871,1.54,31
+tragic,3.121,1.805,33
+trailer,4.933,1.093,30
+train,5.075,1.605,67
+train (bridal),5.063,1.767,32
+train (practice),6.125,2.027,32
+train (procession),4.971,1.464,35
+train (vehicle),5.091,2.137,33
+trainer,4.581,2.012,31
+trainer (coach),4.257,2.234,35
+trainer (shoe),5.588,1.216,34
+traitor,3.941,2.351,34
+tram,4.581,1.314,31
+trample,4.645,2.322,31
+trampled,2.743,1.556,35
+trance,3.5,1.667,34
+tranquil,5.97,2.54,33
+transit,4.618,1.456,34
+transition,4.829,1.576,35
+transportation,5.188,1.57,32
+trap,3.314,2.081,35
+trapped,2.559,2.061,34
+trash,4.743,1.38,35
+trauma,2.613,1.43,31
+traumatic,3.143,2.03,35
+travel,6.281,1.397,32
+traveller,6.242,1.759,33
+tray,5.029,1.108,35
+tread,5.0,1.199,32
+treason,4.788,2.041,33
+treasure,6.353,1.493,34
+treasurer,6.086,2.183,35
+treat,5.563,1.731,32
+treaty,4.576,1.843,33
+treble,5.03,1.487,33
+treble (music),5.697,1.507,33
+treble (triple),5.546,0.956,33
+tree,5.226,1.679,31
+trellis,5.087,1.06,23
+tremble,2.765,1.238,34
+trench,4.546,1.76,33
+trend,3.909,1.602,33
+trial,3.636,1.823,33
+trial (courtroom),3.212,2.332,33
+trial (test),3.765,1.832,34
+triangle,5.353,1.57,34
+triangular,4.839,0.954,31
+tribal,5.914,1.697,35
+tribe,5.152,1.777,33
+tribute,5.375,1.654,32
+trick,4.455,1.955,33
+tricky,4.419,1.681,31
+trim,4.677,1.509,34
+trimmer,5.088,1.358,34
+trinity,4.839,1.851,31
+trinket,5.156,0.939,32
+trio,4.971,1.732,35
+triple,5.367,1.449,30
+tripod,5.438,1.321,32
+triumph,7.229,1.838,35
+triumphant,7.471,1.753,34
+troll,4.088,1.56,34
+trophy,7.114,1.545,35
+trot,4.97,1.446,33
+trouble,4.879,2.253,33
+troublesome,3.912,1.738,34
+troubling,3.765,1.554,34
+trousers,5.412,1.417,34
+trout,5.657,1.655,35
+truce,5.063,1.456,32
+truck,4.849,1.417,33
+TRUE,6.219,1.98,32
+trumpet,5.273,1.601,33
+truncheon,4.048,2.236,21
+trunk,5.235,1.238,34
+trunk (elephant),5.457,1.36,35
+trunk (luggage),5.303,1.218,33
+trunk (tree/body),5.152,1.579,33
+trust,5.706,2.022,34
+trustee,4.971,1.886,34
+trustworthy,6.625,1.709,32
+truth,6.147,2.328,34
+tsunami,3.156,2.373,32
+tube,4.818,1.403,33
+tubular,4.889,0.875,27
+tulip,5.059,1.413,34
+tumble,3.879,1.273,33
+tumbler,5.063,1.619,32
+tumour,2.406,1.518,32
+tune,5.387,1.384,31
+turf,5.438,1.478,32
+turtle,5.206,1.346,34
+TV,4.559,2.637,34
+tweed,5.276,1.387,29
+tweet,5.294,1.273,34
+tweet (bird),5.382,1.515,34
+tweet (Twitter),5.8,1.786,35
+tweezers,5.886,1.72,35
+twig,5.235,1.373,34
+twilight,5.121,1.43,33
+twin,4.714,1.364,35
+twins,4.735,1.196,34
+Twitter,4.824,1.947,34
+type,5.121,1.174,33
+type (category),5.03,1.218,33
+type (typeface),5.033,1.816,30
+typewriter,5.485,1.672,33
+typhoon,3.875,2.355,32
+tyranny,4.807,2.764,31
+tyrant,4.226,2.661,31
+tyre,5.412,1.141,34
+ugly,3.606,1.825,33
+ulcer,3.857,1.693,35
+umbrella,5.471,1.631,34
+unbelievable,4.242,1.923,33
+uncle,4.939,1.153,33
+uncomfortable,3.125,1.965,32
+under,3.839,1.526,31
+underworld,3.548,1.981,31
+undesirable,3.375,1.833,32
+uneasy,3.0,1.576,33
+unfaithful,4.419,2.297,31
+unhappy,3.6,1.855,35
+unicorn,4.813,1.648,32
+unify,6.25,1.414,32
+unique,6.968,1.379,31
+unit,4.882,1.388,34
+unit (item),5.0,0.672,31
+unit (measure),4.914,1.402,35
+unite,6.5,1.613,34
+universal,5.152,2.376,33
+universe,4.059,2.6,34
+university,5.706,2.685,34
+unsuccessful,3.0,1.595,33
+untroubled,5.857,1.944,35
+unusual,5.206,1.711,34
+up,5.943,1.511,35
+upgrade,6.0,1.882,35
+upheld,5.875,2.027,32
+uphold,6.314,1.508,35
+upkeep,5.091,1.747,33
+uplift,5.969,1.741,32
+uplifting,6.788,1.533,33
+upset,3.917,2.152,36
+upset (sad),3.212,1.409,33
+upset (unbalance),3.824,2.149,34
+upset (unlikely victory),4.375,2.315,32
+upward,6.219,1.386,32
+urban,5.265,1.481,34
+urge,4.97,2.222,33
+urgent,4.774,2.181,31
+urine,4.971,1.363,35
+use,5.667,1.853,33
+used,3.424,1.596,33
+useful,6.394,1.922,33
+useless,3.229,2.001,35
+usher,4.265,1.787,34
+usual,5.219,1.672,32
+utensil,5.514,1.36,35
+vacant,4.406,2.029,32
+vacation,6.242,1.596,33
+vaccinate,4.733,2.112,30
+vaccination,4.559,2.131,34
+vaccine,4.667,1.886,33
+vacuum,4.968,1.402,31
+vagina,6.188,1.96,32
+vague,3.969,1.591,32
+vain,4.647,1.877,34
+valentine,5.273,2.122,33
+valley,5.147,1.458,34
+valour,6.148,1.957,27
+valuable,5.969,1.828,32
+value,5.242,1.558,33
+vampire,4.794,2.166,34
+van,5.412,1.896,34
+vandal,4.314,2.135,35
+vanish,4.594,1.95,32
+vanity,4.914,2.062,35
+vaporize,5.273,2.093,33
+vapour,4.882,0.796,34
+varied,5.091,1.334,33
+various,5.088,1.358,34
+varnish,5.121,1.225,33
+vary,5.212,1.32,33
+vase,5.125,1.495,32
+vast,5.484,1.776,31
+veal,4.735,1.146,34
+vegetable,5.353,1.37,34
+vehicle,5.938,1.391,32
+veil,4.242,1.538,33
+vein,4.853,1.593,34
+veins,4.867,1.335,30
+velocity,4.636,1.92,33
+venom,4.546,2.203,33
+venture,6.333,1.752,33
+verb,5.613,1.79,31
+verbal,6.647,1.432,34
+verge,4.313,1.424,32
+verse,5.061,1.369,33
+verse (poetry),5.194,1.446,31
+verse (stanza),5.147,1.396,34
+version,5.485,1.282,33
+versus,5.206,1.922,34
+vessel,4.97,1.93,33
+vest,5.229,1.899,35
+vestibule,5.208,1.117,24
+vet,5.088,1.597,34
+vet (investigate),5.75,1.658,32
+vet (veteran),5.086,1.628,35
+vet (veterinarian),5.286,1.185,35
+vicar,3.875,1.269,32
+vicious,5.355,2.322,31
+victim,2.571,1.961,35
+victory,7.618,1.715,34
+video,5.849,1.395,33
+vigilance,5.813,1.991,32
+vigilant,6.727,1.78,33
+vigorous,6.0,2.111,35
+vigour,6.452,1.521,31
+vile,3.656,1.743,32
+village,4.815,1.391,65
+vinegar,5.414,1.451,29
+viola,5.147,1.216,34
+violate,4.031,2.186,32
+violation,3.714,2.373,35
+violence,4.559,2.58,34
+violent,5.441,2.488,34
+violet,5.588,1.396,34
+violin,5.656,1.265,32
+virgin,4.939,2.486,33
+virile,4.923,2.147,26
+virtue,6.147,2.198,34
+virtuous,5.607,2.454,28
+virus,3.686,2.24,35
+visa,4.063,1.767,32
+vision,5.471,1.959,34
+vision (dream),5.4,1.705,30
+vision (sight),6.235,1.646,34
+visit,5.242,1.393,33
+vitamin,5.606,1.705,33
+vivid,5.941,1.939,34
+vocation,5.353,2.274,34
+vodka,4.788,1.855,33
+voice,6.571,1.661,35
+void,4.333,1.902,33
+volcano,4.387,2.904,31
+vole,5.069,0.98,29
+volume,5.615,1.652,65
+volume (amount),5.03,1.834,33
+volume (loudness),6.229,1.623,35
+voluminous,5.586,1.651,29
+vomit,3.794,2.125,34
+vote,6.412,1.7,34
+voter,5.0,2.499,33
+vow,5.543,2.047,35
+vowel,4.939,1.369,33
+vows,5.333,2.025,33
+voyage,6.529,1.667,34
+voyager,6.387,1.58,31
+vulgar,4.625,1.763,32
+vulture,4.647,2.085,34
+wagon,5.258,1.586,31
+waist,5.059,1.187,34
+waistcoat,5.514,1.461,35
+wait,3.667,1.735,33
+waiter,5.371,1.675,35
+waitress,5.286,1.523,35
+wake,5.419,1.792,31
+wake (awake),5.941,2.169,34
+wake (funeral),3.871,1.314,31
+wake (ship),5.313,1.379,32
+wall,4.069,1.78,29
+wallet,4.71,1.708,31
+walnut,4.727,1.503,33
+walrus,5.029,1.15,34
+waltz,5.581,1.561,31
+wand,6.063,1.478,32
+wank,6.121,1.871,33
+wanker,4.455,1.955,33
+war,3.156,2.808,32
+warble,4.96,1.039,25
+ward,4.177,1.599,34
+ward (child),5.033,2.008,30
+ward (hospital),3.147,1.574,34
+wardrobe,4.853,1.375,34
+warehouse,4.829,1.134,35
+warm,5.429,1.961,35
+warmth,6.242,1.97,33
+warn,5.571,2.032,35
+warning,4.212,2.409,33
+warrant,4.412,1.833,34
+warrant (justify),5.343,2.292,35
+warrant (search),3.686,2.681,35
+wart,3.727,1.355,33
+wasp,4.03,1.784,33
+waste,4.212,1.981,33
+wasteful,4.871,1.791,31
+watch,5.909,1.621,33
+watch (look),5.286,1.185,35
+watch (wrist),5.824,1.271,34
+water,5.629,1.725,35
+waterfall,5.606,1.922,33
+wave,5.559,2.265,34
+wave (gesture),6.2,1.704,35
+wave (water),4.971,2.455,35
+weak,2.6,1.744,30
+weakness,3.0,2.03,33
+wealth,5.906,2.35,32
+wealthy,6.324,2.04,34
+weapon,5.129,2.685,31
+weary,3.314,1.368,35
+weasel,4.546,1.794,33
+weave,5.324,1.794,34
+web,5.088,1.821,34
+web (internet),5.818,2.354,33
+web (spider),4.324,1.827,34
+wed,4.697,1.623,33
+wedding,5.457,2.247,35
+wee,5.118,1.891,34
+week,4.323,1.511,31
+weekend,6.467,1.5,30
+weigh,4.936,1.664,31
+weight,4.514,1.903,35
+weird,4.625,1.763,32
+weirdo,3.8,1.817,35
+welcome,5.303,2.022,33
+welfare,4.152,1.635,33
+well,5.485,1.672,33
+well (healthy),6.294,2.371,34
+well (water),5.094,1.568,32
+wench,4.394,1.632,33
+whale,4.97,1.85,33
+whalebone,4.96,0.999,25
+wharf,5.0,0.756,21
+wheat,5.471,1.169,34
+wheel,5.486,1.763,35
+wheelbarrow,5.941,1.533,34
+which,5.057,0.754,35
+whiff,4.882,1.451,34
+whimper,2.903,1.228,31
+whine,4.571,1.902,35
+whip,5.581,2.86,31
+whisker,4.75,1.199,32
+whisky,5.242,1.826,33
+whisper,4.688,1.776,32
+whistle,5.286,1.733,35
+white,4.733,1.459,30
+whole,5.818,1.749,33
+wholesale,5.273,1.377,33
+wholesaler,5.097,1.228,31
+whore,2.906,1.809,32
+wicked,5.543,2.156,35
+wife,4.588,1.784,34
+wiggle,5.546,1.908,33
+wigwam,4.833,1.293,30
+wild,6.424,2.118,33
+wildebeest,5.5,1.436,32
+wilderness,4.206,2.246,34
+wilds,4.879,1.683,33
+wilt,3.844,1.481,32
+win,7.657,1.53,35
+wind,4.875,2.012,32
+wind (breeze),5.0,1.393,34
+wind (wrap around),5.563,2.164,32
+windmill,5.394,1.127,33
+window,5.0,1.111,34
+wine,5.471,1.944,34
+wing,5.419,1.622,31
+wing (building),4.765,1.33,34
+wing (improvise),5.813,2.053,32
+wing (plane),4.636,1.72,33
+wink,6.324,1.344,34
+winner,7.441,1.63,34
+winter,4.206,1.301,34
+wiped,4.226,1.453,31
+wire,5.031,1.489,32
+wired,5.25,2.062,32
+wired (electric),4.657,1.492,35
+wired (hyper),5.576,1.955,33
+wisdom,6.931,1.437,29
+wise,6.906,1.465,32
+wish,5.313,1.722,32
+wistful,5.448,1.544,29
+wit,6.355,1.536,31
+witch,4.606,1.575,33
+withdraw,4.182,2.315,33
+wither,3.29,1.372,31
+witty,6.343,1.706,35
+wizard,5.824,1.424,34
+woe,3.29,1.3,31
+wolf,4.939,2.159,33
+woman,6.333,2.04,33
+womb,4.441,1.866,34
+women,6.235,1.941,34
+wonder,6.031,1.649,32
+wonderful,6.5,1.732,32
+wonky,4.424,1.415,33
+wood,5.265,1.066,34
+wood (forest),5.206,1.586,34
+wood (lumber),5.314,1.26,35
+woods,4.714,1.426,35
+wool,4.576,1.724,33
+word,5.235,1.19,34
+words,6.219,1.672,32
+work,4.879,2.253,33
+workhouse,3.406,1.765,32
+world,4.625,2.274,32
+worm,4.938,1.619,32
+worn,4.313,1.333,32
+worried,3.206,1.779,34
+worry,2.909,1.832,33
+worse,3.364,1.41,33
+worship,3.844,2.438,32
+worst,3.844,1.938,32
+worth,5.548,1.997,31
+worthy,6.029,2.022,34
+wound,3.667,1.627,33
+wound (cut),3.743,1.81,35
+wound (wrap around),4.265,1.754,34
+wrap,4.273,1.863,33
+wrapper,5.152,1.635,33
+wrath,4.5,2.232,30
+wreck,4.618,2.438,34
+wrench,5.379,2.058,29
+wrestle,5.471,2.265,34
+wrestler,4.75,2.136,32
+wrestling,5.909,2.151,33
+wrist,5.194,1.029,31
+write,6.314,1.686,35
+writer,5.879,1.409,33
+wrong,4.313,2.603,32
+yacht,5.606,1.632,33
+yak,4.7,1.441,30
+yak (animal),5.214,1.448,28
+yak (gab),5.407,1.063,27
+yard,4.771,0.959,35
+yard (distance),4.571,1.42,35
+yard (lawn),5.114,1.72,35
+yarn,5.219,1.473,32
+yarn (fabric),4.971,1.207,35
+yarn (tale),4.818,1.66,33
+yeast,4.938,0.864,32
+yellow,5.059,1.514,34
+yeti,5.273,1.797,33
+yield,5.097,1.614,31
+yo-yo,5.636,1.702,33
+yoga,5.97,1.623,33
+yolk,5.182,1.192,33
+young,4.031,1.896,32
+youth,5.219,1.98,32
+youthful,5.129,2.324,31
+zeal,6.174,1.274,23
+zebra,5.406,1.343,32
+zephyr,4.643,1.797,14
+zeppelin,5.333,1.743,27
+zero,4.567,2.124,30
+zest,6.121,1.32,33
+zoo,5.485,1.598,33
+zoology,5.114,1.545,35

@@ -1,0 +1,18 @@
+In the following, “---" indicates that participants had to press Next to go on to the next instruction screen.
+
+In this task you will be rating some English words on their “iconicity.” Please read the following instructions very carefully as they are important for doing this task.
+---
+Some English words sound like what they mean. These words are iconic. You might be able to guess the meaning of such a word even if you did not know English.
+Some words that people have rated high in iconicity are “screech,” “twirl,” and “ooze” because they sound very much like what they mean.
+Some words that people have rated moderate in iconicity are “porcupine,” “glowing,” and “steep,” because they sound somewhat like what they mean.
+Some words rated low in iconicity are “menu,” “amateur,” and “are,” because they do not sound at all like what they mean.
+In this task, you are going to rate words for how iconic they are. You will rate each word on a scale from 1 to 7. A rating of 1 indicates that the word is not at all iconic and does not at all sound like what it means. 7 indicates that the word is high in iconicity and sounds very much like what it means.
+---
+It is important that you say the word out loud to yourself, and that you think about its meaning.
+If you are unsure of the meaning or the pronunciation of a word, you have the option of skipping it.
+---
+Try to focus on the word meaning of the whole word, rather than decomposing it into parts. For example, when rating ‘butterfly’ think of the insect rather than “butter” and “fly,” and rate how well the whole meaning relates to the sound of the whole word “butterfly.”
+---
+Please remember to say the word to yourself and to think about the meaning of each word.
+
+Please rate the word <<{word}>> on a scale from 1 to 7. Answer with one number.
