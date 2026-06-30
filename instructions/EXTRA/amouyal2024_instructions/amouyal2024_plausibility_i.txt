@@ -1,0 +1,13 @@
+You will read sentences and judge how natural they sound. You will need to judge, on a scale from 1 to 7, how natural/plausible the presented sentence sounds, and explain yourself shortly.
+All presented sentences will be grammatically correct. Important: you are encouraged to use the whole scale.
+
+Here are some examples:
+They spent their week-end at the beach, sipping iced tea. The plausibility score is 6 (it is plausible that people would spend their week-end at the beach).
+The farmer planted the fruits from which the seeds came. The plausibility score is 3 (it's more likely to plant seeds than fruits).
+The table occupied most of the space in the kitchen. The plausibility score is 5 (it is a somewhat plausible situation, maybe it is a small kitchen).
+Because he slept nine hours, he woke up completely exhausted. The plausibility score is 1 (sleeping is not supposed to make you tired).
+The policeman stopped the plane. The plausibility score is 4 (it is a situation that might happen but is a bit unlikely).
+The witness observed which policeman the robber had caught. The plausibility score is 2 (in general, policemen catch robbers, not the other way around).
+I'm so thirsty, can you please pour me a glass of water? The plausibility score is 7 (it is highly plausible that someone thirsty would like to drink water).
+
+Please rate the sentence <<{sentence}>> on a scale from 1 to 7. Answer with one digit.

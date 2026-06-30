@@ -6,4 +6,4 @@ Response format:
 
 Stimulus format:
 <<{word}>>
-“What is the age (in years) at which you think you learned this word?”
+What is the age (in years) at which you think you learned this word? Respond with the age in years as a number.

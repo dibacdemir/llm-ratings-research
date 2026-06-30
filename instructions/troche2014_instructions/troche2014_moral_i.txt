@@ -1,0 +1,3 @@
+Participants were requested to rate individual concepts on 14 different dimensions using 7-point Likert scales. The Likert ratings from 7 (agree) to 1 (disagree) indicated participants' level of agreement with statements concerning the contribution to the concept in question of the following dimension: I relate this word to morality, rules or any other thing that governs my behavior.
+
+Please rate the word <<{word}>> on a scale from 1 (disagree) to 7 (agree). Answer with one digit.
