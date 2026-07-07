@@ -1,3 +1,3 @@
-You will be asked to rate how much you experience everyday concepts using six different perceptual senses. There are no right or wrong answers so please use your own judgement. The rating scale runs from 0 (not experienced at all with that sense) to 5 (experienced greatly with that sense). Click on a number to select a rating for each scale, then click on the Next button to move on the next item. If you do not know the meaning of a word, respond with “Don’t know the meaning of this word”. just check the “Don’t know the meaning of this word" box and click "Next" to move onto the next item.
+You will be asked to rate how much you experience everyday concepts using six different perceptual senses. There are no right or wrong answers, so please use your own judgement. The rating scale runs from 0 (not experienced at all with that sense) to 5 (experienced greatly with that sense).
 
-Please rate the word <<{word}>> on a scale from 0 to 5. Answer with one digit.
+Please rate how much you experience the word <<{word}>> through vision/sight on a scale from 0 to 5. Answer with one digit.

@@ -1,4 +1,4 @@
 Is the following sentence grammatically correct in English?
-Answer yes or no.
+Answer 1 if true and 0 if false.
 
-<<{sentence}>
+<<{sentence}>>

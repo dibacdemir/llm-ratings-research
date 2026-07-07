@@ -1,7 +1,7 @@
 Task: Writing AoA estimation
 
-“Writing: When you are estimating written acquisition age, what we mean is when you estimate you could spell the word correctly”.
+“Writing: When you are estimating your writing acquisition of a word, we mean the age at which you would have been able to spell that word correctly.”
 
 For this word: <<{word}>>
-At what age would you have first been able to spell the word correctly? [Not Applicable]
-Respond with a number between 0 and 20
+At what age would you have first spelled the word correctly?
+Respond with a number between 0 and 20.

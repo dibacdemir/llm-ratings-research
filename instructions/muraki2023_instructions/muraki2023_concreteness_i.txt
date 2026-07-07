@@ -6,8 +6,6 @@
 
 “You will see that there are various types of expressions on the following pages, ranging from two-word expressions to longer phrases. Always think of how concrete (experience based) the meaning of the full expression is to you, rather than basing your rating on the meaning of an individual word within the expression.”
 
-“In all likelihood, you will encounter several expressions you do not know well enough to give a useful rating. This is informative to us too, as in our research we only want to use expressions known to people. Please indicate when you don't know an expression by selecting ‘I don’t know the meaning of this expression’.”
-
 “Abstract (language based) Concrete (experience based)
 1 2 3 4 5
 I don’t know the meaning of this expression.”

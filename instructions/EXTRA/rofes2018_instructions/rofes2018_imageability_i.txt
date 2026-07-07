@@ -1,3 +1,0 @@
-The purpose of this experiment is to rate a list of words as to the ease or difficulty with which they arouse mental images. Any word which, in your estimation, arouses a mental image (i.e., a mental picture, or sound, or other sensory experience) very quickly and easily should be given a high imagery [imageability] rating; any word that arouses a mental image with difficulty or not at all should be given a low imagery [imageability] rating. Think of the words 'apple' or 'fact.' Apple would probably arouse an image relatively easily and would be rated as high [imageability]; fact would probably do so with difficulty and would be rated as low [imageability]. (p. 4)
-
-Please rate the word <<{word}>> on a scale from 1 to 7. Answer with one digit.

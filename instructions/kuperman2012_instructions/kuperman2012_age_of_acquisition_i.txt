@@ -1,8 +1,4 @@
-“For each word, the participants were asked to enter the age (in years) at which they thought they had learned the word. It was specified that by learning a word, ‘we mean the age at which you would have understood that word if somebody had used it in front of you, EVEN IF YOU DID NOT use, read, or write it at the time.’”
-
-Response format:
-“For each word, the participants were asked to respond with the age (in years) at which they thought they had learned the word.”
-“When participants did not know a word, they were asked to respond with ‘x’.”
+For each word, participants were asked to enter the age (in years) at which they thought they had learned the word. By learning a word, “we mean the age at which you would have understood that word if somebody had used it in front of you, EVEN IF YOU DID NOT use, read, or write it at the time.”
 
 Stimulus format:
 <<{word}>>

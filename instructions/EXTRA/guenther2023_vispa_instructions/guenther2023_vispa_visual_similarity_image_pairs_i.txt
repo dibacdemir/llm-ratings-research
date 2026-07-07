@@ -1,5 +1,0 @@
-The exact instructions are not reproduced verbatim in the paper. The Procedure sections for each study paraphrase what participants were told. The verbatim instructions might be in the OSF repository at https://osf.io/qvw9c. What the paper reports:
-
-Study 2 (Visual similarity ratings, image pairs): Participants were instructed to judge which image pair looked the most and least similar. Procedure was otherwise identical to Study 1.
-
-Please rate the image pair <<{image_pair}>> on a scale from 1 to 7. Answer with one digit.

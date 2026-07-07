@@ -9,8 +9,6 @@ Some words rated low in iconicity are “menu,” “amateur,” and “are,” 
 In this task, you are going to rate words for how iconic they are. You will rate each word on a scale from 1 to 7. A rating of 1 indicates that the word is not at all iconic and does not at all sound like what it means. 7 indicates that the word is high in iconicity and sounds very much like what it means.
 ---
 It is important that you say the word out loud to yourself, and that you think about its meaning.
-If you are unsure of the meaning or the pronunciation of a word, you have the option of skipping it.
----
 Try to focus on the word meaning of the whole word, rather than decomposing it into parts. For example, when rating ‘butterfly’ think of the insect rather than “butter” and “fly,” and rate how well the whole meaning relates to the sound of the whole word “butterfly.”
 ---
 Please remember to say the word to yourself and to think about the meaning of each word.

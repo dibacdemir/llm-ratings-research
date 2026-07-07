@@ -3,5 +3,5 @@ Task: Reading AoA estimation
 “Reading: When you are estimating your reading acquisition of a word, we mean the age at which you would have understood that word if you read it in print.”
 
 For this word: <<{word}>>
-At what age would you have first understood the word if you read it? [Not applicable]
-Respond with a number between 0 and 20
+At what age would you have first understood the word if you read it in print?
+Respond with a number between 0 and 20.

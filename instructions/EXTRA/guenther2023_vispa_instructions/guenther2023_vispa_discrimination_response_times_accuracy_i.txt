@@ -1,6 +1,0 @@
-The exact instructions are not reproduced verbatim in the paper. The Procedure sections for each study paraphrase what participants were told. The verbatim instructions might be in the OSF repository at https://osf.io/qvw9c. What the paper reports:
-
-Study 4 (Discrimination task): Participants were instructed they would be presented with pairs of images in short succession and that their task was to decide whether the two images were identical or not by pressing the F or J key.
-
-Are the two images identical? <<{image_pair}>>
-Answer yes or no.

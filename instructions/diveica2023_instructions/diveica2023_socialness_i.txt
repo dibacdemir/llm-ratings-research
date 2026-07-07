@@ -6,6 +6,6 @@ Words also differ in the degree to which they can be considered social. Some wor
 
 It is important that you base these ratings on the degree of the social relevance of the word's meaning and not whether the meaning is prosocial versus antisocial or evokes positive/negative associations. For example, the word 'fight' should be given a high 'socialness' rating because it refers to a type of interaction between people, and even though the interaction is antisocial.
 
-Please make your 'socialness' ratings using the 7-point scale. A value of 1 indicates a low 'socialness' rating, and a value of 7 indicates a high 'socialness' rating. Values of 2 to 6 indicate intermediate ratings. Please feel free to use the whole range of values provided when making your ratings. Click on the rating that is most appropriate for each word. If you are not familiar with a word's meaning, please respond with select 'I don't know the meaning of this word'.
+Please make your 'socialness' ratings using the 7-point scale. A value of 1 indicates a low 'socialness' rating, and a value of 7 indicates a high 'socialness' rating. Values of 2 to 6 indicate intermediate ratings. Please feel free to use the whole range of values provided when making your ratings.
 
 Please rate the word <<{word}>> on a scale from 1 to 7. Answer with one digit.
