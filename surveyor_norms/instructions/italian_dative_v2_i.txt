@@ -1,0 +1,5 @@
+Per favore, leggi l’intero testo sopra e valuta quanto è naturale la frase in grassetto .
+Rate on a scale from 5 - Completamente naturale to 1 - Completamente innaturale.
+Answer with one number.
+
+<<{sentence}>>

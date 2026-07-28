@@ -1,0 +1,5 @@
+请评价该加粗目标句的自然程度。
+Rate on a scale from 5: 很自然 to 1: 很不自然.
+Answer with one number.
+
+<<{sentence}>>

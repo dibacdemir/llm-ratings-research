@@ -1,0 +1,5 @@
+Esta frase é uma frase bem formada em português?
+Rate on a scale from 1 - Muito mal formada to 7 - Muito bem formada.
+Answer with one number.
+
+<<{sentence}>>

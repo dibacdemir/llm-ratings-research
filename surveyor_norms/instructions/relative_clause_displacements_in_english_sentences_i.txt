@@ -1,0 +1,5 @@
+Rate how normal and understandable the following sentence is to you
+Rate on a scale from 1 - Bad to 5 - Good.
+Answer with one number.
+
+<<{sentence}>>

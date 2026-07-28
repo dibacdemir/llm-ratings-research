@@ -1,0 +1,5 @@
+Rate how connected these two sentences are:
+Rate on a scale from 1 - Not connected, unlikely to occur in a sequence to 5 - Strongly connected, very likely to occur in a sequence.
+Answer with one number.
+
+<<{sentence}>>

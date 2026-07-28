@@ -1,0 +1,5 @@
+How much sense does S2 make in the context of S1?
+Rate on a scale from 1 - Does not make any sense to 7 - Makes clear, logical sense.
+Answer with one number.
+
+<<{sentence}>>

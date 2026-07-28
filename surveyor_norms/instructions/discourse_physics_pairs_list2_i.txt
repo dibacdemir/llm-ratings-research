@@ -1,0 +1,5 @@
+How much do these sentences make you think of physical objects and/or physical interactions?
+Rate on a scale from 1 - Not at all to 7 - Very much.
+Answer with one number.
+
+<<{sentence}>>

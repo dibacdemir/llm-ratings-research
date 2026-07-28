@@ -1,0 +1,116 @@
+file,needs_review,critical_type,user,survey_id,participants,n_units,n_ratings,median_n_per_unit,scale,prompt
+clefting_e4_rep2,0,acceptability,moshepol@mit.edu,clefting_E4_rep2,203,48,4852,101,5-Very Natural  ..  1-Very Unnatural,How natural does the sentence sound?
+missing_vp_extension,0,acceptability_comprehensibility,ekaz.kerb@gmail.com,missing_vp_extension,62,80,3715,50,1 - Easy to understand  ..  5 - Hard to understand,Please rate this sentence.
+extension,0,acceptability,vivhan@mit.edu,extension,62,138,1527,10,1 - Definitely not acceptable  ..  7 - Definitely acceptable,Please rate how acceptable the sentence is
+can_noncan_acceptability_2,0,acceptability,susanw26@mit.edu,can_noncan_acceptability_2,61,88,3895,35,5-Very Natural  ..  1-Very Unnatural,How natural does the sentence sound?
+can_noncan_acceptability_0924,0,acceptability,susanw26@mit.edu,can_noncan_acceptability_0924,61,88,3836,34,5-Very Natural  ..  1-Very Unnatural,How natural does the sentence sound?
+missing_vp_extension_0501_final,0,acceptability_comprehensibility,biancas@mit.edu,missing_vp_extension_0501_final,60,72,2159,17,1 - Hard to understand  ..  5 - Easy to understand,Please rate this sentence.
+susan_canonicity_rerunning,0,acceptability,moshepol@mit.edu,susan_canonicity_rerunning,60,48,1440,30,5-Very Natural  ..  1-Very Unnatural,How natural does the sentence sound?
+susan_canonicity_rerunning_2,0,acceptability,moshepol@mit.edu,susan_canonicity_rerunning_2,60,48,1436,29,5-Very Natural  ..  1-Very Unnatural,How natural does the sentence sound?
+susan_canonicity_rerunning_3,0,acceptability,moshepol@mit.edu,susan_canonicity_rerunning_3,60,48,1428,30,5-Very Natural  ..  1-Very Unnatural,How natural does the sentence sound?
+of_acceptability_2,0,acceptability,susanw26@mit.edu,of_acceptability_2,60,88,3837,37,5-Very Natural  ..  1-Very Unnatural,How natural does the sentence sound?
+gabriel_wh,0,acceptability,moshepol@mit.edu,gabriel_wh,54,174,2912,10,1 - Muito mal formada  ..  7 - Muito bem formada,Esta frase é uma frase bem formada em português?
+constituency_tests,0,acceptability,miau@mit.edu,Constituency tests,53,48,1246,26,5-Very Natural  ..  1-Very Unnatural,How natural does the sentence sound?
+constituency_tests_2,0,acceptability,miau@mit.edu,Constituency tests 2,53,48,1227,25,5-Very Natural  ..  1-Very Unnatural,How natural does the sentence sound?
+european_portuguese_rc,0,acceptability,moshepol@mit.edu,european_portuguese_rc,53,174,2849,9,1 - Muito mal formada  ..  7 - Muito bem formada,Esta frase é uma frase bem formada em português?
+crossed_dependencies,0,acceptability,moshepol@mit.edu,crossed_dependencies,52,144,3672,14,5 - Very Natural  ..  1 - Very Unnatural,How natural do you find the statement above?
+gabriel_rc,0,acceptability,moshepol@mit.edu,gabriel_rc,52,174,2794,9,1 - Muito mal formada  ..  7 - Muito bem formada,Esta frase é uma frase bem formada em português?
+russian_freezing,0,acceptability,moshepol@mit.edu,russian_freezing,51,180,1503,8,5 - Абсолютно естестевенное  ..  1 - Абсолютно неестестевенное,Укажите на сколько естественное это предолжение.
+clefting_e3,0,acceptability,moshepol@mit.edu,clefting_E3,51,48,1217,25,5-Very Natural  ..  1-Very Unnatural,How natural does the sentence sound?
+huang_response_set1b,0,acceptability,moshepol@mit.edu,huang_response_set1b,51,288,14358,50,1 - Very unnatural  ..  7 - Very natural,Rate how natural the sentence is:
+european_portuguese_wh,0,acceptability,moshepol@mit.edu,european_portuguese_wh,51,174,2744,9,1 - Muito mal formada  ..  7 - Muito bem formada,Esta frase é uma frase bem formada em português?
+crossed_dependencies_long,0,acceptability,moshepol@mit.edu,crossed_dependencies_long,50,192,3586,9,5 - Very Natural  ..  1 - Very Unnatural,How natural do you find the statement above?
+topicalization_e1_v2,0,acceptability,moshepol@mit.edu,topicalization_E1_v2,50,48,1198,25,5-Very Natural  ..  1-Very Unnatural,How natural does the sentence sound?
+topicalization_e2,0,acceptability,moshepol@mit.edu,topicalization_E2,50,48,1195,25,5-Very Natural  ..  1-Very Unnatural,How natural does the sentence sound?
+clefting_e4,0,acceptability,moshepol@mit.edu,clefting_E4,50,48,1195,24,5-Very Natural  ..  1-Very Unnatural,How natural does the sentence sound?
+clefting_e4_rep,0,acceptability,moshepol@mit.edu,clefting_E4_rep,50,48,1197,25,5-Very Natural  ..  1-Very Unnatural,How natural does the sentence sound?
+italian_locative_v7,0,acceptability,moshepol@mit.edu,italian_locative_v7,50,192,1198,6,5 - Completamente naturale  ..  1 - Completamente innaturale,"Per favore, leggi l’intero testo sopra e valuta quanto è naturale la frase in grassetto ."
+italian_dative_v2,0,acceptability,moshepol@mit.edu,italian_dative_v2,50,192,1246,6,5 - Completamente naturale  ..  1 - Completamente innaturale,"Per favore, leggi l’intero testo sopra e valuta quanto è naturale la frase in grassetto ."
+huang_response_set1a,0,acceptability,moshepol@mit.edu,huang_response_set1a,50,288,14347,50,1 - Very unnatural  ..  7 - Very natural,Rate how natural the sentence is:
+huang_response_set2a,0,acceptability,moshepol@mit.edu,huang_response_set2a,50,288,14354,50,1 - Very unnatural  ..  7 - Very natural,Rate how natural the sentence is:
+huang_response_set2b,0,acceptability,moshepol@mit.edu,huang_response_set2b,50,288,14324,50,1 - Very unnatural  ..  7 - Very natural,Rate how natural the sentence is:
+huang_response_set2a_declaratives,0,acceptability,moshepol@mit.edu,huang_response_set2a_declaratives,50,288,14328,50,1 - Very unnatural  ..  7 - Very natural,Rate how natural the sentence is:
+huang_response_set2b_declaratives,0,acceptability,moshepol@mit.edu,huang_response_set2b_declaratives,50,288,14364,50,1 - Very unnatural  ..  7 - Very natural,Rate how natural the sentence is:
+chinese_dative,0,acceptability,moshepol@mit.edu,chinese_dative,50,96,1200,12,5: 很自然  ..  1: 很不自然,请评价该加粗目标句的自然程度。
+dative_finnish,0,acceptability,moshepol@mit.edu,dative_finnish,50,96,1199,12,5: Luonnollinen  ..  1: Epäluonnollinen,"Arvioi, kuinka luonnollinen lihavoitu kohdelause on."
+dative_turkish,0,acceptability,moshepol@mit.edu,dative_turkish,50,96,1198,12,5: çok doğal  ..  1: hiç doğal değil,Lütfen hedef cümlenin ne kadar doğal olduğunu değerlendirin.
+topicalization_e1,0,acceptability,moshepol@mit.edu,topicalization_E1,49,76,2535,26,5-Very Natural  ..  1-Very Unnatural,How natural does the sentence sound?
+relative_clause_displacements_in_english_sentences_with_fill,0,acceptability_comprehensibility,sdurai30@mit.edu,Relative clause displacements in English Sentences with Filler,42,93,2673,22,1 - Bad  ..  5 - Good,Rate how normal and understandable the following sentence is to you
+aixiu_coherence_en_update1,0,acceptability,moshepol@mit.edu,aixiu_coherence_en_update1,41,277,2946,11,1 - Definitely not acceptable  ..  7 - Definitely acceptable,Please rate how acceptable the sentence is
+rating_english_sentences,0,acceptability,legermec1@gmail.com,Rating English Sentences,40,240,6281,22,1  ..  7,Please rate the sentence on scale from 1 (= completely unacceptable) to 7 (= completely ac
+depth_charge_survey,0,acceptability,arthurmilanferencei@gmail.com,Depth Charge Survey,37,188,3394,11,7-makes perfect sense/written well  ..  1-makes no sense/written poorly,How does this sentence sound*
+depth_charge_with_noise,0,acceptability,arthurmilanferencei@gmail.com,Depth Charge With Noise,35,188,3206,10,7-makes perfect sense/written well  ..  1-makes no sense/written poorly,How does this sentence sound*
+locative_topicalization_survey,0,acceptability,aalargen06@gmail.com,Locative Topicalization Survey,34,229,2172,5,1 - Very Unnatural  ..  5 - Very Natural,How natural is the second sentence in the context of the first sentence?
+discourse_30subjs_list4,0,other_rating,samhutch@mit.edu,discourse_30subjs_list4,33,102,3359,33,"1 - Not connected, unlikely to occur in a sequence  ..  5 - Strongly connected, very likely to occur in a sequence",Rate how connected these two sentences are:
+missing_vp_rereplication,0,acceptability_comprehensibility,ekaz.kerb@gmail.com,missing_vp_rereplication,32,72,1151,9,1 - Easy to understand  ..  5 - Hard to understand,Please rate this sentence.
+dative_alternation_extension_version_2,0,acceptability,jnw@mit.edu,Dative Alternation Extension Version 2,32,229,2301,5,1 - Very Unnatural  ..  5 - Very Natural,How natural is the provided sentence?
+acceptability_replication_959,0,acceptability,sukrith@mit.edu,acceptability_replication_959,32,288,2179,8,1 - Definitely not acceptable  ..  7 - Definitely acceptable,Please rate how acceptable the sentence is
+base_acceptability_0911,0,acceptability,susanw26@mit.edu,base_acceptability_0911,32,70,2157,31,5-Very Natural  ..  1-Very Unnatural,How natural does the sentence sound?
+discourse_30subjs_list1,0,other_rating,samhutch@mit.edu,discourse_30subjs_list1,31,102,3146,31,"1 - Not connected, unlikely to occur in a sequence  ..  5 - Strongly connected, very likely to occur in a sequence",Rate how connected these two sentences are:
+discourse_imagability_singles_list4,0,other_rating,samhutch@mit.edu,discourse_imagability_singles_list4,31,102,3156,31,1 - Very hard to visualize  ..  7 - Very easy to visualize,How easy is the content of the sentence to visualize in your mind's eye?
+discourse_mentalizing_singles_list4,0,other_rating,samhutch@mit.edu,discourse_mentalizing_singles_list4,31,102,3153,31,1 - Not at all  ..  7 - Very much,"How much does this sentence make you think of other people's experiences, thoughts, belief"
+acceptability_extension_959_v5,0,acceptability,sukrith@mit.edu,acceptability_extension_959_v5,31,566,2155,4,1 - Definitely not acceptable  ..  7 - Definitely acceptable,Please rate how acceptable the target sentence is.
+montemayor_replication_acceptability_in_syntax,0,acceptability,aelyana@mit.edu,montemayor_replication_acceptability-in-syntax,30,288,2156,7,1 - Definitely not acceptable  ..  7 - Definitely acceptable,Please rate how acceptable the sentence is
+extension_study,0,acceptability,kmcewan@mit.edu,extension study,30,142,1073,8,1-Very unnatural  ..  7-Very natural,How natural does this sentence sound?
+replication_study_9_59,0,acceptability,marlocy@mit.edu,Replication Study 9.59 ,30,185,718,4,1  ..  5,Rate the target sentence for naturalness on a scale of 1-5 (1 being unnatural and 5 being 
+discourse_30subjs_list3,0,other_rating,samhutch@mit.edu,discourse_30subjs_list3,30,102,3044,30,"1 - Not connected, unlikely to occur in a sequence  ..  5 - Strongly connected, very likely to occur in a sequence",Rate how connected these two sentences are:
+discourse_changed_0428,0,other_rating,samhutch@mit.edu,discourse_changed_0428,30,50,1495,30,"1 - Not connected, unlikely to occur in a sequence  ..  5 - Strongly connected, very likely to occur in a sequence",Rate how connected these two sentences are:
+discourse_causality_list1,0,other_rating,samhutch@mit.edu,discourse_causality_list1,30,102,3153,31,1 - No causal connection at all  ..  7 - A clear causal connection,To what extent does S1 cause S2?
+discourse_causality_list4,0,other_rating,samhutch@mit.edu,discourse_causality_list4,30,102,3048,30,1 - No causal connection at all  ..  7 - A clear causal connection,To what extent does S1 cause S2?
+discourse_coherence_list2,0,other_rating,samhutch@mit.edu,discourse_coherence_list2,30,102,3059,30,"1 - Does not make any sense  ..  7 - Makes clear, logical sense",How much sense does S2 make in the context of S1?
+discourse_coherence_list3,0,other_rating,samhutch@mit.edu,discourse_coherence_list3,30,102,3051,30,"1 - Does not make any sense  ..  7 - Makes clear, logical sense",How much sense does S2 make in the context of S1?
+discourse_imagability_pairs_list1,0,other_rating,samhutch@mit.edu,discourse_imagability_pairs_list1,30,102,3050,30,1 - Very hard to visualize  ..  7 - Very easy to visualize,How easy is the content of the sentences to visualize in your mind's eye?
+discourse_imagability_pairs_list2,0,other_rating,samhutch@mit.edu,discourse_imagability_pairs_list2,30,102,3049,30,1 - Very hard to visualize  ..  7 - Very easy to visualize,How easy is the content of the sentences to visualize in your mind's eye?
+discourse_imagability_singles_list1,0,other_rating,samhutch@mit.edu,discourse_imagability_singles_list1,30,102,3055,30,1 - Very hard to visualize  ..  7 - Very easy to visualize,How easy is the content of the sentence to visualize in your mind's eye?
+discourse_imagability_singles_list2,0,other_rating,samhutch@mit.edu,discourse_imagability_singles_list2,30,102,3050,30,1 - Very hard to visualize  ..  7 - Very easy to visualize,How easy is the content of the sentence to visualize in your mind's eye?
+discourse_imagability_singles_list3,0,other_rating,samhutch@mit.edu,discourse_imagability_singles_list3,30,102,3055,30,1 - Very hard to visualize  ..  7 - Very easy to visualize,How easy is the content of the sentence to visualize in your mind's eye?
+discourse_mentalizing_singles_list1,0,other_rating,samhutch@mit.edu,discourse_mentalizing_singles_list1,30,102,3053,30,1 - Not at all  ..  7 - Very much,"How much does this sentence make you think of other people's experiences, thoughts, belief"
+discourse_mentalizing_singles_list2,0,other_rating,samhutch@mit.edu,discourse_mentalizing_singles_list2,30,102,3047,30,1 - Not at all  ..  7 - Very much,"How much does this sentence make you think of other people's experiences, thoughts, belief"
+discourse_mentalizing_singles_list3,0,other_rating,samhutch@mit.edu,discourse_mentalizing_singles_list3,30,102,3044,30,1 - Not at all  ..  7 - Very much,"How much does this sentence make you think of other people's experiences, thoughts, belief"
+discourse_mentalizing_pairs_list1,0,other_rating,samhutch@mit.edu,discourse_mentalizing_pairs_list1,30,102,3049,30,1 - Not at all  ..  7 - Very much,"How much do these sentences make you think of other people's experiences, thoughts, belief"
+discourse_mentalizing_pairs_list2,0,other_rating,samhutch@mit.edu,discourse_mentalizing_pairs_list2,30,102,3035,30,1 - Not at all  ..  7 - Very much,"How much do these sentences make you think of other people's experiences, thoughts, belief"
+discourse_physics_pairs_list1,0,other_rating,samhutch@mit.edu,discourse_physics_pairs_list1,30,102,3051,30,1 - Not at all  ..  7 - Very much,How much do these sentences make you think of physical objects and/or physical interaction
+discourse_physics_pairs_list2,0,other_rating,samhutch@mit.edu,discourse_physics_pairs_list2,30,102,3042,30,1 - Not at all  ..  7 - Very much,How much do these sentences make you think of physical objects and/or physical interaction
+discourse_physics_singles_list1,0,other_rating,samhutch@mit.edu,discourse_physics_singles_list1,30,102,3051,30,1 - Not at all  ..  7 - Very much,How much does this sentence make you think of physical objects and/or physical interaction
+discourse_physics_singles_list2,0,other_rating,samhutch@mit.edu,discourse_physics_singles_list2,30,102,3042,30,1 - Not at all  ..  7 - Very much,How much does this sentence make you think of physical objects and/or physical interaction
+discourse_physics_singles_list3,0,other_rating,samhutch@mit.edu,discourse_physics_singles_list3,30,102,3044,30,1 - Not at all  ..  7 - Very much,How much does this sentence make you think of physical objects and/or physical interaction
+discourse_physics_singles_list4,0,other_rating,samhutch@mit.edu,discourse_physics_singles_list4,30,102,3051,30,1 - Not at all  ..  7 - Very much,How much does this sentence make you think of physical objects and/or physical interaction
+discourse_scenes_pairs_list1,0,other_rating,samhutch@mit.edu,discourse_scenes_pairs_list1,30,102,3052,30,1 - Not at all  ..  7 - Very much,"How much do these sentences make you think of places, natural scenes and/or environments?"
+discourse_scenes_pairs_list2,0,other_rating,samhutch@mit.edu,discourse_scenes_pairs_list2,30,102,3051,30,1 - Not at all  ..  7 - Very much,"How much do these sentences make you think of places, natural scenes and/or environments?"
+discourse_scenes_singles_list1,0,other_rating,samhutch@mit.edu,discourse_scenes_singles_list1,30,102,3051,30,1 - Not at all  ..  7 - Very much,"How much does this sentence make you think of places, natural scenes and/or environments?"
+discourse_scenes_singles_list2,0,other_rating,samhutch@mit.edu,discourse_scenes_singles_list2,30,102,3048,30,1 - Not at all  ..  7 - Very much,"How much does this sentence make you think of places, natural scenes and/or environments?"
+discourse_scenes_singles_list3,0,other_rating,samhutch@mit.edu,discourse_scenes_singles_list3,30,102,3049,30,1 - Not at all  ..  7 - Very much,"How much does this sentence make you think of places, natural scenes and/or environments?"
+discourse_scenes_singles_list4,0,other_rating,samhutch@mit.edu,discourse_scenes_singles_list4,30,102,3050,30,1 - Not at all  ..  7 - Very much,"How much does this sentence make you think of places, natural scenes and/or environments?"
+relative_clause_displacements_in_english_sentences,0,acceptability_comprehensibility,sdurai30@mit.edu,Relative clause displacements in English Sentences,30,180,897,5,1 - Bad  ..  5 - Good,Rate how normal and understandable the following sentence is to you
+base_acceptability_0908,0,acceptability,susanw26@mit.edu,base_acceptability_0908,30,70,2090,30,5-Very Natural  ..  1-Very Unnatural,How natural does the sentence sound?
+discourse_causality_list3,0,other_rating,samhutch@mit.edu,discourse_causality_list3,29,102,2941,29,1 - No causal connection at all  ..  7 - A clear causal connection,To what extent does S1 cause S2?
+discourse_coherence_list1,0,other_rating,samhutch@mit.edu,discourse_coherence_list1,28,102,2851,28,"1 - Does not make any sense  ..  7 - Makes clear, logical sense",How much sense does S2 make in the context of S1?
+discourse_causality_list2,0,other_rating,samhutch@mit.edu,discourse_causality_list2,27,102,2744,27,1 - No causal connection at all  ..  7 - A clear causal connection,To what extent does S1 cause S2?
+discourse_30subjs_list2,0,other_rating,samhutch@mit.edu,discourse_30subjs_list2,26,102,2541,25,"1 - Not connected, unlikely to occur in a sequence  ..  5 - Strongly connected, very likely to occur in a sequence",Rate how connected these two sentences are:
+discourse_coherence_list4,0,other_rating,samhutch@mit.edu,discourse_coherence_list4,25,102,2533,25,"1 - Does not make any sense  ..  7 - Makes clear, logical sense",How much sense does S2 make in the context of S1?
+replication_v6,0,acceptability,vivhan@mit.edu,replication_v6,25,288,1791,6,1 - Definitely not acceptable  ..  7 - Definitely acceptable,Please rate how acceptable the sentence is
+class_demo,0,acceptability,moshepol@mit.edu,class_demo,23,44,491,7,5 - Very Natural  ..  1 - Very Unnatural,How natural does the sentence sound?
+lexical_frame_adjectives_likert_set1,0,acceptability,moshepol@mit.edu,lexical_frame_adjectives_likert_set1,20,384,7668,20,5-Natural  ..  1-Unnatural,Please rate the sentence above.
+lexical_frame_adjectives_likert_set2,0,acceptability,moshepol@mit.edu,lexical_frame_adjectives_likert_set2,20,384,7646,20,5-Natural  ..  1-Unnatural,Please rate the sentence above.
+lexical_frame_adjectives_likert_set3,0,acceptability,moshepol@mit.edu,lexical_frame_adjectives_likert_set3,20,384,7643,20,5-Natural  ..  1-Unnatural,Please rate the sentence above.
+coherence_survey_list1_main,0,other_rating,samhutch@mit.edu,coherence_survey_list1_main,20,102,2035,20,"1 - Not connected, unlikely to occur in a sequence  ..  5 - Strongly connected, very likely to occur in a sequence",Rate how connected these two sentences are:
+coherence_survey_list2_main,0,other_rating,samhutch@mit.edu,coherence_survey_list2_main,20,102,2037,20,"1 - Not connected, unlikely to occur in a sequence  ..  5 - Strongly connected, very likely to occur in a sequence",Rate how connected these two sentences are:
+coherence_survey_list3_main,0,other_rating,samhutch@mit.edu,coherence_survey_list3_main,20,102,2025,20,"1 - Not connected, unlikely to occur in a sequence  ..  5 - Strongly connected, very likely to occur in a sequence",Rate how connected these two sentences are:
+coherence_survey_list4_main,0,other_rating,samhutch@mit.edu,coherence_survey_list4_main,20,102,2032,20,"1 - Not connected, unlikely to occur in a sequence  ..  5 - Strongly connected, very likely to occur in a sequence",Rate how connected these two sentences are:
+demo_9_59_2026,0,acceptability,moshepol@mit.edu,demo_9.59_2026,18,44,360,5,5 - Very Natural  ..  1 - Very Unnatural,How natural does the sentence sound?
+demo_9_59_2025,0,acceptability,moshepol@mit.edu,demo_9.59_2025,13,44,259,4,5 - Very Natural  ..  1 - Very Unnatural,How natural does the sentence sound?
+ted_uk_post,1,other_rating,aimeew@mit.edu,ted_uk_post,51,14,724,52,1 - Strongly Disagree  ..  5 - Strongly Agree,
+ted_us_post,1,other_rating,aimeew@mit.edu,ted_us_post,50,14,693,50,1 - Strongly Disagree  ..  5 - Strongly Agree,
+sarah_uk_post,1,other_rating,aimeew@mit.edu,sarah_uk_post,50,14,709,51,1 - Strongly Disagree  ..  5 - Strongly Agree,
+sarah_us_post,1,other_rating,aimeew@mit.edu,sarah_us_post,50,14,699,50,1 - Strongly Disagree  ..  5 - Strongly Agree,
+yumin_putonghua_post,1,other_rating,aimeew@mit.edu,yumin_putonghua_post,50,16,800,50,1 - 非常不同意  ..  5 - 非常同意,
+yumin_dongbei_post,1,other_rating,aimeew@mit.edu,yumin_dongbei_post,50,16,798,50,1 - 非常不同意  ..  5 - 非常同意,
+xiaoming_putonghua_post,1,other_rating,aimeew@mit.edu,xiaoming_putonghua_post,50,16,800,50,1 - 非常不同意  ..  5 - 非常同意,
+xiaoming_dongbei_post,1,other_rating,aimeew@mit.edu,xiaoming_dongbei_post,50,16,800,50,1 - 非常不同意  ..  5 - 非常同意,
+ai_us_female_post,1,other_rating,aimeew@mit.edu,ai_us_female_post,50,14,695,50,1 - Strongly Disagree  ..  5 - Strongly Agree,
+ai_us_male_post,1,other_rating,aimeew@mit.edu,ai_us_male_post,50,14,696,50,1 - Strongly Disagree  ..  5 - Strongly Agree,
+ai_uk_male_post,1,other_rating,aimeew@mit.edu,ai_uk_male_post,50,14,713,51,1 - Strongly Disagree  ..  5 - Strongly Agree,
+ai_uk_female_post,1,other_rating,aimeew@mit.edu,ai_uk_female_post,50,14,697,50,1 - Strongly Disagree  ..  5 - Strongly Agree,
+yumin_putonghua_post_2,1,other_rating,aimeew@mit.edu,yumin_putonghua_post,50,14,698,50,1 - 非常不同意  ..  5 - 非常同意,
+sarah_us_ted_fillers_post,1,other_rating,aimeew@mit.edu,sarah_us_ted_fillers_post,26,14,364,26,1 - Strongly Disagree  ..  5 - Strongly Agree,
+sarah_uk_ted_fillers_post,1,other_rating,aimeew@mit.edu,sarah_uk_ted_fillers_post,25,14,350,25,1 - Strongly Disagree  ..  5 - Strongly Agree,

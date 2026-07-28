@@ -1,0 +1,5 @@
+Please rate this sentence.
+Rate on a scale from 1 - Easy to understand to 5 - Hard to understand.
+Answer with one number.
+
+<<{sentence}>>

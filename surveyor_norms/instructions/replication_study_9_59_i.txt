@@ -1,0 +1,5 @@
+Rate the target sentence for naturalness on a scale of 1-5 (1 being unnatural and 5 being very natural) within the context of the previous sentence.
+Rate on a scale from 1 to 5.
+Answer with one number.
+
+<<{sentence}>>

@@ -1,0 +1,5 @@
+Rate the sentence on causality.
+Rate on a scale from 1 to 5. (scale inferred from observed responses)
+Answer with one number.
+
+<<{sentence}>>

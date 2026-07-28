@@ -1,0 +1,5 @@
+How natural does the sentence sound?
+Rate on a scale from 5-Very Natural to 1-Very Unnatural.
+Answer with one number.
+
+<<{sentence}>>

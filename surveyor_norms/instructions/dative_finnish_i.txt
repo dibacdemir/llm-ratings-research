@@ -1,0 +1,5 @@
+Arvioi, kuinka luonnollinen lihavoitu kohdelause on.
+Rate on a scale from 5: Luonnollinen to 1: Epäluonnollinen.
+Answer with one number.
+
+<<{sentence}>>

@@ -1,0 +1,5 @@
+How easy is the content of the sentences to visualize in your mind's eye?
+Rate on a scale from 1 - Very hard to visualize to 7 - Very easy to visualize.
+Answer with one number.
+
+<<{sentence}>>

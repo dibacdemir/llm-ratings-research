@@ -1,0 +1,5 @@
+To what extent does S1 cause S2?
+Rate on a scale from 1 - No causal connection at all to 7 - A clear causal connection.
+Answer with one number.
+
+<<{sentence}>>
