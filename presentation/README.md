@@ -30,6 +30,12 @@ All per-item instructions were manually adapted / reconstructed to be suitable f
 
 ## Figures
 
+- **`figure1_composite.*`** — the main Nature-style figure: one multi-panel composite
+  (panel **a** coverage, **b** composition, **c** reliability) with a "Figure 1 |" banner and
+  panel letters. Use this as the anchor Data slide.
+
+Standalone panels (for showing one at a time on separate slides):
+
 - **`fig1_coverage.*`** — the key slide. One bar per task (n = 335), height = number of items
   (log scale), grouped and colored by linguistic domain, with a bracket over the three "Lexical"
   (word-meaning) sub-domains. Shows the coverage *and* the trade-off: syntax has many tasks with
