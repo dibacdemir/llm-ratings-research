@@ -10,7 +10,7 @@ repo was modified**; this is a standalone sibling directory.
 - `instructions/<survey>_i.txt` — reconstructed prompt: the survey's own question + rating
   scale + `<<{sentence}>>` placeholder, mirroring the existing instruction format
 - `a_index.csv` — one row per survey (type, participants, #units, #ratings, median n/unit, scale, prompt)
-- `_needs_review/` — 15 surveys kept OUT of the main set (see caveats)
+(15 attitude-questionnaire surveys were reviewed and excluded — see caveats)
 
 ## Selection (of 345 surveys in the export)
 Kept only surveys that were (a) numeric-rating (>90% of critical responses parse to a number),
@@ -28,9 +28,9 @@ meaning_inference, completion, forced_choice, and all audio/image surveys.
 2. **Instructions are reconstructed** from the survey's per-item prompt + option labels, NOT
    the original full participant instructions (those weren't in the export). Usually one clean
    question ("How natural is the sentence?") + scale, but verify before publishing.
-3. **`_needs_review/` = 15 post-experiment attitude questionnaires** (e.g. "I like the way a
+3. **15 post-experiment attitude questionnaires were excluded** (e.g. "I like the way a
    British accent sounds", Strongly Disagree–Agree). They convert numerically but are not
-   linguistic-stimulus norms. Excluded from the main set; decide case by case.
+   linguistic-stimulus norms.
 4. **No participant exclusions applied.** All submitted responses are aggregated; no attention-
    check filtering or non-native-speaker removal was done here.
 5. **Not de-identified.** `a_index.csv` retains the creator's email (survey provenance). Scrub

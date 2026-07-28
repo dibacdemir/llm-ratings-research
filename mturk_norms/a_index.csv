@@ -1,187 +1,172 @@
-file,needs_review,source_folder,dim,scale_inferred,n_batch_files,n_units,n_ratings,median_n_per_unit,quality_flag
-massive_mem_imageability_mar_2014,0,Massive mem- imageability Mar 2014,rating,1-5,8,2019,85823,39,ok
-massive_mem_imageability_mar_2013,0,Massive mem- imageability Mar 2013,rating,1-5,9,2020,71770,30,ok
-massive_mem_concreteness_mar_2013,0,Massive mem- concreteness Mar 2013,rating,1-5,9,2020,71679,30,ok
-massive_mem_valence_mar_2013,0,Massive mem- valence Mar 2013,rating,1-5,8,2020,66485,30,ok
-massive_mem_arousal_mar_2013,0,Massive mem- arousal Mar 2013,rating,1-5,8,2020,65008,30,ok
-massive_mem_familiarity_mar_2013,0,Massive mem- familiarity Mar 2013,rating,1-5,8,2020,64408,30,ok
-massive_mem_concreteness_mar_2014,0,Massive mem- concreteness Mar 2014,rating,1-5,8,2019,64058,30,ok
-massive_mem_valence_mar_2014,0,Massive mem- valence Mar 2014,rating,1-5,8,2018,63913,30,ok
-massive_mem_familiarity_mar_2014,0,Massive mem- familiarity Mar 2014,rating,1-5,8,2020,63880,30,ok
-massive_mem_arousal_mar_2014,0,Massive mem- arousal Mar 2014,rating,1-5,8,2015,63813,30,ok
-sentence_naturalness_survey_denise_jan_12_2011_survey_code_pig_the_pig,0,Sentence naturalness survey Denise Jan 12 2011 survey code= Pig-the-pig,naturalness,1-7,2,200,31957,199,ok
-sentence_naturalness_survey_denise_sept_8_2010_survey_code_pig_the_pig,0,Sentence naturalness survey Denise Sept 8 2010 survey code= Pig-the-pig,naturalness,1-7,2,224,31113,98,ok
-acd_context_polly_1_nov_23_2012,0,ACD context polly 1 nov 23 2012,rating,1-5,10,225,28701,50,ok
-noisy_channel_acceptability_2_sept_2013,0,noisy channel acceptability 2 sept 2013,acceptability,1-5,5,380,23804,59,ok
-acd_no_context_polly_1_nov_23_2012,0,ACD no context polly 1; nov 23 2012,rating,1-5,7,213,21610,45,ok
-sentence_naturalness_survey_for_rw_jan_2010,0,Sentence naturalness survey for RW Jan 2010,naturalness,1-5,24,480,21443,20,ok
-acd_project_expt_24_same_diff_verbs_nov_16_2012,0,ACD project- expt 24 same-diff verbs; nov 16 2012,rating,1-5,4,472,21363,58,ok
-p_p_sentence_naturalness_survey_june_2013_v3,0,P&P Sentence naturalness survey June 2013 v3,naturalness,1-5,2,242,19678,48,ok
-p_p_sentence_naturalness_survey_aug_2010,0,P&P Sentence naturalness survey Aug 2010,naturalness,1-5,2,252,19122,32,ok
-mk_grammaticality_study_7_20,0,MK grammaticality study 7-20,rating,1-5,24,1538,16703,10,ok
-p_p_sentence_naturalness_survey_feb,0,P&P Sentence naturalness survey Feb,naturalness,1-5,15,614,15402,16,ok
-cul_jack_sentence_naturalness_survey_2_sept_2011,0,Cul & Jack Sentence naturalness survey 2 Sept 2011,naturalness,1-5,2,220,15238,37,ok
-sentence_naturalness_survey_nat_aug_28_2010_survey_code_downtown,0,Sentence naturalness survey Nat Aug 28 2010 survey code= Downtown,naturalness,1-7,2,270,14329,46,ok
-p_p_sentence_naturalness_survey_may_2013,0,P&P Sentence naturalness survey May 2013,naturalness,1-5,2,252,13796,23,ok
-sentence_completions_and_islands_acceptability_expt_1_nov_13_2012,0,sentence completions and islands acceptability expt 1 Nov 13 2012,acceptability,1-5,3,112,13215,137,ok
-p_p_sentence_naturalness_survey_may_2013_v2,0,P&P Sentence naturalness survey May 2013 v2,naturalness,1-5,2,252,13193,22,ok
-neal_norming_1,0,Neal Norming 1,rating,1-5,1,704,12940,23,ok
-sentence_naturalness_survey_for_formal_link,0,Sentence naturalness survey for formal link,naturalness,1-5,12,252,11826,20,ok
-sentence_naturalness_survey_for_lb_jan_2011_v2,0,Sentence naturalness survey for LB- Jan 2011 v2,naturalness,1-5,1,519,11822,20,ok
-p_p_sentence_naturalness_survey_jan_2010,0,P&P Sentence naturalness survey Jan 2010,naturalness,1-5,12,184,11817,30,ok
-sentence_naturalness_survey_for_lb_jan_2011_v3,0,Sentence naturalness survey for LB- Jan 2011 v3,naturalness,1-5,1,519,11655,20,ok
-sentence_naturalness_survey_for_lb_jan_2011,0,Sentence naturalness survey for LB- Jan 2011,naturalness,1-5,1,519,11504,19,ok
-quant_syn_april_16_2012_36_sentences_with_a_question_and_a_rating_code,0,quant syn april 16 2012 36 sentences with a question and a rating. CODENAME- JEALOUS MOSQUITO,rating,1-7,4,126,11065,99,ok
-erp_sentence_naturalness_survey_june_2013_2,0,ERP sentence naturalness survey June 2013 2,naturalness,1-5,1,484,10036,20,ok
-p_p_sentence_naturalness_survey_dec_2009,0,P&P Sentence naturalness survey Dec 2009,naturalness,1-5,14,252,10021,17,ok
-semantics3_final_project,0,Semantics3-final project,rating,1-5,2,96,9576,100,ok
-noisy_channel_acceptability_1_sept_2013_1,0,noisy channel acceptability 1 sept 2013 1,acceptability,1-5,1,496,9546,15,ok
-erp_norming_error_detection_june_2013_4,0,ERP norming error detection- June 2013 4,rating,1-5,1,162,9545,59,ok
-semantics2_finalproject,0,Semantics2-finalproject,rating,1-5,2,96,9483,99,ok
-sentence_naturalness_survey_for_marie_expt3b_july_20_2012,0,Sentence naturalness survey for Marie expt3b july 20 2012,naturalness,1-5,1,57,8916,160,ok
-sentence_naturalness_survey_for_lb_mar_2010_2,0,Sentence naturalness survey for LB Mar 2010 #2,naturalness,1-5,12,241,8799,29,ok
-sentence_naturalness_survey_for_lb_mar_2010,0,Sentence naturalness survey for LB Mar 2010,naturalness,1-5,12,123,8785,58,ok
-verb_causality_study_semantics_ratings_mk_april_2010,0,Verb causality study - semantics ratings (MK April 2010),rating,1-5,15,188,8678,42,ok
-orc_lauren_sentence_naturalness_survey_july_2012,0,ORC Lauren sentence naturalness survey july 2012,naturalness,1-5,2,192,8605,22,ok
-quant_syn_april_14_2012_48_sentences_with_a_question_and_a_rating_code,0,quant syn april 14 2012 48 sentences with a question and a rating. CODENAME- JEALOUS MOSQUITO,rating,1-7,2,168,8563,45,ok
-lauren_sentence_naturalness_survey_expt3_nov_17_2011,0,Lauren sentence naturalness survey expt3 Nov 17 2011,naturalness,1-5,1,460,7968,8,ok
-word3_b_word_naturalness_survey_may_4_2011_160_items_code_sleepy_bear,0,Word3-b- Word naturalness survey May 4 2011 160 items; code= SLEEPY-BEAR,naturalness,1-7,1,158,7958,50,ok
-paris_judgments_3_dec_2012,0,Paris judgments 3 Dec 2012,rating,1-5,3,477,7714,14,ok
-isac_sentence_naturalness_survey_feb_2011_64_items_survey_code_giant_c,0,ISAC Sentence naturalness survey Feb 2011 64 items survey code= GIANT-COBRA,naturalness,1-7,1,256,7649,30,ok
-sentence_naturalness_isac_survey_feb_2011,0,Sentence naturalness ISAC survey Feb 2011,naturalness,1-5,1,304,7641,12,ok
-sentence_naturalness_survey_for_gs_jan_23_2010,0,Sentence naturalness survey for GS Jan 23 2010,naturalness,1-5,16,216,7543,20,ok
-quantifier_naturalness_survey_june_4_2010,0,Quantifier naturalness survey June 4 2010,naturalness,1-5,8,192,7463,20,ok
-massive_mem_concreteness_mar_2013_end_1,0,Massive mem- concreteness Mar 2013 end 1,rating,1-5,1,242,7238,30,ok
-massive_mem_imageability_mar_2014_end_1,0,Massive mem- imageability Mar 2014 end 1,rating,1-5,1,242,7233,30,ok
-massive_mem_imageability_mar_2013_end_1,0,Massive mem- imageability Mar 2013 end 1,rating,1-5,1,242,7231,30,ok
-massive_mem_concreteness_mar_2014_end_1,0,Massive mem- concreteness Mar 2014 end 1,rating,1-5,1,242,7229,30,ok
-massive_mem_familiarity_mar_2013_end_1,0,Massive mem- familiarity Mar 2013 end 1,rating,1-5,1,242,7222,30,ok
-massive_mem_valence_mar_2014_end_1,0,Massive mem- valence Mar 2014 end 1,rating,1-5,1,242,7220,30,ok
-massive_mem_valence_mar_2013_end_1,0,Massive mem- valence Mar 2013 end 1,rating,1-5,1,242,7220,30,ok
-richard_islands_acceptability_expt_6_april_28_2013_while_whq_decl,0,Richard Islands acceptability expt 6 April 28 2013 while whq - decl,acceptability,1-5,3,100,7211,35,ok
-massive_mem_familiarity_mar_2014_end_1,0,Massive mem- familiarity Mar 2014 end 1,rating,1-5,1,242,7174,30,ok
-sentence_naturalness_survey_for_rw_dec_2009,0,Sentence naturalness survey for RW Dec 2009,naturalness,1-5,8,180,7164,20,ok
-sentence_naturalness_survey_acd_ratings_hackl_replic_expt_1_july_14_20,0,Sentence naturalness survey ACD ratings hackl replic expt 1 July 14 2012,naturalness,1-5,2,480,7152,15,ok
-massive_mem_arousal_mar_2014_end_1,0,Massive mem- arousal Mar 2014 end 1,rating,1-5,1,242,7149,30,ok
-acd_project_expt_23_also_nov_16_2012,0,ACD project- expt 23 also; nov 16 2012,rating,1-5,2,600,7136,10,ok
-lauren_sentence_naturalness_survey_expt_2_nov_15_2011,0,Lauren sentence naturalness survey expt 2 Nov 15 2011,naturalness,1-5,2,252,7121,11,ok
-massive_mem_arousal_mar_2013_end_2,0,Massive mem- arousal Mar 2013 end 2,rating,1-5,1,242,7026,29,ok
-acd_project_expt_45_hkv_expt_2_plaus_nov_29_2012,0,ACD project- expt 45 HKV expt 2 plaus; nov 29 2012,rating,1-5,2,360,7023,20,ok
-sentence_naturalness_survey_for_lb_may_2010,0,Sentence naturalness survey for LB May 2010,naturalness,1-5,8,148,6823,41,ok
-eunice_disfluency_nov_15_2011,0,Eunice disfluency Nov 15 2011,rating,1-5,2,468,6655,10,ok
-sentence_naturalness_survey_acd_v6_oct_25_2012,0,Sentence naturalness survey ACD v6 Oct 25 2012,naturalness,1-5,2,128,6653,30,ok
-active_passive_sentence_naturalness_survey_july_2012,0,Active passive sentence naturalness survey july 2012,naturalness,1-5,2,132,6624,28,ok
-cul_jack_april_12_2012_54_short_texts_with_two_comprehension_questions,0,cul jack april 12 2012 54 short texts with two comprehension questions and a rating. CODENAME- EFFICIENT LIZARD,rating,1-7,2,60,6565,115,ok
-sentence_naturalness_survey_for_lb_v2_oct_2010,0,Sentence naturalness survey for LB v2- Oct 2010,naturalness,1-5,1,402,6564,15,ok
-sentence_naturalness_survey_acd_v1_jan_2012,0,Sentence naturalness survey ACD v1 Jan 2012,naturalness,1-5,2,128,6128,27,ok
-pascal_1_dec_2012,0,Pascal 1 Dec 2012,rating,1-5,2,544,6086,8,ok
-sentence_naturalness_survey_for_lb_dec_2009,0,Sentence naturalness survey for LB Dec 2009,naturalness,1-5,8,108,6017,40,ok
-agreement_norming_nov,0,Agreement norming Nov,rating,1-5,2,159,5649,30,ok
-sentence_naturalness_survey_laura_mar_17_2012_96_items_code_lazy_cater,0,Sentence naturalness survey Laura Mar 17 2012 96 items; code= LAZY CATERPILLAR,naturalness,1-7,1,384,5647,15,ok
-sentence_naturalness_survey_acd_ratings_v2_jan_2012,0,Sentence naturalness survey ACD ratings v2 Jan 2012,naturalness,1-5,2,128,5577,25,ok
-islands_acceptability_expt_2_dec_2_2012,0,Islands acceptability expt 2 Dec 2 2012,acceptability,1-5,2,480,5574,11,ok
-sentence_naturalness_survey_laura_mar_17_2012_92_items_code_lazy_cater,0,Sentence naturalness survey Laura Mar 17 2012 92 items; code= LAZY CATERPILLAR,naturalness,1-7,1,368,5462,15,ok
-acceptability_judgments_kang,0,Acceptability Judgments - Kang,acceptability,1-5,2,136,5406,40,ok
-lauren_sentence_naturalness_survey_oct_14_2011,0,Lauren sentence naturalness survey Oct 14 2011,naturalness,1-5,1,360,5318,6,ok
-sentence_naturalness_survey_for_gs_dec_2009,0,Sentence naturalness survey for GS Dec 2009,naturalness,1-5,14,122,5294,20,ok
-quant_syn_april_13_2012_90_sentences_with_a_question_and_a_rating_code,0,quant syn april 13 2012 90 sentences with a question and a rating. CODENAME- JEALOUS MOSQUITO,rating,1-7,1,184,5247,15,ok
-sentence_naturalness_survey_for_marie_expt3_july_2012,0,Sentence naturalness survey for Marie expt3 july 2012,naturalness,1-5,1,32,5098,159,ok
-cul_jack_sentence_naturalness_survey_april_2010,0,Cul & Jack Sentence naturalness survey April 2010,naturalness,1-5,12,220,5026,12,ok
-sentence_naturalness_survey_for_gs_apr_4_2010,0,Sentence naturalness survey for GS Apr 4 2010,naturalness,1-5,12,132,5006,20,ok
-sentence_naturalness_survey_for_gs_jan_2010,0,Sentence naturalness survey for GS Jan 2010,naturalness,1-5,12,133,5004,20,ok
-ecog_sentences_imaginability_jan_8_2014,0,ECOG sentences imaginability Jan 8 2014,rating,1-5,2,120,4784,40,ok
-copy_cat_polly_june_2014,0,Copy cat Polly June 2014,rating,1-7,3,100,4783,30,caveat: rating prompt text merged into unit
-semantics1_finalproject,0,Semantics1-finalproject,rating,1-5,1,96,4783,50,ok
-sentence_naturalness_survey_feb_16_1_2012_60_items_code_shy_armadillo,0,Sentence naturalness survey Feb 16 1 2012 60 items; code= SHY-ARMADILLO,naturalness,1-7,1,120,4775,20,ok
-word_length_context_sentence_naturalness_survey_april_2011,0,word-length-context sentence naturalness survey April 2011,naturalness,1-5,2,86,4774,40,ok
-richard_islands_acceptability_expt_2_april_26_2013,0,Richard Islands acceptability expt 2 April 26 2013,acceptability,1-5,2,228,4731,10,ok
-animacy_passive_dative_kyle,0,animacy passive dative-kyle,rating,1-7,1,120,4649,39,ok
-cul_jack_april_2012_60_short_texts_with_two_comprehension_questions_an,0,cul jack april 2012 60 short texts with two comprehension questions and a rating. CODENAME- EFFICIENT LIZARD,rating,1-7,2,60,4594,77,ok
-ecog_sentences_naturalness_jan_8_2014_2,0,ECOG sentences naturalness Jan 8 2014 2,naturalness,1-5,2,120,4441,37,ok
-sentence_naturalness_survey_for_jkm_dec_2009,0,Sentence naturalness survey for JKM Dec 2009,naturalness,1-5,8,128,4350,20,ok
-social_interaction_and_language_tasks_survey_code_talkative_pigeon,0,social interaction and language tasks; survey code = TALKATIVE-PIGEON,rating,1-7,2,72,4301,45,ok
-reasoning_and_language_tasks_survey_code_talkative_pigeon,0,reasoning and language tasks; survey code = TALKATIVE-PIGEON,rating,1-7,2,72,4289,45,ok
-anne_abeille_acceptability_july_12_2017_1,0,Anne Abeille acceptability July 12 2017 1,acceptability,1-7,1,296,4284,8,ok
-2wh_3wh_sentence_naturalness_survey_april_2011,0,2wh-3wh Sentence naturalness survey April 2011,naturalness,1-5,1,152,4072,15,ok
-sentence_naturalness_survey_for_jk_june_24_2010_v2,0,Sentence naturalness survey for JK June 24 2010 v2,naturalness,1-5,8,176,4064,10,ok
-acd_project_expt_42_also_verbs_nov_29_2012_1,0,ACD project- expt 42 also verbs; nov 29 2012 1,rating,1-5,1,176,4049,15,ok
-sentence_naturalness_survey_for_jk_april_4_expt_3_2010,0,Sentence naturalness survey for JK April 4 Expt 3 2010,naturalness,1-5,10,96,3963,21,ok
-disfluencies_sentence_naturalness_survey_april_2011,0,disfluencies sentence naturalness survey April 2011,naturalness,1-5,2,144,3878,12,ok
-paris_judgments_dec_2012_1,0,Paris judgments Dec 2012 1,rating,1-5,1,488,3818,5,ok
-sentence_naturalness_survey_for_jk_april_4_2010,0,Sentence naturalness survey for JK April 4 2010,naturalness,1-5,8,96,3814,20,ok
-sentence_naturalness_survey_for_jk_mar_2010,0,Sentence naturalness survey for JK Mar 2010,naturalness,1-5,8,96,3803,20,ok
-sentence_naturalness_survey_for_jk_april_9_expt_4_2010,0,Sentence naturalness survey for JK April 9 Expt 4 2010,naturalness,1-5,8,96,3785,20,ok
-presup_survey_1_acd_july_2012,0,Presup survey 1 ACD july 2012,rating,1-5,1,240,3660,15,ok
-quantitative_syntax_survey,0,quantitative syntax survey,rating,1-5,10,121,3637,20,ok
-presup_survey_3_acd_july_2012,0,Presup survey 3 ACD july 2012,rating,1-5,1,240,3591,15,ok
-acd_project_also_2_nov_22_2012_1,0,ACD project- also 2; nov 22 2012 1,rating,1-5,1,448,3559,8,ok
-eunice_disfluency_2_nov_17_2011,0,Eunice disfluency 2 Nov 17 2011,rating,1-5,1,180,3536,10,ok
-presup_survey_2_acd_july_2012,0,Presup survey 2 ACD july 2012,rating,1-5,1,240,3532,15,ok
-acd_project_expt_46_also_in_hkv_2_nov_29_2012_1,0,ACD project- expt 46 also in HKV 2; nov 29 2012 1,rating,1-5,1,448,3524,8,ok
-pronouns_following_verbs_ve,0,pronouns following verbs -ve,rating,1-3,4,45,3514,80,ok
-pronouns_following_verbs,0,pronouns following verbs,rating,1-3,7,44,3478,79,ok
-pronouns_following_verbs_sm,0,pronouns following verbs -sm,rating,1-3,4,44,3470,79,ok
-wm2_wm5_9_59_sentence_naturalness_survey_april_2011,0,"WM2, WM5 9.59 sentence naturalness survey April 2011",naturalness,1-5,1,219,3348,11,ok
-acd_project_expt_31_same_diff_verbs_nov_16_2012_1,0,ACD project- expt 31 same-diff verbs; nov 16 2012 1,rating,1-5,1,176,3342,10,ok
-sentence_naturalness_survey_acd_ratings_v4_july_13_2012,0,Sentence naturalness survey ACD ratings v4 July 13 2012,naturalness,1-5,1,176,3338,10,ok
-acd_project_also_3_nov_24_2012_2,0,ACD project- also 3; nov 24 2012 2,rating,1-5,1,128,3338,15,ok
-sentence_naturalness_survey_acd_ratings_hackl_expt_7_oct_25_2012_1,0,Sentence naturalness survey ACD ratings hackl expt 7 Oct 25 2012 1,naturalness,1-5,1,176,3319,10,ok
-sentence_naturalness_survey_acd_ratings_hackl_expt_5_oct_25_2012_1,0,Sentence naturalness survey ACD ratings hackl expt 5 Oct 25 2012 1,naturalness,1-5,1,128,3295,15,ok
-50_sentences_noisy_channel_may_25_2011,0,50 sentences --Noisy Channel- may 25 2011,rating,1-5,1,208,3107,15,ok
-isac_sentence_naturalness_survey_feb_2011_survey_code_giant_cobra,0,ISAC Sentence naturalness survey Feb 2011 survey code= GIANT-COBRA,naturalness,1-7,1,256,3063,12,ok
-50_sentences_with_2_comp_qs_plus_rating_mar_11_2011,0,50 sentences with 2 comp qs plus rating mar 11 2011,rating,1-5,1,208,3053,15,ok
-alex_paunov_literal_inferences_dec_3_2011,0,Alex Paunov literal inferences Dec 3 2011,rating,1-5,1,299,2979,10,ok
-acd_project_expt_44_the_same_nov_29_2012_1,0,ACD project- expt 44 the same; nov 29 2012 1,rating,1-5,1,140,2931,10,ok
-short_acceptability_feb_6_2014,0,short acceptability feb 6 2014,acceptability,1-5,2,128,2904,13,ok
-imperative_control_iad_gs_may_16_2011_purple_puppy,0,Imperative control IaD GS May 16 2011 Purple Puppy,rating,1-5,1,49,2873,60,ok
-richard_islands_acceptability_expt_1_april_25_2013_3,0,Richard Islands acceptability expt 1 April 25 2013 3,acceptability,1-5,1,144,2856,10,ok
-sentence_naturalness_survey_for_gs_may_11_2011_purple_puppy,0,Sentence naturalness survey for GS May 11 2011 Purple Puppy,naturalness,1-5,1,48,2818,59,ok
-sentence_naturalness_survey_for_lb_feb_20_2010_v2,0,Sentence naturalness survey for LB Feb 20 2010 v2,naturalness,1-5,6,77,2809,20,ok
-orange_camel_sentence_naturalness_survey_nov_2010,0,Orange Camel sentence naturalness survey Nov 2010,naturalness,1-5,1,144,2799,10,ok
-pronouns_following_verbs_an_2,0,pronouns following verbs - an,rating,1-3,3,44,2637,60,ok
-pronouns_following_verbs_so_2,0,pronouns following verbs - so,rating,1-3,3,44,2629,60,ok
-sentence_naturalness_survey_may_1_2011_64_items_code_shy_armadillo,0,Sentence naturalness survey May 1 2011 64 items; code= SHY-ARMADILLO,naturalness,1-7,1,232,2556,5,ok
-verb_causality_study_syntax_ratings_mk_april_2010,0,Verb causality study - syntax ratings (MK April 2010),rating,1-5,4,124,2474,20,ok
-chomsky_items,0,Chomsky items,rating,1-5,12,94,2344,20,ok
-word3_word_naturalness_survey_may_1_2011_45_items_code_nosy_badger,0,Word3- Word naturalness survey May 1 2011 45 items; code= NOSY-BADGER,naturalness,1-7,1,45,2239,50,ok
-sentence_naturalness_survey_for_jkm_jan_2012,0,Sentence naturalness survey for JKM Jan 2012,naturalness,1-5,1,128,2225,10,ok
-richard_islands_acceptability_expt_5_april_27_2013_1,0,Richard Islands acceptability expt 5 April 27 2013 1,acceptability,1-5,1,132,2060,9,ok
-richard_islands_acceptability_expt_4_april_26_2013_1,0,Richard Islands acceptability expt 4 April 26 2013 1,acceptability,1-5,1,100,2058,10,ok
-sentence_naturalness_survey_for_lb_feb_20_2010,0,Sentence naturalness survey for LB Feb 20 2010,naturalness,1-5,4,64,1911,29,ok
-brief_sentence_naturalness_survey_march_2011,0,Brief sentence naturalness survey March 2011,naturalness,1-5,2,64,1864,29,ok
-mk_alive_corpus_questionnaire,0,MK - 'Alive' Corpus Questionnaire,rating,1-5,1,286,1798,6,ok
-pronouns_following_verbs_ce_2,0,pronouns following verbs - ce,rating,1-3,2,44,1756,40,ok
-pronouns_following_verbs_ce,0,pronouns following verbs -ce,rating,1-3,2,44,1748,40,ok
-melissa_transitivity_semantics,0,Melissa - Transitivity Semantics,rating,1-5,2,102,1622,16,ok
-copy_cat_polly_dec_2013_1,0,Copy cat Polly Dec 2013 1,rating,1-7,1,60,1597,20,caveat: rating prompt text merged into unit
-sentence_naturalness_survey_may_4_2011_36_items_code_anxious_bat,0,Sentence naturalness survey May 4 2011 36 items; code= ANXIOUS-BAT,naturalness,1-7,1,84,1434,10,ok
-melissa_short_naturalness_test,0,Melissa- Short naturalness test,naturalness,1-5,4,24,1431,60,ok
-sentence_naturalness_survey_for_lb_prelim_oct_2010,0,Sentence naturalness survey for LB prelim- Oct 2010,naturalness,1-5,1,402,1369,3,caveat: thin (median n/unit < 5)
-noisy_rc_norming_oct19,0,Noisy-RC norming Oct19,rating,1-5,1,128,1274,10,ok
-paris_judgments_2_dec_2012_1,0,Paris judgments 2 Dec 2012 1,rating,1-5,1,256,1267,5,ok
-mk_thought_corpus_questionnaire,0,MK - 'Thought' Corpus Questionnaire,rating,1-5,1,286,1197,4,caveat: thin (median n/unit < 5)
-mk_goals_corpus_questionnaire,0,MK - 'Goals' Corpus Questionnaire,rating,1-5,1,286,1196,4,caveat: thin (median n/unit < 5)
-copy_cat_polly_june_2014_v2_1,0,Copy cat Polly June 2014 v2 1,rating,1-7,1,90,1194,10,caveat: rating prompt text merged into unit
-pronouns_following_verbs_so,0,pronouns following verbs -so,rating,1-3,1,44,879,20,ok
-pronouns_following_verbs_an,0,pronouns following verbs-an,rating,1-3,1,44,874,20,ok
-sentence_naturalness_survey_for_lb_feb_2010,0,Sentence naturalness survey for LB Feb 2010,naturalness,1-5,6,45,704,16,ok
-copy_of_verb_causality_study_semantics_ratings_v3o4_mk_april_2010,0,Copy of Verb causality study - semantics ratings (V3O4 MK April 2010),rating,1-5,1,62,620,10,ok
-copy_of_verb_causality_study_semantics_ratings_mk_april_2010,0,Copy of Verb causality study - semantics ratings (MK April 2010),rating,1-5,1,62,620,10,ok
-copy_of_verb_causality_study_semantics_ratings_v3o1_mk_april_2010,0,Copy of Verb causality study - semantics ratings (V3O1 MK April 2010),rating,1-5,1,62,619,10,ok
-copy_of_verb_causality_study_semantics_ratings_v3o2_mk_april_2010,0,Copy of Verb causality study - semantics ratings (V3O2 MK April 2010),rating,1-5,1,62,611,10,ok
-verb_particle_ratings,0,verb-particle ratings,rating,1-5,1,136,512,2,caveat: thin (median n/unit < 5)
-sentence_naturalness_survey_for_marie_tue_oct_15_2010_v3,1,Sentence naturalness survey for Marie & Tue- Oct 15 2010 v3,naturalness,1-5,2,16,9991,625,ok
-sentence_naturalness_survey_for_marie_tue_april_4_2011_v4,1,Sentence naturalness survey for Marie & Tue- April 4 2011 v4,naturalness,1-5,1,16,8650,540,ok
-quant_syn_april_13_2012_120_sentences_with_a_question_and_a_rating_cod,1,quant syn april 13 2012 120 sentences with a question and a rating. CODENAME- JEALOUS MOSQUITO,rating,1-7,1,272,6932,20,ok
-semantics4_final_project,1,Semantics4-final project,rating,1-5,2,308,6507,16,quarantined: every unit is instruction boilerplate merged with stimulus
-isac_sentence_naturalness_survey_may_1_2011_80_items_code_silly_antelo,1,ISAC Sentence naturalness survey May 1 2011 80 items; code= SILLY-ANTELOPE,naturalness,1-7,1,80,4791,60,ok
-jana_acceptability_july_10_2014,1,Jana acceptability July 10 2014,acceptability,1-7,2,208,4411,18,ok
-quant_syn_april_13_2012_60_sentences_with_a_question_and_a_rating_code,1,quant syn april 13 2012 60 sentences with a question and a rating. CODENAME- JEALOUS MOSQUITO,rating,1-7,1,216,3577,15,ok
-9_59_project_claire_scott,1,9.59 Project - Claire & Scott,rating,1-5,2,404,3178,6,ok
-9_59_project_claire_scott_29_apr_09_45_for_scott,1,'9.59 Project - Claire & Scott ' @ 29 Apr 09-45 (for Scott),rating,1-5,1,404,2708,5,ok
-events2_irreversibility_ratings_list1_march_15_2014,1,Events2 irreversibility ratings list1 March 15 2014,rating,1-5,2,124,2469,20,"quarantined: units are image filenames (.png), not sentences"
-events2_irreversibility_ratings_list2_march_15_2014_1,1,Events2 irreversibility ratings list2 March 15 2014 1,rating,1-5,1,124,2468,20,"quarantined: units are image filenames (.png), not sentences"
-sentence_naturalness_survey_for_marie_tue_oct_2010_v2,1,Sentence naturalness survey for Marie Tue- Oct 2010 v2,naturalness,1-5,3,16,1326,83,ok
-quant_syn_april_13_2012_24_sentences_with_a_question_and_a_rating_code,1,quant syn april 13 2012 24 sentences with a question and a rating. CODENAME- JEALOUS MOSQUITO,rating,1-7,1,192,955,5,ok
-verb_transitivity_causal_study_syntax_mk_april_2010,1,Verb transitivity-causal study - syntax (MK April 2010),rating,1-5,1,82,82,1,"quarantined: all units have n=1 (single rating, no aggregate)"
-sentence_naturalness_survey_for_marie_tue_oct_2010,1,Sentence naturalness survey for Marie Tue- Oct 2010,naturalness,1-5,1,16,54,3,ok
+file,source_folder,dim,scale_inferred,n_batch_files,n_units,n_ratings,median_n_per_unit,quality_flag
+massive_mem_imageability_mar_2014,Massive mem- imageability Mar 2014,rating,1-5,8,2019,85823,39,ok
+massive_mem_imageability_mar_2013,Massive mem- imageability Mar 2013,rating,1-5,9,2020,71770,30,ok
+massive_mem_concreteness_mar_2013,Massive mem- concreteness Mar 2013,rating,1-5,9,2020,71679,30,ok
+massive_mem_valence_mar_2013,Massive mem- valence Mar 2013,rating,1-5,8,2020,66485,30,ok
+massive_mem_arousal_mar_2013,Massive mem- arousal Mar 2013,rating,1-5,8,2020,65008,30,ok
+massive_mem_familiarity_mar_2013,Massive mem- familiarity Mar 2013,rating,1-5,8,2020,64408,30,ok
+massive_mem_concreteness_mar_2014,Massive mem- concreteness Mar 2014,rating,1-5,8,2019,64058,30,ok
+massive_mem_valence_mar_2014,Massive mem- valence Mar 2014,rating,1-5,8,2018,63913,30,ok
+massive_mem_familiarity_mar_2014,Massive mem- familiarity Mar 2014,rating,1-5,8,2020,63880,30,ok
+massive_mem_arousal_mar_2014,Massive mem- arousal Mar 2014,rating,1-5,8,2015,63813,30,ok
+sentence_naturalness_survey_denise_jan_12_2011_survey_code_pig_the_pig,Sentence naturalness survey Denise Jan 12 2011 survey code= Pig-the-pig,naturalness,1-7,2,200,31957,199,ok
+sentence_naturalness_survey_denise_sept_8_2010_survey_code_pig_the_pig,Sentence naturalness survey Denise Sept 8 2010 survey code= Pig-the-pig,naturalness,1-7,2,224,31113,98,ok
+acd_context_polly_1_nov_23_2012,ACD context polly 1 nov 23 2012,rating,1-5,10,225,28701,50,ok
+noisy_channel_acceptability_2_sept_2013,noisy channel acceptability 2 sept 2013,acceptability,1-5,5,380,23804,59,ok
+acd_no_context_polly_1_nov_23_2012,ACD no context polly 1; nov 23 2012,rating,1-5,7,213,21610,45,ok
+sentence_naturalness_survey_for_rw_jan_2010,Sentence naturalness survey for RW Jan 2010,naturalness,1-5,24,480,21443,20,ok
+acd_project_expt_24_same_diff_verbs_nov_16_2012,ACD project- expt 24 same-diff verbs; nov 16 2012,rating,1-5,4,472,21363,58,ok
+p_p_sentence_naturalness_survey_june_2013_v3,P&P Sentence naturalness survey June 2013 v3,naturalness,1-5,2,242,19678,48,ok
+p_p_sentence_naturalness_survey_aug_2010,P&P Sentence naturalness survey Aug 2010,naturalness,1-5,2,252,19122,32,ok
+mk_grammaticality_study_7_20,MK grammaticality study 7-20,rating,1-5,24,1538,16703,10,ok
+p_p_sentence_naturalness_survey_feb,P&P Sentence naturalness survey Feb,naturalness,1-5,15,614,15402,16,ok
+cul_jack_sentence_naturalness_survey_2_sept_2011,Cul & Jack Sentence naturalness survey 2 Sept 2011,naturalness,1-5,2,220,15238,37,ok
+sentence_naturalness_survey_nat_aug_28_2010_survey_code_downtown,Sentence naturalness survey Nat Aug 28 2010 survey code= Downtown,naturalness,1-7,2,270,14329,46,ok
+p_p_sentence_naturalness_survey_may_2013,P&P Sentence naturalness survey May 2013,naturalness,1-5,2,252,13796,23,ok
+sentence_completions_and_islands_acceptability_expt_1_nov_13_2012,sentence completions and islands acceptability expt 1 Nov 13 2012,acceptability,1-5,3,112,13215,137,ok
+p_p_sentence_naturalness_survey_may_2013_v2,P&P Sentence naturalness survey May 2013 v2,naturalness,1-5,2,252,13193,22,ok
+neal_norming_1,Neal Norming 1,rating,1-5,1,704,12940,23,ok
+sentence_naturalness_survey_for_formal_link,Sentence naturalness survey for formal link,naturalness,1-5,12,252,11826,20,ok
+sentence_naturalness_survey_for_lb_jan_2011_v2,Sentence naturalness survey for LB- Jan 2011 v2,naturalness,1-5,1,519,11822,20,ok
+p_p_sentence_naturalness_survey_jan_2010,P&P Sentence naturalness survey Jan 2010,naturalness,1-5,12,184,11817,30,ok
+sentence_naturalness_survey_for_lb_jan_2011_v3,Sentence naturalness survey for LB- Jan 2011 v3,naturalness,1-5,1,519,11655,20,ok
+sentence_naturalness_survey_for_lb_jan_2011,Sentence naturalness survey for LB- Jan 2011,naturalness,1-5,1,519,11504,19,ok
+quant_syn_april_16_2012_36_sentences_with_a_question_and_a_rating_code,quant syn april 16 2012 36 sentences with a question and a rating. CODENAME- JEALOUS MOSQUITO,rating,1-7,4,126,11065,99,ok
+erp_sentence_naturalness_survey_june_2013_2,ERP sentence naturalness survey June 2013 2,naturalness,1-5,1,484,10036,20,ok
+p_p_sentence_naturalness_survey_dec_2009,P&P Sentence naturalness survey Dec 2009,naturalness,1-5,14,252,10021,17,ok
+semantics3_final_project,Semantics3-final project,rating,1-5,2,96,9576,100,ok
+noisy_channel_acceptability_1_sept_2013_1,noisy channel acceptability 1 sept 2013 1,acceptability,1-5,1,496,9546,15,ok
+erp_norming_error_detection_june_2013_4,ERP norming error detection- June 2013 4,rating,1-5,1,162,9545,59,ok
+semantics2_finalproject,Semantics2-finalproject,rating,1-5,2,96,9483,99,ok
+sentence_naturalness_survey_for_marie_expt3b_july_20_2012,Sentence naturalness survey for Marie expt3b july 20 2012,naturalness,1-5,1,57,8916,160,ok
+sentence_naturalness_survey_for_lb_mar_2010_2,Sentence naturalness survey for LB Mar 2010 #2,naturalness,1-5,12,241,8799,29,ok
+sentence_naturalness_survey_for_lb_mar_2010,Sentence naturalness survey for LB Mar 2010,naturalness,1-5,12,123,8785,58,ok
+verb_causality_study_semantics_ratings_mk_april_2010,Verb causality study - semantics ratings (MK April 2010),rating,1-5,15,188,8678,42,ok
+orc_lauren_sentence_naturalness_survey_july_2012,ORC Lauren sentence naturalness survey july 2012,naturalness,1-5,2,192,8605,22,ok
+quant_syn_april_14_2012_48_sentences_with_a_question_and_a_rating_code,quant syn april 14 2012 48 sentences with a question and a rating. CODENAME- JEALOUS MOSQUITO,rating,1-7,2,168,8563,45,ok
+lauren_sentence_naturalness_survey_expt3_nov_17_2011,Lauren sentence naturalness survey expt3 Nov 17 2011,naturalness,1-5,1,460,7968,8,ok
+word3_b_word_naturalness_survey_may_4_2011_160_items_code_sleepy_bear,Word3-b- Word naturalness survey May 4 2011 160 items; code= SLEEPY-BEAR,naturalness,1-7,1,158,7958,50,ok
+paris_judgments_3_dec_2012,Paris judgments 3 Dec 2012,rating,1-5,3,477,7714,14,ok
+isac_sentence_naturalness_survey_feb_2011_64_items_survey_code_giant_c,ISAC Sentence naturalness survey Feb 2011 64 items survey code= GIANT-COBRA,naturalness,1-7,1,256,7649,30,ok
+sentence_naturalness_isac_survey_feb_2011,Sentence naturalness ISAC survey Feb 2011,naturalness,1-5,1,304,7641,12,ok
+sentence_naturalness_survey_for_gs_jan_23_2010,Sentence naturalness survey for GS Jan 23 2010,naturalness,1-5,16,216,7543,20,ok
+quantifier_naturalness_survey_june_4_2010,Quantifier naturalness survey June 4 2010,naturalness,1-5,8,192,7463,20,ok
+massive_mem_concreteness_mar_2013_end_1,Massive mem- concreteness Mar 2013 end 1,rating,1-5,1,242,7238,30,ok
+massive_mem_imageability_mar_2014_end_1,Massive mem- imageability Mar 2014 end 1,rating,1-5,1,242,7233,30,ok
+massive_mem_imageability_mar_2013_end_1,Massive mem- imageability Mar 2013 end 1,rating,1-5,1,242,7231,30,ok
+massive_mem_concreteness_mar_2014_end_1,Massive mem- concreteness Mar 2014 end 1,rating,1-5,1,242,7229,30,ok
+massive_mem_familiarity_mar_2013_end_1,Massive mem- familiarity Mar 2013 end 1,rating,1-5,1,242,7222,30,ok
+massive_mem_valence_mar_2014_end_1,Massive mem- valence Mar 2014 end 1,rating,1-5,1,242,7220,30,ok
+massive_mem_valence_mar_2013_end_1,Massive mem- valence Mar 2013 end 1,rating,1-5,1,242,7220,30,ok
+richard_islands_acceptability_expt_6_april_28_2013_while_whq_decl,Richard Islands acceptability expt 6 April 28 2013 while whq - decl,acceptability,1-5,3,100,7211,35,ok
+massive_mem_familiarity_mar_2014_end_1,Massive mem- familiarity Mar 2014 end 1,rating,1-5,1,242,7174,30,ok
+sentence_naturalness_survey_for_rw_dec_2009,Sentence naturalness survey for RW Dec 2009,naturalness,1-5,8,180,7164,20,ok
+sentence_naturalness_survey_acd_ratings_hackl_replic_expt_1_july_14_20,Sentence naturalness survey ACD ratings hackl replic expt 1 July 14 2012,naturalness,1-5,2,480,7152,15,ok
+massive_mem_arousal_mar_2014_end_1,Massive mem- arousal Mar 2014 end 1,rating,1-5,1,242,7149,30,ok
+acd_project_expt_23_also_nov_16_2012,ACD project- expt 23 also; nov 16 2012,rating,1-5,2,600,7136,10,ok
+lauren_sentence_naturalness_survey_expt_2_nov_15_2011,Lauren sentence naturalness survey expt 2 Nov 15 2011,naturalness,1-5,2,252,7121,11,ok
+massive_mem_arousal_mar_2013_end_2,Massive mem- arousal Mar 2013 end 2,rating,1-5,1,242,7026,29,ok
+acd_project_expt_45_hkv_expt_2_plaus_nov_29_2012,ACD project- expt 45 HKV expt 2 plaus; nov 29 2012,rating,1-5,2,360,7023,20,ok
+sentence_naturalness_survey_for_lb_may_2010,Sentence naturalness survey for LB May 2010,naturalness,1-5,8,148,6823,41,ok
+eunice_disfluency_nov_15_2011,Eunice disfluency Nov 15 2011,rating,1-5,2,468,6655,10,ok
+sentence_naturalness_survey_acd_v6_oct_25_2012,Sentence naturalness survey ACD v6 Oct 25 2012,naturalness,1-5,2,128,6653,30,ok
+active_passive_sentence_naturalness_survey_july_2012,Active passive sentence naturalness survey july 2012,naturalness,1-5,2,132,6624,28,ok
+cul_jack_april_12_2012_54_short_texts_with_two_comprehension_questions,cul jack april 12 2012 54 short texts with two comprehension questions and a rating. CODENAME- EFFICIENT LIZARD,rating,1-7,2,60,6565,115,ok
+sentence_naturalness_survey_for_lb_v2_oct_2010,Sentence naturalness survey for LB v2- Oct 2010,naturalness,1-5,1,402,6564,15,ok
+sentence_naturalness_survey_acd_v1_jan_2012,Sentence naturalness survey ACD v1 Jan 2012,naturalness,1-5,2,128,6128,27,ok
+pascal_1_dec_2012,Pascal 1 Dec 2012,rating,1-5,2,544,6086,8,ok
+sentence_naturalness_survey_for_lb_dec_2009,Sentence naturalness survey for LB Dec 2009,naturalness,1-5,8,108,6017,40,ok
+agreement_norming_nov,Agreement norming Nov,rating,1-5,2,159,5649,30,ok
+sentence_naturalness_survey_laura_mar_17_2012_96_items_code_lazy_cater,Sentence naturalness survey Laura Mar 17 2012 96 items; code= LAZY CATERPILLAR,naturalness,1-7,1,384,5647,15,ok
+sentence_naturalness_survey_acd_ratings_v2_jan_2012,Sentence naturalness survey ACD ratings v2 Jan 2012,naturalness,1-5,2,128,5577,25,ok
+islands_acceptability_expt_2_dec_2_2012,Islands acceptability expt 2 Dec 2 2012,acceptability,1-5,2,480,5574,11,ok
+sentence_naturalness_survey_laura_mar_17_2012_92_items_code_lazy_cater,Sentence naturalness survey Laura Mar 17 2012 92 items; code= LAZY CATERPILLAR,naturalness,1-7,1,368,5462,15,ok
+acceptability_judgments_kang,Acceptability Judgments - Kang,acceptability,1-5,2,136,5406,40,ok
+lauren_sentence_naturalness_survey_oct_14_2011,Lauren sentence naturalness survey Oct 14 2011,naturalness,1-5,1,360,5318,6,ok
+sentence_naturalness_survey_for_gs_dec_2009,Sentence naturalness survey for GS Dec 2009,naturalness,1-5,14,122,5294,20,ok
+quant_syn_april_13_2012_90_sentences_with_a_question_and_a_rating_code,quant syn april 13 2012 90 sentences with a question and a rating. CODENAME- JEALOUS MOSQUITO,rating,1-7,1,184,5247,15,ok
+sentence_naturalness_survey_for_marie_expt3_july_2012,Sentence naturalness survey for Marie expt3 july 2012,naturalness,1-5,1,32,5098,159,ok
+cul_jack_sentence_naturalness_survey_april_2010,Cul & Jack Sentence naturalness survey April 2010,naturalness,1-5,12,220,5026,12,ok
+sentence_naturalness_survey_for_gs_apr_4_2010,Sentence naturalness survey for GS Apr 4 2010,naturalness,1-5,12,132,5006,20,ok
+sentence_naturalness_survey_for_gs_jan_2010,Sentence naturalness survey for GS Jan 2010,naturalness,1-5,12,133,5004,20,ok
+ecog_sentences_imaginability_jan_8_2014,ECOG sentences imaginability Jan 8 2014,rating,1-5,2,120,4784,40,ok
+copy_cat_polly_june_2014,Copy cat Polly June 2014,rating,1-7,3,100,4783,30,caveat: rating prompt text merged into unit
+semantics1_finalproject,Semantics1-finalproject,rating,1-5,1,96,4783,50,ok
+sentence_naturalness_survey_feb_16_1_2012_60_items_code_shy_armadillo,Sentence naturalness survey Feb 16 1 2012 60 items; code= SHY-ARMADILLO,naturalness,1-7,1,120,4775,20,ok
+word_length_context_sentence_naturalness_survey_april_2011,word-length-context sentence naturalness survey April 2011,naturalness,1-5,2,86,4774,40,ok
+richard_islands_acceptability_expt_2_april_26_2013,Richard Islands acceptability expt 2 April 26 2013,acceptability,1-5,2,228,4731,10,ok
+animacy_passive_dative_kyle,animacy passive dative-kyle,rating,1-7,1,120,4649,39,ok
+cul_jack_april_2012_60_short_texts_with_two_comprehension_questions_an,cul jack april 2012 60 short texts with two comprehension questions and a rating. CODENAME- EFFICIENT LIZARD,rating,1-7,2,60,4594,77,ok
+ecog_sentences_naturalness_jan_8_2014_2,ECOG sentences naturalness Jan 8 2014 2,naturalness,1-5,2,120,4441,37,ok
+sentence_naturalness_survey_for_jkm_dec_2009,Sentence naturalness survey for JKM Dec 2009,naturalness,1-5,8,128,4350,20,ok
+social_interaction_and_language_tasks_survey_code_talkative_pigeon,social interaction and language tasks; survey code = TALKATIVE-PIGEON,rating,1-7,2,72,4301,45,ok
+reasoning_and_language_tasks_survey_code_talkative_pigeon,reasoning and language tasks; survey code = TALKATIVE-PIGEON,rating,1-7,2,72,4289,45,ok
+anne_abeille_acceptability_july_12_2017_1,Anne Abeille acceptability July 12 2017 1,acceptability,1-7,1,296,4284,8,ok
+2wh_3wh_sentence_naturalness_survey_april_2011,2wh-3wh Sentence naturalness survey April 2011,naturalness,1-5,1,152,4072,15,ok
+sentence_naturalness_survey_for_jk_june_24_2010_v2,Sentence naturalness survey for JK June 24 2010 v2,naturalness,1-5,8,176,4064,10,ok
+acd_project_expt_42_also_verbs_nov_29_2012_1,ACD project- expt 42 also verbs; nov 29 2012 1,rating,1-5,1,176,4049,15,ok
+sentence_naturalness_survey_for_jk_april_4_expt_3_2010,Sentence naturalness survey for JK April 4 Expt 3 2010,naturalness,1-5,10,96,3963,21,ok
+disfluencies_sentence_naturalness_survey_april_2011,disfluencies sentence naturalness survey April 2011,naturalness,1-5,2,144,3878,12,ok
+paris_judgments_dec_2012_1,Paris judgments Dec 2012 1,rating,1-5,1,488,3818,5,ok
+sentence_naturalness_survey_for_jk_april_4_2010,Sentence naturalness survey for JK April 4 2010,naturalness,1-5,8,96,3814,20,ok
+sentence_naturalness_survey_for_jk_mar_2010,Sentence naturalness survey for JK Mar 2010,naturalness,1-5,8,96,3803,20,ok
+sentence_naturalness_survey_for_jk_april_9_expt_4_2010,Sentence naturalness survey for JK April 9 Expt 4 2010,naturalness,1-5,8,96,3785,20,ok
+presup_survey_1_acd_july_2012,Presup survey 1 ACD july 2012,rating,1-5,1,240,3660,15,ok
+quantitative_syntax_survey,quantitative syntax survey,rating,1-5,10,121,3637,20,ok
+presup_survey_3_acd_july_2012,Presup survey 3 ACD july 2012,rating,1-5,1,240,3591,15,ok
+acd_project_also_2_nov_22_2012_1,ACD project- also 2; nov 22 2012 1,rating,1-5,1,448,3559,8,ok
+eunice_disfluency_2_nov_17_2011,Eunice disfluency 2 Nov 17 2011,rating,1-5,1,180,3536,10,ok
+presup_survey_2_acd_july_2012,Presup survey 2 ACD july 2012,rating,1-5,1,240,3532,15,ok
+acd_project_expt_46_also_in_hkv_2_nov_29_2012_1,ACD project- expt 46 also in HKV 2; nov 29 2012 1,rating,1-5,1,448,3524,8,ok
+pronouns_following_verbs_ve,pronouns following verbs -ve,rating,1-3,4,45,3514,80,ok
+pronouns_following_verbs,pronouns following verbs,rating,1-3,7,44,3478,79,ok
+pronouns_following_verbs_sm,pronouns following verbs -sm,rating,1-3,4,44,3470,79,ok
+wm2_wm5_9_59_sentence_naturalness_survey_april_2011,"WM2, WM5 9.59 sentence naturalness survey April 2011",naturalness,1-5,1,219,3348,11,ok
+acd_project_expt_31_same_diff_verbs_nov_16_2012_1,ACD project- expt 31 same-diff verbs; nov 16 2012 1,rating,1-5,1,176,3342,10,ok
+sentence_naturalness_survey_acd_ratings_v4_july_13_2012,Sentence naturalness survey ACD ratings v4 July 13 2012,naturalness,1-5,1,176,3338,10,ok
+acd_project_also_3_nov_24_2012_2,ACD project- also 3; nov 24 2012 2,rating,1-5,1,128,3338,15,ok
+sentence_naturalness_survey_acd_ratings_hackl_expt_7_oct_25_2012_1,Sentence naturalness survey ACD ratings hackl expt 7 Oct 25 2012 1,naturalness,1-5,1,176,3319,10,ok
+sentence_naturalness_survey_acd_ratings_hackl_expt_5_oct_25_2012_1,Sentence naturalness survey ACD ratings hackl expt 5 Oct 25 2012 1,naturalness,1-5,1,128,3295,15,ok
+50_sentences_noisy_channel_may_25_2011,50 sentences --Noisy Channel- may 25 2011,rating,1-5,1,208,3107,15,ok
+isac_sentence_naturalness_survey_feb_2011_survey_code_giant_cobra,ISAC Sentence naturalness survey Feb 2011 survey code= GIANT-COBRA,naturalness,1-7,1,256,3063,12,ok
+50_sentences_with_2_comp_qs_plus_rating_mar_11_2011,50 sentences with 2 comp qs plus rating mar 11 2011,rating,1-5,1,208,3053,15,ok
+alex_paunov_literal_inferences_dec_3_2011,Alex Paunov literal inferences Dec 3 2011,rating,1-5,1,299,2979,10,ok
+acd_project_expt_44_the_same_nov_29_2012_1,ACD project- expt 44 the same; nov 29 2012 1,rating,1-5,1,140,2931,10,ok
+short_acceptability_feb_6_2014,short acceptability feb 6 2014,acceptability,1-5,2,128,2904,13,ok
+imperative_control_iad_gs_may_16_2011_purple_puppy,Imperative control IaD GS May 16 2011 Purple Puppy,rating,1-5,1,49,2873,60,ok
+richard_islands_acceptability_expt_1_april_25_2013_3,Richard Islands acceptability expt 1 April 25 2013 3,acceptability,1-5,1,144,2856,10,ok
+sentence_naturalness_survey_for_gs_may_11_2011_purple_puppy,Sentence naturalness survey for GS May 11 2011 Purple Puppy,naturalness,1-5,1,48,2818,59,ok
+sentence_naturalness_survey_for_lb_feb_20_2010_v2,Sentence naturalness survey for LB Feb 20 2010 v2,naturalness,1-5,6,77,2809,20,ok
+orange_camel_sentence_naturalness_survey_nov_2010,Orange Camel sentence naturalness survey Nov 2010,naturalness,1-5,1,144,2799,10,ok
+pronouns_following_verbs_an_2,pronouns following verbs - an,rating,1-3,3,44,2637,60,ok
+pronouns_following_verbs_so_2,pronouns following verbs - so,rating,1-3,3,44,2629,60,ok
+sentence_naturalness_survey_may_1_2011_64_items_code_shy_armadillo,Sentence naturalness survey May 1 2011 64 items; code= SHY-ARMADILLO,naturalness,1-7,1,232,2556,5,ok
+verb_causality_study_syntax_ratings_mk_april_2010,Verb causality study - syntax ratings (MK April 2010),rating,1-5,4,124,2474,20,ok
+chomsky_items,Chomsky items,rating,1-5,12,94,2344,20,ok
+word3_word_naturalness_survey_may_1_2011_45_items_code_nosy_badger,Word3- Word naturalness survey May 1 2011 45 items; code= NOSY-BADGER,naturalness,1-7,1,45,2239,50,ok
+sentence_naturalness_survey_for_jkm_jan_2012,Sentence naturalness survey for JKM Jan 2012,naturalness,1-5,1,128,2225,10,ok
+richard_islands_acceptability_expt_5_april_27_2013_1,Richard Islands acceptability expt 5 April 27 2013 1,acceptability,1-5,1,132,2060,9,ok
+richard_islands_acceptability_expt_4_april_26_2013_1,Richard Islands acceptability expt 4 April 26 2013 1,acceptability,1-5,1,100,2058,10,ok
+sentence_naturalness_survey_for_lb_feb_20_2010,Sentence naturalness survey for LB Feb 20 2010,naturalness,1-5,4,64,1911,29,ok
+brief_sentence_naturalness_survey_march_2011,Brief sentence naturalness survey March 2011,naturalness,1-5,2,64,1864,29,ok
+mk_alive_corpus_questionnaire,MK - 'Alive' Corpus Questionnaire,rating,1-5,1,286,1798,6,ok
+pronouns_following_verbs_ce_2,pronouns following verbs - ce,rating,1-3,2,44,1756,40,ok
+pronouns_following_verbs_ce,pronouns following verbs -ce,rating,1-3,2,44,1748,40,ok
+melissa_transitivity_semantics,Melissa - Transitivity Semantics,rating,1-5,2,102,1622,16,ok
+copy_cat_polly_dec_2013_1,Copy cat Polly Dec 2013 1,rating,1-7,1,60,1597,20,caveat: rating prompt text merged into unit
+sentence_naturalness_survey_may_4_2011_36_items_code_anxious_bat,Sentence naturalness survey May 4 2011 36 items; code= ANXIOUS-BAT,naturalness,1-7,1,84,1434,10,ok
+melissa_short_naturalness_test,Melissa- Short naturalness test,naturalness,1-5,4,24,1431,60,ok
+sentence_naturalness_survey_for_lb_prelim_oct_2010,Sentence naturalness survey for LB prelim- Oct 2010,naturalness,1-5,1,402,1369,3,caveat: thin (median n/unit < 5)
+noisy_rc_norming_oct19,Noisy-RC norming Oct19,rating,1-5,1,128,1274,10,ok
+paris_judgments_2_dec_2012_1,Paris judgments 2 Dec 2012 1,rating,1-5,1,256,1267,5,ok
+mk_thought_corpus_questionnaire,MK - 'Thought' Corpus Questionnaire,rating,1-5,1,286,1197,4,caveat: thin (median n/unit < 5)
+mk_goals_corpus_questionnaire,MK - 'Goals' Corpus Questionnaire,rating,1-5,1,286,1196,4,caveat: thin (median n/unit < 5)
+copy_cat_polly_june_2014_v2_1,Copy cat Polly June 2014 v2 1,rating,1-7,1,90,1194,10,caveat: rating prompt text merged into unit
+pronouns_following_verbs_so,pronouns following verbs -so,rating,1-3,1,44,879,20,ok
+pronouns_following_verbs_an,pronouns following verbs-an,rating,1-3,1,44,874,20,ok
+sentence_naturalness_survey_for_lb_feb_2010,Sentence naturalness survey for LB Feb 2010,naturalness,1-5,6,45,704,16,ok
+copy_of_verb_causality_study_semantics_ratings_v3o4_mk_april_2010,Copy of Verb causality study - semantics ratings (V3O4 MK April 2010),rating,1-5,1,62,620,10,ok
+copy_of_verb_causality_study_semantics_ratings_mk_april_2010,Copy of Verb causality study - semantics ratings (MK April 2010),rating,1-5,1,62,620,10,ok
+copy_of_verb_causality_study_semantics_ratings_v3o1_mk_april_2010,Copy of Verb causality study - semantics ratings (V3O1 MK April 2010),rating,1-5,1,62,619,10,ok
+copy_of_verb_causality_study_semantics_ratings_v3o2_mk_april_2010,Copy of Verb causality study - semantics ratings (V3O2 MK April 2010),rating,1-5,1,62,611,10,ok
+verb_particle_ratings,verb-particle ratings,rating,1-5,1,136,512,2,caveat: thin (median n/unit < 5)

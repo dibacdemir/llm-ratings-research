@@ -9,7 +9,7 @@ surveyor_norms) was modified**; this is a standalone sibling directory.
   `unit, mean, std, n, individual_ratings` (`unit` = the rated sentence/word, HTML stripped)
 - `instructions/<experiment>_i.txt` — reconstructed prompt (see caveat 2)
 - `a_index.csv` — one row per converted experiment (dim, inferred scale, #batch files, #units, #ratings, median n/unit)
-- `_needs_review/` — 11 experiments where the auto-detected unit looked like a question (mapping suspect)
+(15 experiments were reviewed and excluded: units that looked like questions, image-filename units, boilerplate, or n=1)
 - `_remaining_classification.csv` — every one of the 2,853 MTurk CSVs labeled by category (what was and wasn't converted, and why)
 
 ## How the conversion works
@@ -20,7 +20,7 @@ worker, and aggregate by sentence text **across all batch files in the same expe
 (this naturally dedupes the many re-run batches). Alignment was verified against the raw data.
 
 ## Yield
-**175 clean experiments (+11 needs-review), 56,976 unique units, 1,780,669 individual ratings.**
+**171 clean experiments, 54,498 unique units, 1,722,570 individual ratings** (15 flagged experiments excluded).
 This is ~10x the surveyor set. Many are sentence naturalness/acceptability studies; some (e.g.
 "Massive mem familiarity/imageability") are classic single-word norms like the published datasets
 already in this repo. Scales inferred from responses: 1–5 (148), 1–7 (29), 1–3 (9).
@@ -44,7 +44,7 @@ already in this repo. Scales inferred from responses: 1–5 (148), 1–7 (29), 1
    from the folder name (naturalness/acceptability/…) and the scale is inferred from observed
    response range. Treat instructions as approximate; verify before publishing.
 3. **Unit numbering alignment is assumed** where the Rating index set exactly matches the stimulus
-   index set. The 11 `_needs_review` experiments failed a sanity check (units looked like questions).
+   index set. 15 experiments that failed a sanity check (units looked like questions, etc.) were excluded.
 4. **No participant exclusions / attention-check filtering** applied.
 5. **Not de-identified.** Raw MTurk CSVs contain WorkerId; folder names contain researcher names.
    Scrub before any release. (Only aggregated units+ratings were written out here, no WorkerId.)

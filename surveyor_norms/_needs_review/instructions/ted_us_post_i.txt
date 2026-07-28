@@ -1,4 +1,0 @@
-Rate on a scale from 1 - Strongly Disagree to 5 - Strongly Agree.
-Answer with one number.
-
-<<{sentence}>>

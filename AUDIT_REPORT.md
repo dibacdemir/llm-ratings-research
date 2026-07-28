@@ -3,7 +3,7 @@ _2026-07-20 · covers `surveyor_norms/` and `mturk_norms/` (original 20 datasets
 
 ## Bottom line
 **271 usable datasets · 68,275 units · 2,055,760 individual human ratings**, all numerically
-re-verified from the raw source. 30 datasets quarantined to `_needs_review/`. Every file in both
+re-verified from the raw source. 30 flagged datasets were excluded. Every file in both
 raw dumps is classified and accounted for.
 
 ## 1. Usable data (checked, clean)
@@ -25,7 +25,7 @@ Schema matches the existing repo exactly: `unit, mean, std, n, individual_rating
 - **No wrongful inclusions:** 0 games/RT/external-only leaked in.
 
 ## 3. Fixes applied during the audit
-- **Quarantined 4 broken MTurk files** → `_needs_review/`: 2 with image-filename units (`.png`), 1 all-boilerplate, 1 with n=1 for every unit.
+- **Excluded 4 broken MTurk files**: 2 with image-filename units (`.png`), 1 all-boilerplate, 1 with n=1 for every unit.
 - **Upgraded 108 MTurk instructions** to dimension-specific wording; fixed the 20 `massive_mem` word-norm sets that had shared one identical "Rate the sentence" line.
 - **"Accent-stripping bug" → false alarm.** Converter preserves accents; stray `dcor` units come from raw data that lost the é upstream (faithful reproduction).
 

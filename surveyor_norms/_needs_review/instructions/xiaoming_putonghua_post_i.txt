@@ -1,4 +1,0 @@
-Rate on a scale from 1 - 非常不同意 to 5 - 非常同意.
-Answer with one number.
-
-<<{sentence}>>
