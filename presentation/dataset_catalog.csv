@@ -1,0 +1,336 @@
+source,study,task,domain,subdomain,n_items,n_ratings,has_individual,split_half_r
+published,amouyal2024,amouyal2024_plausibility,Sentence semantics,Plausibility / coherence / discourse,853,17154,1,0.945
+published,brysbaert2014,brysbaert2014_concreteness,Lexical: perceptual/motor,Imageability / concreteness / size,39954,1286344,0,
+published,corenblum2025,corenblum2025_cognition,Lexical: conceptual,Conceptual / semantic,8367,164877,0,
+published,dentella2023,dentella2023_grammaticality,Syntax,Acceptability / naturalness,80,8000,1,0.985
+published,devarda2023,devarda2023_predictability,Sentence semantics,Plausibility / coherence / discourse,1726,101400,1,0.96
+published,diveica2023,diveica2023_socialness,Lexical: conceptual,Social,8948,233407,1,0.885
+published,edwards2024,edwards2024_spelling_to_pronunciation_transparency,Form (sub-lexical),Orthography–phonology,23282,617233,1,0.847
+published,gatti2024,gatti2024_pseudoword_valence_intuitive,Form (sub-lexical),Pseudoword,1500,45000,0,
+published,gatti2024,gatti2024_pseudoword_valence_semantic_task,Form (sub-lexical),Pseudoword,500,15000,0,
+published,giurgea2025,giurgea2025_motivation,Lexical: affective,Affective,8765,255943,1,0.859
+published,green2025,green2025_aoa_reading,Lexical: conceptual,Age of acquisition,11074,388568,1,0.81
+published,green2025,green2025_aoa_writing,Lexical: conceptual,Age of acquisition,11074,401860,1,0.829
+published,kuperman2012,kuperman2012_age_of_acquisition,Lexical: conceptual,Age of acquisition,31124,636147,0,
+published,lancaster2020,lancaster2020_auditory,Lexical: perceptual/motor,Sensorimotor,39954,874369,1,0.842
+published,lancaster2020,lancaster2020_foot_leg,Lexical: perceptual/motor,Sensorimotor,39954,927113,1,0.828
+published,lancaster2020,lancaster2020_gustatory,Lexical: perceptual/motor,Sensorimotor,39954,874369,1,0.92
+published,lancaster2020,lancaster2020_hand_arm,Lexical: perceptual/motor,Sensorimotor,39954,927113,1,0.817
+published,lancaster2020,lancaster2020_haptic,Lexical: perceptual/motor,Sensorimotor,39954,874369,1,0.855
+published,lancaster2020,lancaster2020_head,Lexical: perceptual/motor,Sensorimotor,39954,927113,1,0.594
+published,lancaster2020,lancaster2020_interoceptive,Lexical: perceptual/motor,Sensorimotor,39954,874369,1,0.837
+published,lancaster2020,lancaster2020_mouth,Lexical: perceptual/motor,Sensorimotor,39954,927113,1,0.816
+published,lancaster2020,lancaster2020_olfactory,Lexical: perceptual/motor,Sensorimotor,39954,874369,1,0.878
+published,lancaster2020,lancaster2020_torso,Lexical: perceptual/motor,Sensorimotor,39954,927113,1,0.774
+published,lancaster2020,lancaster2020_visual,Lexical: perceptual/motor,Sensorimotor,39954,874369,1,0.773
+published,muraki2023,muraki2023_concreteness,Lexical: perceptual/motor,Imageability / concreteness / size,66432,0,1,0.83
+published,pexman2019,pexman2019_body_object_interaction,Lexical: perceptual/motor,Sensorimotor,9349,248442,0,
+published,scott2018,scott2018_age_of_acquisition,Lexical: conceptual,Age of acquisition,5553,188476,0,
+published,scott2018,scott2018_arousal,Lexical: affective,Affective,5553,184979,0,
+published,scott2018,scott2018_concreteness,Lexical: perceptual/motor,Imageability / concreteness / size,5553,185119,0,
+published,scott2018,scott2018_dominance,Lexical: affective,Affective,5553,184579,0,
+published,scott2018,scott2018_familiarity,Lexical: conceptual,Familiarity,5553,179710,0,
+published,scott2018,scott2018_gender,Lexical: conceptual,Gender,5553,184651,0,
+published,scott2018,scott2018_imageability,Lexical: perceptual/motor,Imageability / concreteness / size,5553,184932,0,
+published,scott2018,scott2018_size,Lexical: perceptual/motor,Imageability / concreteness / size,5553,184940,0,
+published,scott2018,scott2018_valence,Lexical: affective,Affective,5553,186247,0,
+published,troche2014,troche2014_auditory,Lexical: perceptual/motor,Sensorimotor,751,15020,0,
+published,troche2014,troche2014_color,Lexical: perceptual/motor,Sensorimotor,751,15020,0,
+published,troche2014,troche2014_emotion,Lexical: affective,Affective,751,16620,0,
+published,troche2014,troche2014_morality,Lexical: affective,Affective,751,16620,0,
+published,troche2014,troche2014_motion_self,Lexical: perceptual/motor,Sensorimotor,751,15020,0,
+published,troche2014,troche2014_polarity,Lexical: affective,Affective,751,15820,0,
+published,troche2014,troche2014_quantity,Lexical: conceptual,Conceptual / semantic,751,16220,0,
+published,troche2014,troche2014_social_interaction,Lexical: conceptual,Social,751,16220,0,
+published,troche2014,troche2014_space,Lexical: perceptual/motor,Sensorimotor,751,17020,0,
+published,troche2014,troche2014_tactile,Lexical: perceptual/motor,Sensorimotor,751,15020,0,
+published,troche2014,troche2014_taste_smell,Lexical: perceptual/motor,Sensorimotor,751,15771,0,
+published,troche2014,troche2014_thought,Lexical: conceptual,Conceptual / semantic,751,15420,0,
+published,troche2014,troche2014_time,Lexical: conceptual,Conceptual / semantic,751,15820,0,
+published,troche2014,troche2014_visual_form,Lexical: perceptual/motor,Sensorimotor,751,15020,0,
+published,tuckute2024,tuckute2024_arousal,Lexical: affective,Affective,2000,0,0,
+published,tuckute2024,tuckute2024_conversational_frequency,Lexical: conceptual,Frequency,2000,0,0,
+published,tuckute2024,tuckute2024_general_frequency,Lexical: conceptual,Frequency,2000,0,0,
+published,tuckute2024,tuckute2024_grammatical_well_formedness,Syntax,Acceptability / naturalness,2000,0,0,
+published,tuckute2024,tuckute2024_imageability,Lexical: perceptual/motor,Imageability / concreteness / size,2000,0,0,
+published,tuckute2024,tuckute2024_mental_states,Lexical: conceptual,Conceptual / semantic,2000,0,0,
+published,tuckute2024,tuckute2024_physical_objects,Lexical: conceptual,Conceptual / semantic,2000,0,0,
+published,tuckute2024,tuckute2024_places,Lexical: conceptual,Conceptual / semantic,2000,0,0,
+published,tuckute2024,tuckute2024_plausibility,Sentence semantics,Plausibility / coherence / discourse,2000,0,0,
+published,tuckute2024,tuckute2024_valence,Lexical: affective,Affective,2000,0,0,
+published,warriner2013,warriner2013_arousal,Lexical: affective,Affective,13915,319684,0,
+published,warriner2013,warriner2013_dominance,Lexical: affective,Affective,13915,338345,0,
+published,warriner2013,warriner2013_valence,Lexical: affective,Affective,13915,303520,0,
+published,winter2017,winter2017_iconicity,Form (sub-lexical),Sound–meaning (iconicity),3002,0,0,
+published,winter2024,winter2024_iconicity,Form (sub-lexical),Sound–meaning (iconicity),14776,158327,0,
+surveyor,surveyor,acceptability_extension_959_v5,Syntax,Acceptability / naturalness,566,2155,1,0.885
+surveyor,surveyor,acceptability_replication_959,Syntax,Acceptability / naturalness,288,2179,1,0.901
+surveyor,surveyor,aixiu_coherence_en_update1,Sentence semantics,Plausibility / coherence / discourse,277,2946,1,0.872
+surveyor,surveyor,base_acceptability_0908,Syntax,Acceptability / naturalness,70,2090,1,0.933
+surveyor,surveyor,base_acceptability_0911,Syntax,Acceptability / naturalness,70,2157,1,0.87
+surveyor,surveyor,can_noncan_acceptability_0924,Syntax,Acceptability / naturalness,88,3836,1,0.958
+surveyor,surveyor,can_noncan_acceptability_2,Syntax,Acceptability / naturalness,88,3895,1,0.962
+surveyor,surveyor,chinese_dative,Syntax,Acceptability / naturalness,96,1200,1,0.78
+surveyor,surveyor,class_demo,Syntax,Acceptability / naturalness,44,491,1,0.916
+surveyor,surveyor,clefting_e3,Syntax,Acceptability / naturalness,48,1217,1,0.907
+surveyor,surveyor,clefting_e4,Syntax,Acceptability / naturalness,48,1195,1,0.85
+surveyor,surveyor,clefting_e4_rep,Syntax,Acceptability / naturalness,48,1197,1,0.896
+surveyor,surveyor,clefting_e4_rep2,Syntax,Acceptability / naturalness,48,4852,1,0.956
+surveyor,surveyor,coherence_survey_list1_main,Sentence semantics,Plausibility / coherence / discourse,102,2035,1,0.977
+surveyor,surveyor,coherence_survey_list2_main,Sentence semantics,Plausibility / coherence / discourse,102,2037,1,0.987
+surveyor,surveyor,coherence_survey_list3_main,Sentence semantics,Plausibility / coherence / discourse,102,2025,1,0.985
+surveyor,surveyor,coherence_survey_list4_main,Sentence semantics,Plausibility / coherence / discourse,102,2032,1,0.98
+surveyor,surveyor,constituency_tests,Syntax,Acceptability / naturalness,48,1246,1,0.663
+surveyor,surveyor,constituency_tests_2,Syntax,Acceptability / naturalness,48,1227,1,0.86
+surveyor,surveyor,crossed_dependencies,Syntax,Acceptability / naturalness,144,3672,1,0.93
+surveyor,surveyor,crossed_dependencies_long,Syntax,Acceptability / naturalness,192,3586,1,0.837
+surveyor,surveyor,dative_alternation_extension_version_2,Syntax,Acceptability / naturalness,229,2301,1,0.516
+surveyor,surveyor,dative_finnish,Syntax,Acceptability / naturalness,96,1199,1,0.692
+surveyor,surveyor,dative_turkish,Syntax,Acceptability / naturalness,96,1198,1,0.72
+surveyor,surveyor,demo_9_59_2025,Syntax,Acceptability / naturalness,44,259,1,0.885
+surveyor,surveyor,demo_9_59_2026,Syntax,Acceptability / naturalness,44,360,1,0.827
+surveyor,surveyor,depth_charge_survey,Syntax,Acceptability / naturalness,188,3394,1,0.846
+surveyor,surveyor,depth_charge_with_noise,Syntax,Acceptability / naturalness,188,3206,1,0.809
+surveyor,surveyor,discourse_30subjs_list1,Sentence semantics,Plausibility / coherence / discourse,102,3146,1,0.986
+surveyor,surveyor,discourse_30subjs_list2,Sentence semantics,Plausibility / coherence / discourse,102,2541,1,0.986
+surveyor,surveyor,discourse_30subjs_list3,Sentence semantics,Plausibility / coherence / discourse,102,3044,1,0.989
+surveyor,surveyor,discourse_30subjs_list4,Sentence semantics,Plausibility / coherence / discourse,102,3359,1,0.989
+surveyor,surveyor,discourse_causality_list1,Sentence semantics,Plausibility / coherence / discourse,102,3153,1,0.988
+surveyor,surveyor,discourse_causality_list2,Sentence semantics,Plausibility / coherence / discourse,102,2744,1,0.985
+surveyor,surveyor,discourse_causality_list3,Sentence semantics,Plausibility / coherence / discourse,102,2941,1,0.983
+surveyor,surveyor,discourse_causality_list4,Sentence semantics,Plausibility / coherence / discourse,102,3048,1,0.987
+surveyor,surveyor,discourse_changed_0428,Sentence semantics,Plausibility / coherence / discourse,50,1495,1,0.991
+surveyor,surveyor,discourse_coherence_list1,Sentence semantics,Plausibility / coherence / discourse,102,2851,1,0.991
+surveyor,surveyor,discourse_coherence_list2,Sentence semantics,Plausibility / coherence / discourse,102,3059,1,0.991
+surveyor,surveyor,discourse_coherence_list3,Sentence semantics,Plausibility / coherence / discourse,102,3051,1,0.993
+surveyor,surveyor,discourse_coherence_list4,Sentence semantics,Plausibility / coherence / discourse,102,2533,1,0.971
+surveyor,surveyor,discourse_imagability_pairs_list1,Sentence semantics,Plausibility / coherence / discourse,102,3050,1,0.892
+surveyor,surveyor,discourse_imagability_pairs_list2,Sentence semantics,Plausibility / coherence / discourse,102,3049,1,0.972
+surveyor,surveyor,discourse_imagability_singles_list1,Sentence semantics,Plausibility / coherence / discourse,102,3055,1,0.951
+surveyor,surveyor,discourse_imagability_singles_list2,Sentence semantics,Plausibility / coherence / discourse,102,3050,1,0.948
+surveyor,surveyor,discourse_imagability_singles_list3,Sentence semantics,Plausibility / coherence / discourse,102,3055,1,0.954
+surveyor,surveyor,discourse_imagability_singles_list4,Sentence semantics,Plausibility / coherence / discourse,102,3156,1,0.956
+surveyor,surveyor,discourse_mentalizing_pairs_list1,Sentence semantics,Plausibility / coherence / discourse,102,3049,1,0.932
+surveyor,surveyor,discourse_mentalizing_pairs_list2,Sentence semantics,Plausibility / coherence / discourse,102,3035,1,0.948
+surveyor,surveyor,discourse_mentalizing_singles_list1,Sentence semantics,Plausibility / coherence / discourse,102,3053,1,0.939
+surveyor,surveyor,discourse_mentalizing_singles_list2,Sentence semantics,Plausibility / coherence / discourse,102,3047,1,0.933
+surveyor,surveyor,discourse_mentalizing_singles_list3,Sentence semantics,Plausibility / coherence / discourse,102,3044,1,0.912
+surveyor,surveyor,discourse_mentalizing_singles_list4,Sentence semantics,Plausibility / coherence / discourse,102,3153,1,0.958
+surveyor,surveyor,discourse_physics_pairs_list1,Sentence semantics,Plausibility / coherence / discourse,102,3051,1,0.965
+surveyor,surveyor,discourse_physics_pairs_list2,Sentence semantics,Plausibility / coherence / discourse,102,3042,1,0.963
+surveyor,surveyor,discourse_physics_singles_list1,Sentence semantics,Plausibility / coherence / discourse,102,3051,1,0.947
+surveyor,surveyor,discourse_physics_singles_list2,Sentence semantics,Plausibility / coherence / discourse,102,3042,1,0.961
+surveyor,surveyor,discourse_physics_singles_list3,Sentence semantics,Plausibility / coherence / discourse,102,3044,1,0.951
+surveyor,surveyor,discourse_physics_singles_list4,Sentence semantics,Plausibility / coherence / discourse,102,3051,1,0.956
+surveyor,surveyor,discourse_scenes_pairs_list1,Sentence semantics,Plausibility / coherence / discourse,102,3052,1,0.949
+surveyor,surveyor,discourse_scenes_pairs_list2,Sentence semantics,Plausibility / coherence / discourse,102,3051,1,0.958
+surveyor,surveyor,discourse_scenes_singles_list1,Sentence semantics,Plausibility / coherence / discourse,102,3051,1,0.947
+surveyor,surveyor,discourse_scenes_singles_list2,Sentence semantics,Plausibility / coherence / discourse,102,3048,1,0.96
+surveyor,surveyor,discourse_scenes_singles_list3,Sentence semantics,Plausibility / coherence / discourse,102,3049,1,0.968
+surveyor,surveyor,discourse_scenes_singles_list4,Sentence semantics,Plausibility / coherence / discourse,102,3050,1,0.971
+surveyor,surveyor,european_portuguese_rc,Syntax,Acceptability / naturalness,174,2849,1,0.858
+surveyor,surveyor,european_portuguese_wh,Syntax,Acceptability / naturalness,174,2744,1,0.888
+surveyor,surveyor,extension,Syntax,Acceptability / naturalness,138,1527,1,0.905
+surveyor,surveyor,extension_study,Syntax,Acceptability / naturalness,142,1073,1,0.645
+surveyor,surveyor,gabriel_rc,Syntax,Acceptability / naturalness,174,2794,1,0.887
+surveyor,surveyor,gabriel_wh,Syntax,Acceptability / naturalness,174,2912,1,0.89
+surveyor,surveyor,huang_response_set1a,Syntax,Acceptability / naturalness,288,14347,1,0.962
+surveyor,surveyor,huang_response_set1b,Syntax,Acceptability / naturalness,288,14358,1,0.963
+surveyor,surveyor,huang_response_set2a,Syntax,Acceptability / naturalness,288,14354,1,0.97
+surveyor,surveyor,huang_response_set2a_declaratives,Syntax,Acceptability / naturalness,288,14328,1,0.972
+surveyor,surveyor,huang_response_set2b,Syntax,Acceptability / naturalness,288,14324,1,0.978
+surveyor,surveyor,huang_response_set2b_declaratives,Syntax,Acceptability / naturalness,288,14364,1,0.973
+surveyor,surveyor,italian_dative_v2,Syntax,Acceptability / naturalness,192,1246,1,0.681
+surveyor,surveyor,italian_locative_v7,Syntax,Acceptability / naturalness,192,1198,1,0.691
+surveyor,surveyor,lexical_frame_adjectives_likert_set1,Syntax,Acceptability / naturalness,384,7668,1,0.825
+surveyor,surveyor,lexical_frame_adjectives_likert_set2,Syntax,Acceptability / naturalness,384,7646,1,0.703
+surveyor,surveyor,lexical_frame_adjectives_likert_set3,Syntax,Acceptability / naturalness,384,7643,1,0.862
+surveyor,surveyor,locative_topicalization_survey,Syntax,Acceptability / naturalness,229,2172,1,0.817
+surveyor,surveyor,missing_vp_extension,Sentence semantics,Plausibility / coherence / discourse,80,3715,1,0.915
+surveyor,surveyor,missing_vp_extension_0501_final,Sentence semantics,Plausibility / coherence / discourse,72,2159,1,0.674
+surveyor,surveyor,missing_vp_rereplication,Sentence semantics,Plausibility / coherence / discourse,72,1151,1,0.614
+surveyor,surveyor,montemayor_replication_acceptability_in_syntax,Syntax,Acceptability / naturalness,288,2156,1,0.926
+surveyor,surveyor,of_acceptability_2,Syntax,Acceptability / naturalness,88,3837,1,0.958
+surveyor,surveyor,rating_english_sentences,Syntax,Acceptability / naturalness,240,6281,1,0.899
+surveyor,surveyor,relative_clause_displacements_in_english_sentences,Sentence semantics,Plausibility / coherence / discourse,180,897,1,0.514
+surveyor,surveyor,relative_clause_displacements_in_english_sentences_with_fill,Sentence semantics,Plausibility / coherence / discourse,93,2673,1,0.857
+surveyor,surveyor,replication_study_9_59,Syntax,Acceptability / naturalness,185,718,1,0.402
+surveyor,surveyor,replication_v6,Syntax,Acceptability / naturalness,288,1791,1,0.903
+surveyor,surveyor,russian_freezing,Syntax,Acceptability / naturalness,180,1503,1,0.891
+surveyor,surveyor,susan_canonicity_rerunning,Syntax,Acceptability / naturalness,48,1440,1,0.929
+surveyor,surveyor,susan_canonicity_rerunning_2,Syntax,Acceptability / naturalness,48,1436,1,0.913
+surveyor,surveyor,susan_canonicity_rerunning_3,Syntax,Acceptability / naturalness,48,1428,1,0.919
+surveyor,surveyor,topicalization_e1,Syntax,Acceptability / naturalness,76,2535,1,0.972
+surveyor,surveyor,topicalization_e1_v2,Syntax,Acceptability / naturalness,48,1198,1,0.801
+surveyor,surveyor,topicalization_e2,Syntax,Acceptability / naturalness,48,1195,1,0.406
+mturk,mturk,2wh_3wh_sentence_naturalness_survey_april_2011,Syntax,Acceptability / naturalness,152,4072,1,0.926
+mturk,mturk,50_sentences_noisy_channel_may_25_2011,Syntax,Acceptability / naturalness,208,3107,1,0.597
+mturk,mturk,50_sentences_with_2_comp_qs_plus_rating_mar_11_2011,Syntax,Acceptability / naturalness,208,3053,1,0.574
+mturk,mturk,acceptability_judgments_kang,Syntax,Acceptability / naturalness,136,5406,1,0.982
+mturk,mturk,acd_context_polly_1_nov_23_2012,Syntax,Acceptability / naturalness,225,28701,1,0.514
+mturk,mturk,acd_no_context_polly_1_nov_23_2012,Syntax,Acceptability / naturalness,213,21610,1,0.881
+mturk,mturk,acd_project_also_2_nov_22_2012_1,Syntax,Acceptability / naturalness,448,3559,1,0.559
+mturk,mturk,acd_project_also_3_nov_24_2012_2,Syntax,Acceptability / naturalness,128,3338,1,0.893
+mturk,mturk,acd_project_expt_23_also_nov_16_2012,Syntax,Acceptability / naturalness,600,7136,1,0.77
+mturk,mturk,acd_project_expt_24_same_diff_verbs_nov_16_2012,Syntax,Acceptability / naturalness,472,21363,1,0.901
+mturk,mturk,acd_project_expt_31_same_diff_verbs_nov_16_2012_1,Syntax,Acceptability / naturalness,176,3342,1,0.729
+mturk,mturk,acd_project_expt_42_also_verbs_nov_29_2012_1,Syntax,Acceptability / naturalness,176,4049,1,0.8
+mturk,mturk,acd_project_expt_44_the_same_nov_29_2012_1,Syntax,Acceptability / naturalness,140,2931,1,0.657
+mturk,mturk,acd_project_expt_45_hkv_expt_2_plaus_nov_29_2012,Syntax,Acceptability / naturalness,360,7023,1,0.761
+mturk,mturk,acd_project_expt_46_also_in_hkv_2_nov_29_2012_1,Syntax,Acceptability / naturalness,448,3524,1,0.569
+mturk,mturk,active_passive_sentence_naturalness_survey_july_2012,Syntax,Acceptability / naturalness,132,6624,1,0.948
+mturk,mturk,agreement_norming_nov,Syntax,Acceptability / naturalness,159,5649,1,0.856
+mturk,mturk,alex_paunov_literal_inferences_dec_3_2011,Sentence semantics,Plausibility / coherence / discourse,299,2979,1,0.944
+mturk,mturk,animacy_passive_dative_kyle,Syntax,Acceptability / naturalness,120,4649,1,0.926
+mturk,mturk,anne_abeille_acceptability_july_12_2017_1,Syntax,Acceptability / naturalness,296,4284,1,0.677
+mturk,mturk,brief_sentence_naturalness_survey_march_2011,Syntax,Acceptability / naturalness,64,1864,1,0.99
+mturk,mturk,chomsky_items,Syntax,Acceptability / naturalness,94,2344,1,0.94
+mturk,mturk,copy_cat_polly_dec_2013_1,Syntax,Acceptability / naturalness,60,1597,1,0.965
+mturk,mturk,copy_cat_polly_june_2014,Syntax,Acceptability / naturalness,100,4783,1,0.958
+mturk,mturk,copy_cat_polly_june_2014_v2_1,Syntax,Acceptability / naturalness,90,1194,1,0.649
+mturk,mturk,copy_of_verb_causality_study_semantics_ratings_mk_april_2010,Sentence semantics,Plausibility / coherence / discourse,62,620,1,0.607
+mturk,mturk,copy_of_verb_causality_study_semantics_ratings_v3o1_mk_april_2010,Sentence semantics,Plausibility / coherence / discourse,62,619,1,0.624
+mturk,mturk,copy_of_verb_causality_study_semantics_ratings_v3o2_mk_april_2010,Sentence semantics,Plausibility / coherence / discourse,62,611,1,0.437
+mturk,mturk,copy_of_verb_causality_study_semantics_ratings_v3o4_mk_april_2010,Sentence semantics,Plausibility / coherence / discourse,62,620,1,0.649
+mturk,mturk,cul_jack_april_12_2012_54_short_texts_with_two_comprehension_questions,Syntax,Acceptability / naturalness,60,6565,1,0.927
+mturk,mturk,cul_jack_april_2012_60_short_texts_with_two_comprehension_questions_an,Syntax,Acceptability / naturalness,60,4594,1,0.934
+mturk,mturk,cul_jack_sentence_naturalness_survey_2_sept_2011,Syntax,Acceptability / naturalness,220,15238,1,0.966
+mturk,mturk,cul_jack_sentence_naturalness_survey_april_2010,Syntax,Acceptability / naturalness,220,5026,1,0.925
+mturk,mturk,disfluencies_sentence_naturalness_survey_april_2011,Syntax,Acceptability / naturalness,144,3878,1,0.82
+mturk,mturk,ecog_sentences_imaginability_jan_8_2014,Lexical: perceptual/motor,Imageability / concreteness / size,120,4784,1,0.85
+mturk,mturk,ecog_sentences_naturalness_jan_8_2014_2,Syntax,Acceptability / naturalness,120,4441,1,0.904
+mturk,mturk,erp_norming_error_detection_june_2013_4,Syntax,Acceptability / naturalness,162,9545,1,-0.262
+mturk,mturk,erp_sentence_naturalness_survey_june_2013_2,Syntax,Acceptability / naturalness,484,10036,1,0.96
+mturk,mturk,eunice_disfluency_2_nov_17_2011,Syntax,Acceptability / naturalness,180,3536,1,0.741
+mturk,mturk,eunice_disfluency_nov_15_2011,Syntax,Acceptability / naturalness,468,6655,1,0.795
+mturk,mturk,imperative_control_iad_gs_may_16_2011_purple_puppy,Syntax,Acceptability / naturalness,49,2873,1,0.912
+mturk,mturk,isac_sentence_naturalness_survey_feb_2011_64_items_survey_code_giant_c,Syntax,Acceptability / naturalness,256,7649,1,0.86
+mturk,mturk,isac_sentence_naturalness_survey_feb_2011_survey_code_giant_cobra,Syntax,Acceptability / naturalness,256,3063,1,0.824
+mturk,mturk,islands_acceptability_expt_2_dec_2_2012,Syntax,Acceptability / naturalness,480,5574,1,0.869
+mturk,mturk,lauren_sentence_naturalness_survey_expt3_nov_17_2011,Syntax,Acceptability / naturalness,460,7968,1,0.729
+mturk,mturk,lauren_sentence_naturalness_survey_expt_2_nov_15_2011,Syntax,Acceptability / naturalness,252,7121,1,0.899
+mturk,mturk,lauren_sentence_naturalness_survey_oct_14_2011,Syntax,Acceptability / naturalness,360,5318,1,0.79
+mturk,mturk,massive_mem_arousal_mar_2013,Lexical: affective,Affective,2020,65008,1,0.899
+mturk,mturk,massive_mem_arousal_mar_2013_end_2,Lexical: affective,Affective,242,7026,1,0.858
+mturk,mturk,massive_mem_arousal_mar_2014,Lexical: affective,Affective,2015,63813,1,0.876
+mturk,mturk,massive_mem_arousal_mar_2014_end_1,Lexical: affective,Affective,242,7149,1,0.899
+mturk,mturk,massive_mem_concreteness_mar_2013,Lexical: perceptual/motor,Imageability / concreteness / size,2020,71679,1,0.958
+mturk,mturk,massive_mem_concreteness_mar_2013_end_1,Lexical: perceptual/motor,Imageability / concreteness / size,242,7238,1,0.96
+mturk,mturk,massive_mem_concreteness_mar_2014,Lexical: perceptual/motor,Imageability / concreteness / size,2019,64058,1,0.956
+mturk,mturk,massive_mem_concreteness_mar_2014_end_1,Lexical: perceptual/motor,Imageability / concreteness / size,242,7229,1,0.954
+mturk,mturk,massive_mem_familiarity_mar_2013,Lexical: conceptual,Familiarity,2020,64408,1,0.947
+mturk,mturk,massive_mem_familiarity_mar_2013_end_1,Lexical: conceptual,Familiarity,242,7222,1,0.964
+mturk,mturk,massive_mem_familiarity_mar_2014,Lexical: conceptual,Familiarity,2020,63880,1,0.961
+mturk,mturk,massive_mem_familiarity_mar_2014_end_1,Lexical: conceptual,Familiarity,242,7174,1,0.964
+mturk,mturk,massive_mem_imageability_mar_2013,Lexical: perceptual/motor,Imageability / concreteness / size,2020,71770,1,0.962
+mturk,mturk,massive_mem_imageability_mar_2013_end_1,Lexical: perceptual/motor,Imageability / concreteness / size,242,7231,1,0.968
+mturk,mturk,massive_mem_imageability_mar_2014,Lexical: perceptual/motor,Imageability / concreteness / size,2019,85823,1,0.948
+mturk,mturk,massive_mem_imageability_mar_2014_end_1,Lexical: perceptual/motor,Imageability / concreteness / size,242,7233,1,0.969
+mturk,mturk,massive_mem_valence_mar_2013,Lexical: affective,Affective,2020,66485,1,0.969
+mturk,mturk,massive_mem_valence_mar_2013_end_1,Lexical: affective,Affective,242,7220,1,0.981
+mturk,mturk,massive_mem_valence_mar_2014,Lexical: affective,Affective,2018,63913,1,0.974
+mturk,mturk,massive_mem_valence_mar_2014_end_1,Lexical: affective,Affective,242,7220,1,0.975
+mturk,mturk,melissa_short_naturalness_test,Syntax,Acceptability / naturalness,24,1431,1,0.984
+mturk,mturk,melissa_transitivity_semantics,Lexical: conceptual,Conceptual / semantic,102,1622,1,0.932
+mturk,mturk,mk_alive_corpus_questionnaire,Syntax,Acceptability / naturalness,286,1798,1,0.761
+mturk,mturk,mk_goals_corpus_questionnaire,Syntax,Acceptability / naturalness,286,1196,1,0.432
+mturk,mturk,mk_grammaticality_study_7_20,Syntax,Acceptability / naturalness,1538,16703,1,0.875
+mturk,mturk,mk_thought_corpus_questionnaire,Lexical: conceptual,Conceptual / semantic,286,1197,1,0.285
+mturk,mturk,neal_norming_1,Syntax,Acceptability / naturalness,704,12940,1,0.889
+mturk,mturk,noisy_channel_acceptability_1_sept_2013_1,Syntax,Acceptability / naturalness,496,9546,1,0.984
+mturk,mturk,noisy_channel_acceptability_2_sept_2013,Syntax,Acceptability / naturalness,380,23804,1,0.991
+mturk,mturk,noisy_rc_norming_oct19,Syntax,Acceptability / naturalness,128,1274,1,0.902
+mturk,mturk,orange_camel_sentence_naturalness_survey_nov_2010,Syntax,Acceptability / naturalness,144,2799,1,0.96
+mturk,mturk,orc_lauren_sentence_naturalness_survey_july_2012,Syntax,Acceptability / naturalness,192,8605,1,0.942
+mturk,mturk,p_p_sentence_naturalness_survey_aug_2010,Syntax,Acceptability / naturalness,252,19122,1,0.879
+mturk,mturk,p_p_sentence_naturalness_survey_dec_2009,Syntax,Acceptability / naturalness,252,10021,1,0.85
+mturk,mturk,p_p_sentence_naturalness_survey_feb,Syntax,Acceptability / naturalness,614,15402,1,0.671
+mturk,mturk,p_p_sentence_naturalness_survey_jan_2010,Syntax,Acceptability / naturalness,184,11817,1,0.921
+mturk,mturk,p_p_sentence_naturalness_survey_june_2013_v3,Syntax,Acceptability / naturalness,242,19678,1,0.921
+mturk,mturk,p_p_sentence_naturalness_survey_may_2013,Syntax,Acceptability / naturalness,252,13796,1,0.904
+mturk,mturk,p_p_sentence_naturalness_survey_may_2013_v2,Syntax,Acceptability / naturalness,252,13193,1,0.891
+mturk,mturk,paris_judgments_2_dec_2012_1,Syntax,Acceptability / naturalness,256,1267,1,0.599
+mturk,mturk,paris_judgments_3_dec_2012,Syntax,Acceptability / naturalness,477,7714,1,0.851
+mturk,mturk,paris_judgments_dec_2012_1,Syntax,Acceptability / naturalness,488,3818,1,0.751
+mturk,mturk,pascal_1_dec_2012,Syntax,Acceptability / naturalness,544,6086,1,0.018
+mturk,mturk,presup_survey_1_acd_july_2012,Syntax,Acceptability / naturalness,240,3660,1,0.804
+mturk,mturk,presup_survey_2_acd_july_2012,Syntax,Acceptability / naturalness,240,3532,1,0.687
+mturk,mturk,presup_survey_3_acd_july_2012,Syntax,Acceptability / naturalness,240,3591,1,0.475
+mturk,mturk,pronouns_following_verbs,Syntax,Acceptability / naturalness,44,3478,1,0.943
+mturk,mturk,pronouns_following_verbs_an,Syntax,Acceptability / naturalness,44,874,1,0.869
+mturk,mturk,pronouns_following_verbs_an_2,Syntax,Acceptability / naturalness,44,2637,1,0.899
+mturk,mturk,pronouns_following_verbs_ce,Syntax,Acceptability / naturalness,44,1748,1,0.915
+mturk,mturk,pronouns_following_verbs_ce_2,Syntax,Acceptability / naturalness,44,1756,1,0.803
+mturk,mturk,pronouns_following_verbs_sm,Syntax,Acceptability / naturalness,44,3470,1,0.937
+mturk,mturk,pronouns_following_verbs_so,Syntax,Acceptability / naturalness,44,879,1,0.758
+mturk,mturk,pronouns_following_verbs_so_2,Syntax,Acceptability / naturalness,44,2629,1,0.724
+mturk,mturk,pronouns_following_verbs_ve,Syntax,Acceptability / naturalness,45,3514,1,0.939
+mturk,mturk,quant_syn_april_13_2012_90_sentences_with_a_question_and_a_rating_code,Syntax,Acceptability / naturalness,184,5247,1,0.913
+mturk,mturk,quant_syn_april_14_2012_48_sentences_with_a_question_and_a_rating_code,Syntax,Acceptability / naturalness,168,8563,1,0.97
+mturk,mturk,quant_syn_april_16_2012_36_sentences_with_a_question_and_a_rating_code,Syntax,Acceptability / naturalness,126,11065,1,0.986
+mturk,mturk,quantifier_naturalness_survey_june_4_2010,Syntax,Acceptability / naturalness,192,7463,1,0.691
+mturk,mturk,quantitative_syntax_survey,Syntax,Acceptability / naturalness,121,3637,1,0.825
+mturk,mturk,reasoning_and_language_tasks_survey_code_talkative_pigeon,Syntax,Acceptability / naturalness,72,4289,1,0.906
+mturk,mturk,richard_islands_acceptability_expt_1_april_25_2013_3,Syntax,Acceptability / naturalness,144,2856,1,0.959
+mturk,mturk,richard_islands_acceptability_expt_2_april_26_2013,Syntax,Acceptability / naturalness,228,4731,1,0.956
+mturk,mturk,richard_islands_acceptability_expt_4_april_26_2013_1,Syntax,Acceptability / naturalness,100,2058,1,0.967
+mturk,mturk,richard_islands_acceptability_expt_5_april_27_2013_1,Syntax,Acceptability / naturalness,132,2060,1,0.86
+mturk,mturk,richard_islands_acceptability_expt_6_april_28_2013_while_whq_decl,Syntax,Acceptability / naturalness,100,7211,1,0.985
+mturk,mturk,semantics1_finalproject,Lexical: conceptual,Conceptual / semantic,96,4783,1,0.991
+mturk,mturk,semantics2_finalproject,Lexical: conceptual,Conceptual / semantic,96,9483,1,0.994
+mturk,mturk,semantics3_final_project,Lexical: conceptual,Conceptual / semantic,96,9576,1,0.996
+mturk,mturk,sentence_completions_and_islands_acceptability_expt_1_nov_13_2012,Syntax,Acceptability / naturalness,112,13215,1,0.985
+mturk,mturk,sentence_naturalness_isac_survey_feb_2011,Syntax,Acceptability / naturalness,304,7641,1,0.82
+mturk,mturk,sentence_naturalness_survey_acd_ratings_hackl_expt_5_oct_25_2012_1,Syntax,Acceptability / naturalness,128,3295,1,0.75
+mturk,mturk,sentence_naturalness_survey_acd_ratings_hackl_expt_7_oct_25_2012_1,Syntax,Acceptability / naturalness,176,3319,1,0.791
+mturk,mturk,sentence_naturalness_survey_acd_ratings_hackl_replic_expt_1_july_14_20,Syntax,Acceptability / naturalness,480,7152,1,0.85
+mturk,mturk,sentence_naturalness_survey_acd_ratings_v2_jan_2012,Syntax,Acceptability / naturalness,128,5577,1,0.795
+mturk,mturk,sentence_naturalness_survey_acd_ratings_v4_july_13_2012,Syntax,Acceptability / naturalness,176,3338,1,0.696
+mturk,mturk,sentence_naturalness_survey_acd_v1_jan_2012,Syntax,Acceptability / naturalness,128,6128,1,0.254
+mturk,mturk,sentence_naturalness_survey_acd_v6_oct_25_2012,Syntax,Acceptability / naturalness,128,6653,1,0.636
+mturk,mturk,sentence_naturalness_survey_denise_jan_12_2011_survey_code_pig_the_pig,Syntax,Acceptability / naturalness,200,31957,1,0.991
+mturk,mturk,sentence_naturalness_survey_denise_sept_8_2010_survey_code_pig_the_pig,Syntax,Acceptability / naturalness,224,31113,1,0.985
+mturk,mturk,sentence_naturalness_survey_feb_16_1_2012_60_items_code_shy_armadillo,Syntax,Acceptability / naturalness,120,4775,1,0.931
+mturk,mturk,sentence_naturalness_survey_for_formal_link,Syntax,Acceptability / naturalness,252,11826,1,0.834
+mturk,mturk,sentence_naturalness_survey_for_gs_apr_4_2010,Syntax,Acceptability / naturalness,132,5006,1,0.924
+mturk,mturk,sentence_naturalness_survey_for_gs_dec_2009,Syntax,Acceptability / naturalness,122,5294,1,0.878
+mturk,mturk,sentence_naturalness_survey_for_gs_jan_2010,Syntax,Acceptability / naturalness,133,5004,1,0.925
+mturk,mturk,sentence_naturalness_survey_for_gs_jan_23_2010,Syntax,Acceptability / naturalness,216,7543,1,0.911
+mturk,mturk,sentence_naturalness_survey_for_gs_may_11_2011_purple_puppy,Syntax,Acceptability / naturalness,48,2818,1,0.922
+mturk,mturk,sentence_naturalness_survey_for_jk_april_4_2010,Syntax,Acceptability / naturalness,96,3814,1,0.867
+mturk,mturk,sentence_naturalness_survey_for_jk_april_4_expt_3_2010,Syntax,Acceptability / naturalness,96,3963,1,0.897
+mturk,mturk,sentence_naturalness_survey_for_jk_april_9_expt_4_2010,Syntax,Acceptability / naturalness,96,3785,1,0.851
+mturk,mturk,sentence_naturalness_survey_for_jk_june_24_2010_v2,Syntax,Acceptability / naturalness,176,4064,1,0.767
+mturk,mturk,sentence_naturalness_survey_for_jk_mar_2010,Syntax,Acceptability / naturalness,96,3803,1,0.884
+mturk,mturk,sentence_naturalness_survey_for_jkm_dec_2009,Syntax,Acceptability / naturalness,128,4350,1,-0.028
+mturk,mturk,sentence_naturalness_survey_for_jkm_jan_2012,Syntax,Acceptability / naturalness,128,2225,1,0.15
+mturk,mturk,sentence_naturalness_survey_for_lb_dec_2009,Syntax,Acceptability / naturalness,108,6017,1,0.833
+mturk,mturk,sentence_naturalness_survey_for_lb_feb_2010,Syntax,Acceptability / naturalness,45,704,1,0.921
+mturk,mturk,sentence_naturalness_survey_for_lb_feb_20_2010,Syntax,Acceptability / naturalness,64,1911,1,0.906
+mturk,mturk,sentence_naturalness_survey_for_lb_feb_20_2010_v2,Syntax,Acceptability / naturalness,77,2809,1,0.932
+mturk,mturk,sentence_naturalness_survey_for_lb_jan_2011,Syntax,Acceptability / naturalness,519,11504,1,0.903
+mturk,mturk,sentence_naturalness_survey_for_lb_jan_2011_v2,Syntax,Acceptability / naturalness,519,11822,1,0.787
+mturk,mturk,sentence_naturalness_survey_for_lb_jan_2011_v3,Syntax,Acceptability / naturalness,519,11655,1,0.885
+mturk,mturk,sentence_naturalness_survey_for_lb_mar_2010,Syntax,Acceptability / naturalness,123,8785,1,0.934
+mturk,mturk,sentence_naturalness_survey_for_lb_mar_2010_2,Syntax,Acceptability / naturalness,241,8799,1,0.934
+mturk,mturk,sentence_naturalness_survey_for_lb_may_2010,Syntax,Acceptability / naturalness,148,6823,1,0.97
+mturk,mturk,sentence_naturalness_survey_for_lb_prelim_oct_2010,Syntax,Acceptability / naturalness,402,1369,1,0.876
+mturk,mturk,sentence_naturalness_survey_for_lb_v2_oct_2010,Syntax,Acceptability / naturalness,402,6564,1,0.847
+mturk,mturk,sentence_naturalness_survey_for_marie_expt3_july_2012,Syntax,Acceptability / naturalness,32,5098,1,0.654
+mturk,mturk,sentence_naturalness_survey_for_marie_expt3b_july_20_2012,Syntax,Acceptability / naturalness,57,8916,1,0.828
+mturk,mturk,sentence_naturalness_survey_for_rw_dec_2009,Syntax,Acceptability / naturalness,180,7164,1,0.823
+mturk,mturk,sentence_naturalness_survey_for_rw_jan_2010,Syntax,Acceptability / naturalness,480,21443,1,0.887
+mturk,mturk,sentence_naturalness_survey_laura_mar_17_2012_92_items_code_lazy_cater,Syntax,Acceptability / naturalness,368,5462,1,0.891
+mturk,mturk,sentence_naturalness_survey_laura_mar_17_2012_96_items_code_lazy_cater,Syntax,Acceptability / naturalness,384,5647,1,0.902
+mturk,mturk,sentence_naturalness_survey_may_1_2011_64_items_code_shy_armadillo,Syntax,Acceptability / naturalness,232,2556,1,0.733
+mturk,mturk,sentence_naturalness_survey_may_4_2011_36_items_code_anxious_bat,Syntax,Acceptability / naturalness,84,1434,1,0.88
+mturk,mturk,sentence_naturalness_survey_nat_aug_28_2010_survey_code_downtown,Syntax,Acceptability / naturalness,270,14329,1,0.955
+mturk,mturk,short_acceptability_feb_6_2014,Syntax,Acceptability / naturalness,128,2904,1,0.918
+mturk,mturk,social_interaction_and_language_tasks_survey_code_talkative_pigeon,Lexical: conceptual,Social,72,4301,1,0.925
+mturk,mturk,verb_causality_study_semantics_ratings_mk_april_2010,Sentence semantics,Plausibility / coherence / discourse,188,8678,1,0.969
+mturk,mturk,verb_causality_study_syntax_ratings_mk_april_2010,Sentence semantics,Plausibility / coherence / discourse,124,2474,1,0.864
+mturk,mturk,verb_particle_ratings,Syntax,Acceptability / naturalness,136,512,1,0.731
+mturk,mturk,wm2_wm5_9_59_sentence_naturalness_survey_april_2011,Syntax,Acceptability / naturalness,219,3348,1,0.865
+mturk,mturk,word3_b_word_naturalness_survey_may_4_2011_160_items_code_sleepy_bear,Syntax,Acceptability / naturalness,158,7958,1,0.971
+mturk,mturk,word3_word_naturalness_survey_may_1_2011_45_items_code_nosy_badger,Syntax,Acceptability / naturalness,45,2239,1,0.951
+mturk,mturk,word_length_context_sentence_naturalness_survey_april_2011,Syntax,Acceptability / naturalness,86,4774,1,0.839
