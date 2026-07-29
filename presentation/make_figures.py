@@ -22,8 +22,10 @@ plt.rcParams.update({
     "figure.facecolor":"white","savefig.facecolor":"white",
 })
 
-DOM_ORDER=["Form (sub-lexical)","Lexical: affective","Lexical: perceptual/motor",
-           "Lexical: conceptual","Syntax","Sentence semantics"]
+# domain display order (Andrea): form-side first (word form, sentence form),
+# then meaning-side (word meaning = Lexical, sentence meaning = Semantics)
+DOM_ORDER=["Form (sub-lexical)","Syntax","Lexical: affective","Lexical: perceptual/motor",
+           "Lexical: conceptual","Sentence semantics"]
 COL={"Form (sub-lexical)":"#C1699B","Lexical: affective":"#12507F",
      "Lexical: perceptual/motor":"#4A90C2","Lexical: conceptual":"#9EC9E2",
      "Syntax":"#D8622A","Sentence semantics":"#159C7B"}

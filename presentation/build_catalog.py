@@ -30,10 +30,13 @@ RULES = [
 def classify(descriptor, source):
     d=re.sub(r'[^a-z0-9]+',' ',descriptor.lower())  # underscores/punct -> spaces so \b works
     for pat,(dom,sub) in RULES:
-        if re.search(pat,d): return dom,sub
+        if re.search(pat,d):
+            # record which specific keyword fired (first matching alternative)
+            hit=next((alt for alt in pat.split('|') if re.search(alt,d)), pat)
+            return dom,sub,hit.replace(r'\b','')
     # source-aware default: the surveyor/mturk sentence corpora are naturalness/acceptability
-    if source in ("surveyor","mturk"): return ("Syntax","Acceptability / naturalness")
-    return ("Other / unspecified","Unspecified")
+    if source in ("surveyor","mturk"): return ("Syntax","Acceptability / naturalness","FALLBACK-default")
+    return ("Other / unspecified","Unspecified","FALLBACK-default")
 
 # ---------- split-half reliability (item-level, Spearman-Brown) ----------
 rng=np.random.default_rng(0)
@@ -81,9 +84,10 @@ def scan(path, source):
             r=sv_idx.get(base,{}); study="surveyor"; desc=f"{r.get('critical_type','')} {base} {r.get('prompt','')}"
         else:
             r=mt_idx.get(base,{}); study="mturk"; desc=f"{r.get('dim','')} {r.get('source_folder','')} {base}"
-        dom,sub=classify(desc,source)
+        dom,sub,matched=classify(desc,source)
         sh, n_rel=split_half(f)
         out.append(dict(source=source,study=study,task=base,domain=dom,subdomain=sub,
+                        matched_on=matched,is_fallback=int(matched=="FALLBACK-default"),
                         n_items=n_items,n_ratings=n_ratings,
                         has_individual=int(sh is not None or n_rel>0),
                         split_half_r=(sh if sh is not None else "")))
