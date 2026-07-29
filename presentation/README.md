@@ -36,6 +36,8 @@ All per-item instructions were manually adapted / reconstructed to be suitable f
 
 Standalone panels (for showing one at a time on separate slides):
 
+- **`fig_examples.*`** — one real example per domain (high vs. low, with the human mean) + the actual LLM prompt; the "what does a task look like" slide.
+
 - **`fig1_coverage.*`** — the key slide. One bar per task (n = 335), height = number of items
   (log scale), grouped and colored by linguistic domain, with a bracket over the three "Lexical"
   (word-meaning) sub-domains. Shows the coverage *and* the trade-off: syntax has many tasks with
