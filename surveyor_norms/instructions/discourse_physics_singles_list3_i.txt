@@ -1,5 +1,5 @@
+You will read 100 sentences. We would like you to rate each sentence according to how much it made you think of physical objects and/or physical interactions on a scale from 1 (not at all) to 7 (very much). For example, sentences like A few rows of bookshelves came tumbling down. or There were several large boxes on the floor. have meanings that are related to physical objects and/or physical interactions, so you might rate them as a 6 or a 7. In contrast, sentences like You are very attentive and curious. or The US justice system consists of three branches of government. do not, so you might rate them as a 1 or a 2.
 How much does this sentence make you think of physical objects and/or physical interactions?
-Rate on a scale from 1 - Not at all to 7 - Very much.
 Answer with one number.
 
 <<{sentence}>>

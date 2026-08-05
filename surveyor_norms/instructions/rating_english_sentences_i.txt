@@ -1,5 +1,5 @@
+Please carefully read each sentence, then rate them on scale from 1 (= completely unacceptable) to 7 (= completely acceptable). It will take approximately 35 minutes to complete all 160 sentences.
 Please rate the sentence on scale from 1 (= completely unacceptable) to 7 (= completely acceptable)
-Rate on a scale from 1 to 7.
 Answer with one number.
 
 <<{sentence}>>

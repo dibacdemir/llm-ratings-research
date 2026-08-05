@@ -1,5 +1,5 @@
+You will read 100 sentence pairs. We will ask you to rate each pair of sentences based on whether the second sentence (S2) makes sense in the context of the first sentence (S1) , on a scale of 1 (does not make any sense) to 7 (makes clear, logical sense). For example, in the pair Sam knocked the glass off of the table. The glass shattered on the hardwood floor. the second sentence makes clear sense in the context of the first, so you might rate it a 6 or a 7. In contrast, in the pair Jessica woke up early this morning. The blue fish have thicker scales. the second sentence does not make sense in the context of the first, so you might rate it as a 1 or a 2.
 How much sense does S2 make in the context of S1?
-Rate on a scale from 1 - Does not make any sense to 7 - Makes clear, logical sense.
 Answer with one number.
 
 <<{sentence}>>

@@ -1,3 +1,4 @@
+Please read each sentence and then answer the question immediately following. Please note that there are correct answers for many questions.
 How natural does the sentence sound?
 Rate on a scale from 5 - Very Natural to 1 - Very Unnatural.
 Answer with one number.

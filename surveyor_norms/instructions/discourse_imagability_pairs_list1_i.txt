@@ -1,5 +1,5 @@
+You will read 100 sentence pairs. We would like you to rate each pair of sentences according to how easy the content is to visualize (to form an image of what the sentences describe in your mind's eye) on a scale from 1 (very hard to visualize) to 7 (very easy to visualize). For example, a pair like The cup is filled with fresh black coffee. Steam emanates from it. has a meaning that easily brings to mind an image, so you might rate it as a 6 or a 7. In contrast, a pair like I did not get the gist of the idea. The description was too complicated. may not, so you might rate it as a 1 or a 2.
 How easy is the content of the sentences to visualize in your mind's eye?
-Rate on a scale from 1 - Very hard to visualize to 7 - Very easy to visualize.
 Answer with one number.
 
 <<{sentence}>>
