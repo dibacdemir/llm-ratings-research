@@ -137,10 +137,30 @@ standalone(panel_reliability,"fig2_reliability",(8.8,5.0),
            "Human ratings are highly reliable",
            f"item-level split-half · 291 of 335 tasks with individual responses · overall median r = {OM:.2f}",
            adj=dict(top=0.86,left=0.22,right=0.93,bottom=0.12))
-standalone(panel_composition,"fig3_domains",(8.8,4.4),
-           "Dataset composition by domain",
-           "total items per linguistic domain",
-           adj=dict(top=0.86,left=0.24,right=0.93,bottom=0.15))
+# fig3: composition in two panels — items (left) and human ratings (right) per domain
+def hum(n):
+    if n>=1e6: return f"{n/1e6:.1f}M"
+    if n>=1e3: return f"{n/1e3:.0f}k"
+    return str(int(n))
+fig,(aL,aR)=plt.subplots(1,2,figsize=(11.5,4.6),gridspec_kw={"wspace":0.06})
+ys=np.arange(6)[::-1]; cols=[COL[d] for d in DOM_ORDER]
+ivals=[dstats(d)[1] for d in DOM_ORDER]; rvals=[dstats(d)[2] for d in DOM_ORDER]
+aL.barh(ys,ivals,height=0.62,color=cols,linewidth=0); aL.set_xscale("log")
+for y,v in zip(ys,ivals): aL.text(v*1.35,y,hum(v),va="center",fontsize=10,color=INK)
+aL.set_yticks(ys); aL.set_yticklabels([d.replace("Lexical: ","Lex: ") for d in DOM_ORDER],fontsize=10.5)
+aL.set_xlim(3e3,3e6); aL.set_xlabel("Items  (words / sentences)",fontsize=10.5)
+aL.set_title("How many items",fontsize=12.5,weight="bold",loc="left")
+aL.grid(axis="x",color=GRID,lw=0.7); aL.set_axisbelow(True); spines(aL)
+aR.barh(ys,rvals,height=0.62,color=cols,linewidth=0); aR.set_xscale("log")
+for y,v in zip(ys,rvals): aR.text(v*1.35,y,hum(v),va="center",fontsize=10,color=INK)
+aR.set_yticks([]); aR.set_xlim(1e5,4e7); aR.set_xlabel("Individual human ratings",fontsize=10.5)
+aR.set_title("How much human data",fontsize=12.5,weight="bold",loc="left")
+aR.grid(axis="x",color=GRID,lw=0.7); aR.set_axisbelow(True); spines(aR)
+aR.spines["left"].set_visible(False); aR.tick_params(axis="y",length=0)
+fig.suptitle("Dataset composition by domain",fontsize=14,weight="bold",x=0.015,ha="left",y=1.02)
+fig.subplots_adjust(top=0.85,left=0.15,right=0.985,bottom=0.13)
+fig.savefig(f"{HERE}/fig3_domains.png",dpi=300,bbox_inches="tight")
+fig.savefig(f"{HERE}/fig3_domains.pdf",bbox_inches="tight"); plt.close(fig)
 
 print(f"rendered · tasks={len(cat)} items={sum(r['n_items'] for r in cat):,} "
       f"ratings={sum(r['n_ratings'] for r in cat):,} median_r={OM:.3f}")
