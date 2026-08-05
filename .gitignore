@@ -7,3 +7,6 @@ __MACOSX/
 .DS_Store
 **/.DS_Store
 __MACOSX/
+
+# local-only: published datasets organized by domain (not for the repo)
+published_by_domain/
