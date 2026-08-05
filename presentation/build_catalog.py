@@ -69,9 +69,10 @@ def published_desc(name): return name  # study_property
 sv_idx={r['file']:r for r in csv.DictReader(open(f"{REPO}/surveyor_norms/a_index.csv"))}
 mt_idx={r['file']:r for r in csv.DictReader(open(f"{REPO}/mturk_norms/a_index.csv"))}
 
-def scan(path, source):
+def scan(path, source, recursive=False):
     out=[]
-    for f in sorted(glob.glob(f"{path}/*.csv")):
+    pat=f"{path}/**/*.csv" if recursive else f"{path}/*.csv"
+    for f in sorted(glob.glob(pat, recursive=recursive)):
         base=os.path.basename(f)[:-4]
         rows=list(csv.DictReader(open(f,encoding='utf-8',errors='ignore')))
         if not rows or 'unit' not in rows[0]: continue
@@ -95,7 +96,7 @@ def scan(path, source):
 
 cat=[]
 for d in sorted(glob.glob(f"{REPO}/norm_datasets/*_data")): cat+=scan(d,"published")
-cat+=scan(f"{REPO}/surveyor_norms/norm_datasets","surveyor")
+cat+=scan(f"{REPO}/surveyor_norms/norm_datasets","surveyor",recursive=True)
 cat+=scan(f"{REPO}/mturk_norms/norm_datasets","mturk")
 
 with open(f"{REPO}/presentation/dataset_catalog.csv","w",newline='') as fo:
