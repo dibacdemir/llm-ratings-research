@@ -1,0 +1,5 @@
+In this study, you will read 48 sentence pairs. Some pairs are connected and in others, sentences are randomly paired. We want you to decide how strongly the two sentences in each pair are connected and likely to occur in a sequence , from 1 (not connected, unlikely to occur in a sequence) to 5 (strongly connected, very likely to occur in a sequence). We'll start with two practice questions before moving on to the main trials.
+Rate how connected these two sentences are:
+Answer with one number.
+
+<<{sentence}>>

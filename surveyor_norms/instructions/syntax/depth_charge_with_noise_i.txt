@@ -1,0 +1,6 @@
+Please read each sentence and then answer the question immediately following. Please note that there are correct answers for many questions.
+How does this sentence sound*
+Rate on a scale from 7-makes perfect sense/written well to 1-makes no sense/written poorly.
+Answer with one number.
+
+<<{sentence}>>

@@ -1,0 +1,5 @@
+You will read 100 sentences. We would like you to rate each sentence according to how much it made you think of other people's experiences, thoughts, beliefs, desires, and/or emotions on a scale from 1 (not at all) to 7 (very much). For example, sentences like The woman wondered what made him jealous. or I was so angry that I hit the door. have meanings that are related to other people's states of mind and emotions so you might rate them as a 6 or a 7. In contrast, sentences like A car drove into the parking garage. or Most of earth's surface is covered by water. do not, so you might rate them as a 1 or a 2.
+How much does this sentence make you think of other people's experiences, thoughts, beliefs, desires, and/or emotions?
+Answer with one number.
+
+<<{sentence}>>

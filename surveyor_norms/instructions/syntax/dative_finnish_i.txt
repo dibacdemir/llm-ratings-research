@@ -1,0 +1,6 @@
+Ohjeet: Lue kukin lausepari ja arvioi sitten, kuinka luonnolliselta jälkimmäinen (lihavoitu) lause kuulostaa asiayhteydessä.
+Arvioi, kuinka luonnollinen lihavoitu kohdelause on.
+Rate on a scale from 5: Luonnollinen to 1: Epäluonnollinen.
+Answer with one number.
+
+<<{sentence}>>

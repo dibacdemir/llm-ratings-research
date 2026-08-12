@@ -1,0 +1,5 @@
+Rate the passage.
+Rate on a scale from 1 to 7. (scale inferred from observed responses)
+Answer with one number.
+
+<<{sentence}>>

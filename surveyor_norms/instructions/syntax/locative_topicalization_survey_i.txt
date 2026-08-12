@@ -1,0 +1,5 @@
+Please read each pair of sentences and then complete the rating task immediately following. You will have to rate each sentence based on how natural it sounds on a scale from 1 to 5, where 1 is very unnatural and 5 is very natural. Please rate the sentences to the best of your ability.
+How natural is the second sentence in the context of the first sentence?
+Answer with one number.
+
+<<{sentence}>>
