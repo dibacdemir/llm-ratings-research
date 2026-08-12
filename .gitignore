@@ -1,5 +1,14 @@
 datasets/lancaster2020_data/Individual_participant_ratings_all_items_sensorimotor_norms_for_39954_words.UPDATED.csv
 
+# Experiment outputs and SLURM logs: regenerable, and large at full scale
+# (an uncapped lancaster items CSV is ~40k rows, times 17 datasets times N models).
+results/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+
 .DS_Store
 **/.DS_Store
 __MACOSX/
