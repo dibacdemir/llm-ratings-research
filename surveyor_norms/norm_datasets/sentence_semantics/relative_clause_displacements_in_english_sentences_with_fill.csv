@@ -1,94 +1,94 @@
-unit,mean,std,n,individual_ratings
-"""Her boys"", as she called them, didn't take a lot of eggnog in their rum.",3.9048,1.2307,42,"[4, 3, 1, 5, 5, 5, 5, 4, 5, 5, 4, 4, 4, 5, 4, 2, 4, 5, 4, 5, 5, 4, 4, 5, 5, 4, 5, 3, 4, 3, 5, 1, 4, 4, 4, 4, 5, 2, 1, 5, 1, 3]"
-"After the climb, a ranger showed up who brought some food.",3.72,1.1496,25,"[5, 4, 3, 3, 3, 2, 5, 1, 4, 4, 5, 2, 4, 5, 4, 5, 5, 4, 2, 5, 3, 3, 3, 4, 5]"
-"After the climb, a ranger who brought some food showed up.",4.1176,1.0783,17,"[4, 4, 5, 5, 5, 5, 5, 3, 3, 4, 4, 5, 1, 5, 5, 4, 3]"
-"After the dinner, a musician arrived who was hired yesterday.",3.4545,0.9875,22,"[4, 4, 4, 5, 3, 4, 3, 2, 4, 3, 4, 1, 2, 4, 4, 4, 5, 4, 2, 4, 3, 3]"
-"After the dinner, a musician who was hired yesterday arrived.",4.1,0.9434,20,"[3, 5, 5, 4, 3, 5, 4, 5, 5, 2, 4, 5, 5, 5, 4, 5, 4, 3, 3, 3]"
-"After the incident, a secretary apologized who misfiled the documents from the trial.",3.15,1.0137,20,"[4, 4, 5, 3, 2, 2, 3, 2, 2, 2, 5, 3, 4, 4, 4, 3, 3, 4, 2, 2]"
-"After the incident, a secretary who misfiled the documents from the trial apologized.",4.0909,1.0833,22,"[3, 5, 4, 5, 5, 4, 5, 4, 4, 4, 5, 5, 5, 2, 5, 3, 5, 3, 2, 5, 2, 5]"
-"After the investigation, an employee was fired who had been embezzling from the company whose stock prices had dropped.",2.5455,1.4687,22,"[4, 5, 1, 2, 2, 2, 3, 3, 1, 1, 1, 5, 1, 5, 1, 1, 5, 3, 3, 1, 3, 3]"
-"After the investigation, an employee who had been embezzling from the company whose stock prices had dropped was fired.",3.2,1.1225,20,"[4, 3, 4, 4, 4, 3, 4, 3, 2, 3, 5, 5, 3, 2, 2, 2, 1, 2, 5, 3]"
-"After the lecture, a student showed up who was doing poorly in the class.",4.0455,0.976,22,"[3, 4, 5, 5, 3, 3, 5, 5, 4, 3, 5, 5, 3, 5, 5, 5, 2, 5, 4, 3, 3, 4]"
-"After the lecture, a student who was doing poorly in the class showed up.",4.15,1.2757,20,"[1, 5, 5, 5, 5, 4, 5, 4, 5, 4, 5, 1, 4, 5, 4, 4, 5, 2, 5, 5]"
-"After the transaction, a client complained who purchased some property on an island.",2.7917,1.2576,24,"[2, 4, 5, 1, 3, 3, 2, 2, 2, 2, 2, 1, 5, 3, 3, 5, 1, 3, 5, 2, 3, 2, 2, 4]"
-"After the transaction, a client who purchased some property on an island complained.",3.7222,0.8032,18,"[3, 3, 3, 4, 4, 4, 4, 4, 5, 4, 3, 3, 4, 5, 3, 2, 4, 5]"
-Almost everyone is a little bit ethnocentric.,4.4048,1.114,42,"[3, 4, 3, 5, 5, 5, 5, 5, 4, 5, 5, 4, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 1, 5, 4, 5, 5, 5, 5, 5, 1, 5, 2, 5, 5, 5, 5, 2, 4, 5, 5]"
-And then she had to scan and go get the shoes and then she said they didn't have the size.,2.506,1.2061,83,"[3, 3, 3, 4, 3, 5, 5, 5, 4, 4, 3, 4, 4, 5, 4, 3, 3, 3, 3, 4, 2, 3, 2, 3, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 4, 4, 1, 1, 1, 1, 1, 1, 5, 1, 3, 1, 4, 3, 2, 2, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3, 2, 2, 2, 4, 5, 5, 2, 2, 1, 1, 3, 1, 2, 2, 2, 3, 3, 2, 1]"
-"And there was a heavier sound, a rasp, like a box pulled over concrete.",4.1667,0.9739,42,"[4, 4, 2, 5, 5, 4, 4, 5, 5, 5, 4, 4, 4, 4, 4, 5, 3, 4, 3, 5, 5, 5, 4, 5, 5, 4, 5, 1, 5, 4, 5, 4, 4, 3, 5, 5, 5, 3, 2, 5, 5, 3]"
-"At the airport, a spy was caught who stole secret documents from the IRS where an insider had provided help.",3.0769,1.141,13,"[3, 5, 3, 3, 2, 2, 3, 2, 1, 5, 4, 3, 4]"
-"At the airport, a spy who stole secret documents from the IRS where an insider had provided help was caught.",2.7241,1.2005,29,"[3, 3, 3, 3, 5, 2, 1, 3, 1, 3, 3, 5, 4, 1, 1, 1, 3, 2, 4, 2, 3, 2, 3, 2, 3, 1, 4, 3, 5]"
-"At the bull-fight, a spectator gasped who noticed some blood on the bull which was attacking the bull-fighter.",2.8,1.1225,20,"[2, 4, 5, 2, 5, 3, 2, 3, 3, 2, 3, 2, 1, 3, 4, 2, 3, 1, 2, 4]"
-"At the bull-fight, a spectator who noticed some blood on the bull which was attacking the bull-fighter gasped.",2.9524,1.2901,21,"[3, 3, 4, 5, 1, 1, 1, 5, 4, 1, 2, 3, 4, 5, 3, 3, 3, 2, 3, 2, 4]"
-"At the clinic, a patient stopped in who missed an appointment with a specialist.",3.2174,1.2143,23,"[2, 4, 5, 3, 5, 4, 4, 2, 1, 1, 2, 3, 4, 5, 2, 5, 3, 4, 4, 2, 3, 3, 3]"
-"At the clinic, a patient who missed an appointment with a specialist stopped in.",4.1053,0.7877,19,"[5, 5, 4, 5, 4, 3, 3, 4, 5, 3, 4, 5, 4, 4, 5, 5, 4, 3, 3]"
-"At the coffee-shop, a customer came in who often read the Herald.",3.8636,1.0572,22,"[4, 5, 5, 5, 4, 4, 4, 3, 3, 2, 4, 5, 5, 5, 5, 3, 2, 2, 5, 4, 3, 3]"
-"At the coffee-shop, a customer who often read the Herald came in.",3.8947,1.0709,19,"[1, 4, 5, 5, 5, 4, 3, 4, 3, 5, 4, 4, 4, 4, 5, 4, 3, 5, 2]"
-"At the concert, a singer came on who trained under Pavarotti.",4.4,1.1136,20,"[5, 5, 5, 5, 5, 4, 3, 4, 5, 4, 5, 5, 5, 2, 5, 5, 5, 5, 1, 5]"
-"At the concert, a singer who trained under Pavarotti came on.",4.381,0.95,21,"[3, 3, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 3, 2, 5, 3, 4, 5]"
-"At the event, a woman fainted who was feeling sick from the food which was served at the reception.",3.4783,1.2465,23,"[2, 5, 5, 5, 5, 3, 3, 2, 5, 4, 2, 5, 5, 1, 4, 2, 4, 3, 4, 2, 3, 3, 3]"
-"At the event, a woman who was feeling sick from the food which was served at the reception fainted.",3.4737,1.0939,19,"[4, 4, 4, 4, 4, 3, 3, 2, 3, 4, 1, 4, 5, 4, 4, 1, 4, 3, 5]"
-"At the hospital, a man ran in who had been injured in a fight.",3.5625,1.2732,16,"[5, 5, 4, 4, 3, 3, 4, 2, 4, 2, 5, 5, 5, 3, 2, 1]"
-"At the hospital, a man who had been injured in a fight ran in.",3.7692,0.973,26,"[2, 4, 4, 3, 4, 5, 4, 4, 4, 4, 4, 4, 5, 4, 5, 5, 5, 5, 3, 2, 3, 4, 2, 2, 4, 3]"
-"At the precinct, a suspect was arrested who had stalked the victim of the robbery.",3.3684,1.223,19,"[1, 5, 4, 5, 4, 2, 3, 3, 5, 4, 5, 2, 2, 4, 3, 2, 4, 2, 4]"
-"At the precinct, a suspect who had stalked the victim of the robbery was arrested.",3.9545,0.8779,22,"[3, 5, 4, 5, 5, 4, 3, 3, 5, 4, 3, 4, 3, 5, 4, 5, 4, 4, 3, 5, 2, 4]"
-"At the press-conference, a politician was interviewed who proposed the bill about government spending which was on the rise.",3.1,1.044,20,"[3, 5, 4, 3, 4, 3, 2, 3, 4, 3, 5, 1, 3, 2, 2, 2, 3, 4, 2, 4]"
-"At the press-conference, a politician who proposed the bill about government spending which was on the rise was interviewed.",3.0909,1.0833,22,"[4, 3, 3, 3, 3, 2, 2, 3, 5, 2, 5, 3, 5, 3, 3, 3, 3, 1, 2, 3, 5, 2]"
-"At the toy-store, a child whined who wanted a book about prehistoric animals which lived in the Jurassic period.",2.9048,1.1508,21,"[1, 3, 4, 4, 2, 3, 3, 2, 5, 4, 2, 4, 2, 5, 3, 4, 1, 3, 2, 2, 2]"
-"At the toy-store, a child who wanted a book about prehistoric animals which lived in the Jurassic period whined.",3.2381,1.1086,21,"[4, 4, 4, 3, 4, 4, 4, 4, 2, 4, 4, 4, 1, 1, 3, 4, 2, 2, 3, 5, 2]"
-"By taking this action, I hope that I will have hastened the start of that process of healing which is so desperately needed in America.",4.122,0.8023,41,"[4, 4, 5, 5, 5, 5, 5, 5, 4, 4, 4, 4, 4, 3, 4, 5, 3, 4, 5, 5, 2, 3, 5, 4, 4, 4, 5, 4, 4, 4, 5, 4, 3, 4, 4, 3, 5, 2, 4, 5, 4]"
-"Currently, we're in talks with people.",3.881,1.1792,42,"[3, 1, 4, 5, 4, 5, 5, 5, 5, 5, 4, 3, 5, 3, 4, 4, 3, 5, 3, 1, 2, 4, 5, 5, 5, 4, 5, 5, 4, 4, 3, 3, 5, 3, 5, 1, 5, 3, 3, 3, 5, 4]"
-"During the conference, a scientist arrived who won the Nobel Prize.",3.9583,1.3064,24,"[1, 3, 4, 5, 1, 4, 4, 5, 5, 5, 5, 2, 5, 5, 5, 4, 5, 4, 3, 5, 2, 3, 5, 5]"
-"During the conference, a scientist who won the Nobel Prize arrived.",4.3333,0.7454,18,"[4, 5, 5, 5, 4, 3, 5, 4, 5, 5, 5, 3, 4, 4, 5, 5, 3, 4]"
-"During the fire, a resident was saved who suffered some burns in the explosion which was caused by a gas leak.",3.2105,1.321,19,"[4, 4, 4, 2, 4, 3, 5, 2, 1, 2, 2, 5, 3, 2, 5, 5, 4, 1, 3]"
-"During the fire, a resident who suffered some burns in the explosion which was caused by a gas leak was saved.",3.3636,1.0679,22,"[4, 4, 4, 3, 2, 3, 4, 3, 4, 2, 5, 2, 2, 3, 4, 5, 3, 2, 3, 2, 5, 5]"
-"During the intermission, a guy left who got cheap tickets from a friend who worked at the box-office.",2.95,1.1608,20,"[3, 4, 4, 3, 2, 4, 4, 2, 1, 4, 2, 3, 4, 1, 5, 3, 4, 2, 1, 3]"
-"During the intermission, a guy who got cheap tickets from a friend who worked at the box-office left.",3.1905,1.2954,21,"[3, 4, 3, 3, 5, 4, 5, 4, 2, 5, 3, 3, 2, 1, 2, 5, 2, 1, 3, 2, 5]"
-"During the meeting, an executive dropped in who was recently promoted.",3.6667,1.0389,21,"[3, 4, 5, 4, 4, 3, 4, 5, 3, 5, 5, 4, 2, 2, 3, 4, 4, 2, 2, 4, 5]"
-"During the meeting, an executive who was recently promoted dropped in.",4.1905,1.2954,21,"[5, 5, 5, 5, 4, 5, 5, 1, 2, 4, 5, 5, 5, 5, 5, 4, 5, 4, 1, 3, 5]"
-"During the night, a ghost materialized who resembled the baroness.",4.1905,1.18,21,"[1, 5, 5, 5, 5, 5, 2, 5, 4, 4, 5, 5, 5, 5, 4, 5, 4, 2, 5, 3, 4]"
-"During the night, a ghost who resembled the baroness materialized.",4.0,1.3452,21,"[3, 3, 5, 5, 5, 4, 4, 5, 5, 5, 1, 5, 5, 5, 5, 5, 3, 5, 2, 1, 3]"
-"During the night, a patient died who had serious injuries from an accident which occurred on the highway.",3.5,1.1667,18,"[5, 2, 4, 5, 2, 3, 5, 3, 4, 1, 4, 5, 4, 2, 4, 3, 3, 4]"
-"During the night, a patient who had serious injuries from an accident which occurred on the highway died.",3.625,1.0333,24,"[4, 1, 4, 5, 4, 4, 3, 4, 4, 3, 4, 3, 5, 2, 4, 3, 5, 5, 3, 4, 2, 3, 5, 3]"
-"During the opera, a villain appeared who tricked the heroine.",4.1,0.995,20,"[3, 3, 4, 5, 5, 5, 4, 4, 4, 4, 5, 1, 4, 5, 5, 5, 4, 4, 3, 5]"
-"During the opera, a villain who tricked the heroine appeared.",4.2727,0.8624,22,"[4, 5, 5, 5, 4, 4, 5, 4, 3, 5, 4, 5, 5, 5, 5, 3, 3, 4, 5, 2, 4, 5]"
-"During the seminar, a researcher spoke who discovered a chemical compound with unusual properties.",3.9444,0.9112,18,"[3, 5, 5, 3, 3, 4, 5, 4, 4, 5, 2, 3, 5, 5, 4, 4, 4, 3]"
-"During the seminar, a researcher who discovered a chemical compound with unusual properties spoke.",4.0417,1.0598,24,"[3, 5, 2, 5, 5, 5, 5, 4, 3, 4, 3, 4, 3, 4, 4, 5, 5, 5, 4, 2, 2, 5, 5, 5]"
-"During the show, a comedian came on who was trying new material.",4.08,0.9765,25,"[3, 4, 5, 5, 5, 4, 3, 5, 5, 5, 4, 4, 4, 5, 5, 5, 5, 5, 3, 2, 3, 4, 3, 2, 4]"
-"During the show, a comedian who was trying new material came on.",4.0588,1.3491,17,"[5, 5, 5, 5, 5, 4, 5, 4, 4, 4, 4, 5, 5, 5, 1, 1, 2]"
-"For the colloquium, a professor was invited who revolutionized the field several years ago when he was in graduate school.",3.4444,1.1167,18,"[5, 5, 3, 4, 3, 5, 3, 3, 3, 5, 3, 5, 2, 3, 3, 3, 1, 3]"
-"For the colloquium, a professor who revolutionized the field several years ago when he was in graduate school was invited.",3.2083,1.0793,24,"[3, 4, 3, 5, 4, 5, 2, 3, 2, 2, 2, 4, 3, 5, 1, 3, 2, 4, 2, 3, 4, 3, 4, 4]"
-"He slung his belt around his back, and gave it a quick tug.",4.619,0.6154,42,"[3, 4, 5, 5, 5, 4, 5, 5, 5, 5, 3, 4, 4, 3, 4, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 4, 5, 5, 5, 4, 4, 5, 5, 5]"
-I also like the freedom in mathematics.,4.439,0.9383,41,"[1, 5, 5, 5, 5, 5, 5, 4, 5, 5, 4, 5, 4, 4, 5, 3, 5, 5, 5, 2, 4, 5, 5, 5, 5, 5, 5, 4, 5, 4, 5, 5, 4, 5, 5, 3, 3, 3, 5, 5, 5]"
-"I am the only candidate who has studied both economics and law, and the only candidate with a background in technology entrepreneurship.",4.4286,0.9295,42,"[4, 1, 4, 5, 5, 5, 5, 5, 5, 5, 3, 4, 5, 4, 5, 5, 5, 3, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 2, 5, 3, 5, 4, 4, 5, 3, 5, 5, 4]"
-I don't know what to say.,4.7381,0.7886,42,"[1, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 4, 5, 5, 5, 5, 4, 5, 5, 5]"
-"I have here, some ice in a pan, water in this glass, and steam rising from this pot.",3.2439,1.3576,41,"[3, 4, 2, 5, 2, 5, 3, 4, 5, 5, 3, 2, 3, 2, 2, 4, 3, 1, 5, 5, 1, 3, 1, 2, 2, 4, 5, 1, 2, 5, 4, 5, 3, 4, 2, 2, 3, 2, 4, 5, 5]"
-"In the ER, a nurse rushed in who brought some instruments to the surgeon.",3.8125,1.1302,16,"[1, 5, 2, 4, 4, 4, 5, 5, 3, 4, 3, 5, 4, 3, 5, 4]"
-"In the ER, a nurse who brought some instruments to the surgeon rushed in.",3.6154,1.2733,26,"[4, 3, 3, 5, 3, 5, 5, 3, 4, 3, 5, 5, 4, 5, 1, 3, 5, 2, 1, 5, 2, 3, 2, 4, 5, 4]"
-"In the last scene, a character appeared who was badly wounded.",4.4091,0.6508,22,"[3, 5, 5, 5, 4, 4, 5, 5, 4, 4, 4, 4, 4, 5, 5, 5, 3, 5, 5, 4, 4, 5]"
-"In the last scene, a character who was badly wounded appeared.",4.0526,1.1909,19,"[3, 5, 4, 5, 5, 5, 5, 4, 5, 1, 3, 3, 5, 5, 5, 5, 2, 3, 4]"
-"In the morning, an administrator stopped in who was working from home for two months.",3.3913,1.2065,23,"[4, 4, 3, 1, 4, 4, 3, 4, 3, 5, 3, 4, 5, 2, 1, 1, 5, 4, 3, 4, 3, 5, 3]"
-"In the morning, an administrator who was working from home for two months stopped in.",3.4444,1.3005,18,"[5, 5, 4, 3, 5, 5, 4, 4, 1, 1, 3, 5, 3, 4, 2, 2, 3, 3]"
-"It is situated in Yorkshire, North Yorkshire, England with some of the best preserved historical buildings and structures in Europe.",3.9524,1.0107,84,"[3, 4, 4, 3, 4, 3, 5, 5, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 5, 5, 3, 4, 5, 4, 4, 4, 4, 4, 5, 5, 3, 4, 5, 5, 4, 4, 3, 3, 5, 5, 4, 5, 5, 5, 3, 3, 5, 5, 3, 5, 2, 2, 5, 5, 5, 5, 5, 5, 2, 2, 2, 3, 5, 3, 4, 5, 3, 2, 4, 3, 3, 4, 4, 4, 4, 5, 2, 2, 4, 4, 5, 5, 1, 5]"
-"It's quite a large Canadian tournament, and so we went as the Gliders team.",3.6429,1.1715,42,"[3, 1, 5, 5, 1, 4, 4, 4, 4, 2, 3, 3, 3, 4, 3, 4, 4, 2, 3, 5, 5, 2, 2, 5, 4, 4, 5, 5, 2, 3, 5, 4, 5, 3, 5, 2, 5, 4, 4, 4, 5, 3]"
-Its goal is to decrease IE6 users to less than one percent.,4.4762,0.9571,42,"[4, 4, 3, 5, 5, 5, 4, 5, 5, 5, 5, 3, 5, 5, 5, 4, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 1, 5, 5, 5, 5, 3, 5, 5, 5, 4, 2, 3, 5, 5]"
-"Late at night, an entertainer showed up who had been hired for the party.",4.0769,0.9577,26,"[5, 5, 5, 5, 5, 5, 4, 5, 3, 4, 4, 4, 3, 2, 3, 4, 5, 4, 5, 3, 3, 4, 2, 4, 5, 5]"
-"Late at night, an entertainer who had been hired for the party showed up.",4.2,1.1662,15,"[1, 5, 5, 5, 4, 4, 4, 5, 5, 5, 5, 5, 2, 4, 4]"
-Let's say we now use a massive paperweight.,3.825,1.2627,40,"[3, 1, 3, 5, 5, 5, 5, 4, 4, 5, 1, 4, 4, 4, 2, 5, 4, 5, 3, 5, 5, 2, 5, 5, 4, 4, 5, 2, 4, 2, 2, 2, 5, 5, 5, 4, 4, 5, 4, 2]"
-"Many people, and many students, dislike math.",3.8095,1.2196,42,"[4, 4, 3, 5, 4, 5, 4, 5, 5, 3, 2, 4, 4, 4, 4, 5, 5, 4, 3, 4, 1, 1, 1, 5, 5, 5, 5, 5, 4, 2, 5, 3, 4, 5, 5, 2, 4, 3, 3, 5, 4, 2]"
-Nature enthusiasts should go from early October to late April.,4.5,0.9574,42,"[4, 1, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 3, 4, 5, 5, 5, 5, 5, 5, 5, 4, 5, 3, 5, 5, 5, 3, 3, 4, 5, 3]"
-"Next, we present the results of our work in two sections.",4.5476,0.7929,42,"[3, 1, 5, 5, 5, 4, 5, 5, 5, 5, 4, 5, 4, 4, 5, 5, 5, 5, 5, 5, 5, 3, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 4, 5, 4, 5, 5, 4, 4, 5, 4]"
-"On the entertainment-show, a director was nominated who impressed the critics with the movie which was filmed in Serbia.",3.2308,1.1867,26,"[3, 4, 5, 1, 4, 2, 3, 5, 2, 3, 3, 4, 3, 3, 3, 3, 2, 5, 2, 5, 2, 5, 2, 3, 2, 5]"
-"On the entertainment-show, a director who impressed the critics with the movie which was filmed in Serbia was nominated.",2.8125,1.1302,16,"[4, 4, 2, 3, 4, 1, 3, 2, 3, 4, 3, 2, 2, 1, 5, 2]"
-One of them is the channels that NBC as the broadcasting rights owner for the United States will use to air the Paralympic Games on.,2.2619,1.1964,42,"[4, 3, 3, 3, 1, 2, 4, 2, 3, 3, 1, 2, 1, 2, 1, 2, 2, 2, 2, 2, 1, 1, 1, 5, 1, 2, 1, 5, 2, 1, 5, 4, 2, 3, 2, 2, 1, 2, 3, 1, 4, 1]"
-"Outside the bar, a journalist was murdered who infiltrated the gang in the city where the crime rate had risen.",2.7647,0.8065,17,"[3, 3, 3, 3, 3, 3, 3, 3, 1, 2, 2, 3, 2, 2, 3, 5, 3]"
-"Outside the bar, a journalist who infiltrated the gang in the city where the crime rate had risen was murdered.",2.88,1.0703,25,"[3, 4, 4, 2, 4, 1, 3, 2, 3, 4, 4, 5, 4, 2, 1, 3, 1, 4, 2, 3, 3, 3, 2, 2, 3]"
-She thought she could hear Gomez laughing.,4.7143,0.6999,42,"[4, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 2, 5, 3, 5]"
-So it was a city of grandmothers.,3.619,1.4953,42,"[4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 1, 1, 3, 3, 2, 4, 4, 4, 3, 5, 5, 2, 1, 1, 5, 2, 4, 1, 5, 5, 5, 5, 2, 2, 5, 2, 3, 4, 1, 5, 5, 4]"
-"The first public performances of his works were in Prague in 1872 and, with special success, in 1873, when he was aged 31.",3.0595,1.2282,84,"[4, 5, 4, 5, 4, 3, 5, 5, 2, 2, 3, 3, 2, 2, 5, 5, 3, 4, 2, 2, 2, 4, 3, 3, 2, 2, 3, 4, 2, 2, 3, 4, 3, 3, 4, 2, 4, 4, 5, 4, 5, 5, 3, 3, 5, 3, 1, 1, 2, 2, 4, 4, 5, 5, 1, 1, 4, 2, 3, 3, 4, 2, 4, 2, 2, 2, 3, 3, 4, 4, 4, 3, 1, 1, 4, 3, 2, 3, 1, 2, 4, 2, 1, 1]"
-The latter option may allow for easier revision.,4.381,0.95,42,"[3, 3, 3, 5, 5, 5, 5, 5, 4, 5, 5, 4, 5, 5, 4, 5, 4, 5, 5, 5, 5, 5, 4, 1, 5, 5, 5, 5, 4, 3, 4, 4, 5, 3, 5, 5, 4, 5, 2, 5, 5, 5]"
-The puppets used were picked specifically for this task with careful attention to their appearance.,4.0952,1.0648,42,"[3, 3, 3, 5, 4, 5, 5, 5, 3, 5, 3, 3, 4, 5, 5, 4, 4, 4, 4, 5, 5, 5, 3, 1, 5, 5, 5, 5, 1, 5, 5, 5, 4, 4, 5, 3, 5, 3, 3, 4, 4, 5]"
-The second half ended with the Belgians winning three points.,4.6429,0.6481,42,"[3, 3, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 4, 5, 5, 5, 4, 4, 5, 5, 5, 5, 5, 5, 3, 5, 5, 4, 5, 5, 5, 5, 5, 4, 3, 5, 5, 5]"
-These examples show that it is possible to identify the same conversational structure in unrelated languages.,4.4286,0.9295,42,"[3, 4, 5, 5, 5, 4, 5, 5, 4, 5, 2, 4, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 1, 4, 3, 5, 5, 5, 3, 5, 4, 4, 5, 4, 5, 5, 5]"
-They have a warm local atmosphere and taste great.,2.8571,1.5208,42,"[3, 1, 1, 5, 2, 5, 5, 4, 4, 1, 4, 4, 2, 1, 1, 4, 5, 5, 2, 2, 5, 1, 2, 1, 5, 2, 5, 1, 3, 3, 1, 1, 3, 3, 5, 2, 1, 3, 3, 4, 1, 4]"
-Women should avoid offering anything to a monk with their hands.,4.119,1.2189,42,"[4, 1, 4, 5, 4, 4, 5, 4, 5, 5, 5, 4, 5, 5, 5, 2, 4, 5, 5, 5, 4, 2, 5, 1, 5, 4, 5, 1, 5, 5, 5, 5, 5, 2, 5, 4, 3, 3, 4, 4, 5, 5]"
-"You must avoid simply copying the grammar rules, however, as this would technically turn your language into a code.",3.619,1.1537,42,"[2, 3, 4, 5, 4, 4, 5, 4, 3, 3, 4, 5, 2, 4, 5, 3, 3, 2, 2, 4, 5, 4, 4, 5, 4, 5, 5, 3, 3, 4, 4, 4, 3, 3, 5, 2, 4, 1, 2, 5, 5, 1]"
+unit,mean,std,n,individual_ratings,item_type
+"""Her boys"", as she called them, didn't take a lot of eggnog in their rum.",3.9048,1.2457,42,"[4, 3, 1, 5, 5, 5, 5, 4, 5, 5, 4, 4, 4, 5, 4, 2, 4, 5, 4, 5, 5, 4, 4, 5, 5, 4, 5, 3, 4, 3, 5, 1, 4, 4, 4, 4, 5, 2, 1, 5, 1, 3]",filler
+"After the climb, a ranger showed up who brought some food.",3.72,1.1733,25,"[5, 4, 3, 3, 3, 2, 5, 1, 4, 4, 5, 2, 4, 5, 4, 5, 5, 4, 2, 5, 3, 3, 3, 4, 5]",test
+"After the climb, a ranger who brought some food showed up.",4.1176,1.1114,17,"[4, 4, 5, 5, 5, 5, 5, 3, 3, 4, 4, 5, 1, 5, 5, 4, 3]",test
+"After the dinner, a musician arrived who was hired yesterday.",3.4545,1.0108,22,"[4, 4, 4, 5, 3, 4, 3, 2, 4, 3, 4, 1, 2, 4, 4, 4, 5, 4, 2, 4, 3, 3]",test
+"After the dinner, a musician who was hired yesterday arrived.",4.1,0.9679,20,"[3, 5, 5, 4, 3, 5, 4, 5, 5, 2, 4, 5, 5, 5, 4, 5, 4, 3, 3, 3]",test
+"After the incident, a secretary apologized who misfiled the documents from the trial.",3.15,1.04,20,"[4, 4, 5, 3, 2, 2, 3, 2, 2, 2, 5, 3, 4, 4, 4, 3, 3, 4, 2, 2]",test
+"After the incident, a secretary who misfiled the documents from the trial apologized.",4.0909,1.1088,22,"[3, 5, 4, 5, 5, 4, 5, 4, 4, 4, 5, 5, 5, 2, 5, 3, 5, 3, 2, 5, 2, 5]",test
+"After the investigation, an employee was fired who had been embezzling from the company whose stock prices had dropped.",2.5455,1.5032,22,"[4, 5, 1, 2, 2, 2, 3, 3, 1, 1, 1, 5, 1, 5, 1, 1, 5, 3, 3, 1, 3, 3]",test
+"After the investigation, an employee who had been embezzling from the company whose stock prices had dropped was fired.",3.2,1.1517,20,"[4, 3, 4, 4, 4, 3, 4, 3, 2, 3, 5, 5, 3, 2, 2, 2, 1, 2, 5, 3]",test
+"After the lecture, a student showed up who was doing poorly in the class.",4.0455,0.9989,22,"[3, 4, 5, 5, 3, 3, 5, 5, 4, 3, 5, 5, 3, 5, 5, 5, 2, 5, 4, 3, 3, 4]",test
+"After the lecture, a student who was doing poorly in the class showed up.",4.15,1.3089,20,"[1, 5, 5, 5, 5, 4, 5, 4, 5, 4, 5, 1, 4, 5, 4, 4, 5, 2, 5, 5]",test
+"After the transaction, a client complained who purchased some property on an island.",2.7917,1.2847,24,"[2, 4, 5, 1, 3, 3, 2, 2, 2, 2, 2, 1, 5, 3, 3, 5, 1, 3, 5, 2, 3, 2, 2, 4]",test
+"After the transaction, a client who purchased some property on an island complained.",3.7222,0.8264,18,"[3, 3, 3, 4, 4, 4, 4, 4, 5, 4, 3, 3, 4, 5, 3, 2, 4, 5]",test
+Almost everyone is a little bit ethnocentric.,4.4048,1.1275,42,"[3, 4, 3, 5, 5, 5, 5, 5, 4, 5, 5, 4, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 1, 5, 4, 5, 5, 5, 5, 5, 1, 5, 2, 5, 5, 5, 5, 2, 4, 5, 5]",filler
+And then she had to scan and go get the shoes and then she said they didn't have the size.,2.506,1.2135,83,"[3, 3, 3, 4, 3, 5, 5, 5, 4, 4, 3, 4, 4, 5, 4, 3, 3, 3, 3, 4, 2, 3, 2, 3, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 4, 4, 1, 1, 1, 1, 1, 1, 5, 1, 3, 1, 4, 3, 2, 2, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3, 2, 2, 2, 4, 5, 5, 2, 2, 1, 1, 3, 1, 2, 2, 2, 3, 3, 2, 1]",filler
+"And there was a heavier sound, a rasp, like a box pulled over concrete.",4.1667,0.9857,42,"[4, 4, 2, 5, 5, 4, 4, 5, 5, 5, 4, 4, 4, 4, 4, 5, 3, 4, 3, 5, 5, 5, 4, 5, 5, 4, 5, 1, 5, 4, 5, 4, 4, 3, 5, 5, 5, 3, 2, 5, 5, 3]",filler
+"At the airport, a spy was caught who stole secret documents from the IRS where an insider had provided help.",3.0769,1.1875,13,"[3, 5, 3, 3, 2, 2, 3, 2, 1, 5, 4, 3, 4]",test
+"At the airport, a spy who stole secret documents from the IRS where an insider had provided help was caught.",2.7241,1.2217,29,"[3, 3, 3, 3, 5, 2, 1, 3, 1, 3, 3, 5, 4, 1, 1, 1, 3, 2, 4, 2, 3, 2, 3, 2, 3, 1, 4, 3, 5]",test
+"At the bull-fight, a spectator gasped who noticed some blood on the bull which was attacking the bull-fighter.",2.8,1.1517,20,"[2, 4, 5, 2, 5, 3, 2, 3, 3, 2, 3, 2, 1, 3, 4, 2, 3, 1, 2, 4]",test
+"At the bull-fight, a spectator who noticed some blood on the bull which was attacking the bull-fighter gasped.",2.9524,1.322,21,"[3, 3, 4, 5, 1, 1, 1, 5, 4, 1, 2, 3, 4, 5, 3, 3, 3, 2, 3, 2, 4]",test
+"At the clinic, a patient stopped in who missed an appointment with a specialist.",3.2174,1.2416,23,"[2, 4, 5, 3, 5, 4, 4, 2, 1, 1, 2, 3, 4, 5, 2, 5, 3, 4, 4, 2, 3, 3, 3]",test
+"At the clinic, a patient who missed an appointment with a specialist stopped in.",4.1053,0.8093,19,"[5, 5, 4, 5, 4, 3, 3, 4, 5, 3, 4, 5, 4, 4, 5, 5, 4, 3, 3]",test
+"At the coffee-shop, a customer came in who often read the Herald.",3.8636,1.0821,22,"[4, 5, 5, 5, 4, 4, 4, 3, 3, 2, 4, 5, 5, 5, 5, 3, 2, 2, 5, 4, 3, 3]",test
+"At the coffee-shop, a customer who often read the Herald came in.",3.8947,1.1002,19,"[1, 4, 5, 5, 5, 4, 3, 4, 3, 5, 4, 4, 4, 4, 5, 4, 3, 5, 2]",test
+"At the concert, a singer came on who trained under Pavarotti.",4.4,1.1425,20,"[5, 5, 5, 5, 5, 4, 3, 4, 5, 4, 5, 5, 5, 2, 5, 5, 5, 5, 1, 5]",test
+"At the concert, a singer who trained under Pavarotti came on.",4.381,0.9735,21,"[3, 3, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 3, 2, 5, 3, 4, 5]",test
+"At the event, a woman fainted who was feeling sick from the food which was served at the reception.",3.4783,1.2746,23,"[2, 5, 5, 5, 5, 3, 3, 2, 5, 4, 2, 5, 5, 1, 4, 2, 4, 3, 4, 2, 3, 3, 3]",test
+"At the event, a woman who was feeling sick from the food which was served at the reception fainted.",3.4737,1.1239,19,"[4, 4, 4, 4, 4, 3, 3, 2, 3, 4, 1, 4, 5, 4, 4, 1, 4, 3, 5]",test
+"At the hospital, a man ran in who had been injured in a fight.",3.5625,1.315,16,"[5, 5, 4, 4, 3, 3, 4, 2, 4, 2, 5, 5, 5, 3, 2, 1]",test
+"At the hospital, a man who had been injured in a fight ran in.",3.7692,0.9923,26,"[2, 4, 4, 3, 4, 5, 4, 4, 4, 4, 4, 4, 5, 4, 5, 5, 5, 5, 3, 2, 3, 4, 2, 2, 4, 3]",test
+"At the precinct, a suspect was arrested who had stalked the victim of the robbery.",3.3684,1.2566,19,"[1, 5, 4, 5, 4, 2, 3, 3, 5, 4, 5, 2, 2, 4, 3, 2, 4, 2, 4]",test
+"At the precinct, a suspect who had stalked the victim of the robbery was arrested.",3.9545,0.8985,22,"[3, 5, 4, 5, 5, 4, 3, 3, 5, 4, 3, 4, 3, 5, 4, 5, 4, 4, 3, 5, 2, 4]",test
+"At the press-conference, a politician was interviewed who proposed the bill about government spending which was on the rise.",3.1,1.0712,20,"[3, 5, 4, 3, 4, 3, 2, 3, 4, 3, 5, 1, 3, 2, 2, 2, 3, 4, 2, 4]",test
+"At the press-conference, a politician who proposed the bill about government spending which was on the rise was interviewed.",3.0909,1.1088,22,"[4, 3, 3, 3, 3, 2, 2, 3, 5, 2, 5, 3, 5, 3, 3, 3, 3, 1, 2, 3, 5, 2]",test
+"At the toy-store, a child whined who wanted a book about prehistoric animals which lived in the Jurassic period.",2.9048,1.1792,21,"[1, 3, 4, 4, 2, 3, 3, 2, 5, 4, 2, 4, 2, 5, 3, 4, 1, 3, 2, 2, 2]",test
+"At the toy-store, a child who wanted a book about prehistoric animals which lived in the Jurassic period whined.",3.2381,1.136,21,"[4, 4, 4, 3, 4, 4, 4, 4, 2, 4, 4, 4, 1, 1, 3, 4, 2, 2, 3, 5, 2]",test
+"By taking this action, I hope that I will have hastened the start of that process of healing which is so desperately needed in America.",4.122,0.8123,41,"[4, 4, 5, 5, 5, 5, 5, 5, 4, 4, 4, 4, 4, 3, 4, 5, 3, 4, 5, 5, 2, 3, 5, 4, 4, 4, 5, 4, 4, 4, 5, 4, 3, 4, 4, 3, 5, 2, 4, 5, 4]",filler
+"Currently, we're in talks with people.",3.881,1.1935,42,"[3, 1, 4, 5, 4, 5, 5, 5, 5, 5, 4, 3, 5, 3, 4, 4, 3, 5, 3, 1, 2, 4, 5, 5, 5, 4, 5, 5, 4, 4, 3, 3, 5, 3, 5, 1, 5, 3, 3, 3, 5, 4]",filler
+"During the conference, a scientist arrived who won the Nobel Prize.",3.9583,1.3345,24,"[1, 3, 4, 5, 1, 4, 4, 5, 5, 5, 5, 2, 5, 5, 5, 4, 5, 4, 3, 5, 2, 3, 5, 5]",test
+"During the conference, a scientist who won the Nobel Prize arrived.",4.3333,0.767,18,"[4, 5, 5, 5, 4, 3, 5, 4, 5, 5, 5, 3, 4, 4, 5, 5, 3, 4]",test
+"During the fire, a resident was saved who suffered some burns in the explosion which was caused by a gas leak.",3.2105,1.3572,19,"[4, 4, 4, 2, 4, 3, 5, 2, 1, 2, 2, 5, 3, 2, 5, 5, 4, 1, 3]",test
+"During the fire, a resident who suffered some burns in the explosion which was caused by a gas leak was saved.",3.3636,1.0931,22,"[4, 4, 4, 3, 2, 3, 4, 3, 4, 2, 5, 2, 2, 3, 4, 5, 3, 2, 3, 2, 5, 5]",test
+"During the intermission, a guy left who got cheap tickets from a friend who worked at the box-office.",2.95,1.191,20,"[3, 4, 4, 3, 2, 4, 4, 2, 1, 4, 2, 3, 4, 1, 5, 3, 4, 2, 1, 3]",test
+"During the intermission, a guy who got cheap tickets from a friend who worked at the box-office left.",3.1905,1.3274,21,"[3, 4, 3, 3, 5, 4, 5, 4, 2, 5, 3, 3, 2, 1, 2, 5, 2, 1, 3, 2, 5]",test
+"During the meeting, an executive dropped in who was recently promoted.",3.6667,1.0646,21,"[3, 4, 5, 4, 4, 3, 4, 5, 3, 5, 5, 4, 2, 2, 3, 4, 4, 2, 2, 4, 5]",test
+"During the meeting, an executive who was recently promoted dropped in.",4.1905,1.3274,21,"[5, 5, 5, 5, 4, 5, 5, 1, 2, 4, 5, 5, 5, 5, 5, 4, 5, 4, 1, 3, 5]",test
+"During the night, a ghost materialized who resembled the baroness.",4.1905,1.2091,21,"[1, 5, 5, 5, 5, 5, 2, 5, 4, 4, 5, 5, 5, 5, 4, 5, 4, 2, 5, 3, 4]",test
+"During the night, a ghost who resembled the baroness materialized.",4.0,1.3784,21,"[3, 3, 5, 5, 5, 4, 4, 5, 5, 5, 1, 5, 5, 5, 5, 5, 3, 5, 2, 1, 3]",test
+"During the night, a patient died who had serious injuries from an accident which occurred on the highway.",3.5,1.2005,18,"[5, 2, 4, 5, 2, 3, 5, 3, 4, 1, 4, 5, 4, 2, 4, 3, 3, 4]",test
+"During the night, a patient who had serious injuries from an accident which occurred on the highway died.",3.625,1.0555,24,"[4, 1, 4, 5, 4, 4, 3, 4, 4, 3, 4, 3, 5, 2, 4, 3, 5, 5, 3, 4, 2, 3, 5, 3]",test
+"During the opera, a villain appeared who tricked the heroine.",4.1,1.0208,20,"[3, 3, 4, 5, 5, 5, 4, 4, 4, 4, 5, 1, 4, 5, 5, 5, 4, 4, 3, 5]",test
+"During the opera, a villain who tricked the heroine appeared.",4.2727,0.8827,22,"[4, 5, 5, 5, 4, 4, 5, 4, 3, 5, 4, 5, 5, 5, 5, 3, 3, 4, 5, 2, 4, 5]",test
+"During the seminar, a researcher spoke who discovered a chemical compound with unusual properties.",3.9444,0.9376,18,"[3, 5, 5, 3, 3, 4, 5, 4, 4, 5, 2, 3, 5, 5, 4, 4, 4, 3]",test
+"During the seminar, a researcher who discovered a chemical compound with unusual properties spoke.",4.0417,1.0826,24,"[3, 5, 2, 5, 5, 5, 5, 4, 3, 4, 3, 4, 3, 4, 4, 5, 5, 5, 4, 2, 2, 5, 5, 5]",test
+"During the show, a comedian came on who was trying new material.",4.08,0.9967,25,"[3, 4, 5, 5, 5, 4, 3, 5, 5, 5, 4, 4, 4, 5, 5, 5, 5, 5, 3, 2, 3, 4, 3, 2, 4]",test
+"During the show, a comedian who was trying new material came on.",4.0588,1.3906,17,"[5, 5, 5, 5, 5, 4, 5, 4, 4, 4, 4, 5, 5, 5, 1, 1, 2]",test
+"For the colloquium, a professor was invited who revolutionized the field several years ago when he was in graduate school.",3.4444,1.149,18,"[5, 5, 3, 4, 3, 5, 3, 3, 3, 5, 3, 5, 2, 3, 3, 3, 1, 3]",test
+"For the colloquium, a professor who revolutionized the field several years ago when he was in graduate school was invited.",3.2083,1.1025,24,"[3, 4, 3, 5, 4, 5, 2, 3, 2, 2, 2, 4, 3, 5, 1, 3, 2, 4, 2, 3, 4, 3, 4, 4]",test
+"He slung his belt around his back, and gave it a quick tug.",4.619,0.6228,42,"[3, 4, 5, 5, 5, 4, 5, 5, 5, 5, 3, 4, 4, 3, 4, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 4, 5, 5, 5, 4, 4, 5, 5, 5]",filler
+I also like the freedom in mathematics.,4.439,0.95,41,"[1, 5, 5, 5, 5, 5, 5, 4, 5, 5, 4, 5, 4, 4, 5, 3, 5, 5, 5, 2, 4, 5, 5, 5, 5, 5, 5, 4, 5, 4, 5, 5, 4, 5, 5, 3, 3, 3, 5, 5, 5]",filler
+"I am the only candidate who has studied both economics and law, and the only candidate with a background in technology entrepreneurship.",4.4286,0.9408,42,"[4, 1, 4, 5, 5, 5, 5, 5, 5, 5, 3, 4, 5, 4, 5, 5, 5, 3, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 2, 5, 3, 5, 4, 4, 5, 3, 5, 5, 4]",filler
+I don't know what to say.,4.7381,0.7982,42,"[1, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 4, 5, 5, 5, 5, 4, 5, 5, 5]",filler
+"I have here, some ice in a pan, water in this glass, and steam rising from this pot.",3.2439,1.3744,41,"[3, 4, 2, 5, 2, 5, 3, 4, 5, 5, 3, 2, 3, 2, 2, 4, 3, 1, 5, 5, 1, 3, 1, 2, 2, 4, 5, 1, 2, 5, 4, 5, 3, 4, 2, 2, 3, 2, 4, 5, 5]",filler
+"In the ER, a nurse rushed in who brought some instruments to the surgeon.",3.8125,1.1673,16,"[1, 5, 2, 4, 4, 4, 5, 5, 3, 4, 3, 5, 4, 3, 5, 4]",test
+"In the ER, a nurse who brought some instruments to the surgeon rushed in.",3.6154,1.2985,26,"[4, 3, 3, 5, 3, 5, 5, 3, 4, 3, 5, 5, 4, 5, 1, 3, 5, 2, 1, 5, 2, 3, 2, 4, 5, 4]",test
+"In the last scene, a character appeared who was badly wounded.",4.4091,0.6661,22,"[3, 5, 5, 5, 4, 4, 5, 5, 4, 4, 4, 4, 4, 5, 5, 5, 3, 5, 5, 4, 4, 5]",test
+"In the last scene, a character who was badly wounded appeared.",4.0526,1.2236,19,"[3, 5, 4, 5, 5, 5, 5, 4, 5, 1, 3, 3, 5, 5, 5, 5, 2, 3, 4]",test
+"In the morning, an administrator stopped in who was working from home for two months.",3.3913,1.2336,23,"[4, 4, 3, 1, 4, 4, 3, 4, 3, 5, 3, 4, 5, 2, 1, 1, 5, 4, 3, 4, 3, 5, 3]",test
+"In the morning, an administrator who was working from home for two months stopped in.",3.4444,1.3382,18,"[5, 5, 4, 3, 5, 5, 4, 4, 1, 1, 3, 5, 3, 4, 2, 2, 3, 3]",test
+"It is situated in Yorkshire, North Yorkshire, England with some of the best preserved historical buildings and structures in Europe.",3.9524,1.0168,84,"[3, 4, 4, 3, 4, 3, 5, 5, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 5, 5, 3, 4, 5, 4, 4, 4, 4, 4, 5, 5, 3, 4, 5, 5, 4, 4, 3, 3, 5, 5, 4, 5, 5, 5, 3, 3, 5, 5, 3, 5, 2, 2, 5, 5, 5, 5, 5, 5, 2, 2, 2, 3, 5, 3, 4, 5, 3, 2, 4, 3, 3, 4, 4, 4, 4, 5, 2, 2, 4, 4, 5, 5, 1, 5]",filler
+"It's quite a large Canadian tournament, and so we went as the Gliders team.",3.6429,1.1857,42,"[3, 1, 5, 5, 1, 4, 4, 4, 4, 2, 3, 3, 3, 4, 3, 4, 4, 2, 3, 5, 5, 2, 2, 5, 4, 4, 5, 5, 2, 3, 5, 4, 5, 3, 5, 2, 5, 4, 4, 4, 5, 3]",filler
+Its goal is to decrease IE6 users to less than one percent.,4.4762,0.9687,42,"[4, 4, 3, 5, 5, 5, 4, 5, 5, 5, 5, 3, 5, 5, 5, 4, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 1, 5, 5, 5, 5, 3, 5, 5, 5, 4, 2, 3, 5, 5]",filler
+"Late at night, an entertainer showed up who had been hired for the party.",4.0769,0.9767,26,"[5, 5, 5, 5, 5, 5, 4, 5, 3, 4, 4, 4, 3, 2, 3, 4, 5, 4, 5, 3, 3, 4, 2, 4, 5, 5]",test
+"Late at night, an entertainer who had been hired for the party showed up.",4.2,1.2071,15,"[1, 5, 5, 5, 4, 4, 4, 5, 5, 5, 5, 5, 2, 4, 4]",test
+Let's say we now use a massive paperweight.,3.825,1.2788,40,"[3, 1, 3, 5, 5, 5, 5, 4, 4, 5, 1, 4, 4, 4, 2, 5, 4, 5, 3, 5, 5, 2, 5, 5, 4, 4, 5, 2, 4, 2, 2, 2, 5, 5, 5, 4, 4, 5, 4, 2]",filler
+"Many people, and many students, dislike math.",3.8095,1.2344,42,"[4, 4, 3, 5, 4, 5, 4, 5, 5, 3, 2, 4, 4, 4, 4, 5, 5, 4, 3, 4, 1, 1, 1, 5, 5, 5, 5, 5, 4, 2, 5, 3, 4, 5, 5, 2, 4, 3, 3, 5, 4, 2]",filler
+Nature enthusiasts should go from early October to late April.,4.5,0.969,42,"[4, 1, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 3, 4, 5, 5, 5, 5, 5, 5, 5, 4, 5, 3, 5, 5, 5, 3, 3, 4, 5, 3]",filler
+"Next, we present the results of our work in two sections.",4.5476,0.8025,42,"[3, 1, 5, 5, 5, 4, 5, 5, 5, 5, 4, 5, 4, 4, 5, 5, 5, 5, 5, 5, 5, 3, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 4, 5, 4, 5, 5, 4, 4, 5, 4]",filler
+"On the entertainment-show, a director was nominated who impressed the critics with the movie which was filmed in Serbia.",3.2308,1.2102,26,"[3, 4, 5, 1, 4, 2, 3, 5, 2, 3, 3, 4, 3, 3, 3, 3, 2, 5, 2, 5, 2, 5, 2, 3, 2, 5]",test
+"On the entertainment-show, a director who impressed the critics with the movie which was filmed in Serbia was nominated.",2.8125,1.1673,16,"[4, 4, 2, 3, 4, 1, 3, 2, 3, 4, 3, 2, 2, 1, 5, 2]",test
+One of them is the channels that NBC as the broadcasting rights owner for the United States will use to air the Paralympic Games on.,2.2619,1.2109,42,"[4, 3, 3, 3, 1, 2, 4, 2, 3, 3, 1, 2, 1, 2, 1, 2, 2, 2, 2, 2, 1, 1, 1, 5, 1, 2, 1, 5, 2, 1, 5, 4, 2, 3, 2, 2, 1, 2, 3, 1, 4, 1]",filler
+"Outside the bar, a journalist was murdered who infiltrated the gang in the city where the crime rate had risen.",2.7647,0.8314,17,"[3, 3, 3, 3, 3, 3, 3, 3, 1, 2, 2, 3, 2, 2, 3, 5, 3]",test
+"Outside the bar, a journalist who infiltrated the gang in the city where the crime rate had risen was murdered.",2.88,1.0924,25,"[3, 4, 4, 2, 4, 1, 3, 2, 3, 4, 4, 5, 4, 2, 1, 3, 1, 4, 2, 3, 3, 3, 2, 2, 3]",test
+She thought she could hear Gomez laughing.,4.7143,0.7083,42,"[4, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 2, 5, 3, 5]",filler
+So it was a city of grandmothers.,3.619,1.5134,42,"[4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 1, 1, 3, 3, 2, 4, 4, 4, 3, 5, 5, 2, 1, 1, 5, 2, 4, 1, 5, 5, 5, 5, 2, 2, 5, 2, 3, 4, 1, 5, 5, 4]",filler
+"The first public performances of his works were in Prague in 1872 and, with special success, in 1873, when he was aged 31.",3.0595,1.2355,84,"[4, 5, 4, 5, 4, 3, 5, 5, 2, 2, 3, 3, 2, 2, 5, 5, 3, 4, 2, 2, 2, 4, 3, 3, 2, 2, 3, 4, 2, 2, 3, 4, 3, 3, 4, 2, 4, 4, 5, 4, 5, 5, 3, 3, 5, 3, 1, 1, 2, 2, 4, 4, 5, 5, 1, 1, 4, 2, 3, 3, 4, 2, 4, 2, 2, 2, 3, 3, 4, 4, 4, 3, 1, 1, 4, 3, 2, 3, 1, 2, 4, 2, 1, 1]",filler
+The latter option may allow for easier revision.,4.381,0.9615,42,"[3, 3, 3, 5, 5, 5, 5, 5, 4, 5, 5, 4, 5, 5, 4, 5, 4, 5, 5, 5, 5, 5, 4, 1, 5, 5, 5, 5, 4, 3, 4, 4, 5, 3, 5, 5, 4, 5, 2, 5, 5, 5]",filler
+The puppets used were picked specifically for this task with careful attention to their appearance.,4.0952,1.0777,42,"[3, 3, 3, 5, 4, 5, 5, 5, 3, 5, 3, 3, 4, 5, 5, 4, 4, 4, 4, 5, 5, 5, 3, 1, 5, 5, 5, 5, 1, 5, 5, 5, 4, 4, 5, 3, 5, 3, 3, 4, 4, 5]",filler
+The second half ended with the Belgians winning three points.,4.6429,0.656,42,"[3, 3, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 4, 5, 5, 5, 4, 4, 5, 5, 5, 5, 5, 5, 3, 5, 5, 4, 5, 5, 5, 5, 5, 4, 3, 5, 5, 5]",filler
+These examples show that it is possible to identify the same conversational structure in unrelated languages.,4.4286,0.9408,42,"[3, 4, 5, 5, 5, 4, 5, 5, 4, 5, 2, 4, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 1, 4, 3, 5, 5, 5, 3, 5, 4, 4, 5, 4, 5, 5, 5]",filler
+They have a warm local atmosphere and taste great.,2.8571,1.5393,42,"[3, 1, 1, 5, 2, 5, 5, 4, 4, 1, 4, 4, 2, 1, 1, 4, 5, 5, 2, 2, 5, 1, 2, 1, 5, 2, 5, 1, 3, 3, 1, 1, 3, 3, 5, 2, 1, 3, 3, 4, 1, 4]",filler
+Women should avoid offering anything to a monk with their hands.,4.119,1.2337,42,"[4, 1, 4, 5, 4, 4, 5, 4, 5, 5, 5, 4, 5, 5, 5, 2, 4, 5, 5, 5, 4, 2, 5, 1, 5, 4, 5, 1, 5, 5, 5, 5, 5, 2, 5, 4, 3, 3, 4, 4, 5, 5]",filler
+"You must avoid simply copying the grammar rules, however, as this would technically turn your language into a code.",3.619,1.1677,42,"[2, 3, 4, 5, 4, 4, 5, 4, 3, 3, 4, 5, 2, 4, 5, 3, 3, 2, 2, 4, 5, 4, 4, 5, 4, 5, 5, 3, 3, 4, 4, 4, 3, 3, 5, 2, 4, 1, 2, 5, 5, 1]",filler

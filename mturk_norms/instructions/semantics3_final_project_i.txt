@@ -1,5 +1,10 @@
-Rate the passage on its meaning.
-Rate on a scale from 1 to 5. (scale inferred from observed responses)
-Answer with one number.
+How much do you agree with the passage?
+Rate on a scale from 1 to 5:
+1 = Totally disagree
+2 = Somewhat disagree
+3 = Not sure
+4 = Somewhat agree
+5 = Totally agree
+Answer with one digit.
 
 <<{sentence}>>

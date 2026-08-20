@@ -1,5 +1,10 @@
-How exciting or calming is the word?
-Rate on a scale from 1 to 5. (scale inferred from observed responses)
-Answer with one number.
+How exciting or calming is the word or phrase?
+Rate on a scale from 1 to 5:
+1 = Very unexciting/unarousing
+2 = Quite unexciting/unarousing
+3 = Neutral
+4 = Quite exciting/arousing
+5 = Very exciting/arousing
+Answer with one digit.
 
-<<{sentence}>>
+<<{word}>>

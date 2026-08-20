@@ -1,71 +1,71 @@
-unit,mean,std,n,individual_ratings
-Each software programming volunteer can choose which software project to work on.,3.9,1.0755,30,"[1, 4, 3, 3, 4, 4, 5, 5, 5, 5, 2, 3, 4, 4, 5, 4, 3, 4, 5, 4, 5, 5, 4, 5, 4, 4, 2, 5, 4, 2]"
-He decided to cash in his investments.,4.7,0.5859,30,"[5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 4, 5, 5, 3, 5, 3, 5, 5, 5, 5, 4, 5, 5, 4]"
-He dreamt about traveling around the world.,4.2333,0.9195,30,"[5, 4, 2, 4, 3, 5, 5, 5, 5, 4, 5, 4, 3, 4, 4, 5, 5, 3, 5, 3, 5, 5, 5, 5, 4, 4, 4, 5, 2, 5]"
-He lifted his head and saw her sitting on the other chair.,4.1,0.8699,30,"[5, 5, 5, 4, 4, 4, 2, 5, 5, 4, 3, 4, 4, 2, 4, 5, 5, 4, 5, 3, 5, 4, 4, 4, 3, 4, 3, 5, 4, 5]"
-He played with the latest technologies.,4.1034,0.9593,29,"[5, 5, 4, 4, 5, 5, 4, 2, 3, 4, 4, 2, 4, 5, 5, 5, 4, 5, 4, 5, 2, 5, 4, 3, 4, 4, 5, 3, 5]"
-He says the future lies in new crops that need less water.,3.8,0.9092,30,"[4, 3, 4, 3, 4, 5, 4, 5, 3, 3, 2, 4, 4, 2, 5, 5, 4, 3, 5, 3, 5, 4, 4, 5, 3, 5, 3, 4, 3, 3]"
-He sided with the protestors.,4.6333,0.5467,30,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4, 4, 3, 5, 5, 4, 5, 5, 4, 5, 4, 5, 5, 4, 4, 4, 5, 5, 5]"
-He sings in the church choir.,4.7,0.526,30,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 3, 5, 5, 5, 5, 5, 4, 5, 4, 5, 5, 4, 4, 4, 5, 5, 4]"
-He tampered with the security system.,4.6667,0.6992,30,"[5, 5, 5, 4, 5, 5, 4, 5, 5, 5, 5, 4, 5, 4, 5, 5, 5, 5, 5, 4, 5, 2, 5, 5, 5, 5, 3, 5, 5, 5]"
-He traded in a guitar for a trumpet.,4.6333,0.6574,30,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4, 5, 5, 5, 5, 5, 3, 3, 4, 5, 4, 5, 5, 4, 5, 3, 5]"
-He turned in the old car for a new model.,4.2,0.7916,30,"[4, 5, 3, 4, 5, 4, 5, 5, 4, 4, 4, 3, 5, 5, 5, 5, 5, 4, 5, 3, 4, 2, 5, 4, 3, 4, 4, 5, 4, 4]"
-He was unconscious by the time fire crews arrived to free him.,4.1,1.0116,30,"[5, 4, 5, 4, 2, 2, 5, 5, 5, 4, 5, 4, 4, 2, 5, 5, 5, 3, 5, 3, 5, 3, 5, 4, 4, 5, 3, 5, 3, 4]"
-He went about his daily routine.,4.7333,0.5121,30,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4, 5, 5, 5, 5, 5, 4, 5, 3, 5, 5, 4, 5, 4, 5, 5, 4]"
-Her mother had sided with her stepfather and joined in blaming her.,3.1,1.0755,30,"[3, 3, 3, 2, 5, 3, 3, 5, 2, 2, 2, 4, 4, 1, 2, 4, 3, 3, 5, 2, 3, 3, 2, 3, 2, 4, 4, 5, 2, 4]"
-Her speech brought about a shift in perspective.,3.8333,1.0355,30,"[4, 2, 5, 3, 4, 4, 4, 5, 4, 5, 4, 4, 4, 2, 5, 5, 2, 3, 5, 4, 2, 4, 5, 2, 3, 5, 4, 5, 4, 3]"
-In times of trouble you go to your friends not your enemies.,3.8,1.0456,30,"[3, 4, 3, 2, 5, 3, 5, 5, 3, 3, 4, 2, 4, 5, 1, 5, 4, 4, 5, 4, 3, 5, 3, 3, 4, 5, 4, 5, 4, 4]"
-It is sensible to invest only what you can afford to lose.,3.8,1.0456,30,"[2, 4, 3, 2, 3, 5, 5, 5, 4, 2, 3, 3, 4, 2, 4, 5, 3, 4, 5, 4, 5, 4, 4, 5, 4, 5, 4, 5, 4, 2]"
-Many plant and animal species found here are endangered outside the park.,3.6,1.1136,30,"[3, 4, 4, 2, 5, 4, 2, 5, 4, 2, 3, 5, 4, 5, 2, 5, 3, 4, 4, 4, 3, 2, 5, 3, 2, 5, 3, 5, 2, 4]"
-Measures to help vulnerable customers do not appear to have been effective.,3.3333,1.2472,30,"[2, 4, 4, 5, 4, 3, 2, 5, 5, 2, 1, 3, 2, 1, 2, 4, 3, 4, 5, 4, 2, 4, 4, 4, 4, 5, 3, 5, 2, 2]"
-Most tournaments require four to six wins to take out the trophy.,2.7667,1.0858,30,"[2, 4, 2, 3, 3, 2, 2, 5, 3, 2, 3, 2, 2, 5, 2, 2, 3, 3, 1, 2, 4, 2, 2, 2, 3, 5, 2, 5, 2, 3]"
-My mother was extremely good socially and very sensitive to family relationships.,3.4333,0.9894,30,"[4, 5, 4, 2, 5, 3, 4, 4, 4, 4, 2, 4, 4, 3, 3, 4, 2, 3, 5, 3, 3, 3, 3, 3, 1, 5, 2, 4, 3, 4]"
-Operational safety training requires the participant to be physically flexible and dextrous.,3.6667,1.075,30,"[4, 3, 4, 2, 4, 4, 2, 5, 2, 2, 2, 3, 3, 5, 5, 5, 3, 3, 4, 4, 2, 5, 4, 5, 4, 5, 4, 5, 4, 3]"
-Parents provide the opportunities for children to access and play video games.,3.5172,1.0379,29,"[4, 5, 4, 4, 2, 3, 4, 3, 2, 3, 2, 4, 4, 2, 3, 5, 3, 3, 5, 3, 3, 2, 4, 4, 5, 5, 4, 5, 2]"
-Parking in these zones in bigger cities is usually subject to payment.,3.2667,1.1813,30,"[3, 3, 4, 2, 4, 2, 2, 2, 2, 4, 2, 2, 4, 4, 1, 4, 4, 2, 5, 3, 5, 4, 4, 5, 3, 5, 4, 5, 2, 2]"
-Roses flower from late spring to autumn and make excellent cut flowers.,3.6667,1.1055,30,"[3, 3, 5, 5, 2, 3, 4, 4, 2, 2, 2, 4, 4, 5, 2, 5, 5, 4, 3, 4, 4, 2, 5, 4, 2, 5, 4, 4, 5, 4]"
-She came up with an excellent strategy.,4.7586,0.5021,29,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 4, 5, 3, 4, 5, 5, 5, 4, 5, 5, 4]"
-She collaborated with her teammates.,4.6897,0.5933,29,"[5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 4, 5, 4, 5, 5, 3, 5, 5, 4, 5, 5, 5, 3, 5, 4, 5, 5, 5]"
-She enrolled in the competitive scholastic program.,4.6,0.7118,30,"[5, 5, 5, 4, 5, 4, 5, 5, 5, 5, 5, 4, 5, 4, 5, 5, 2, 5, 5, 4, 5, 5, 5, 4, 4, 5, 3, 5, 5, 5]"
-She learnt about linear algebra.,2.4,1.1719,30,"[4, 1, 2, 2, 5, 2, 2, 1, 1, 1, 1, 3, 3, 3, 2, 2, 1, 3, 4, 1, 3, 2, 3, 2, 3, 4, 3, 5, 1, 2]"
-She messed with the computer setting.,4.4,0.6633,30,"[5, 5, 5, 4, 5, 4, 4, 3, 5, 5, 5, 4, 5, 4, 5, 5, 5, 4, 4, 4, 5, 3, 4, 5, 4, 5, 3, 5, 4, 4]"
-She partook in the half marathon.,2.7333,1.2092,30,"[2, 1, 2, 3, 4, 3, 2, 5, 1, 1, 5, 4, 3, 3, 4, 2, 2, 3, 5, 3, 2, 2, 2, 2, 3, 1, 2, 5, 2, 3]"
-She talked with her coworker.,4.4333,0.9195,30,"[5, 5, 4, 5, 3, 5, 5, 5, 5, 5, 5, 5, 4, 3, 5, 5, 3, 5, 5, 2, 5, 2, 5, 4, 5, 5, 4, 5, 5, 4]"
-She tinkered with the broken engine.,4.3,1.0376,30,"[5, 5, 5, 5, 3, 5, 4, 5, 5, 5, 5, 3, 3, 4, 5, 5, 3, 5, 5, 4, 5, 2, 5, 5, 2, 5, 4, 5, 5, 2]"
-She toyed with a new idea.,4.3,0.8226,30,"[4, 5, 5, 5, 5, 3, 5, 5, 3, 5, 5, 4, 4, 3, 5, 5, 5, 5, 5, 4, 5, 3, 3, 3, 4, 5, 4, 4, 5, 3]"
-She travelled over most of the east coast of Australia by car.,3.6207,1.0959,29,"[2, 4, 4, 4, 3, 4, 5, 5, 3, 2, 1, 4, 4, 4, 4, 5, 4, 2, 5, 2, 3, 2, 4, 4, 4, 5, 3, 5, 4]"
-She was at my side through the hardest times of my life.,4.2333,0.8439,30,"[4, 5, 4, 5, 5, 4, 5, 5, 2, 4, 5, 4, 4, 5, 5, 5, 4, 4, 5, 4, 5, 5, 4, 4, 3, 5, 3, 4, 4, 2]"
-She was perfect for the song and it became her next single.,3.9333,0.9286,30,"[3, 4, 5, 4, 5, 4, 4, 5, 5, 3, 4, 4, 4, 4, 5, 5, 4, 4, 4, 4, 4, 3, 3, 3, 1, 5, 4, 5, 2, 4]"
-She worked with the design team.,4.6,0.6633,30,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 3, 5, 5, 5, 4, 5, 4, 5, 4, 5, 4, 5, 3, 3, 5, 5, 4]"
-She worried about her sister.,4.7,0.5859,30,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 3, 5, 4, 5, 4, 3, 4, 5, 5, 5, 4]"
-Sweat loss can be determined by weighing athletes before and after exercise.,3.9667,1.016,30,"[2, 4, 5, 5, 5, 5, 2, 5, 5, 3, 4, 4, 3, 3, 5, 5, 4, 4, 5, 4, 2, 2, 5, 4, 3, 4, 4, 5, 4, 4]"
-The company negotiated with the labor union.,4.7,0.4583,30,"[5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 4, 4, 5, 5, 5, 4, 5, 4, 5, 5, 5, 5, 4, 5, 4, 5, 5, 4]"
-The discussion resulted in a project.,3.5667,1.2023,30,"[2, 4, 5, 4, 5, 4, 4, 5, 2, 3, 5, 3, 4, 1, 5, 5, 4, 3, 1, 2, 5, 4, 4, 2, 4, 4, 3, 4, 4, 2]"
-The doctors and nurses caring for him will be kept under observation.,3.4333,1.1455,30,"[4, 3, 3, 2, 5, 4, 2, 1, 3, 3, 2, 4, 3, 5, 5, 5, 3, 4, 5, 4, 5, 3, 3, 3, 2, 4, 2, 5, 2, 4]"
-The floors and many of the walls are finished in polished aluminum.,3.7333,0.9286,30,"[3, 4, 5, 3, 3, 4, 5, 3, 4, 4, 2, 4, 2, 3, 2, 5, 5, 4, 5, 4, 4, 4, 4, 4, 2, 3, 4, 4, 5, 4]"
-The last thing they wanted to portray was that they were unprofessional.,3.8667,0.9568,30,"[2, 3, 4, 5, 5, 4, 4, 3, 4, 2, 2, 4, 3, 4, 4, 5, 4, 2, 5, 4, 4, 5, 4, 4, 5, 5, 4, 5, 3, 4]"
-The marchers were all women and almost all the stewards were men.,3.5333,1.0873,30,"[3, 5, 3, 4, 4, 4, 2, 4, 5, 3, 2, 3, 5, 4, 4, 5, 3, 4, 5, 3, 2, 3, 4, 2, 2, 5, 2, 5, 4, 2]"
-The negotiations culminated in a peace treaty.,3.9333,0.8537,30,"[3, 4, 5, 4, 4, 4, 4, 5, 1, 3, 4, 4, 4, 3, 5, 5, 3, 4, 5, 4, 5, 4, 4, 3, 3, 4, 4, 4, 5, 4]"
-The new government has made reducing unemployment central to its strategy am.,2.0333,1.0796,30,"[1, 4, 1, 4, 1, 3, 2, 2, 1, 2, 1, 2, 3, 2, 1, 2, 2, 1, 1, 2, 2, 2, 1, 3, 2, 4, 1, 5, 1, 2]"
-The new identification tags would either run alongside or replace national labels.,3.3333,1.1643,30,"[4, 4, 1, 5, 4, 3, 2, 4, 3, 2, 3, 4, 2, 3, 3, 5, 4, 3, 5, 3, 2, 5, 5, 4, 4, 2, 2, 5, 2, 2]"
-The only means of communication with the outside world was by ship.,3.1333,1.2579,30,"[4, 3, 5, 2, 2, 4, 2, 1, 1, 3, 2, 3, 1, 2, 4, 3, 4, 4, 5, 4, 3, 2, 3, 4, 1, 4, 4, 5, 4, 5]"
-The predominant material used in construction of this building is reinforced concrete.,4.0,1.0,30,"[4, 3, 5, 3, 5, 4, 2, 5, 4, 5, 3, 4, 2, 4, 5, 5, 5, 5, 5, 2, 4, 3, 5, 5, 3, 4, 4, 5, 3, 4]"
-The principal has high expectations and this places more pressure on us.,3.6,1.1136,30,"[3, 4, 4, 4, 5, 2, 4, 5, 2, 4, 4, 3, 2, 1, 2, 5, 4, 3, 5, 4, 3, 5, 4, 3, 3, 4, 2, 5, 4, 5]"
-The question becomes more intriguing when we consider the process in detail.,3.7931,1.0299,29,"[4, 4, 5, 2, 5, 4, 2, 5, 4, 4, 3, 4, 2, 3, 3, 5, 2, 2, 5, 4, 5, 5, 4, 4, 4, 4, 5, 4, 3]"
-The rain is lashing down outside and gales are rattling the windows.,3.069,1.2298,29,"[1, 2, 2, 2, 3, 3, 5, 3, 2, 2, 2, 2, 1, 4, 4, 1, 4, 5, 3, 4, 4, 4, 3, 2, 5, 3, 5, 4, 4]"
-The results of the survey are very similar to those previously reported.,4.1333,0.718,30,"[3, 5, 5, 5, 5, 5, 4, 5, 4, 4, 4, 4, 4, 3, 4, 5, 5, 4, 5, 3, 3, 4, 4, 3, 4, 4, 3, 5, 4, 4]"
-The seeds are spread not only by birds but also by animals.,3.6667,1.1353,30,"[2, 5, 5, 4, 5, 3, 4, 5, 4, 2, 1, 4, 4, 4, 3, 4, 5, 2, 5, 4, 2, 3, 4, 5, 3, 4, 2, 5, 3, 4]"
-The senator met with the visiting delegates.,4.4333,0.6675,30,"[5, 4, 5, 5, 5, 5, 5, 5, 3, 4, 3, 4, 4, 4, 5, 5, 5, 4, 5, 4, 5, 4, 5, 4, 5, 3, 4, 5, 5, 4]"
-The study gave scientists an insight into the age of the universe.,4.1333,0.8055,30,"[5, 5, 3, 4, 5, 4, 4, 5, 5, 4, 5, 5, 4, 4, 5, 5, 4, 5, 4, 4, 5, 3, 4, 3, 4, 4, 3, 3, 4, 2]"
-The termites will both consume and stain the white piece of paper.,3.7931,1.0628,29,"[3, 4, 5, 4, 5, 3, 3, 5, 5, 4, 2, 2, 4, 5, 4, 5, 4, 3, 5, 4, 3, 2, 5, 2, 2, 4, 5, 4, 4]"
-The transition from private to public company has been less than smooth.,3.6333,1.1397,30,"[1, 4, 5, 5, 2, 3, 4, 3, 3, 2, 4, 3, 5, 4, 3, 5, 2, 3, 5, 4, 4, 5, 4, 5, 2, 4, 2, 5, 4, 4]"
-These people were creating some very beautiful things with very little equipment.,3.6,0.9866,30,"[4, 4, 5, 3, 3, 3, 4, 5, 2, 4, 3, 2, 4, 3, 5, 4, 4, 4, 5, 3, 4, 4, 4, 2, 3, 5, 2, 5, 3, 2]"
-They could run off in any direction they wanted at any time.,3.5667,1.1455,30,"[2, 4, 4, 2, 2, 4, 2, 5, 4, 2, 2, 4, 4, 2, 5, 5, 5, 2, 5, 4, 4, 2, 4, 5, 3, 4, 4, 5, 3, 4]"
-They factored in the shipping costs.,4.3667,0.7063,30,"[5, 5, 5, 5, 5, 4, 5, 5, 4, 5, 4, 2, 4, 3, 5, 5, 4, 4, 5, 4, 5, 4, 4, 4, 5, 4, 4, 5, 4, 4]"
-They resided in a small village.,4.7333,0.4422,30,"[5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 4, 5, 4, 5, 5, 5, 4, 5, 4, 5, 5, 5, 4, 5, 5, 4, 5, 5, 4]"
-They set about their duties.,3.6667,1.2737,30,"[4, 3, 5, 4, 4, 5, 2, 5, 2, 2, 5, 4, 4, 1, 5, 5, 3, 3, 3, 4, 5, 2, 5, 4, 1, 5, 4, 5, 4, 2]"
-They settled in a peaceful town.,4.6897,0.4626,29,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4, 4, 5, 5, 4, 5, 4, 5, 4, 5, 5, 4, 5, 4, 5, 5, 4]"
-They will inhabit all of the permanent dune lakes of the island.,3.1724,1.2337,29,"[2, 3, 2, 5, 4, 5, 2, 1, 4, 2, 3, 2, 4, 1, 3, 3, 2, 3, 5, 3, 2, 4, 5, 3, 2, 5, 3, 5, 4]"
-This lab work aims to define the relationship between communication and cognition.,4.0,1.0,30,"[4, 3, 3, 4, 5, 5, 2, 5, 5, 4, 3, 4, 4, 2, 5, 5, 3, 4, 5, 4, 5, 3, 5, 5, 2, 4, 4, 5, 5, 3]"
-We participated in the local festival.,4.6,0.7118,30,"[5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 4, 5, 4, 5, 5, 5, 2, 5, 4, 5, 4, 5, 5, 3, 4, 4, 5, 5, 5]"
-We were still sitting there talking when jimmy came back from work.,3.7667,1.1455,30,"[4, 2, 4, 4, 5, 2, 4, 5, 5, 4, 4, 4, 3, 1, 3, 5, 5, 3, 5, 3, 5, 1, 4, 4, 3, 3, 4, 5, 4, 5]"
+unit,mean,std,n,individual_ratings,item_type
+Each software programming volunteer can choose which software project to work on.,3.9,1.0939,30,"[1, 4, 3, 3, 4, 4, 5, 5, 5, 5, 2, 3, 4, 4, 5, 4, 3, 4, 5, 4, 5, 5, 4, 5, 4, 4, 2, 5, 4, 2]",filler
+He decided to cash in his investments.,4.7,0.596,30,"[5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 4, 5, 5, 3, 5, 3, 5, 5, 5, 5, 4, 5, 5, 4]",test
+He dreamt about traveling around the world.,4.2333,0.9353,30,"[5, 4, 2, 4, 3, 5, 5, 5, 5, 4, 5, 4, 3, 4, 4, 5, 5, 3, 5, 3, 5, 5, 5, 5, 4, 4, 4, 5, 2, 5]",test
+He lifted his head and saw her sitting on the other chair.,4.1,0.8847,30,"[5, 5, 5, 4, 4, 4, 2, 5, 5, 4, 3, 4, 4, 2, 4, 5, 5, 4, 5, 3, 5, 4, 4, 4, 3, 4, 3, 5, 4, 5]",filler
+He played with the latest technologies.,4.1034,0.9763,29,"[5, 5, 4, 4, 5, 5, 4, 2, 3, 4, 4, 2, 4, 5, 5, 5, 4, 5, 4, 5, 2, 5, 4, 3, 4, 4, 5, 3, 5]",test
+He says the future lies in new crops that need less water.,3.8,0.9248,30,"[4, 3, 4, 3, 4, 5, 4, 5, 3, 3, 2, 4, 4, 2, 5, 5, 4, 3, 5, 3, 5, 4, 4, 5, 3, 5, 3, 4, 3, 3]",filler
+He sided with the protestors.,4.6333,0.5561,30,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4, 4, 3, 5, 5, 4, 5, 5, 4, 5, 4, 5, 5, 4, 4, 4, 5, 5, 5]",test
+He sings in the church choir.,4.7,0.535,30,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 3, 5, 5, 5, 5, 5, 4, 5, 4, 5, 5, 4, 4, 4, 5, 5, 4]",test
+He tampered with the security system.,4.6667,0.7112,30,"[5, 5, 5, 4, 5, 5, 4, 5, 5, 5, 5, 4, 5, 4, 5, 5, 5, 5, 5, 4, 5, 2, 5, 5, 5, 5, 3, 5, 5, 5]",test
+He traded in a guitar for a trumpet.,4.6333,0.6687,30,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4, 5, 5, 5, 5, 5, 3, 3, 4, 5, 4, 5, 5, 4, 5, 3, 5]",test
+He turned in the old car for a new model.,4.2,0.8052,30,"[4, 5, 3, 4, 5, 4, 5, 5, 4, 4, 4, 3, 5, 5, 5, 5, 5, 4, 5, 3, 4, 2, 5, 4, 3, 4, 4, 5, 4, 4]",test
+He was unconscious by the time fire crews arrived to free him.,4.1,1.0289,30,"[5, 4, 5, 4, 2, 2, 5, 5, 5, 4, 5, 4, 4, 2, 5, 5, 5, 3, 5, 3, 5, 3, 5, 4, 4, 5, 3, 5, 3, 4]",filler
+He went about his daily routine.,4.7333,0.5208,30,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4, 5, 5, 5, 5, 5, 4, 5, 3, 5, 5, 4, 5, 4, 5, 5, 4]",test
+Her mother had sided with her stepfather and joined in blaming her.,3.1,1.0939,30,"[3, 3, 3, 2, 5, 3, 3, 5, 2, 2, 2, 4, 4, 1, 2, 4, 3, 3, 5, 2, 3, 3, 2, 3, 2, 4, 4, 5, 2, 4]",filler
+Her speech brought about a shift in perspective.,3.8333,1.0532,30,"[4, 2, 5, 3, 4, 4, 4, 5, 4, 5, 4, 4, 4, 2, 5, 5, 2, 3, 5, 4, 2, 4, 5, 2, 3, 5, 4, 5, 4, 3]",test
+In times of trouble you go to your friends not your enemies.,3.8,1.0635,30,"[3, 4, 3, 2, 5, 3, 5, 5, 3, 3, 4, 2, 4, 5, 1, 5, 4, 4, 5, 4, 3, 5, 3, 3, 4, 5, 4, 5, 4, 4]",filler
+It is sensible to invest only what you can afford to lose.,3.8,1.0635,30,"[2, 4, 3, 2, 3, 5, 5, 5, 4, 2, 3, 3, 4, 2, 4, 5, 3, 4, 5, 4, 5, 4, 4, 5, 4, 5, 4, 5, 4, 2]",filler
+Many plant and animal species found here are endangered outside the park.,3.6,1.1326,30,"[3, 4, 4, 2, 5, 4, 2, 5, 4, 2, 3, 5, 4, 5, 2, 5, 3, 4, 4, 4, 3, 2, 5, 3, 2, 5, 3, 5, 2, 4]",filler
+Measures to help vulnerable customers do not appear to have been effective.,3.3333,1.2685,30,"[2, 4, 4, 5, 4, 3, 2, 5, 5, 2, 1, 3, 2, 1, 2, 4, 3, 4, 5, 4, 2, 4, 4, 4, 4, 5, 3, 5, 2, 2]",filler
+Most tournaments require four to six wins to take out the trophy.,2.7667,1.1043,30,"[2, 4, 2, 3, 3, 2, 2, 5, 3, 2, 3, 2, 2, 5, 2, 2, 3, 3, 1, 2, 4, 2, 2, 2, 3, 5, 2, 5, 2, 3]",filler
+My mother was extremely good socially and very sensitive to family relationships.,3.4333,1.0063,30,"[4, 5, 4, 2, 5, 3, 4, 4, 4, 4, 2, 4, 4, 3, 3, 4, 2, 3, 5, 3, 3, 3, 3, 3, 1, 5, 2, 4, 3, 4]",filler
+Operational safety training requires the participant to be physically flexible and dextrous.,3.6667,1.0933,30,"[4, 3, 4, 2, 4, 4, 2, 5, 2, 2, 2, 3, 3, 5, 5, 5, 3, 3, 4, 4, 2, 5, 4, 5, 4, 5, 4, 5, 4, 3]",filler
+Parents provide the opportunities for children to access and play video games.,3.5172,1.0563,29,"[4, 5, 4, 4, 2, 3, 4, 3, 2, 3, 2, 4, 4, 2, 3, 5, 3, 3, 5, 3, 3, 2, 4, 4, 5, 5, 4, 5, 2]",filler
+Parking in these zones in bigger cities is usually subject to payment.,3.2667,1.2015,30,"[3, 3, 4, 2, 4, 2, 2, 2, 2, 4, 2, 2, 4, 4, 1, 4, 4, 2, 5, 3, 5, 4, 4, 5, 3, 5, 4, 5, 2, 2]",filler
+Roses flower from late spring to autumn and make excellent cut flowers.,3.6667,1.1244,30,"[3, 3, 5, 5, 2, 3, 4, 4, 2, 2, 2, 4, 4, 5, 2, 5, 5, 4, 3, 4, 4, 2, 5, 4, 2, 5, 4, 4, 5, 4]",filler
+She came up with an excellent strategy.,4.7586,0.511,29,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 4, 5, 3, 4, 5, 5, 5, 4, 5, 5, 4]",test
+She collaborated with her teammates.,4.6897,0.6038,29,"[5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 4, 5, 4, 5, 5, 3, 5, 5, 4, 5, 5, 5, 3, 5, 4, 5, 5, 5]",test
+She enrolled in the competitive scholastic program.,4.6,0.724,30,"[5, 5, 5, 4, 5, 4, 5, 5, 5, 5, 5, 4, 5, 4, 5, 5, 2, 5, 5, 4, 5, 5, 5, 4, 4, 5, 3, 5, 5, 5]",test
+She learnt about linear algebra.,2.4,1.1919,30,"[4, 1, 2, 2, 5, 2, 2, 1, 1, 1, 1, 3, 3, 3, 2, 2, 1, 3, 4, 1, 3, 2, 3, 2, 3, 4, 3, 5, 1, 2]",test
+She messed with the computer setting.,4.4,0.6747,30,"[5, 5, 5, 4, 5, 4, 4, 3, 5, 5, 5, 4, 5, 4, 5, 5, 5, 4, 4, 4, 5, 3, 4, 5, 4, 5, 3, 5, 4, 4]",test
+She partook in the half marathon.,2.7333,1.2299,30,"[2, 1, 2, 3, 4, 3, 2, 5, 1, 1, 5, 4, 3, 3, 4, 2, 2, 3, 5, 3, 2, 2, 2, 2, 3, 1, 2, 5, 2, 3]",test
+She talked with her coworker.,4.4333,0.9353,30,"[5, 5, 4, 5, 3, 5, 5, 5, 5, 5, 5, 5, 4, 3, 5, 5, 3, 5, 5, 2, 5, 2, 5, 4, 5, 5, 4, 5, 5, 4]",test
+She tinkered with the broken engine.,4.3,1.0554,30,"[5, 5, 5, 5, 3, 5, 4, 5, 5, 5, 5, 3, 3, 4, 5, 5, 3, 5, 5, 4, 5, 2, 5, 5, 2, 5, 4, 5, 5, 2]",test
+She toyed with a new idea.,4.3,0.8367,30,"[4, 5, 5, 5, 5, 3, 5, 5, 3, 5, 5, 4, 4, 3, 5, 5, 5, 5, 5, 4, 5, 3, 3, 3, 4, 5, 4, 4, 5, 3]",test
+She travelled over most of the east coast of Australia by car.,3.6207,1.1153,29,"[2, 4, 4, 4, 3, 4, 5, 5, 3, 2, 1, 4, 4, 4, 4, 5, 4, 2, 5, 2, 3, 2, 4, 4, 4, 5, 3, 5, 4]",filler
+She was at my side through the hardest times of my life.,4.2333,0.8584,30,"[4, 5, 4, 5, 5, 4, 5, 5, 2, 4, 5, 4, 4, 5, 5, 5, 4, 4, 5, 4, 5, 5, 4, 4, 3, 5, 3, 4, 4, 2]",filler
+She was perfect for the song and it became her next single.,3.9333,0.9444,30,"[3, 4, 5, 4, 5, 4, 4, 5, 5, 3, 4, 4, 4, 4, 5, 5, 4, 4, 4, 4, 4, 3, 3, 3, 1, 5, 4, 5, 2, 4]",filler
+She worked with the design team.,4.6,0.6747,30,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 3, 5, 5, 5, 4, 5, 4, 5, 4, 5, 4, 5, 3, 3, 5, 5, 4]",test
+She worried about her sister.,4.7,0.596,30,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 3, 5, 4, 5, 4, 3, 4, 5, 5, 5, 4]",test
+Sweat loss can be determined by weighing athletes before and after exercise.,3.9667,1.0334,30,"[2, 4, 5, 5, 5, 5, 2, 5, 5, 3, 4, 4, 3, 3, 5, 5, 4, 4, 5, 4, 2, 2, 5, 4, 3, 4, 4, 5, 4, 4]",filler
+The company negotiated with the labor union.,4.7,0.4661,30,"[5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 4, 4, 5, 5, 5, 4, 5, 4, 5, 5, 5, 5, 4, 5, 4, 5, 5, 4]",test
+The discussion resulted in a project.,3.5667,1.2229,30,"[2, 4, 5, 4, 5, 4, 4, 5, 2, 3, 5, 3, 4, 1, 5, 5, 4, 3, 1, 2, 5, 4, 4, 2, 4, 4, 3, 4, 4, 2]",test
+The doctors and nurses caring for him will be kept under observation.,3.4333,1.1651,30,"[4, 3, 3, 2, 5, 4, 2, 1, 3, 3, 2, 4, 3, 5, 5, 5, 3, 4, 5, 4, 5, 3, 3, 3, 2, 4, 2, 5, 2, 4]",filler
+The floors and many of the walls are finished in polished aluminum.,3.7333,0.9444,30,"[3, 4, 5, 3, 3, 4, 5, 3, 4, 4, 2, 4, 2, 3, 2, 5, 5, 4, 5, 4, 4, 4, 4, 4, 2, 3, 4, 4, 5, 4]",filler
+The last thing they wanted to portray was that they were unprofessional.,3.8667,0.9732,30,"[2, 3, 4, 5, 5, 4, 4, 3, 4, 2, 2, 4, 3, 4, 4, 5, 4, 2, 5, 4, 4, 5, 4, 4, 5, 5, 4, 5, 3, 4]",filler
+The marchers were all women and almost all the stewards were men.,3.5333,1.1059,30,"[3, 5, 3, 4, 4, 4, 2, 4, 5, 3, 2, 3, 5, 4, 4, 5, 3, 4, 5, 3, 2, 3, 4, 2, 2, 5, 2, 5, 4, 2]",filler
+The negotiations culminated in a peace treaty.,3.9333,0.8683,30,"[3, 4, 5, 4, 4, 4, 4, 5, 1, 3, 4, 4, 4, 3, 5, 5, 3, 4, 5, 4, 5, 4, 4, 3, 3, 4, 4, 4, 5, 4]",test
+The new government has made reducing unemployment central to its strategy am.,2.0333,1.0981,30,"[1, 4, 1, 4, 1, 3, 2, 2, 1, 2, 1, 2, 3, 2, 1, 2, 2, 1, 1, 2, 2, 2, 1, 3, 2, 4, 1, 5, 1, 2]",filler
+The new identification tags would either run alongside or replace national labels.,3.3333,1.1842,30,"[4, 4, 1, 5, 4, 3, 2, 4, 3, 2, 3, 4, 2, 3, 3, 5, 4, 3, 5, 3, 2, 5, 5, 4, 4, 2, 2, 5, 2, 2]",filler
+The only means of communication with the outside world was by ship.,3.1333,1.2794,30,"[4, 3, 5, 2, 2, 4, 2, 1, 1, 3, 2, 3, 1, 2, 4, 3, 4, 4, 5, 4, 3, 2, 3, 4, 1, 4, 4, 5, 4, 5]",filler
+The predominant material used in construction of this building is reinforced concrete.,4.0,1.0171,30,"[4, 3, 5, 3, 5, 4, 2, 5, 4, 5, 3, 4, 2, 4, 5, 5, 5, 5, 5, 2, 4, 3, 5, 5, 3, 4, 4, 5, 3, 4]",filler
+The principal has high expectations and this places more pressure on us.,3.6,1.1326,30,"[3, 4, 4, 4, 5, 2, 4, 5, 2, 4, 4, 3, 2, 1, 2, 5, 4, 3, 5, 4, 3, 5, 4, 3, 3, 4, 2, 5, 4, 5]",filler
+The question becomes more intriguing when we consider the process in detail.,3.7931,1.0481,29,"[4, 4, 5, 2, 5, 4, 2, 5, 4, 4, 3, 4, 2, 3, 3, 5, 2, 2, 5, 4, 5, 5, 4, 4, 4, 4, 5, 4, 3]",filler
+The rain is lashing down outside and gales are rattling the windows.,3.069,1.2516,29,"[1, 2, 2, 2, 3, 3, 5, 3, 2, 2, 2, 2, 1, 4, 4, 1, 4, 5, 3, 4, 4, 4, 3, 2, 5, 3, 5, 4, 4]",filler
+The results of the survey are very similar to those previously reported.,4.1333,0.7303,30,"[3, 5, 5, 5, 5, 5, 4, 5, 4, 4, 4, 4, 4, 3, 4, 5, 5, 4, 5, 3, 3, 4, 4, 3, 4, 4, 3, 5, 4, 4]",filler
+The seeds are spread not only by birds but also by animals.,3.6667,1.1547,30,"[2, 5, 5, 4, 5, 3, 4, 5, 4, 2, 1, 4, 4, 4, 3, 4, 5, 2, 5, 4, 2, 3, 4, 5, 3, 4, 2, 5, 3, 4]",filler
+The senator met with the visiting delegates.,4.4333,0.6789,30,"[5, 4, 5, 5, 5, 5, 5, 5, 3, 4, 3, 4, 4, 4, 5, 5, 5, 4, 5, 4, 5, 4, 5, 4, 5, 3, 4, 5, 5, 4]",test
+The study gave scientists an insight into the age of the universe.,4.1333,0.8193,30,"[5, 5, 3, 4, 5, 4, 4, 5, 5, 4, 5, 5, 4, 4, 5, 5, 4, 5, 4, 4, 5, 3, 4, 3, 4, 4, 3, 3, 4, 2]",filler
+The termites will both consume and stain the white piece of paper.,3.7931,1.0816,29,"[3, 4, 5, 4, 5, 3, 3, 5, 5, 4, 2, 2, 4, 5, 4, 5, 4, 3, 5, 4, 3, 2, 5, 2, 2, 4, 5, 4, 4]",filler
+The transition from private to public company has been less than smooth.,3.6333,1.1592,30,"[1, 4, 5, 5, 2, 3, 4, 3, 3, 2, 4, 3, 5, 4, 3, 5, 2, 3, 5, 4, 4, 5, 4, 5, 2, 4, 2, 5, 4, 4]",filler
+These people were creating some very beautiful things with very little equipment.,3.6,1.0034,30,"[4, 4, 5, 3, 3, 3, 4, 5, 2, 4, 3, 2, 4, 3, 5, 4, 4, 4, 5, 3, 4, 4, 4, 2, 3, 5, 2, 5, 3, 2]",filler
+They could run off in any direction they wanted at any time.,3.5667,1.1651,30,"[2, 4, 4, 2, 2, 4, 2, 5, 4, 2, 2, 4, 4, 2, 5, 5, 5, 2, 5, 4, 4, 2, 4, 5, 3, 4, 4, 5, 3, 4]",filler
+They factored in the shipping costs.,4.3667,0.7184,30,"[5, 5, 5, 5, 5, 4, 5, 5, 4, 5, 4, 2, 4, 3, 5, 5, 4, 4, 5, 4, 5, 4, 4, 4, 5, 4, 4, 5, 4, 4]",test
+They resided in a small village.,4.7333,0.4498,30,"[5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 4, 5, 4, 5, 5, 5, 4, 5, 4, 5, 5, 5, 4, 5, 5, 4, 5, 5, 4]",test
+They set about their duties.,3.6667,1.2954,30,"[4, 3, 5, 4, 4, 5, 2, 5, 2, 2, 5, 4, 4, 1, 5, 5, 3, 3, 3, 4, 5, 2, 5, 4, 1, 5, 4, 5, 4, 2]",test
+They settled in a peaceful town.,4.6897,0.4708,29,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4, 4, 5, 5, 4, 5, 4, 5, 4, 5, 5, 4, 5, 4, 5, 5, 4]",test
+They will inhabit all of the permanent dune lakes of the island.,3.1724,1.2555,29,"[2, 3, 2, 5, 4, 5, 2, 1, 4, 2, 3, 2, 4, 1, 3, 3, 2, 3, 5, 3, 2, 4, 5, 3, 2, 5, 3, 5, 4]",filler
+This lab work aims to define the relationship between communication and cognition.,4.0,1.0171,30,"[4, 3, 3, 4, 5, 5, 2, 5, 5, 4, 3, 4, 4, 2, 5, 5, 3, 4, 5, 4, 5, 3, 5, 5, 2, 4, 4, 5, 5, 3]",filler
+We participated in the local festival.,4.6,0.724,30,"[5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 4, 5, 4, 5, 5, 5, 2, 5, 4, 5, 4, 5, 5, 3, 4, 4, 5, 5, 5]",test
+We were still sitting there talking when jimmy came back from work.,3.7667,1.1651,30,"[4, 2, 4, 4, 5, 2, 4, 5, 5, 4, 4, 4, 3, 1, 3, 5, 5, 3, 5, 3, 5, 1, 4, 4, 3, 3, 4, 5, 4, 5]",filler

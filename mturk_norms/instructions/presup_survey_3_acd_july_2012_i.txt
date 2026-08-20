@@ -1,5 +1,10 @@
-Rate the sentence.
-Rate on a scale from 1 to 5. (scale inferred from observed responses)
-Answer with one number.
+Does the sentence need a context in order to be interpreted?
+Rate on a scale from 1 to 5:
+1 = Definitely need a context
+2 = Probably need a context
+3 = Neutral
+4 = Probably don't need a context
+5 = Definitely don't need a context
+Answer with one digit.
 
 <<{sentence}>>

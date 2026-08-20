@@ -1,143 +1,143 @@
-unit,mean,std,n,individual_ratings
-A ref has to call every time someone breaks the rules.,5.375,1.317,8,"[7, 6, 4, 5, 3, 7, 5, 6]"
-A ref must maintain strict enforcement of the sport's regulations.,5.25,1.0897,8,"[5, 6, 7, 6, 5, 3, 5, 5]"
-A referee has to call every time someone breaks the rules.,5.1667,2.1148,6,"[6, 1, 4, 7, 7, 6]"
-A referee must maintain strict enforcement of the sport's regulations.,6.4286,0.9035,7,"[7, 7, 7, 5, 7, 7, 5]"
-"After Brexit, the UK was way more strict in letting stuff into the country.",5.3,1.6155,10,"[7, 5, 4, 5, 7, 2, 4, 7, 5, 7]"
-"After Brexit, the United Kingdom was way more strict in letting stuff into the country.",4.6667,2.2111,6,"[6, 7, 7, 1, 3, 4]"
-"After leaving the European Union, the UK implemented stricter import regulations.",6.1667,0.8975,6,"[7, 7, 5, 6, 5, 7]"
-"After leaving the European Union, the United Kingdom implemented stricter import regulations.",6.5714,0.4949,7,"[6, 7, 7, 6, 7, 6, 7]"
-Elliott grabbed the mic to sing kareoke with his friends at the party.,5.8,1.1662,5,"[7, 6, 7, 4, 5]"
-Elliott grabbed the microphone to sing kareoke with his friends at the party.,6.0,1.2247,8,"[6, 3, 7, 7, 6, 6, 7, 6]"
-"Fiona took her sneezy dog to the vet, who said he probably just had allergies.",4.8,1.8868,10,"[3, 4, 7, 2, 2, 5, 5, 6, 7, 7]"
-"Fiona took her sneezy dog to the veterinarian, who said he probably just had allergies.",4.5,1.893,6,"[4, 5, 1, 6, 4, 7]"
-"Fortuitously, Jennifer's carcinoma didn't have a recurrence after she had chemo.",4.6667,1.7951,6,"[3, 4, 6, 7, 2, 6]"
-"Fortuitously, Jennifer's carcinoma didn't have a recurrence after she had chemotherapy.",2.8,1.6,5,"[1, 1, 3, 5, 4]"
-Her math research focused on optimizing complex algorithms for machine learning.,6.0,1.3333,9,"[6, 7, 7, 5, 3, 5, 7, 7, 7]"
-Her mathematics research focused on optimizing complex algorithms for machine learning.,6.5,0.5,4,"[7, 6, 7, 6]"
-Kaylee and Rebecca snapped a photo while they were hanging out at the beach.,6.2,1.1662,10,"[7, 7, 6, 7, 6, 6, 3, 6, 7, 7]"
-Kaylee and Rebecca snapped a photograph while they were hanging out at the beach.,5.6,0.8,5,"[5, 7, 6, 5, 5]"
-Leah and Sam saw a huge rhino chilling by the water on their safari.,5.0,1.5275,6,"[4, 4, 7, 7, 5, 3]"
-Leah and Sam saw a huge rhinoceros chilling by the water on their safari.,5.5,1.7464,10,"[7, 6, 6, 1, 6, 7, 4, 5, 6, 7]"
-"Luckily, Jennifer's cancer didn't return after she had chemo.",5.8333,1.2134,6,"[7, 4, 5, 5, 7, 7]"
-"Luckily, Jennifer's cancer didn't return after she had chemotherapy.",6.0769,1.141,13,"[7, 7, 7, 6, 4, 4, 6, 7, 5, 7, 5, 7, 7]"
-"Miguel desired an animal with loyalty and abundant energy, so he adopted a Labrador.",5.5455,1.2332,11,"[6, 7, 6, 7, 6, 4, 6, 4, 3, 6, 6]"
-"Miguel wanted a friendly and energetic dog, so he got a Lab.",5.625,1.111,8,"[6, 5, 6, 6, 4, 7, 4, 7]"
-"Miguel wanted a friendly and energetic dog, so he got a Labrador.",6.5,0.5,4,"[7, 7, 6, 6]"
-Milo called Beth on the phone to figure out what was going on.,6.0,0.8165,6,"[5, 6, 7, 7, 5, 6]"
-Milo called Beth on the telephone to figure out what was going on.,6.5,0.6708,10,"[7, 7, 5, 6, 6, 7, 7, 6, 7, 7]"
-Reese scribbled a quick memo to remind everyone about the lunch plans.,5.8,0.9798,5,"[5, 7, 7, 5, 5]"
-Reese scribbled a quick memorandum to remind everyone about the lunch plans.,5.1,1.5133,10,"[7, 7, 4, 4, 6, 3, 5, 5, 7, 3]"
-She works on math stuff that makes computer programs run way faster.,3.75,1.0897,8,"[3, 6, 3, 4, 4, 4, 4, 2]"
-She works on mathematics stuff that makes computer programs run way faster.,4.2222,1.9309,9,"[6, 3, 3, 6, 6, 1, 7, 3, 3]"
-The A/C kept the room cool for the whole meeting.,6.6667,0.4714,9,"[6, 7, 7, 6, 6, 7, 7, 7, 7]"
-The A/C unit maintained a consistence temperature throughout the duration of the meeting.,4.5714,2.3819,7,"[6, 1, 7, 5, 1, 5, 7]"
-The ER doc was tired after work.,4.75,1.479,4,"[4, 3, 5, 7]"
-The ER physician was exhausted after her shift.,6.4,0.8,5,"[7, 6, 7, 5, 7]"
-The Lab chilled the whole time and did everything it was told to do.,3.2857,2.3123,7,"[1, 1, 6, 3, 7, 4, 1]"
-The UN convened to dicuss strategies for addressing global climate challenges.,6.0833,0.9538,12,"[7, 7, 6, 6, 4, 6, 7, 7, 6, 5, 5, 7]"
-The UN met to talk about how to stop climate change.,6.5,0.5,8,"[7, 7, 6, 6, 7, 6, 7, 6]"
-The US experienced a significant increase in renewable energy investments last year.,6.0,1.1547,6,"[6, 5, 7, 7, 4, 7]"
-The US is really starting to get into solar power lately.,5.125,2.315,8,"[7, 7, 7, 4, 7, 1, 6, 2]"
-The United Nations convened to dicuss strategies for addressing global climate challenges.,5.2,1.1662,5,"[4, 6, 5, 7, 4]"
-The United Nations met to talk about how to stop climate change.,5.0,1.5811,4,"[6, 3, 7, 4]"
-The United States experienced a significant increase in renewable energy investments last year.,6.75,0.433,8,"[7, 7, 6, 7, 7, 6, 7, 7]"
-The United States is really starting to get into solar power lately.,5.25,1.7139,8,"[3, 7, 6, 6, 5, 2, 6, 7]"
-The admissions officer boasted about the college's state-of-the-art dormitories.,6.4444,0.9558,9,"[7, 7, 6, 4, 7, 7, 6, 7, 7]"
-The admissions officer boasted about the college's state-of-the-art dorms.,5.7143,0.6999,7,"[6, 7, 5, 5, 6, 6, 5]"
-The air conditioning kept the room cool for the whole meeting.,6.3333,1.1055,6,"[7, 7, 4, 7, 6, 7]"
-The air conditioning unit maintained a consistence temperature throughout the duration of the meeting.,3.125,2.0272,8,"[1, 7, 3, 1, 4, 5, 3, 1]"
-The athlete sustained a minor strain in her quad during the final phase of training.,5.8571,0.833,7,"[7, 6, 7, 5, 6, 5, 5]"
-The athlete sustained a minor strain in her quadriceps during the final phase of training.,6.0,1.4142,7,"[7, 7, 6, 7, 7, 3, 5]"
-The burger place made milkshakes with dairy from a farm nearby.,5.875,1.2686,8,"[5, 4, 7, 7, 4, 6, 7, 7]"
-The burger place made shakes with dairy from a farm nearby.,4.4444,1.4229,9,"[5, 6, 4, 6, 6, 2, 5, 3, 3]"
-The car ran better after we started using fancier gas.,5.8333,0.8975,6,"[7, 6, 6, 4, 6, 6]"
-The car ran better after we started using fancier gasoline.,4.4444,1.8325,9,"[6, 1, 5, 5, 2, 4, 6, 4, 7]"
-The chef incorporated homemade mayo into the dish to enhance its texture and flavor.,6.3636,0.8814,11,"[7, 7, 7, 7, 7, 5, 5, 6, 5, 7, 7]"
-The chef incorporated homemade mayonnaise into the dish to enhance its texture and flavor.,6.2857,1.3851,7,"[7, 7, 7, 3, 7, 6, 7]"
-The children enjoyed riding their bicycles to elementary school.,6.4444,0.6849,9,"[6, 6, 7, 7, 7, 5, 6, 7, 7]"
-The children enjoyed riding their bikes to elementary school.,5.6667,1.4142,9,"[7, 7, 4, 5, 6, 7, 5, 3, 7]"
-The client requested that all further inquiries be handled via phone communication.,5.25,0.8292,4,"[4, 6, 5, 6]"
-The client requested that all further inquiries be handled via telephone communication.,6.0,1.5492,10,"[7, 6, 7, 3, 7, 7, 7, 6, 3, 7]"
-The college showed off their new dormitories.,6.0,1.2649,5,"[7, 7, 5, 7, 4]"
-The college showed off their new dorms.,6.3333,0.8165,9,"[7, 7, 6, 5, 7, 7, 5, 6, 7]"
-The company's PR team issued a statement to address the recent controversy.,6.6667,0.7454,6,"[7, 7, 5, 7, 7, 7]"
-The company's public relations team issued a statement to address the recent controversy.,6.9,0.3,10,"[7, 7, 6, 7, 7, 7, 7, 7, 7, 7]"
-The cook threw in some mayo to make the food creamier and tastier.,6.4,0.4899,5,"[6, 7, 7, 6, 6]"
-The cook threw in some mayonnaise to make the food creamier and tastier.,3.6,1.3565,5,"[5, 5, 4, 2, 2]"
-The couple arrived at the venue in a sleek black limo for their wedding ceremony.,6.25,0.9682,8,"[6, 7, 7, 6, 7, 6, 4, 7]"
-The couple arrived at the venue in a sleek black limousine for their wedding ceremony.,5.8333,1.3437,6,"[6, 7, 7, 7, 4, 4]"
-The couple showed up to the wedding in a fancy black limo that must have been pricy.,4.5455,1.9709,11,"[2, 3, 6, 7, 4, 2, 7, 5, 5, 7, 2]"
-The couple showed up to the wedding in a fancy black limousine that must have been pricy.,5.6,1.3565,5,"[6, 6, 6, 7, 3]"
-The curator carefully archived the historic photo in the museum's digital collection.,6.2857,1.1606,7,"[7, 7, 5, 4, 7, 7, 7]"
-The curator carefully archived the historic photograph in the museum's digital collection.,4.875,1.9645,8,"[6, 5, 7, 3, 1, 7, 4, 6]"
-The dessert menu of the restaurant featured hand crafted milkshakes with local dairy.,6.25,0.8292,4,"[7, 7, 6, 5]"
-The dessert menu of the restaurant featured hand crafted shakes with local dairy.,4.1111,1.9689,9,"[7, 6, 1, 5, 1, 4, 5, 5, 3]"
-The dietician emphasized the importance of regulating carbohydrate intake to maintain energy balance.,6.1765,1.0973,17,"[3, 7, 7, 7, 7, 7, 6, 5, 5, 7, 7, 6, 6, 5, 6, 7, 7]"
-The emergency room doc was tired after work.,5.9,1.044,10,"[6, 7, 7, 4, 5, 5, 7, 6, 7, 5]"
-The emergency room physician was exhausted after her shift.,6.9091,0.2875,11,"[6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]"
-The frat had a house by the river.,3.6,1.4967,5,"[3, 4, 1, 5, 5]"
-The frat owned a historic brownstone along the river.,5.4,1.562,10,"[7, 6, 5, 6, 4, 7, 4, 2, 6, 7]"
-The fraternity had a house by the river.,5.8333,1.4625,6,"[7, 3, 5, 6, 7, 7]"
-The fraternity owned a historic brownstone along the river.,6.6667,0.9428,9,"[7, 7, 4, 7, 7, 7, 7, 7, 7]"
-"The fridge broke last night, so everything inside went bad.",5.625,1.8666,8,"[7, 7, 2, 6, 7, 3, 7, 6]"
-"The fridge malfunctioned overnight, causing the food to spoil.",6.125,1.0533,8,"[7, 7, 7, 6, 7, 5, 6, 4]"
-The guard asked for ID before letting anyone into the place.,5.6667,1.0541,9,"[7, 4, 5, 6, 6, 4, 6, 7, 6]"
-The guard asked for identification before letting anyone into the place.,5.75,1.3919,8,"[6, 7, 7, 3, 6, 4, 6, 7]"
-The hippo displayed territorial behavior when another animal approached the riverbank.,6.6667,0.7454,6,"[7, 5, 7, 7, 7, 7]"
-The hippo got really mad when something got too close to its spot by the water.,5.7778,0.9162,9,"[4, 7, 5, 6, 6, 5, 6, 7, 6]"
-The hippopotamus displayed territorial behavior when another animal approached the riverbank.,5.6,1.3565,5,"[6, 3, 6, 6, 7]"
-The hippopotamus got really mad when something got too close to its spot by the water.,5.4,1.6248,10,"[7, 7, 7, 6, 6, 4, 3, 7, 3, 4]"
-The kids liked to ride their bicycles to school.,6.0,1.2247,4,"[7, 4, 6, 7]"
-The kids liked to ride their bikes to school.,6.125,0.5995,8,"[6, 7, 7, 6, 6, 6, 5, 6]"
-The lab was locked up at night so nobody could mess with the gear.,5.1429,1.5518,7,"[7, 6, 5, 2, 6, 6, 4]"
-The lab was secured after hours to prevent unauthorized access to sensitive equipment.,6.3333,1.2472,9,"[7, 7, 7, 6, 7, 6, 7, 7, 3]"
-The laboratory was locked up at night so nobody could mess with the gear.,5.375,1.2183,8,"[6, 6, 7, 3, 4, 6, 5, 6]"
-The laboratory was secured after hours to prevent unauthorized access to sensitive equipment.,5.6667,0.9428,6,"[6, 7, 6, 6, 4, 5]"
-The manager circulated a memo outlining the new workplace policies effective next month.,5.625,1.111,8,"[6, 6, 5, 6, 7, 4, 7, 4]"
-The manager circulated a memorandum outlining the new workplace policies effective next month.,6.0,0.9258,7,"[5, 7, 5, 7, 5, 6, 7]"
-The marketing firm recently designed a new billboard ad for a large corporation.,6.3333,0.6667,9,"[7, 7, 6, 7, 7, 6, 6, 6, 5]"
-The marketing firm recently designed a new billboard advertisement for a large corporation.,6.125,0.7806,8,"[7, 5, 7, 6, 6, 5, 6, 7]"
-The marketing team just finished a new billboard ad for a big company.,6.4444,0.4969,9,"[6, 7, 7, 6, 7, 7, 6, 6, 6]"
-The marketing team just finished a new billboard advertisement for a big company.,6.25,1.299,4,"[7, 4, 7, 7]"
-The musician perfomed a solo on the sax that captivated the entire concert hall.,5.8,0.7483,5,"[6, 7, 5, 5, 6]"
-The musician perfomed a solo on the saxophone that captivated the entire concert hall.,6.2857,0.6999,7,"[7, 6, 6, 6, 5, 7, 7]"
-The musician played an awesome solo on the sax that the audience loved.,6.4,1.0198,10,"[7, 7, 7, 7, 7, 7, 4, 6, 5, 7]"
-The musician played an awesome solo on the saxophone that the audience loved.,5.0,1.2247,8,"[5, 4, 5, 4, 7, 6, 3, 6]"
-The nutritionist said cutting back on carbs can help keep your energy levels steady.,6.3846,0.4865,13,"[6, 6, 6, 6, 6, 6, 7, 6, 6, 7, 7, 7, 7]"
-"The package was about a kilo too heavy, so they had to pay extra for it.",5.0,1.9365,8,"[3, 7, 7, 7, 6, 2, 3, 5]"
-"The package was about a kilogram too heavy, so they had to pay extra for it.",5.625,1.111,8,"[5, 7, 6, 4, 4, 6, 6, 7]"
-The parcel exceeded the maximum weight limit by nearly a kilo and required additional postage.,6.5,0.5,6,"[6, 7, 6, 7, 6, 7]"
-The parcel exceeded the maximum weight limit by nearly a kilogram and required additional postage.,6.0,1.118,8,"[7, 6, 7, 5, 5, 7, 4, 7]"
-The primatologist hypothesized that the chimpanzees preferred mates with denser coats.,5.1,1.7578,10,"[6, 6, 4, 7, 7, 4, 6, 1, 4, 6]"
-The primatologist hypothesized that the chimps preferred mates with denser coats.,6.3333,0.4714,6,"[6, 7, 6, 7, 6, 6]"
-"The refrigerator broke last night, so everything inside went bad.",6.7143,0.6999,7,"[7, 7, 7, 7, 7, 5, 7]"
-"The refrigerator malfunctioned overnight, causing the food to spoil.",6.2857,0.6999,7,"[6, 6, 7, 6, 7, 5, 7]"
-The rhino was observed browsing near the watering hole during the early hours of the morning.,5.7143,1.4846,7,"[7, 7, 3, 7, 6, 6, 4]"
-The rhinoceros was observed browsing near the watering hole during the early hours of the morning.,4.4286,1.9898,7,"[7, 6, 3, 5, 6, 3, 1]"
-The runner hurt her quad at the end of track practice.,6.125,0.7806,8,"[7, 5, 5, 6, 6, 6, 7, 7]"
-The runner hurt her quadriceps at the end of track practice.,5.5,1.6583,8,"[2, 7, 6, 4, 7, 6, 5, 7]"
-The scientist thought the chimpanzees liked mates with thick fur.,5.6667,1.2472,6,"[6, 7, 6, 6, 6, 3]"
-The scientist thought the chimps liked mates with thick fur.,5.75,1.0897,8,"[7, 5, 6, 5, 4, 7, 5, 7]"
-The scientists looked at how too much TV affected brain development.,5.5714,1.6782,7,"[7, 3, 7, 7, 6, 3, 6]"
-The scientists looked at how too much television affected brain development.,5.75,0.8292,8,"[5, 5, 5, 6, 5, 7, 7, 6]"
-The security officer requested ID before granting access to the restricted area.,6.8333,0.3727,6,"[6, 7, 7, 7, 7, 7]"
-The security officer requested identification before granting access to the restricted area.,6.5714,0.4949,7,"[7, 7, 6, 7, 6, 6, 7]"
-The speaker adjusted the mic to ensure optimal audio quality for the presentation.,6.4,0.9165,10,"[6, 7, 4, 7, 7, 6, 7, 7, 7, 6]"
-The speaker adjusted the microphone to ensure optimal audio quality for the presentation.,6.7143,0.4518,7,"[7, 7, 6, 7, 6, 7, 7]"
-The student crammed before the exam and got there on time.,5.1429,1.6413,7,"[7, 4, 7, 2, 5, 5, 6]"
-The student crammed before the examination and got there on time.,3.6667,1.8856,9,"[4, 7, 5, 2, 5, 5, 2, 2, 1]"
-The student reviewed her notes thoroughly before the exam and arrived promptly.,6.6,0.4899,5,"[7, 7, 6, 7, 6]"
-The student reviewed her notes thoroughly before the examination and arrived promptly.,4.1111,1.7285,9,"[3, 5, 6, 1, 6, 4, 6, 2, 4]"
-The study analyzed the effects of prolonged exposure to TV on cognitive development.,6.8,0.4,5,"[7, 7, 6, 7, 7]"
-The study analyzed the effects of prolonged exposure to television on cognitive development.,6.2222,1.0304,9,"[7, 7, 5, 7, 6, 7, 7, 4, 6]"
-The undergrad had to submit a final project before he could graduate with honors.,5.4286,1.178,7,"[6, 5, 6, 5, 3, 6, 7]"
-The undergrad submitted a comprehensive thesis as part of the honors program curriculum.,5.375,1.317,8,"[6, 6, 5, 4, 5, 7, 3, 7]"
-The undergraduate had to submit a final project before he could graduate with honors.,6.4444,0.6849,9,"[6, 7, 7, 7, 6, 5, 6, 7, 7]"
-The undergraduate submitted a comprehensive thesis as part of the honors program curriculum.,7.0,0.0,5,"[7, 7, 7, 7, 7]"
-The vehicle's efficency improved after switching to a higher grade of gas.,5.8889,0.9938,9,"[6, 7, 5, 6, 7, 6, 5, 4, 7]"
-The vehicle's efficency improved after switching to a higher grade of gasoline.,6.3333,0.7454,6,"[6, 7, 7, 6, 7, 5]"
-The vet conducted a thorough examination before recommending a course of treatment.,5.5714,1.6782,7,"[7, 6, 7, 3, 6, 7, 3]"
-The veterinarian conducted a thorough examination before recommending a course of treatment.,6.4286,0.7284,7,"[7, 7, 5, 7, 7, 6, 6]"
-Their PR people had to step in after that whole mess blew up online.,5.2,1.6,5,"[5, 7, 4, 3, 7]"
-Their public relations people had to step in after that whole mess blew up online.,5.3333,1.1547,9,"[7, 6, 6, 3, 5, 5, 4, 6, 6]"
+unit,mean,std,n,individual_ratings,item_type
+A ref has to call every time someone breaks the rules.,5.375,1.4079,8,"[7, 6, 4, 5, 3, 7, 5, 6]",test
+A ref must maintain strict enforcement of the sport's regulations.,5.25,1.165,8,"[5, 6, 7, 6, 5, 3, 5, 5]",test
+A referee has to call every time someone breaks the rules.,5.1667,2.3166,6,"[6, 1, 4, 7, 7, 6]",test
+A referee must maintain strict enforcement of the sport's regulations.,6.4286,0.9759,7,"[7, 7, 7, 5, 7, 7, 5]",test
+"After Brexit, the UK was way more strict in letting stuff into the country.",5.3,1.7029,10,"[7, 5, 4, 5, 7, 2, 4, 7, 5, 7]",test
+"After Brexit, the United Kingdom was way more strict in letting stuff into the country.",4.6667,2.4221,6,"[6, 7, 7, 1, 3, 4]",test
+"After leaving the European Union, the UK implemented stricter import regulations.",6.1667,0.9832,6,"[7, 7, 5, 6, 5, 7]",test
+"After leaving the European Union, the United Kingdom implemented stricter import regulations.",6.5714,0.5345,7,"[6, 7, 7, 6, 7, 6, 7]",test
+Elliott grabbed the mic to sing kareoke with his friends at the party.,5.8,1.3038,5,"[7, 6, 7, 4, 5]",test
+Elliott grabbed the microphone to sing kareoke with his friends at the party.,6.0,1.3093,8,"[6, 3, 7, 7, 6, 6, 7, 6]",test
+"Fiona took her sneezy dog to the vet, who said he probably just had allergies.",4.8,1.9889,10,"[3, 4, 7, 2, 2, 5, 5, 6, 7, 7]",test
+"Fiona took her sneezy dog to the veterinarian, who said he probably just had allergies.",4.5,2.0736,6,"[4, 5, 1, 6, 4, 7]",test
+"Fortuitously, Jennifer's carcinoma didn't have a recurrence after she had chemo.",4.6667,1.9664,6,"[3, 4, 6, 7, 2, 6]",test
+"Fortuitously, Jennifer's carcinoma didn't have a recurrence after she had chemotherapy.",2.8,1.7889,5,"[1, 1, 3, 5, 4]",test
+Her math research focused on optimizing complex algorithms for machine learning.,6.0,1.4142,9,"[6, 7, 7, 5, 3, 5, 7, 7, 7]",test
+Her mathematics research focused on optimizing complex algorithms for machine learning.,6.5,0.5774,4,"[7, 6, 7, 6]",test
+Kaylee and Rebecca snapped a photo while they were hanging out at the beach.,6.2,1.2293,10,"[7, 7, 6, 7, 6, 6, 3, 6, 7, 7]",test
+Kaylee and Rebecca snapped a photograph while they were hanging out at the beach.,5.6,0.8944,5,"[5, 7, 6, 5, 5]",test
+Leah and Sam saw a huge rhino chilling by the water on their safari.,5.0,1.6733,6,"[4, 4, 7, 7, 5, 3]",test
+Leah and Sam saw a huge rhinoceros chilling by the water on their safari.,5.5,1.8409,10,"[7, 6, 6, 1, 6, 7, 4, 5, 6, 7]",test
+"Luckily, Jennifer's cancer didn't return after she had chemo.",5.8333,1.3292,6,"[7, 4, 5, 5, 7, 7]",test
+"Luckily, Jennifer's cancer didn't return after she had chemotherapy.",6.0769,1.1875,13,"[7, 7, 7, 6, 4, 4, 6, 7, 5, 7, 5, 7, 7]",test
+"Miguel desired an animal with loyalty and abundant energy, so he adopted a Labrador.",5.5455,1.2933,11,"[6, 7, 6, 7, 6, 4, 6, 4, 3, 6, 6]",test
+"Miguel wanted a friendly and energetic dog, so he got a Lab.",5.625,1.1877,8,"[6, 5, 6, 6, 4, 7, 4, 7]",test
+"Miguel wanted a friendly and energetic dog, so he got a Labrador.",6.5,0.5774,4,"[7, 7, 6, 6]",test
+Milo called Beth on the phone to figure out what was going on.,6.0,0.8944,6,"[5, 6, 7, 7, 5, 6]",test
+Milo called Beth on the telephone to figure out what was going on.,6.5,0.7071,10,"[7, 7, 5, 6, 6, 7, 7, 6, 7, 7]",test
+Reese scribbled a quick memo to remind everyone about the lunch plans.,5.8,1.0954,5,"[5, 7, 7, 5, 5]",test
+Reese scribbled a quick memorandum to remind everyone about the lunch plans.,5.1,1.5951,10,"[7, 7, 4, 4, 6, 3, 5, 5, 7, 3]",test
+She works on math stuff that makes computer programs run way faster.,3.75,1.165,8,"[3, 6, 3, 4, 4, 4, 4, 2]",test
+She works on mathematics stuff that makes computer programs run way faster.,4.2222,2.048,9,"[6, 3, 3, 6, 6, 1, 7, 3, 3]",test
+The A/C kept the room cool for the whole meeting.,6.6667,0.5,9,"[6, 7, 7, 6, 6, 7, 7, 7, 7]",test
+The A/C unit maintained a consistence temperature throughout the duration of the meeting.,4.5714,2.5728,7,"[6, 1, 7, 5, 1, 5, 7]",test
+The ER doc was tired after work.,4.75,1.7078,4,"[4, 3, 5, 7]",test
+The ER physician was exhausted after her shift.,6.4,0.8944,5,"[7, 6, 7, 5, 7]",test
+The Lab chilled the whole time and did everything it was told to do.,3.2857,2.4976,7,"[1, 1, 6, 3, 7, 4, 1]",test
+The UN convened to dicuss strategies for addressing global climate challenges.,6.0833,0.9962,12,"[7, 7, 6, 6, 4, 6, 7, 7, 6, 5, 5, 7]",test
+The UN met to talk about how to stop climate change.,6.5,0.5345,8,"[7, 7, 6, 6, 7, 6, 7, 6]",test
+The US experienced a significant increase in renewable energy investments last year.,6.0,1.2649,6,"[6, 5, 7, 7, 4, 7]",test
+The US is really starting to get into solar power lately.,5.125,2.4749,8,"[7, 7, 7, 4, 7, 1, 6, 2]",test
+The United Nations convened to dicuss strategies for addressing global climate challenges.,5.2,1.3038,5,"[4, 6, 5, 7, 4]",test
+The United Nations met to talk about how to stop climate change.,5.0,1.8257,4,"[6, 3, 7, 4]",test
+The United States experienced a significant increase in renewable energy investments last year.,6.75,0.4629,8,"[7, 7, 6, 7, 7, 6, 7, 7]",test
+The United States is really starting to get into solar power lately.,5.25,1.8323,8,"[3, 7, 6, 6, 5, 2, 6, 7]",test
+The admissions officer boasted about the college's state-of-the-art dormitories.,6.4444,1.0138,9,"[7, 7, 6, 4, 7, 7, 6, 7, 7]",test
+The admissions officer boasted about the college's state-of-the-art dorms.,5.7143,0.7559,7,"[6, 7, 5, 5, 6, 6, 5]",test
+The air conditioning kept the room cool for the whole meeting.,6.3333,1.2111,6,"[7, 7, 4, 7, 6, 7]",test
+The air conditioning unit maintained a consistence temperature throughout the duration of the meeting.,3.125,2.1671,8,"[1, 7, 3, 1, 4, 5, 3, 1]",test
+The athlete sustained a minor strain in her quad during the final phase of training.,5.8571,0.8997,7,"[7, 6, 7, 5, 6, 5, 5]",test
+The athlete sustained a minor strain in her quadriceps during the final phase of training.,6.0,1.5275,7,"[7, 7, 6, 7, 7, 3, 5]",test
+The burger place made milkshakes with dairy from a farm nearby.,5.875,1.3562,8,"[5, 4, 7, 7, 4, 6, 7, 7]",test
+The burger place made shakes with dairy from a farm nearby.,4.4444,1.5092,9,"[5, 6, 4, 6, 6, 2, 5, 3, 3]",test
+The car ran better after we started using fancier gas.,5.8333,0.9832,6,"[7, 6, 6, 4, 6, 6]",test
+The car ran better after we started using fancier gasoline.,4.4444,1.9437,9,"[6, 1, 5, 5, 2, 4, 6, 4, 7]",test
+The chef incorporated homemade mayo into the dish to enhance its texture and flavor.,6.3636,0.9244,11,"[7, 7, 7, 7, 7, 5, 5, 6, 5, 7, 7]",test
+The chef incorporated homemade mayonnaise into the dish to enhance its texture and flavor.,6.2857,1.496,7,"[7, 7, 7, 3, 7, 6, 7]",test
+The children enjoyed riding their bicycles to elementary school.,6.4444,0.7265,9,"[6, 6, 7, 7, 7, 5, 6, 7, 7]",test
+The children enjoyed riding their bikes to elementary school.,5.6667,1.5,9,"[7, 7, 4, 5, 6, 7, 5, 3, 7]",test
+The client requested that all further inquiries be handled via phone communication.,5.25,0.9574,4,"[4, 6, 5, 6]",test
+The client requested that all further inquiries be handled via telephone communication.,6.0,1.633,10,"[7, 6, 7, 3, 7, 7, 7, 6, 3, 7]",test
+The college showed off their new dormitories.,6.0,1.4142,5,"[7, 7, 5, 7, 4]",test
+The college showed off their new dorms.,6.3333,0.866,9,"[7, 7, 6, 5, 7, 7, 5, 6, 7]",test
+The company's PR team issued a statement to address the recent controversy.,6.6667,0.8165,6,"[7, 7, 5, 7, 7, 7]",test
+The company's public relations team issued a statement to address the recent controversy.,6.9,0.3162,10,"[7, 7, 6, 7, 7, 7, 7, 7, 7, 7]",test
+The cook threw in some mayo to make the food creamier and tastier.,6.4,0.5477,5,"[6, 7, 7, 6, 6]",test
+The cook threw in some mayonnaise to make the food creamier and tastier.,3.6,1.5166,5,"[5, 5, 4, 2, 2]",test
+The couple arrived at the venue in a sleek black limo for their wedding ceremony.,6.25,1.0351,8,"[6, 7, 7, 6, 7, 6, 4, 7]",test
+The couple arrived at the venue in a sleek black limousine for their wedding ceremony.,5.8333,1.472,6,"[6, 7, 7, 7, 4, 4]",test
+The couple showed up to the wedding in a fancy black limo that must have been pricy.,4.5455,2.0671,11,"[2, 3, 6, 7, 4, 2, 7, 5, 5, 7, 2]",test
+The couple showed up to the wedding in a fancy black limousine that must have been pricy.,5.6,1.5166,5,"[6, 6, 6, 7, 3]",test
+The curator carefully archived the historic photo in the museum's digital collection.,6.2857,1.2536,7,"[7, 7, 5, 4, 7, 7, 7]",test
+The curator carefully archived the historic photograph in the museum's digital collection.,4.875,2.1002,8,"[6, 5, 7, 3, 1, 7, 4, 6]",test
+The dessert menu of the restaurant featured hand crafted milkshakes with local dairy.,6.25,0.9574,4,"[7, 7, 6, 5]",test
+The dessert menu of the restaurant featured hand crafted shakes with local dairy.,4.1111,2.0883,9,"[7, 6, 1, 5, 1, 4, 5, 5, 3]",test
+The dietician emphasized the importance of regulating carbohydrate intake to maintain energy balance.,6.1765,1.1311,17,"[3, 7, 7, 7, 7, 7, 6, 5, 5, 7, 7, 6, 6, 5, 6, 7, 7]",test
+The emergency room doc was tired after work.,5.9,1.1005,10,"[6, 7, 7, 4, 5, 5, 7, 6, 7, 5]",test
+The emergency room physician was exhausted after her shift.,6.9091,0.3015,11,"[6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]",test
+The frat had a house by the river.,3.6,1.6733,5,"[3, 4, 1, 5, 5]",test
+The frat owned a historic brownstone along the river.,5.4,1.6465,10,"[7, 6, 5, 6, 4, 7, 4, 2, 6, 7]",test
+The fraternity had a house by the river.,5.8333,1.6021,6,"[7, 3, 5, 6, 7, 7]",test
+The fraternity owned a historic brownstone along the river.,6.6667,1.0,9,"[7, 7, 4, 7, 7, 7, 7, 7, 7]",test
+"The fridge broke last night, so everything inside went bad.",5.625,1.9955,8,"[7, 7, 2, 6, 7, 3, 7, 6]",test
+"The fridge malfunctioned overnight, causing the food to spoil.",6.125,1.126,8,"[7, 7, 7, 6, 7, 5, 6, 4]",test
+The guard asked for ID before letting anyone into the place.,5.6667,1.118,9,"[7, 4, 5, 6, 6, 4, 6, 7, 6]",test
+The guard asked for identification before letting anyone into the place.,5.75,1.488,8,"[6, 7, 7, 3, 6, 4, 6, 7]",test
+The hippo displayed territorial behavior when another animal approached the riverbank.,6.6667,0.8165,6,"[7, 5, 7, 7, 7, 7]",test
+The hippo got really mad when something got too close to its spot by the water.,5.7778,0.9718,9,"[4, 7, 5, 6, 6, 5, 6, 7, 6]",test
+The hippopotamus displayed territorial behavior when another animal approached the riverbank.,5.6,1.5166,5,"[6, 3, 6, 6, 7]",test
+The hippopotamus got really mad when something got too close to its spot by the water.,5.4,1.7127,10,"[7, 7, 7, 6, 6, 4, 3, 7, 3, 4]",test
+The kids liked to ride their bicycles to school.,6.0,1.4142,4,"[7, 4, 6, 7]",test
+The kids liked to ride their bikes to school.,6.125,0.6409,8,"[6, 7, 7, 6, 6, 6, 5, 6]",test
+The lab was locked up at night so nobody could mess with the gear.,5.1429,1.6762,7,"[7, 6, 5, 2, 6, 6, 4]",test
+The lab was secured after hours to prevent unauthorized access to sensitive equipment.,6.3333,1.3229,9,"[7, 7, 7, 6, 7, 6, 7, 7, 3]",test
+The laboratory was locked up at night so nobody could mess with the gear.,5.375,1.3025,8,"[6, 6, 7, 3, 4, 6, 5, 6]",test
+The laboratory was secured after hours to prevent unauthorized access to sensitive equipment.,5.6667,1.0328,6,"[6, 7, 6, 6, 4, 5]",test
+The manager circulated a memo outlining the new workplace policies effective next month.,5.625,1.1877,8,"[6, 6, 5, 6, 7, 4, 7, 4]",test
+The manager circulated a memorandum outlining the new workplace policies effective next month.,6.0,1.0,7,"[5, 7, 5, 7, 5, 6, 7]",test
+The marketing firm recently designed a new billboard ad for a large corporation.,6.3333,0.7071,9,"[7, 7, 6, 7, 7, 6, 6, 6, 5]",test
+The marketing firm recently designed a new billboard advertisement for a large corporation.,6.125,0.8345,8,"[7, 5, 7, 6, 6, 5, 6, 7]",test
+The marketing team just finished a new billboard ad for a big company.,6.4444,0.527,9,"[6, 7, 7, 6, 7, 7, 6, 6, 6]",test
+The marketing team just finished a new billboard advertisement for a big company.,6.25,1.5,4,"[7, 4, 7, 7]",test
+The musician perfomed a solo on the sax that captivated the entire concert hall.,5.8,0.8367,5,"[6, 7, 5, 5, 6]",test
+The musician perfomed a solo on the saxophone that captivated the entire concert hall.,6.2857,0.7559,7,"[7, 6, 6, 6, 5, 7, 7]",test
+The musician played an awesome solo on the sax that the audience loved.,6.4,1.075,10,"[7, 7, 7, 7, 7, 7, 4, 6, 5, 7]",test
+The musician played an awesome solo on the saxophone that the audience loved.,5.0,1.3093,8,"[5, 4, 5, 4, 7, 6, 3, 6]",test
+The nutritionist said cutting back on carbs can help keep your energy levels steady.,6.3846,0.5064,13,"[6, 6, 6, 6, 6, 6, 7, 6, 6, 7, 7, 7, 7]",test
+"The package was about a kilo too heavy, so they had to pay extra for it.",5.0,2.0702,8,"[3, 7, 7, 7, 6, 2, 3, 5]",test
+"The package was about a kilogram too heavy, so they had to pay extra for it.",5.625,1.1877,8,"[5, 7, 6, 4, 4, 6, 6, 7]",test
+The parcel exceeded the maximum weight limit by nearly a kilo and required additional postage.,6.5,0.5477,6,"[6, 7, 6, 7, 6, 7]",test
+The parcel exceeded the maximum weight limit by nearly a kilogram and required additional postage.,6.0,1.1952,8,"[7, 6, 7, 5, 5, 7, 4, 7]",test
+The primatologist hypothesized that the chimpanzees preferred mates with denser coats.,5.1,1.8529,10,"[6, 6, 4, 7, 7, 4, 6, 1, 4, 6]",test
+The primatologist hypothesized that the chimps preferred mates with denser coats.,6.3333,0.5164,6,"[6, 7, 6, 7, 6, 6]",test
+"The refrigerator broke last night, so everything inside went bad.",6.7143,0.7559,7,"[7, 7, 7, 7, 7, 5, 7]",test
+"The refrigerator malfunctioned overnight, causing the food to spoil.",6.2857,0.7559,7,"[6, 6, 7, 6, 7, 5, 7]",test
+The rhino was observed browsing near the watering hole during the early hours of the morning.,5.7143,1.6036,7,"[7, 7, 3, 7, 6, 6, 4]",test
+The rhinoceros was observed browsing near the watering hole during the early hours of the morning.,4.4286,2.1492,7,"[7, 6, 3, 5, 6, 3, 1]",test
+The runner hurt her quad at the end of track practice.,6.125,0.8345,8,"[7, 5, 5, 6, 6, 6, 7, 7]",test
+The runner hurt her quadriceps at the end of track practice.,5.5,1.7728,8,"[2, 7, 6, 4, 7, 6, 5, 7]",test
+The scientist thought the chimpanzees liked mates with thick fur.,5.6667,1.3663,6,"[6, 7, 6, 6, 6, 3]",test
+The scientist thought the chimps liked mates with thick fur.,5.75,1.165,8,"[7, 5, 6, 5, 4, 7, 5, 7]",test
+The scientists looked at how too much TV affected brain development.,5.5714,1.8127,7,"[7, 3, 7, 7, 6, 3, 6]",test
+The scientists looked at how too much television affected brain development.,5.75,0.8864,8,"[5, 5, 5, 6, 5, 7, 7, 6]",test
+The security officer requested ID before granting access to the restricted area.,6.8333,0.4082,6,"[6, 7, 7, 7, 7, 7]",test
+The security officer requested identification before granting access to the restricted area.,6.5714,0.5345,7,"[7, 7, 6, 7, 6, 6, 7]",test
+The speaker adjusted the mic to ensure optimal audio quality for the presentation.,6.4,0.9661,10,"[6, 7, 4, 7, 7, 6, 7, 7, 7, 6]",test
+The speaker adjusted the microphone to ensure optimal audio quality for the presentation.,6.7143,0.488,7,"[7, 7, 6, 7, 6, 7, 7]",test
+The student crammed before the exam and got there on time.,5.1429,1.7728,7,"[7, 4, 7, 2, 5, 5, 6]",test
+The student crammed before the examination and got there on time.,3.6667,2.0,9,"[4, 7, 5, 2, 5, 5, 2, 2, 1]",test
+The student reviewed her notes thoroughly before the exam and arrived promptly.,6.6,0.5477,5,"[7, 7, 6, 7, 6]",test
+The student reviewed her notes thoroughly before the examination and arrived promptly.,4.1111,1.8333,9,"[3, 5, 6, 1, 6, 4, 6, 2, 4]",test
+The study analyzed the effects of prolonged exposure to TV on cognitive development.,6.8,0.4472,5,"[7, 7, 6, 7, 7]",test
+The study analyzed the effects of prolonged exposure to television on cognitive development.,6.2222,1.0929,9,"[7, 7, 5, 7, 6, 7, 7, 4, 6]",test
+The undergrad had to submit a final project before he could graduate with honors.,5.4286,1.2724,7,"[6, 5, 6, 5, 3, 6, 7]",test
+The undergrad submitted a comprehensive thesis as part of the honors program curriculum.,5.375,1.4079,8,"[6, 6, 5, 4, 5, 7, 3, 7]",test
+The undergraduate had to submit a final project before he could graduate with honors.,6.4444,0.7265,9,"[6, 7, 7, 7, 6, 5, 6, 7, 7]",test
+The undergraduate submitted a comprehensive thesis as part of the honors program curriculum.,7.0,0.0,5,"[7, 7, 7, 7, 7]",test
+The vehicle's efficency improved after switching to a higher grade of gas.,5.8889,1.0541,9,"[6, 7, 5, 6, 7, 6, 5, 4, 7]",test
+The vehicle's efficency improved after switching to a higher grade of gasoline.,6.3333,0.8165,6,"[6, 7, 7, 6, 7, 5]",test
+The vet conducted a thorough examination before recommending a course of treatment.,5.5714,1.8127,7,"[7, 6, 7, 3, 6, 7, 3]",test
+The veterinarian conducted a thorough examination before recommending a course of treatment.,6.4286,0.7868,7,"[7, 7, 5, 7, 7, 6, 6]",test
+Their PR people had to step in after that whole mess blew up online.,5.2,1.7889,5,"[5, 7, 4, 3, 7]",test
+Their public relations people had to step in after that whole mess blew up online.,5.3333,1.2247,9,"[7, 6, 6, 3, 5, 5, 4, 6, 6]",test

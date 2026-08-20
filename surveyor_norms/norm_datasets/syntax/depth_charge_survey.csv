@@ -1,189 +1,189 @@
-unit,mean,std,n,individual_ratings
-Bleaches can be so powerful that they discolor clothing.,5.9189,1.6502,37,"[7, 7, 7, 7, 3, 1, 4, 3, 2, 7, 7, 5, 7, 4, 5, 7, 7, 7, 7, 7, 7, 6, 7, 7, 7, 4, 7, 5, 7, 7, 4, 6, 7, 6, 7, 7, 7]"
-Consuming too much fat increases the risk of heart disease.,6.2432,1.3438,37,"[2, 7, 7, 7, 7, 2, 7, 5, 4, 7, 7, 5, 7, 7, 6, 7, 6, 4, 7, 7, 7, 6, 7, 7, 7, 7, 7, 6, 7, 7, 5, 7, 7, 5, 7, 7, 7]"
-Customer reviews are the only thing a company needs to care about.,5.027,1.7162,37,"[4, 7, 7, 5, 6, 3, 7, 5, 2, 7, 7, 2, 4, 4, 4, 3, 5, 4, 7, 3, 3, 5, 6, 5, 2, 7, 7, 7, 7, 6, 6, 3, 3, 4, 5, 7, 7]"
-Finding the means to raise money can sometimes be difficult.,6.0541,1.1843,37,"[6, 7, 5, 7, 4, 7, 7, 5, 7, 7, 7, 7, 7, 6, 5, 7, 7, 4, 6, 4, 7, 5, 7, 7, 7, 7, 4, 5, 6, 6, 5, 3, 7, 5, 7, 7, 7]"
-In times of trouble you go to your friends not your enemies.,5.8108,1.7528,37,"[7, 6, 7, 7, 7, 6, 7, 3, 2, 7, 6, 7, 7, 2, 4, 7, 7, 5, 7, 4, 7, 5, 7, 7, 7, 7, 7, 5, 6, 5, 2, 1, 7, 7, 7, 7, 6]"
-It is dreadful to constantly live with ill-tempered people.,6.1351,1.3786,37,"[7, 7, 7, 7, 6, 4, 7, 3, 5, 7, 6, 7, 7, 5, 7, 7, 7, 4, 6, 7, 7, 6, 7, 7, 6, 1, 7, 6, 7, 7, 4, 5, 7, 7, 7, 6, 7]"
-It is just never too late to learn.,5.7297,1.3881,37,"[4, 6, 6, 7, 7, 6, 7, 6, 6, 7, 5, 2, 7, 7, 5, 7, 6, 7, 7, 7, 7, 4, 5, 7, 5, 4, 6, 7, 5, 7, 5, 4, 2, 5, 7, 6, 4]"
-It is sensible to invest only what you can afford to lose.,6.2432,1.1947,37,"[6, 7, 7, 6, 7, 7, 7, 7, 2, 7, 6, 4, 7, 5, 7, 7, 7, 4, 7, 4, 7, 6, 7, 7, 7, 7, 6, 5, 7, 7, 5, 5, 7, 7, 6, 7, 7]"
-Larger companies tend to offer the biggest pay rises.,5.2857,1.798,35,"[5, 6, 7, 6, 5, 6, 7, 5, 2, 6, 7, 4, 6, 7, 7, 3, 7, 2, 6, 5, 6, 7, 7, 7, 5, 3, 6, 7, 1, 1, 3, 5, 6, 5, 7]"
-Lies are always bad regardless of the reasons behind them.,5.8108,1.2911,37,"[4, 7, 7, 6, 7, 6, 7, 5, 3, 7, 6, 6, 7, 6, 4, 7, 5, 5, 6, 4, 5, 4, 7, 5, 6, 7, 6, 5, 7, 7, 6, 2, 7, 5, 7, 7, 7]"
-Many eggs will need to be broken when making an omelette.,5.5405,1.5174,37,"[6, 7, 7, 6, 7, 4, 7, 4, 6, 7, 5, 5, 7, 3, 4, 7, 6, 7, 7, 7, 7, 3, 6, 7, 6, 2, 7, 4, 5, 5, 2, 4, 6, 4, 7, 6, 5]"
-Marathon runners can finish the race without persistence.,3.0541,1.9023,37,"[4, 1, 2, 3, 1, 1, 4, 3, 3, 1, 3, 7, 1, 4, 3, 7, 1, 1, 6, 1, 3, 5, 5, 7, 1, 2, 2, 3, 1, 4, 5, 3, 1, 1, 3, 6, 4]"
-No American parents provide children access to play video games.,2.8919,1.8275,37,"[4, 2, 7, 2, 3, 1, 7, 3, 4, 1, 5, 4, 3, 2, 1, 1, 1, 1, 1, 1, 1, 2, 3, 5, 1, 1, 4, 3, 3, 4, 6, 3, 1, 1, 4, 6, 5]"
-No TV show is too successful to be discontinued.,4.7778,1.9876,9,"[7, 7, 5, 6, 2, 4, 1, 6, 5]"
-No TV show is too unsuccessful to be discontinued.,2.8,1.6,5,"[4, 3, 5, 1, 1]"
-No abdominal pain is so serious that we cannot keep eating ice creams.,2.5135,1.7801,37,"[4, 1, 7, 3, 1, 1, 7, 4, 1, 2, 4, 2, 1, 1, 1, 1, 2, 2, 1, 1, 2, 1, 5, 4, 1, 1, 6, 3, 1, 4, 5, 3, 1, 1, 2, 2, 4]"
-No amateur play is too original to be missed.,3.6,2.3324,5,"[4, 5, 1, 1, 7]"
-No amateur play is too unoriginal to be missed.,1.6667,0.8165,9,"[1, 1, 1, 2, 3, 1, 1, 2, 3]"
-No anonymous tip is too important to be neglected.,2.75,1.9203,8,"[5, 3, 6, 1, 1, 1, 4, 1]"
-No anonymous tip is too vague to be neglected.,2.5,1.3844,6,"[3, 3, 1, 2, 5, 1]"
-No applicant is too experienced to be rejected.,4.9167,1.7058,12,"[7, 6, 6, 6, 5, 4, 6, 7, 3, 4, 1, 4]"
-No applicant is too inexperienced to be rejected.,3.1667,1.9508,6,"[3, 2, 2, 4, 1, 7]"
-No article is too exceptional to go unpublished.,4.625,1.317,8,"[6, 5, 3, 3, 3, 6, 6, 5]"
-No article is too mediocre to go unpublished.,3.5,1.893,12,"[7, 3, 1, 7, 2, 4, 4, 2, 3, 2, 2, 5]"
-No artificial ingredient is too harmful to be used.,5.3333,2.2111,6,"[7, 7, 7, 1, 4, 6]"
-No artificial ingredient is too harmless to be used.,1.8462,1.2918,13,"[5, 1, 4, 1, 3, 1, 1, 1, 1, 1, 2, 1, 2]"
-No chapter is too essential to be skipped.,2.75,1.299,4,"[4, 1, 2, 4]"
-No chapter is too nonessential to be skipped.,3.25,1.9203,8,"[6, 2, 4, 6, 4, 1, 1, 2]"
-No computer game is too harmless to be released.,2.1111,0.9938,9,"[3, 2, 1, 3, 2, 2, 1, 4, 1]"
-No computer game is too violent to be released.,4.25,2.1262,12,"[6, 4, 4, 7, 7, 1, 5, 1, 7, 3, 4, 2]"
-No consumer product is really finished until it is on the market.,5.6216,1.4769,37,"[4, 6, 7, 7, 7, 6, 7, 6, 3, 7, 7, 2, 4, 3, 4, 7, 6, 5, 5, 4, 5, 4, 7, 7, 6, 7, 7, 5, 7, 6, 3, 4, 7, 6, 7, 6, 7]"
-No decision is too clear to be postponed.,1.8333,1.8634,6,"[1, 1, 1, 1, 6, 1]"
-No decision is too unclear to be postponed.,2.3333,1.5635,9,"[1, 3, 2, 2, 1, 5, 1, 5, 1]"
-No detail is too important to be left out.,5.875,1.9645,8,"[7, 1, 7, 5, 7, 7, 6, 7]"
-No detail is too unimportant to be left out.,5.6923,1.8557,13,"[7, 7, 7, 5, 7, 7, 3, 4, 6, 1, 7, 6, 7]"
-No fee is too profitable to be waived.,3.2308,1.4756,13,"[1, 1, 5, 2, 4, 4, 5, 4, 3, 4, 5, 1, 3]"
-No fee is too unprofitable to be waived.,4.4286,2.3212,7,"[7, 7, 7, 1, 3, 3, 3]"
-No financial aid package is too large to be cut.,2.9,2.2561,10,"[1, 2, 7, 1, 1, 7, 3, 4, 2, 1]"
-No financial aid package is too small to be cut.,4.1,2.2113,10,"[7, 4, 2, 6, 3, 1, 6, 4, 7, 1]"
-No head injury is too severe to be ignored.,2.5714,2.2588,7,"[7, 1, 1, 2, 1, 1, 5]"
-No head injury is too trivial to be ignored.,4.4286,1.5908,7,"[4, 4, 3, 2, 6, 5, 7]"
-No heirloom is too valuable to be thrown out.,2.8,1.6613,20,"[6, 1, 1, 4, 1, 2, 4, 3, 1, 3, 2, 4, 1, 1, 3, 6, 5, 3, 1, 4]"
-No heirloom is too worthless to be thrown out.,2.4286,1.8406,7,"[1, 1, 6, 1, 4, 3, 1]"
-No landlords are obliged to repair the roof for the renters.,4.1892,1.929,37,"[4, 7, 7, 1, 4, 3, 6, 4, 2, 7, 6, 6, 2, 2, 1, 7, 2, 4, 5, 1, 3, 4, 3, 5, 7, 7, 2, 4, 6, 7, 5, 5, 2, 4, 3, 4, 3]"
-No law is too ambiguous to be misinterpreted.,3.9167,2.1779,12,"[2, 7, 1, 4, 1, 2, 2, 6, 4, 5, 6, 7]"
-No law is too unambiguous to be misinterpreted.,3.625,1.6536,8,"[4, 4, 4, 5, 4, 1, 1, 6]"
-No lecture is too boring to be skipped.,3.6923,1.9762,13,"[4, 1, 3, 7, 2, 5, 1, 4, 2, 2, 5, 7, 5]"
-No lecture is too interesting to be skipped.,3.0,2.0,8,"[1, 7, 4, 2, 2, 1, 2, 5]"
-No means of communication with the outside world is better than the internet.,4.3784,1.8651,37,"[7, 7, 3, 4, 5, 3, 7, 3, 3, 3, 4, 6, 3, 2, 1, 7, 6, 3, 6, 3, 3, 2, 3, 6, 6, 1, 7, 6, 3, 5, 6, 5, 1, 6, 6, 6, 4]"
-No memory is too clear to be forgotten.,3.25,2.3318,8,"[7, 2, 7, 2, 4, 2, 1, 1]"
-No memory is too fuzzy to be forgotten.,3.7857,2.4254,14,"[1, 1, 5, 1, 7, 7, 4, 2, 5, 1, 2, 7, 3, 7]"
-No mistake is too fatal to be overlooked.,1.1667,0.3727,6,"[2, 1, 1, 1, 1, 1]"
-No mistake is too insignificant to be overlooked.,5.0,2.0,11,"[7, 5, 1, 5, 4, 4, 7, 2, 6, 7, 7]"
-No muscle spasm is too painful to be overlooked.,3.0,2.2039,7,"[1, 1, 4, 1, 7, 2, 5]"
-No muscle spasm is too painless to be overlooked.,3.5,2.163,14,"[2, 7, 4, 1, 7, 1, 1, 5, 3, 5, 2, 6, 4, 1]"
-No objection is too essential to be ignored.,3.3333,2.1602,9,"[2, 1, 7, 5, 4, 1, 6, 3, 1]"
-No objection is too negligible to be ignored.,4.25,1.7854,8,"[4, 6, 5, 1, 2, 4, 6, 6]"
-No physics theory is too implausible to be dismissed.,3.4545,1.7768,11,"[6, 1, 1, 4, 1, 4, 2, 5, 5, 5, 4]"
-No physics theory is too plausible to be dismissed.,3.3333,1.8257,9,"[1, 6, 5, 4, 5, 4, 1, 3, 1]"
-No plan is too realistic to be rejected.,4.125,2.1469,8,"[2, 7, 3, 6, 7, 1, 4, 3]"
-No plan is too unrealistic to be rejected.,3.4545,2.1475,11,"[2, 6, 2, 4, 7, 5, 1, 1, 3, 1, 6]"
-No plea for clemency is too reasonable to be rejected.,3.5556,2.0608,9,"[7, 6, 1, 3, 3, 2, 2, 6, 2]"
-No plea for clemency is too unreasonable to be rejected.,2.0,2.2361,6,"[1, 1, 7, 1, 1, 1]"
-No position under siege is too important to be abandoned.,4.6667,2.1602,9,"[4, 7, 1, 5, 6, 7, 1, 5, 6]"
-No position under siege is too insignificant to be abandoned.,2.1111,2.1315,9,"[1, 1, 1, 1, 7, 1, 1, 5, 1]"
-No possible conversation topic is too emotional to be left out.,4.125,1.6154,8,"[5, 4, 1, 5, 4, 4, 7, 3]"
-No possible conversation topic is too unemotional to be left out.,3.75,1.8764,12,"[7, 2, 4, 3, 1, 3, 4, 3, 2, 3, 7, 6]"
-No potential habitat is too nutrient-poor to be uninhabited.,4.0,2.1082,9,"[1, 6, 4, 1, 7, 4, 5, 2, 6]"
-No potential habitat is too nutrient-rich to be uninhabited.,2.1111,1.3699,9,"[1, 1, 1, 4, 4, 4, 1, 1, 2]"
-No problem is too insignificant to be concealed.,3.625,2.3419,8,"[2, 4, 7, 2, 1, 5, 1, 7]"
-No problem is too significant to be concealed.,3.2,2.1354,10,"[2, 1, 7, 2, 1, 2, 6, 6, 3, 2]"
-No professionals in their early career stage need critical help and feedback.,3.1389,1.8432,36,"[4, 6, 5, 4, 2, 2, 6, 5, 3, 2, 5, 1, 1, 1, 7, 1, 1, 1, 3, 1, 2, 4, 4, 1, 1, 3, 1, 5, 6, 6, 2, 2, 3, 3, 4, 5]"
-No rainbow can be seen without water droplets.,5.1622,1.8529,37,"[4, 7, 7, 7, 7, 5, 7, 5, 2, 7, 3, 6, 4, 2, 6, 1, 6, 4, 5, 4, 7, 6, 6, 7, 4, 7, 7, 4, 4, 7, 1, 5, 7, 5, 7, 6, 2]"
-No return on investments are too profitable to be disregarded.,3.9,2.1656,10,"[7, 5, 7, 1, 5, 4, 4, 1, 4, 1]"
-No return on investments are too unprofitable to be disregarded.,3.0,1.8028,8,"[1, 4, 3, 1, 3, 2, 3, 7]"
-No roses bloom from spring to autumn.,4.1622,2.2722,37,"[5, 1, 7, 6, 2, 4, 7, 5, 1, 7, 7, 6, 6, 2, 1, 3, 2, 3, 1, 1, 6, 4, 3, 7, 1, 4, 2, 5, 6, 7, 2, 1, 3, 5, 7, 7, 7]"
-No shadow is visible on sunny days.,3.027,1.9794,37,"[4, 4, 3, 4, 1, 1, 7, 4, 2, 1, 6, 7, 3, 1, 1, 3, 1, 1, 1, 1, 4, 3, 2, 3, 1, 1, 7, 5, 6, 4, 4, 1, 1, 1, 3, 6, 4]"
-No social security payment is too important to be missed.,2.7857,1.9704,14,"[4, 1, 1, 1, 5, 2, 5, 7, 2, 1, 3, 1, 1, 5]"
-No social security payment is too unimportant to be missed.,4.8,2.1817,10,"[7, 1, 4, 1, 6, 5, 7, 4, 6, 7]"
-No teenager is too conformist to be marginalized.,3.1818,2.1666,11,"[1, 1, 1, 4, 7, 2, 4, 1, 4, 7, 3]"
-No teenager is too rebellious to be marginalized.,3.5,1.5,6,"[3, 1, 6, 4, 4, 3]"
-No test is too useful to be canceled.,2.5455,1.7768,11,"[2, 1, 5, 5, 1, 1, 1, 2, 2, 2, 6]"
-No test is too useless to be canceled.,2.25,1.9843,8,"[7, 1, 3, 1, 1, 1, 3, 1]"
-No vegetarian is tolerant of eggs in their meals.,4.3333,1.748,36,"[4, 6, 7, 4, 5, 1, 4, 5, 2, 6, 7, 3, 1, 4, 7, 6, 4, 6, 4, 3, 5, 3, 5, 6, 5, 4, 4, 2, 4, 3, 7, 2, 1, 5, 7, 4]"
-No wording is too imprecise to be misunderstood.,2.25,1.299,4,"[1, 3, 1, 4]"
-No wording is too precise to be misunderstood.,3.9286,2.4918,14,"[5, 2, 7, 6, 1, 5, 7, 1, 1, 2, 7, 3, 7, 1]"
-No writer can compose anything without getting inspirations from life.,4.973,1.7474,37,"[4, 6, 7, 5, 4, 4, 7, 5, 2, 7, 7, 4, 4, 2, 3, 7, 5, 3, 6, 3, 4, 4, 6, 7, 7, 7, 6, 4, 3, 7, 3, 1, 7, 4, 6, 7, 6]"
-Nobody can live without water or salt.,6.1622,1.3855,37,"[7, 7, 7, 7, 7, 5, 7, 6, 5, 7, 7, 7, 7, 6, 3, 7, 7, 7, 7, 4, 5, 7, 4, 7, 6, 5, 7, 5, 7, 7, 7, 5, 7, 1, 7, 7, 7]"
-People are seldom happy when they have no one to talk to for several years.,5.5946,1.6839,37,"[7, 7, 7, 6, 7, 6, 7, 7, 2, 7, 7, 5, 7, 2, 4, 7, 6, 4, 7, 4, 5, 5, 6, 7, 6, 4, 6, 5, 5, 7, 1, 2, 7, 5, 7, 6, 7]"
-People in some cities earn less than people living in the countryside.,5.7027,1.3924,37,"[6, 7, 7, 4, 7, 4, 7, 4, 5, 7, 6, 7, 4, 4, 5, 7, 6, 5, 6, 3, 7, 6, 7, 7, 7, 4, 7, 4, 5, 6, 7, 3, 3, 6, 7, 7, 7]"
-Puppies wag their tails when they are excited.,6.5278,1.2799,36,"[3, 7, 7, 7, 7, 7, 7, 4, 3, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 2, 7, 7, 7, 7, 7]"
-Pure friendship might not be that valuable in the world of big business.,5.1081,1.8275,37,"[4, 7, 7, 6, 5, 5, 7, 3, 3, 7, 6, 5, 7, 2, 5, 7, 7, 4, 6, 4, 6, 3, 7, 7, 2, 4, 7, 4, 6, 6, 1, 3, 6, 1, 6, 7, 6]"
-Saving water person by person makes little difference to the world.,3.8108,2.0904,37,"[6, 7, 6, 7, 2, 2, 5, 4, 1, 7, 5, 1, 2, 1, 3, 7, 5, 4, 1, 1, 7, 5, 4, 5, 1, 1, 3, 4, 4, 6, 5, 1, 1, 4, 3, 6, 4]"
-Social skills help people to get along with each other.,6.1622,1.2631,37,"[4, 7, 7, 7, 7, 7, 7, 4, 5, 7, 7, 7, 7, 3, 4, 7, 7, 4, 7, 7, 7, 5, 7, 7, 7, 7, 6, 4, 7, 7, 4, 6, 7, 7, 5, 7, 6]"
-Some TV shows are too successful to be discontinued.,6.3077,0.9911,13,"[7, 7, 7, 7, 6, 7, 6, 7, 4, 7, 7, 5, 5]"
-Some TV shows are too unsuccessful to be discontinued.,1.6,1.0198,10,"[1, 1, 1, 4, 3, 1, 1, 2, 1, 1]"
-Some alcoholics hate to drink and are simply addicted to alcohol.,5.2162,1.9471,37,"[7, 7, 7, 7, 2, 2, 7, 5, 3, 6, 6, 7, 7, 4, 2, 6, 5, 6, 5, 3, 7, 2, 6, 5, 7, 4, 7, 7, 6, 7, 7, 1, 7, 4, 1, 6, 5]"
-Some amateur plays are too original to be missed.,5.75,0.8292,8,"[6, 5, 7, 5, 7, 6, 5, 5]"
-Some amateur plays are too unoriginal to be missed.,2.9333,1.8785,15,"[4, 6, 1, 3, 1, 1, 2, 7, 3, 1, 1, 2, 5, 4, 3]"
-Some anonymous tips are too important to be neglected.,5.8,1.99,10,"[1, 3, 7, 7, 7, 7, 6, 6, 7, 7]"
-Some anonymous tips are too vague to be neglected.,1.6923,0.9911,13,"[3, 1, 1, 4, 1, 1, 1, 1, 3, 2, 1, 1, 2]"
-Some applicants are too experienced to be rejected.,4.5556,1.7708,9,"[7, 1, 6, 6, 3, 4, 4, 4, 6]"
-Some applicants are too inexperienced to be rejected.,2.5,2.3345,10,"[1, 1, 7, 3, 1, 7, 1, 1, 1, 2]"
-Some articles are too exceptional to go unpublished.,5.5455,1.9709,11,"[2, 7, 7, 6, 6, 7, 6, 6, 1, 6, 7]"
-Some articles are too mediocre to go unpublished.,3.1667,2.1148,6,"[4, 1, 2, 4, 1, 7]"
-Some artificial ingredients are too harmful to be used.,5.9,1.044,10,"[5, 7, 6, 7, 4, 6, 7, 5, 7, 5]"
-Some artificial ingredients are too harmless to be used.,2.25,1.0897,8,"[4, 1, 1, 2, 2, 2, 2, 4]"
-Some car insurance companies are so deceitful that people need them very much.,2.1622,1.7166,37,"[2, 1, 5, 1, 1, 1, 4, 6, 5, 1, 1, 5, 1, 1, 1, 7, 1, 4, 1, 1, 1, 1, 2, 4, 1, 1, 1, 2, 1, 2, 4, 1, 1, 1, 2, 1, 4]"
-Some chapters are too essential to be skipped.,6.3636,1.3667,11,"[7, 7, 7, 7, 3, 7, 7, 7, 4, 7, 7]"
-Some chapters are too nonessential to be skipped.,2.0,1.6903,14,"[1, 1, 1, 1, 1, 2, 7, 1, 1, 4, 1, 3, 1, 3]"
-Some computer games are too harmless to be released.,1.125,0.3307,8,"[1, 1, 1, 1, 1, 2, 1, 1]"
-Some computer games are too violent to be released.,6.375,1.317,8,"[7, 7, 3, 7, 7, 7, 6, 7]"
-Some decisions are too clear to be postponed.,4.2308,1.9672,13,"[5, 5, 4, 1, 6, 4, 7, 1, 1, 5, 4, 6, 6]"
-Some decisions are too unclear to be postponed.,2.875,2.1469,8,"[1, 7, 2, 2, 1, 2, 6, 2]"
-Some details are too important to be left out.,6.4444,0.9558,9,"[6, 6, 7, 7, 7, 7, 4, 7, 7]"
-Some details are too unimportant to be left out.,3.4286,1.6782,7,"[4, 1, 4, 6, 4, 4, 1]"
-Some diseases are becoming more and more resistant to treatment.,6.2973,1.0362,37,"[6, 7, 7, 6, 7, 7, 7, 5, 4, 7, 7, 5, 7, 6, 7, 7, 6, 4, 7, 4, 7, 7, 7, 7, 7, 7, 7, 6, 5, 7, 7, 4, 7, 6, 7, 7, 5]"
-Some earthquakes are very hard to be predicted by current technology.,4.6216,1.6498,37,"[4, 5, 7, 5, 5, 4, 7, 2, 5, 4, 3, 6, 7, 4, 4, 7, 3, 2, 5, 4, 6, 2, 6, 7, 1, 7, 5, 3, 6, 3, 2, 4, 6, 4, 6, 5, 5]"
-Some education policies ignore real problems and become too unrealistic.,5.2703,1.6382,37,"[5, 7, 7, 7, 5, 4, 7, 4, 6, 6, 6, 2, 7, 3, 5, 7, 7, 4, 6, 4, 7, 1, 6, 6, 2, 4, 7, 4, 4, 6, 6, 3, 7, 5, 7, 6, 5]"
-Some farewell messages are so touching that people can feel overwhelmed.,6.1892,1.2485,37,"[4, 7, 7, 7, 7, 7, 7, 5, 3, 7, 7, 7, 7, 4, 6, 7, 7, 4, 7, 7, 7, 5, 7, 7, 7, 7, 6, 5, 5, 7, 7, 3, 7, 6, 7, 7, 5]"
-Some fees are too profitable to be waived.,4.2222,1.4741,9,"[5, 6, 3, 4, 5, 4, 4, 1, 6]"
-Some fees are too unprofitable to be waived.,2.75,2.4875,8,"[1, 7, 1, 2, 7, 1, 2, 1]"
-Some financial aid packages are too large to be cut.,3.4444,1.8325,9,"[1, 2, 3, 4, 2, 3, 3, 6, 7]"
-Some financial aid packages are too small to be cut.,3.125,2.3684,8,"[7, 7, 2, 1, 1, 3, 3, 1]"
-Some head injuries are too severe to be ignored.,6.8,0.4,15,"[7, 7, 7, 7, 6, 7, 7, 7, 7, 6, 7, 7, 6, 7, 7]"
-Some head injuries are too trivial to be ignored.,1.7143,1.7496,7,"[1, 1, 1, 1, 1, 6, 1]"
-Some heirlooms are too valuable to be thrown out.,7.0,0.0,5,"[7, 7, 7, 7, 7]"
-Some heirlooms are too worthless to be thrown out.,3.6,2.3324,5,"[4, 7, 1, 5, 1]"
-Some laws are too ambiguous to be misinterpreted.,2.5714,2.0603,7,"[1, 1, 7, 2, 2, 4, 1]"
-Some laws are too unambiguous to be misinterpreted.,3.9,2.0712,10,"[6, 4, 7, 2, 1, 4, 4, 7, 2, 2]"
-Some lectures are so insightful that we should always disregard them.,2.1351,1.6467,37,"[4, 1, 7, 3, 1, 1, 3, 3, 3, 1, 1, 4, 1, 1, 1, 7, 1, 3, 1, 1, 1, 2, 2, 4, 1, 1, 1, 1, 1, 2, 5, 4, 1, 1, 2, 1, 1]"
-Some lectures are too boring to be skipped.,2.875,1.6154,8,"[5, 4, 3, 1, 1, 1, 5, 3]"
-Some lectures are too interesting to be skipped.,6.5,1.0,8,"[7, 7, 4, 7, 7, 6, 7, 7]"
-Some makeup is so invasive that they never cause skin troubles.,2.0,1.6765,37,"[4, 1, 4, 1, 1, 1, 1, 3, 1, 1, 1, 7, 1, 1, 1, 7, 1, 1, 1, 1, 1, 2, 1, 4, 1, 4, 1, 1, 1, 1, 5, 4, 1, 1, 2, 2, 2]"
-Some memories are too clear to be forgotten.,6.1111,1.5235,9,"[2, 7, 6, 7, 7, 7, 7, 6, 6]"
-Some memories are too fuzzy to be forgotten.,1.6667,1.1055,6,"[4, 1, 1, 1, 1, 2]"
-Some mistakes are too fatal to be overlooked.,4.4286,2.3819,7,"[7, 3, 7, 2, 1, 4, 7]"
-Some mistakes are too insignificant to be overlooked.,3.5385,2.4374,13,"[5, 3, 1, 1, 5, 7, 2, 1, 5, 7, 7, 1, 1]"
-Some muscle spasms are too painful to be overlooked.,5.8889,1.3699,9,"[7, 6, 6, 3, 7, 4, 6, 7, 7]"
-Some muscle spasms are too painless to be overlooked.,3.2857,1.7496,7,"[1, 3, 6, 4, 5, 1, 3]"
-Some objections are too essential to be ignored.,5.6667,1.2472,9,"[6, 7, 7, 6, 6, 4, 3, 6, 6]"
-Some objections are too negligible to be ignored.,2.9091,2.3914,11,"[7, 1, 2, 3, 7, 1, 1, 1, 6, 1, 2]"
-Some operator safety training requires the participants to be physically flexible.,5.5946,1.515,37,"[4, 7, 7, 6, 3, 5, 7, 3, 3, 7, 5, 6, 7, 2, 4, 7, 6, 7, 7, 4, 4, 4, 7, 7, 7, 7, 6, 7, 7, 5, 4, 4, 7, 6, 5, 6, 7]"
-Some overseas and long distance calls cost a great deal with some phone plans.,5.7297,1.4454,37,"[7, 7, 7, 7, 7, 6, 7, 6, 2, 7, 4, 6, 7, 5, 6, 7, 6, 3, 7, 4, 7, 4, 6, 7, 6, 7, 6, 4, 4, 7, 4, 3, 7, 6, 5, 7, 4]"
-Some pajamas are so formal that they wouldn’t be recognized as pajamas.,3.8919,2.2873,37,"[4, 7, 1, 1, 5, 1, 1, 5, 2, 6, 6, 2, 1, 6, 3, 7, 5, 1, 2, 1, 7, 5, 7, 4, 4, 1, 7, 3, 7, 7, 4, 5, 1, 4, 3, 1, 7]"
-Some parks are very popular so that nobody likes to visit them.,2.027,1.7628,37,"[4, 1, 7, 1, 1, 1, 5, 4, 1, 1, 1, 1, 1, 1, 1, 7, 1, 4, 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 2, 5, 3, 1, 1, 4, 1, 1]"
-Some people are great because they do things in a great way.,5.3784,1.2596,37,"[4, 7, 7, 6, 6, 6, 7, 4, 5, 7, 5, 7, 7, 4, 4, 7, 4, 5, 6, 4, 5, 5, 4, 7, 6, 6, 6, 4, 6, 5, 4, 3, 4, 4, 7, 7, 4]"
-Some physics theories are too implausible to be dismissed.,2.3333,2.1082,9,"[1, 1, 1, 3, 1, 7, 5, 1, 1]"
-Some physics theories are too plausible to be dismissed.,5.25,1.6394,8,"[6, 2, 7, 6, 4, 6, 4, 7]"
-Some plans are too realistic to be rejected.,4.4,1.2,5,"[3, 5, 3, 6, 5]"
-Some plans are too unrealistic to be rejected.,1.6923,1.1358,13,"[4, 1, 1, 1, 4, 1, 3, 1, 1, 2, 1, 1, 1]"
-Some pleas for clemency are too reasonable to be rejected.,4.5455,2.2709,11,"[3, 7, 5, 1, 7, 2, 6, 6, 5, 7, 1]"
-Some pleas for clemency are too unreasonable to be rejected.,1.9091,0.9959,11,"[1, 1, 3, 2, 4, 1, 2, 2, 3, 1, 1]"
-Some positions under siege are too important to be abandoned.,5.4,1.562,10,"[7, 6, 7, 4, 2, 6, 7, 5, 6, 4]"
-Some positions under siege are too insignificant to be abandoned.,3.1111,1.663,9,"[2, 2, 6, 3, 4, 1, 4, 1, 5]"
-Some possible conversation topics are too emotional to be left out.,3.0909,1.6211,11,"[4, 3, 4, 5, 2, 1, 1, 6, 1, 3, 4]"
-Some possible conversation topics are too unemotional to be left out.,3.0,2.0817,6,"[1, 4, 1, 7, 2, 3]"
-Some potential habitats are too nutrient-poor to be uninhabited.,2.4,1.6248,10,"[4, 5, 3, 1, 1, 1, 2, 1, 5, 1]"
-Some potential habitats are too nutrient-rich to be uninhabited.,3.4444,1.499,9,"[2, 5, 4, 4, 6, 3, 4, 2, 1]"
-Some problems are too insignificant to be concealed.,1.8,0.8718,10,"[2, 2, 1, 1, 2, 2, 4, 2, 1, 1]"
-Some problems are too significant to be concealed.,5.3333,2.1082,9,"[7, 7, 7, 5, 7, 4, 7, 3, 1]"
-Some return on investments are too profitable to be disregarded.,4.4,2.0591,5,"[6, 3, 6, 6, 1]"
-Some return on investments are too unprofitable to be disregarded.,2.7857,1.9339,14,"[4, 5, 6, 1, 6, 1, 1, 1, 1, 2, 1, 2, 3, 5]"
-Some rock music conveys a sense of danger and rebellion.,6.0541,1.4509,37,"[7, 6, 7, 7, 7, 7, 7, 5, 1, 7, 7, 4, 7, 3, 6, 7, 7, 4, 5, 7, 6, 4, 7, 7, 6, 7, 7, 6, 7, 7, 7, 4, 4, 7, 6, 7, 7]"
-Some salad dressing is so spicy that they make people choke.,4.2432,1.8513,37,"[4, 6, 7, 7, 7, 4, 4, 4, 1, 4, 6, 3, 5, 2, 2, 7, 3, 6, 5, 4, 7, 4, 4, 7, 3, 1, 3, 2, 3, 1, 5, 4, 3, 6, 7, 3, 3]"
-Some scams are so real that people trust them.,5.2973,1.8869,37,"[4, 5, 7, 3, 7, 7, 6, 4, 6, 1, 5, 4, 7, 7, 3, 7, 4, 4, 7, 3, 7, 1, 7, 7, 5, 7, 7, 6, 3, 6, 5, 1, 7, 7, 7, 6, 6]"
-Some seeds are spread not only by birds but also by animals.,5.027,1.9794,37,"[4, 7, 7, 4, 7, 7, 7, 4, 2, 5, 5, 5, 6, 3, 4, 7, 2, 7, 6, 4, 7, 4, 7, 7, 7, 1, 7, 5, 2, 4, 2, 1, 7, 5, 7, 3, 7]"
-Some seeds are very special that they can grow in winter.,4.2222,1.5654,36,"[1, 5, 5, 6, 4, 2, 7, 4, 5, 5, 4, 5, 4, 3, 7, 6, 4, 5, 1, 5, 4, 3, 6, 2, 5, 6, 3, 5, 3, 4, 3, 1, 5, 6, 5, 3]"
-Some social security payments are too important to be missed.,5.8,1.4697,5,"[7, 6, 7, 3, 6]"
-Some social security payments are too unimportant to be missed.,2.125,1.0533,8,"[1, 3, 2, 1, 2, 1, 4, 3]"
-Some sources of iron in food are eggs and chicken liver.,5.0,1.7638,36,"[4, 7, 7, 6, 7, 7, 7, 5, 3, 5, 6, 5, 6, 7, 2, 4, 6, 4, 6, 3, 1, 2, 6, 6, 2, 6, 6, 4, 6, 2, 5, 7, 6, 7, 3, 4]"
-Some success is defined by ourselves.,5.1081,1.6404,37,"[6, 7, 7, 7, 6, 4, 7, 4, 3, 5, 7, 6, 5, 5, 5, 7, 5, 4, 7, 3, 5, 4, 4, 7, 7, 7, 3, 3, 5, 5, 1, 1, 5, 6, 6, 6, 4]"
-Some tears are caused by happiness out of drastic pain.,2.0833,1.5877,36,"[4, 1, 2, 2, 1, 2, 1, 4, 3, 1, 1, 5, 1, 2, 1, 7, 1, 1, 1, 1, 2, 5, 6, 1, 1, 1, 2, 2, 2, 1, 4, 1, 1, 1, 1, 2]"
-Some teenagers are too conformist to be marginalized.,4.0833,1.8911,12,"[3, 6, 3, 7, 5, 2, 2, 7, 1, 4, 5, 4]"
-Some teenagers are too rebellious to be marginalized.,2.75,1.3919,8,"[5, 2, 2, 3, 1, 4, 4, 1]"
-Some tests are too useful to be canceled.,4.625,1.4948,8,"[4, 7, 3, 4, 3, 4, 5, 7]"
-Some tests are too useless to be canceled.,2.5,2.0125,10,"[4, 1, 7, 1, 4, 4, 1, 1, 1, 1]"
-Some wordings are too imprecise to be misunderstood.,3.4444,1.8325,9,"[1, 3, 2, 2, 2, 4, 7, 5, 5]"
-Some wordings are too precise to be misunderstood.,5.4,1.6852,10,"[2, 6, 7, 4, 7, 6, 3, 7, 6, 6]"
-Some working procedures are very important so that we should ignore them.,1.8378,1.3659,37,"[4, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 2, 1, 1, 1, 4, 1, 1, 5, 1, 2, 5, 1, 1, 1, 1, 1, 2, 2, 6, 1, 1, 4, 1, 1]"
-Sweat loss can be determined by weighing athletes before and after exercise.,5.6216,1.8505,37,"[5, 7, 7, 6, 7, 1, 7, 4, 2, 7, 7, 7, 3, 2, 7, 7, 7, 3, 6, 7, 6, 5, 7, 7, 5, 2, 7, 7, 6, 7, 3, 4, 7, 7, 5, 7, 7]"
-The US president is so accessible that everyone can call him whenever they want.,3.8378,2.433,37,"[4, 7, 7, 2, 2, 1, 7, 4, 1, 6, 7, 4, 1, 2, 3, 1, 6, 1, 3, 2, 7, 1, 6, 3, 1, 1, 7, 5, 7, 4, 1, 6, 1, 1, 6, 7, 7]"
-The police is obliged by law to make no compromises.,4.0,1.86,37,"[4, 6, 7, 3, 4, 2, 7, 5, 2, 4, 1, 6, 5, 2, 1, 7, 3, 5, 5, 4, 3, 3, 6, 5, 1, 6, 6, 1, 6, 3, 2, 5, 1, 4, 6, 4, 3]"
-Too many inferior or unnecessary academic books are published each year.,5.4595,1.7797,37,"[4, 7, 7, 6, 6, 1, 7, 4, 4, 7, 7, 6, 7, 3, 4, 7, 7, 4, 3, 4, 3, 6, 5, 7, 7, 7, 7, 6, 6, 7, 6, 3, 7, 1, 5, 7, 7]"
-We should reach out and help the needy wherever they may be.,5.8649,1.3981,37,"[4, 7, 7, 7, 4, 7, 7, 4, 2, 7, 6, 7, 7, 6, 4, 7, 7, 4, 6, 4, 7, 4, 7, 7, 7, 5, 6, 5, 7, 7, 4, 4, 6, 6, 7, 7, 7]"
-We should teach our children to use household products for their proper purposes.,5.5946,1.5502,37,"[4, 7, 6, 7, 2, 6, 7, 5, 3, 7, 7, 7, 7, 2, 4, 7, 6, 6, 6, 4, 7, 4, 7, 7, 6, 3, 6, 6, 7, 7, 4, 5, 7, 6, 4, 4, 7]"
-Wearing high-heel shoes is good for hiking because they anchor the feet well into the rock cracks.,3.4865,2.1387,37,"[4, 6, 7, 2, 1, 1, 7, 3, 3, 3, 7, 7, 4, 1, 3, 1, 1, 1, 4, 1, 1, 4, 7, 3, 5, 1, 3, 5, 6, 2, 4, 3, 1, 4, 1, 5, 7]"
-Working skills boost efficiency and make people lazy.,2.1081,1.7208,37,"[4, 1, 7, 1, 1, 1, 7, 4, 3, 1, 5, 4, 1, 2, 1, 1, 4, 4, 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 3, 1, 1]"
+unit,mean,std,n,individual_ratings,item_type
+Bleaches can be so powerful that they discolor clothing.,5.9189,1.673,37,"[7, 7, 7, 7, 3, 1, 4, 3, 2, 7, 7, 5, 7, 4, 5, 7, 7, 7, 7, 7, 7, 6, 7, 7, 7, 4, 7, 5, 7, 7, 4, 6, 7, 6, 7, 7, 7]",filler
+Consuming too much fat increases the risk of heart disease.,6.2432,1.3623,37,"[2, 7, 7, 7, 7, 2, 7, 5, 4, 7, 7, 5, 7, 7, 6, 7, 6, 4, 7, 7, 7, 6, 7, 7, 7, 7, 7, 6, 7, 7, 5, 7, 7, 5, 7, 7, 7]",filler
+Customer reviews are the only thing a company needs to care about.,5.027,1.7398,37,"[4, 7, 7, 5, 6, 3, 7, 5, 2, 7, 7, 2, 4, 4, 4, 3, 5, 4, 7, 3, 3, 5, 6, 5, 2, 7, 7, 7, 7, 6, 6, 3, 3, 4, 5, 7, 7]",filler
+Finding the means to raise money can sometimes be difficult.,6.0541,1.2006,37,"[6, 7, 5, 7, 4, 7, 7, 5, 7, 7, 7, 7, 7, 6, 5, 7, 7, 4, 6, 4, 7, 5, 7, 7, 7, 7, 4, 5, 6, 6, 5, 3, 7, 5, 7, 7, 7]",filler
+In times of trouble you go to your friends not your enemies.,5.8108,1.777,37,"[7, 6, 7, 7, 7, 6, 7, 3, 2, 7, 6, 7, 7, 2, 4, 7, 7, 5, 7, 4, 7, 5, 7, 7, 7, 7, 7, 5, 6, 5, 2, 1, 7, 7, 7, 7, 6]",filler
+It is dreadful to constantly live with ill-tempered people.,6.1351,1.3977,37,"[7, 7, 7, 7, 6, 4, 7, 3, 5, 7, 6, 7, 7, 5, 7, 7, 7, 4, 6, 7, 7, 6, 7, 7, 6, 1, 7, 6, 7, 7, 4, 5, 7, 7, 7, 6, 7]",filler
+It is just never too late to learn.,5.7297,1.4073,37,"[4, 6, 6, 7, 7, 6, 7, 6, 6, 7, 5, 2, 7, 7, 5, 7, 6, 7, 7, 7, 7, 4, 5, 7, 5, 4, 6, 7, 5, 7, 5, 4, 2, 5, 7, 6, 4]",filler
+It is sensible to invest only what you can afford to lose.,6.2432,1.2112,37,"[6, 7, 7, 6, 7, 7, 7, 7, 2, 7, 6, 4, 7, 5, 7, 7, 7, 4, 7, 4, 7, 6, 7, 7, 7, 7, 6, 5, 7, 7, 5, 5, 7, 7, 6, 7, 7]",filler
+Larger companies tend to offer the biggest pay rises.,5.2857,1.8242,35,"[5, 6, 7, 6, 5, 6, 7, 5, 2, 6, 7, 4, 6, 7, 7, 3, 7, 2, 6, 5, 6, 7, 7, 7, 5, 3, 6, 7, 1, 1, 3, 5, 6, 5, 7]",filler
+Lies are always bad regardless of the reasons behind them.,5.8108,1.3089,37,"[4, 7, 7, 6, 7, 6, 7, 5, 3, 7, 6, 6, 7, 6, 4, 7, 5, 5, 6, 4, 5, 4, 7, 5, 6, 7, 6, 5, 7, 7, 6, 2, 7, 5, 7, 7, 7]",filler
+Many eggs will need to be broken when making an omelette.,5.5405,1.5383,37,"[6, 7, 7, 6, 7, 4, 7, 4, 6, 7, 5, 5, 7, 3, 4, 7, 6, 7, 7, 7, 7, 3, 6, 7, 6, 2, 7, 4, 5, 5, 2, 4, 6, 4, 7, 6, 5]",filler
+Marathon runners can finish the race without persistence.,3.0541,1.9285,37,"[4, 1, 2, 3, 1, 1, 4, 3, 3, 1, 3, 7, 1, 4, 3, 7, 1, 1, 6, 1, 3, 5, 5, 7, 1, 2, 2, 3, 1, 4, 5, 3, 1, 1, 3, 6, 4]",filler
+No American parents provide children access to play video games.,2.8919,1.8527,37,"[4, 2, 7, 2, 3, 1, 7, 3, 4, 1, 5, 4, 3, 2, 1, 1, 1, 1, 1, 1, 1, 2, 3, 5, 1, 1, 4, 3, 3, 4, 6, 3, 1, 1, 4, 6, 5]",filler
+No TV show is too successful to be discontinued.,4.7778,2.1082,9,"[7, 7, 5, 6, 2, 4, 1, 6, 5]",test
+No TV show is too unsuccessful to be discontinued.,2.8,1.7889,5,"[4, 3, 5, 1, 1]",test
+No abdominal pain is so serious that we cannot keep eating ice creams.,2.5135,1.8046,37,"[4, 1, 7, 3, 1, 1, 7, 4, 1, 2, 4, 2, 1, 1, 1, 1, 2, 2, 1, 1, 2, 1, 5, 4, 1, 1, 6, 3, 1, 4, 5, 3, 1, 1, 2, 2, 4]",filler
+No amateur play is too original to be missed.,3.6,2.6077,5,"[4, 5, 1, 1, 7]",test
+No amateur play is too unoriginal to be missed.,1.6667,0.866,9,"[1, 1, 1, 2, 3, 1, 1, 2, 3]",test
+No anonymous tip is too important to be neglected.,2.75,2.0529,8,"[5, 3, 6, 1, 1, 1, 4, 1]",test
+No anonymous tip is too vague to be neglected.,2.5,1.5166,6,"[3, 3, 1, 2, 5, 1]",test
+No applicant is too experienced to be rejected.,4.9167,1.7816,12,"[7, 6, 6, 6, 5, 4, 6, 7, 3, 4, 1, 4]",test
+No applicant is too inexperienced to be rejected.,3.1667,2.137,6,"[3, 2, 2, 4, 1, 7]",test
+No article is too exceptional to go unpublished.,4.625,1.4079,8,"[6, 5, 3, 3, 3, 6, 6, 5]",test
+No article is too mediocre to go unpublished.,3.5,1.9771,12,"[7, 3, 1, 7, 2, 4, 4, 2, 3, 2, 2, 5]",test
+No artificial ingredient is too harmful to be used.,5.3333,2.4221,6,"[7, 7, 7, 1, 4, 6]",test
+No artificial ingredient is too harmless to be used.,1.8462,1.3445,13,"[5, 1, 4, 1, 3, 1, 1, 1, 1, 1, 2, 1, 2]",test
+No chapter is too essential to be skipped.,2.75,1.5,4,"[4, 1, 2, 4]",test
+No chapter is too nonessential to be skipped.,3.25,2.0529,8,"[6, 2, 4, 6, 4, 1, 1, 2]",test
+No computer game is too harmless to be released.,2.1111,1.0541,9,"[3, 2, 1, 3, 2, 2, 1, 4, 1]",test
+No computer game is too violent to be released.,4.25,2.2208,12,"[6, 4, 4, 7, 7, 1, 5, 1, 7, 3, 4, 2]",test
+No consumer product is really finished until it is on the market.,5.6216,1.4972,37,"[4, 6, 7, 7, 7, 6, 7, 6, 3, 7, 7, 2, 4, 3, 4, 7, 6, 5, 5, 4, 5, 4, 7, 7, 6, 7, 7, 5, 7, 6, 3, 4, 7, 6, 7, 6, 7]",filler
+No decision is too clear to be postponed.,1.8333,2.0412,6,"[1, 1, 1, 1, 6, 1]",test
+No decision is too unclear to be postponed.,2.3333,1.6583,9,"[1, 3, 2, 2, 1, 5, 1, 5, 1]",test
+No detail is too important to be left out.,5.875,2.1002,8,"[7, 1, 7, 5, 7, 7, 6, 7]",test
+No detail is too unimportant to be left out.,5.6923,1.9315,13,"[7, 7, 7, 5, 7, 7, 3, 4, 6, 1, 7, 6, 7]",test
+No fee is too profitable to be waived.,3.2308,1.5359,13,"[1, 1, 5, 2, 4, 4, 5, 4, 3, 4, 5, 1, 3]",test
+No fee is too unprofitable to be waived.,4.4286,2.5071,7,"[7, 7, 7, 1, 3, 3, 3]",test
+No financial aid package is too large to be cut.,2.9,2.3781,10,"[1, 2, 7, 1, 1, 7, 3, 4, 2, 1]",test
+No financial aid package is too small to be cut.,4.1,2.331,10,"[7, 4, 2, 6, 3, 1, 6, 4, 7, 1]",test
+No head injury is too severe to be ignored.,2.5714,2.4398,7,"[7, 1, 1, 2, 1, 1, 5]",test
+No head injury is too trivial to be ignored.,4.4286,1.7182,7,"[4, 4, 3, 2, 6, 5, 7]",test
+No heirloom is too valuable to be thrown out.,2.8,1.7045,20,"[6, 1, 1, 4, 1, 2, 4, 3, 1, 3, 2, 4, 1, 1, 3, 6, 5, 3, 1, 4]",test
+No heirloom is too worthless to be thrown out.,2.4286,1.9881,7,"[1, 1, 6, 1, 4, 3, 1]",test
+No landlords are obliged to repair the roof for the renters.,4.1892,1.9556,37,"[4, 7, 7, 1, 4, 3, 6, 4, 2, 7, 6, 6, 2, 2, 1, 7, 2, 4, 5, 1, 3, 4, 3, 5, 7, 7, 2, 4, 6, 7, 5, 5, 2, 4, 3, 4, 3]",filler
+No law is too ambiguous to be misinterpreted.,3.9167,2.2747,12,"[2, 7, 1, 4, 1, 2, 2, 6, 4, 5, 6, 7]",test
+No law is too unambiguous to be misinterpreted.,3.625,1.7678,8,"[4, 4, 4, 5, 4, 1, 1, 6]",test
+No lecture is too boring to be skipped.,3.6923,2.0569,13,"[4, 1, 3, 7, 2, 5, 1, 4, 2, 2, 5, 7, 5]",test
+No lecture is too interesting to be skipped.,3.0,2.1381,8,"[1, 7, 4, 2, 2, 1, 2, 5]",test
+No means of communication with the outside world is better than the internet.,4.3784,1.8908,37,"[7, 7, 3, 4, 5, 3, 7, 3, 3, 3, 4, 6, 3, 2, 1, 7, 6, 3, 6, 3, 3, 2, 3, 6, 6, 1, 7, 6, 3, 5, 6, 5, 1, 6, 6, 6, 4]",filler
+No memory is too clear to be forgotten.,3.25,2.4928,8,"[7, 2, 7, 2, 4, 2, 1, 1]",test
+No memory is too fuzzy to be forgotten.,3.7857,2.517,14,"[1, 1, 5, 1, 7, 7, 4, 2, 5, 1, 2, 7, 3, 7]",test
+No mistake is too fatal to be overlooked.,1.1667,0.4082,6,"[2, 1, 1, 1, 1, 1]",test
+No mistake is too insignificant to be overlooked.,5.0,2.0976,11,"[7, 5, 1, 5, 4, 4, 7, 2, 6, 7, 7]",test
+No muscle spasm is too painful to be overlooked.,3.0,2.3805,7,"[1, 1, 4, 1, 7, 2, 5]",test
+No muscle spasm is too painless to be overlooked.,3.5,2.2447,14,"[2, 7, 4, 1, 7, 1, 1, 5, 3, 5, 2, 6, 4, 1]",test
+No objection is too essential to be ignored.,3.3333,2.2913,9,"[2, 1, 7, 5, 4, 1, 6, 3, 1]",test
+No objection is too negligible to be ignored.,4.25,1.9086,8,"[4, 6, 5, 1, 2, 4, 6, 6]",test
+No physics theory is too implausible to be dismissed.,3.4545,1.8635,11,"[6, 1, 1, 4, 1, 4, 2, 5, 5, 5, 4]",test
+No physics theory is too plausible to be dismissed.,3.3333,1.9365,9,"[1, 6, 5, 4, 5, 4, 1, 3, 1]",test
+No plan is too realistic to be rejected.,4.125,2.2952,8,"[2, 7, 3, 6, 7, 1, 4, 3]",test
+No plan is too unrealistic to be rejected.,3.4545,2.2523,11,"[2, 6, 2, 4, 7, 5, 1, 1, 3, 1, 6]",test
+No plea for clemency is too reasonable to be rejected.,3.5556,2.1858,9,"[7, 6, 1, 3, 3, 2, 2, 6, 2]",test
+No plea for clemency is too unreasonable to be rejected.,2.0,2.4495,6,"[1, 1, 7, 1, 1, 1]",test
+No position under siege is too important to be abandoned.,4.6667,2.2913,9,"[4, 7, 1, 5, 6, 7, 1, 5, 6]",test
+No position under siege is too insignificant to be abandoned.,2.1111,2.2608,9,"[1, 1, 1, 1, 7, 1, 1, 5, 1]",test
+No possible conversation topic is too emotional to be left out.,4.125,1.7269,8,"[5, 4, 1, 5, 4, 4, 7, 3]",test
+No possible conversation topic is too unemotional to be left out.,3.75,1.9598,12,"[7, 2, 4, 3, 1, 3, 4, 3, 2, 3, 7, 6]",test
+No potential habitat is too nutrient-poor to be uninhabited.,4.0,2.2361,9,"[1, 6, 4, 1, 7, 4, 5, 2, 6]",test
+No potential habitat is too nutrient-rich to be uninhabited.,2.1111,1.453,9,"[1, 1, 1, 4, 4, 4, 1, 1, 2]",test
+No problem is too insignificant to be concealed.,3.625,2.5036,8,"[2, 4, 7, 2, 1, 5, 1, 7]",test
+No problem is too significant to be concealed.,3.2,2.2509,10,"[2, 1, 7, 2, 1, 2, 6, 6, 3, 2]",test
+No professionals in their early career stage need critical help and feedback.,3.1389,1.8693,36,"[4, 6, 5, 4, 2, 2, 6, 5, 3, 2, 5, 1, 1, 1, 7, 1, 1, 1, 3, 1, 2, 4, 4, 1, 1, 3, 1, 5, 6, 6, 2, 2, 3, 3, 4, 5]",filler
+No rainbow can be seen without water droplets.,5.1622,1.8784,37,"[4, 7, 7, 7, 7, 5, 7, 5, 2, 7, 3, 6, 4, 2, 6, 1, 6, 4, 5, 4, 7, 6, 6, 7, 4, 7, 7, 4, 4, 7, 1, 5, 7, 5, 7, 6, 2]",filler
+No return on investments are too profitable to be disregarded.,3.9,2.2828,10,"[7, 5, 7, 1, 5, 4, 4, 1, 4, 1]",test
+No return on investments are too unprofitable to be disregarded.,3.0,1.9272,8,"[1, 4, 3, 1, 3, 2, 3, 7]",test
+No roses bloom from spring to autumn.,4.1622,2.3035,37,"[5, 1, 7, 6, 2, 4, 7, 5, 1, 7, 7, 6, 6, 2, 1, 3, 2, 3, 1, 1, 6, 4, 3, 7, 1, 4, 2, 5, 6, 7, 2, 1, 3, 5, 7, 7, 7]",filler
+No shadow is visible on sunny days.,3.027,2.0067,37,"[4, 4, 3, 4, 1, 1, 7, 4, 2, 1, 6, 7, 3, 1, 1, 3, 1, 1, 1, 1, 4, 3, 2, 3, 1, 1, 7, 5, 6, 4, 4, 1, 1, 1, 3, 6, 4]",filler
+No social security payment is too important to be missed.,2.7857,2.0448,14,"[4, 1, 1, 1, 5, 2, 5, 7, 2, 1, 3, 1, 1, 5]",test
+No social security payment is too unimportant to be missed.,4.8,2.2998,10,"[7, 1, 4, 1, 6, 5, 7, 4, 6, 7]",test
+No teenager is too conformist to be marginalized.,3.1818,2.2724,11,"[1, 1, 1, 4, 7, 2, 4, 1, 4, 7, 3]",test
+No teenager is too rebellious to be marginalized.,3.5,1.6432,6,"[3, 1, 6, 4, 4, 3]",test
+No test is too useful to be canceled.,2.5455,1.8635,11,"[2, 1, 5, 5, 1, 1, 1, 2, 2, 2, 6]",test
+No test is too useless to be canceled.,2.25,2.1213,8,"[7, 1, 3, 1, 1, 1, 3, 1]",test
+No vegetarian is tolerant of eggs in their meals.,4.3333,1.7728,36,"[4, 6, 7, 4, 5, 1, 4, 5, 2, 6, 7, 3, 1, 4, 7, 6, 4, 6, 4, 3, 5, 3, 5, 6, 5, 4, 4, 2, 4, 3, 7, 2, 1, 5, 7, 4]",filler
+No wording is too imprecise to be misunderstood.,2.25,1.5,4,"[1, 3, 1, 4]",test
+No wording is too precise to be misunderstood.,3.9286,2.5859,14,"[5, 2, 7, 6, 1, 5, 7, 1, 1, 2, 7, 3, 7, 1]",test
+No writer can compose anything without getting inspirations from life.,4.973,1.7715,37,"[4, 6, 7, 5, 4, 4, 7, 5, 2, 7, 7, 4, 4, 2, 3, 7, 5, 3, 6, 3, 4, 4, 6, 7, 7, 7, 6, 4, 3, 7, 3, 1, 7, 4, 6, 7, 6]",filler
+Nobody can live without water or salt.,6.1622,1.4046,37,"[7, 7, 7, 7, 7, 5, 7, 6, 5, 7, 7, 7, 7, 6, 3, 7, 7, 7, 7, 4, 5, 7, 4, 7, 6, 5, 7, 5, 7, 7, 7, 5, 7, 1, 7, 7, 7]",filler
+People are seldom happy when they have no one to talk to for several years.,5.5946,1.7072,37,"[7, 7, 7, 6, 7, 6, 7, 7, 2, 7, 7, 5, 7, 2, 4, 7, 6, 4, 7, 4, 5, 5, 6, 7, 6, 4, 6, 5, 5, 7, 1, 2, 7, 5, 7, 6, 7]",filler
+People in some cities earn less than people living in the countryside.,5.7027,1.4116,37,"[6, 7, 7, 4, 7, 4, 7, 4, 5, 7, 6, 7, 4, 4, 5, 7, 6, 5, 6, 3, 7, 6, 7, 7, 7, 4, 7, 4, 5, 6, 7, 3, 3, 6, 7, 7, 7]",filler
+Puppies wag their tails when they are excited.,6.5278,1.298,36,"[3, 7, 7, 7, 7, 7, 7, 4, 3, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 2, 7, 7, 7, 7, 7]",filler
+Pure friendship might not be that valuable in the world of big business.,5.1081,1.8527,37,"[4, 7, 7, 6, 5, 5, 7, 3, 3, 7, 6, 5, 7, 2, 5, 7, 7, 4, 6, 4, 6, 3, 7, 7, 2, 4, 7, 4, 6, 6, 1, 3, 6, 1, 6, 7, 6]",filler
+Saving water person by person makes little difference to the world.,3.8108,2.1192,37,"[6, 7, 6, 7, 2, 2, 5, 4, 1, 7, 5, 1, 2, 1, 3, 7, 5, 4, 1, 1, 7, 5, 4, 5, 1, 1, 3, 4, 4, 6, 5, 1, 1, 4, 3, 6, 4]",filler
+Social skills help people to get along with each other.,6.1622,1.2805,37,"[4, 7, 7, 7, 7, 7, 7, 4, 5, 7, 7, 7, 7, 3, 4, 7, 7, 4, 7, 7, 7, 5, 7, 7, 7, 7, 6, 4, 7, 7, 4, 6, 7, 7, 5, 7, 6]",filler
+Some TV shows are too successful to be discontinued.,6.3077,1.0316,13,"[7, 7, 7, 7, 6, 7, 6, 7, 4, 7, 7, 5, 5]",test
+Some TV shows are too unsuccessful to be discontinued.,1.6,1.075,10,"[1, 1, 1, 4, 3, 1, 1, 2, 1, 1]",test
+Some alcoholics hate to drink and are simply addicted to alcohol.,5.2162,1.9739,37,"[7, 7, 7, 7, 2, 2, 7, 5, 3, 6, 6, 7, 7, 4, 2, 6, 5, 6, 5, 3, 7, 2, 6, 5, 7, 4, 7, 7, 6, 7, 7, 1, 7, 4, 1, 6, 5]",filler
+Some amateur plays are too original to be missed.,5.75,0.8864,8,"[6, 5, 7, 5, 7, 6, 5, 5]",test
+Some amateur plays are too unoriginal to be missed.,2.9333,1.9445,15,"[4, 6, 1, 3, 1, 1, 2, 7, 3, 1, 1, 2, 5, 4, 3]",test
+Some anonymous tips are too important to be neglected.,5.8,2.0976,10,"[1, 3, 7, 7, 7, 7, 6, 6, 7, 7]",test
+Some anonymous tips are too vague to be neglected.,1.6923,1.0316,13,"[3, 1, 1, 4, 1, 1, 1, 1, 3, 2, 1, 1, 2]",test
+Some applicants are too experienced to be rejected.,4.5556,1.8782,9,"[7, 1, 6, 6, 3, 4, 4, 4, 6]",test
+Some applicants are too inexperienced to be rejected.,2.5,2.4608,10,"[1, 1, 7, 3, 1, 7, 1, 1, 1, 2]",test
+Some articles are too exceptional to go unpublished.,5.5455,2.0671,11,"[2, 7, 7, 6, 6, 7, 6, 6, 1, 6, 7]",test
+Some articles are too mediocre to go unpublished.,3.1667,2.3166,6,"[4, 1, 2, 4, 1, 7]",test
+Some artificial ingredients are too harmful to be used.,5.9,1.1005,10,"[5, 7, 6, 7, 4, 6, 7, 5, 7, 5]",test
+Some artificial ingredients are too harmless to be used.,2.25,1.165,8,"[4, 1, 1, 2, 2, 2, 2, 4]",test
+Some car insurance companies are so deceitful that people need them very much.,2.1622,1.7403,37,"[2, 1, 5, 1, 1, 1, 4, 6, 5, 1, 1, 5, 1, 1, 1, 7, 1, 4, 1, 1, 1, 1, 2, 4, 1, 1, 1, 2, 1, 2, 4, 1, 1, 1, 2, 1, 4]",filler
+Some chapters are too essential to be skipped.,6.3636,1.4334,11,"[7, 7, 7, 7, 3, 7, 7, 7, 4, 7, 7]",test
+Some chapters are too nonessential to be skipped.,2.0,1.7541,14,"[1, 1, 1, 1, 1, 2, 7, 1, 1, 4, 1, 3, 1, 3]",test
+Some computer games are too harmless to be released.,1.125,0.3536,8,"[1, 1, 1, 1, 1, 2, 1, 1]",test
+Some computer games are too violent to be released.,6.375,1.4079,8,"[7, 7, 3, 7, 7, 7, 6, 7]",test
+Some decisions are too clear to be postponed.,4.2308,2.0475,13,"[5, 5, 4, 1, 6, 4, 7, 1, 1, 5, 4, 6, 6]",test
+Some decisions are too unclear to be postponed.,2.875,2.2952,8,"[1, 7, 2, 2, 1, 2, 6, 2]",test
+Some details are too important to be left out.,6.4444,1.0138,9,"[6, 6, 7, 7, 7, 7, 4, 7, 7]",test
+Some details are too unimportant to be left out.,3.4286,1.8127,7,"[4, 1, 4, 6, 4, 4, 1]",test
+Some diseases are becoming more and more resistant to treatment.,6.2973,1.0505,37,"[6, 7, 7, 6, 7, 7, 7, 5, 4, 7, 7, 5, 7, 6, 7, 7, 6, 4, 7, 4, 7, 7, 7, 7, 7, 7, 7, 6, 5, 7, 7, 4, 7, 6, 7, 7, 5]",filler
+Some earthquakes are very hard to be predicted by current technology.,4.6216,1.6725,37,"[4, 5, 7, 5, 5, 4, 7, 2, 5, 4, 3, 6, 7, 4, 4, 7, 3, 2, 5, 4, 6, 2, 6, 7, 1, 7, 5, 3, 6, 3, 2, 4, 6, 4, 6, 5, 5]",filler
+Some education policies ignore real problems and become too unrealistic.,5.2703,1.6608,37,"[5, 7, 7, 7, 5, 4, 7, 4, 6, 6, 6, 2, 7, 3, 5, 7, 7, 4, 6, 4, 7, 1, 6, 6, 2, 4, 7, 4, 4, 6, 6, 3, 7, 5, 7, 6, 5]",filler
+Some farewell messages are so touching that people can feel overwhelmed.,6.1892,1.2657,37,"[4, 7, 7, 7, 7, 7, 7, 5, 3, 7, 7, 7, 7, 4, 6, 7, 7, 4, 7, 7, 7, 5, 7, 7, 7, 7, 6, 5, 5, 7, 7, 3, 7, 6, 7, 7, 5]",filler
+Some fees are too profitable to be waived.,4.2222,1.5635,9,"[5, 6, 3, 4, 5, 4, 4, 1, 6]",test
+Some fees are too unprofitable to be waived.,2.75,2.6592,8,"[1, 7, 1, 2, 7, 1, 2, 1]",test
+Some financial aid packages are too large to be cut.,3.4444,1.9437,9,"[1, 2, 3, 4, 2, 3, 3, 6, 7]",test
+Some financial aid packages are too small to be cut.,3.125,2.5319,8,"[7, 7, 2, 1, 1, 3, 3, 1]",test
+Some head injuries are too severe to be ignored.,6.8,0.414,15,"[7, 7, 7, 7, 6, 7, 7, 7, 7, 6, 7, 7, 6, 7, 7]",test
+Some head injuries are too trivial to be ignored.,1.7143,1.8898,7,"[1, 1, 1, 1, 1, 6, 1]",test
+Some heirlooms are too valuable to be thrown out.,7.0,0.0,5,"[7, 7, 7, 7, 7]",test
+Some heirlooms are too worthless to be thrown out.,3.6,2.6077,5,"[4, 7, 1, 5, 1]",test
+Some laws are too ambiguous to be misinterpreted.,2.5714,2.2254,7,"[1, 1, 7, 2, 2, 4, 1]",test
+Some laws are too unambiguous to be misinterpreted.,3.9,2.1833,10,"[6, 4, 7, 2, 1, 4, 4, 7, 2, 2]",test
+Some lectures are so insightful that we should always disregard them.,2.1351,1.6694,37,"[4, 1, 7, 3, 1, 1, 3, 3, 3, 1, 1, 4, 1, 1, 1, 7, 1, 3, 1, 1, 1, 2, 2, 4, 1, 1, 1, 1, 1, 2, 5, 4, 1, 1, 2, 1, 1]",filler
+Some lectures are too boring to be skipped.,2.875,1.7269,8,"[5, 4, 3, 1, 1, 1, 5, 3]",test
+Some lectures are too interesting to be skipped.,6.5,1.069,8,"[7, 7, 4, 7, 7, 6, 7, 7]",test
+Some makeup is so invasive that they never cause skin troubles.,2.0,1.6997,37,"[4, 1, 4, 1, 1, 1, 1, 3, 1, 1, 1, 7, 1, 1, 1, 7, 1, 1, 1, 1, 1, 2, 1, 4, 1, 4, 1, 1, 1, 1, 5, 4, 1, 1, 2, 2, 2]",filler
+Some memories are too clear to be forgotten.,6.1111,1.6159,9,"[2, 7, 6, 7, 7, 7, 7, 6, 6]",test
+Some memories are too fuzzy to be forgotten.,1.6667,1.2111,6,"[4, 1, 1, 1, 1, 2]",test
+Some mistakes are too fatal to be overlooked.,4.4286,2.5728,7,"[7, 3, 7, 2, 1, 4, 7]",test
+Some mistakes are too insignificant to be overlooked.,3.5385,2.5369,13,"[5, 3, 1, 1, 5, 7, 2, 1, 5, 7, 7, 1, 1]",test
+Some muscle spasms are too painful to be overlooked.,5.8889,1.453,9,"[7, 6, 6, 3, 7, 4, 6, 7, 7]",test
+Some muscle spasms are too painless to be overlooked.,3.2857,1.8898,7,"[1, 3, 6, 4, 5, 1, 3]",test
+Some objections are too essential to be ignored.,5.6667,1.3229,9,"[6, 7, 7, 6, 6, 4, 3, 6, 6]",test
+Some objections are too negligible to be ignored.,2.9091,2.5082,11,"[7, 1, 2, 3, 7, 1, 1, 1, 6, 1, 2]",test
+Some operator safety training requires the participants to be physically flexible.,5.5946,1.5359,37,"[4, 7, 7, 6, 3, 5, 7, 3, 3, 7, 5, 6, 7, 2, 4, 7, 6, 7, 7, 4, 4, 4, 7, 7, 7, 7, 6, 7, 7, 5, 4, 4, 7, 6, 5, 6, 7]",filler
+Some overseas and long distance calls cost a great deal with some phone plans.,5.7297,1.4653,37,"[7, 7, 7, 7, 7, 6, 7, 6, 2, 7, 4, 6, 7, 5, 6, 7, 6, 3, 7, 4, 7, 4, 6, 7, 6, 7, 6, 4, 4, 7, 4, 3, 7, 6, 5, 7, 4]",filler
+Some pajamas are so formal that they wouldn’t be recognized as pajamas.,3.8919,2.3188,37,"[4, 7, 1, 1, 5, 1, 1, 5, 2, 6, 6, 2, 1, 6, 3, 7, 5, 1, 2, 1, 7, 5, 7, 4, 4, 1, 7, 3, 7, 7, 4, 5, 1, 4, 3, 1, 7]",filler
+Some parks are very popular so that nobody likes to visit them.,2.027,1.7871,37,"[4, 1, 7, 1, 1, 1, 5, 4, 1, 1, 1, 1, 1, 1, 1, 7, 1, 4, 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 2, 5, 3, 1, 1, 4, 1, 1]",filler
+Some people are great because they do things in a great way.,5.3784,1.277,37,"[4, 7, 7, 6, 6, 6, 7, 4, 5, 7, 5, 7, 7, 4, 4, 7, 4, 5, 6, 4, 5, 5, 4, 7, 6, 6, 6, 4, 6, 5, 4, 3, 4, 4, 7, 7, 4]",filler
+Some physics theories are too implausible to be dismissed.,2.3333,2.2361,9,"[1, 1, 1, 3, 1, 7, 5, 1, 1]",test
+Some physics theories are too plausible to be dismissed.,5.25,1.7525,8,"[6, 2, 7, 6, 4, 6, 4, 7]",test
+Some plans are too realistic to be rejected.,4.4,1.3416,5,"[3, 5, 3, 6, 5]",test
+Some plans are too unrealistic to be rejected.,1.6923,1.1821,13,"[4, 1, 1, 1, 4, 1, 3, 1, 1, 2, 1, 1, 1]",test
+Some pleas for clemency are too reasonable to be rejected.,4.5455,2.3817,11,"[3, 7, 5, 1, 7, 2, 6, 6, 5, 7, 1]",test
+Some pleas for clemency are too unreasonable to be rejected.,1.9091,1.0445,11,"[1, 1, 3, 2, 4, 1, 2, 2, 3, 1, 1]",test
+Some positions under siege are too important to be abandoned.,5.4,1.6465,10,"[7, 6, 7, 4, 2, 6, 7, 5, 6, 4]",test
+Some positions under siege are too insignificant to be abandoned.,3.1111,1.7638,9,"[2, 2, 6, 3, 4, 1, 4, 1, 5]",test
+Some possible conversation topics are too emotional to be left out.,3.0909,1.7003,11,"[4, 3, 4, 5, 2, 1, 1, 6, 1, 3, 4]",test
+Some possible conversation topics are too unemotional to be left out.,3.0,2.2804,6,"[1, 4, 1, 7, 2, 3]",test
+Some potential habitats are too nutrient-poor to be uninhabited.,2.4,1.7127,10,"[4, 5, 3, 1, 1, 1, 2, 1, 5, 1]",test
+Some potential habitats are too nutrient-rich to be uninhabited.,3.4444,1.5899,9,"[2, 5, 4, 4, 6, 3, 4, 2, 1]",test
+Some problems are too insignificant to be concealed.,1.8,0.9189,10,"[2, 2, 1, 1, 2, 2, 4, 2, 1, 1]",test
+Some problems are too significant to be concealed.,5.3333,2.2361,9,"[7, 7, 7, 5, 7, 4, 7, 3, 1]",test
+Some return on investments are too profitable to be disregarded.,4.4,2.3022,5,"[6, 3, 6, 6, 1]",test
+Some return on investments are too unprofitable to be disregarded.,2.7857,2.0069,14,"[4, 5, 6, 1, 6, 1, 1, 1, 1, 2, 1, 2, 3, 5]",test
+Some rock music conveys a sense of danger and rebellion.,6.0541,1.4709,37,"[7, 6, 7, 7, 7, 7, 7, 5, 1, 7, 7, 4, 7, 3, 6, 7, 7, 4, 5, 7, 6, 4, 7, 7, 6, 7, 7, 6, 7, 7, 7, 4, 4, 7, 6, 7, 7]",filler
+Some salad dressing is so spicy that they make people choke.,4.2432,1.8768,37,"[4, 6, 7, 7, 7, 4, 4, 4, 1, 4, 6, 3, 5, 2, 2, 7, 3, 6, 5, 4, 7, 4, 4, 7, 3, 1, 3, 2, 3, 1, 5, 4, 3, 6, 7, 3, 3]",filler
+Some scams are so real that people trust them.,5.2973,1.9129,37,"[4, 5, 7, 3, 7, 7, 6, 4, 6, 1, 5, 4, 7, 7, 3, 7, 4, 4, 7, 3, 7, 1, 7, 7, 5, 7, 7, 6, 3, 6, 5, 1, 7, 7, 7, 6, 6]",filler
+Some seeds are spread not only by birds but also by animals.,5.027,2.0067,37,"[4, 7, 7, 4, 7, 7, 7, 4, 2, 5, 5, 5, 6, 3, 4, 7, 2, 7, 6, 4, 7, 4, 7, 7, 7, 1, 7, 5, 2, 4, 2, 1, 7, 5, 7, 3, 7]",filler
+Some seeds are very special that they can grow in winter.,4.2222,1.5877,36,"[1, 5, 5, 6, 4, 2, 7, 4, 5, 5, 4, 5, 4, 3, 7, 6, 4, 5, 1, 5, 4, 3, 6, 2, 5, 6, 3, 5, 3, 4, 3, 1, 5, 6, 5, 3]",filler
+Some social security payments are too important to be missed.,5.8,1.6432,5,"[7, 6, 7, 3, 6]",test
+Some social security payments are too unimportant to be missed.,2.125,1.126,8,"[1, 3, 2, 1, 2, 1, 4, 3]",test
+Some sources of iron in food are eggs and chicken liver.,5.0,1.7889,36,"[4, 7, 7, 6, 7, 7, 7, 5, 3, 5, 6, 5, 6, 7, 2, 4, 6, 4, 6, 3, 1, 2, 6, 6, 2, 6, 6, 4, 6, 2, 5, 7, 6, 7, 3, 4]",filler
+Some success is defined by ourselves.,5.1081,1.6631,37,"[6, 7, 7, 7, 6, 4, 7, 4, 3, 5, 7, 6, 5, 5, 5, 7, 5, 4, 7, 3, 5, 4, 4, 7, 7, 7, 3, 3, 5, 5, 1, 1, 5, 6, 6, 6, 4]",filler
+Some tears are caused by happiness out of drastic pain.,2.0833,1.6102,36,"[4, 1, 2, 2, 1, 2, 1, 4, 3, 1, 1, 5, 1, 2, 1, 7, 1, 1, 1, 1, 2, 5, 6, 1, 1, 1, 2, 2, 2, 1, 4, 1, 1, 1, 1, 2]",filler
+Some teenagers are too conformist to be marginalized.,4.0833,1.9752,12,"[3, 6, 3, 7, 5, 2, 2, 7, 1, 4, 5, 4]",test
+Some teenagers are too rebellious to be marginalized.,2.75,1.488,8,"[5, 2, 2, 3, 1, 4, 4, 1]",test
+Some tests are too useful to be canceled.,4.625,1.598,8,"[4, 7, 3, 4, 3, 4, 5, 7]",test
+Some tests are too useless to be canceled.,2.5,2.1213,10,"[4, 1, 7, 1, 4, 4, 1, 1, 1, 1]",test
+Some wordings are too imprecise to be misunderstood.,3.4444,1.9437,9,"[1, 3, 2, 2, 2, 4, 7, 5, 5]",test
+Some wordings are too precise to be misunderstood.,5.4,1.7764,10,"[2, 6, 7, 4, 7, 6, 3, 7, 6, 6]",test
+Some working procedures are very important so that we should ignore them.,1.8378,1.3847,37,"[4, 1, 1, 1, 1, 1, 2, 3, 2, 1, 2, 1, 1, 2, 1, 1, 1, 4, 1, 1, 5, 1, 2, 5, 1, 1, 1, 1, 1, 2, 2, 6, 1, 1, 4, 1, 1]",filler
+Sweat loss can be determined by weighing athletes before and after exercise.,5.6216,1.876,37,"[5, 7, 7, 6, 7, 1, 7, 4, 2, 7, 7, 7, 3, 2, 7, 7, 7, 3, 6, 7, 6, 5, 7, 7, 5, 2, 7, 7, 6, 7, 3, 4, 7, 7, 5, 7, 7]",filler
+The US president is so accessible that everyone can call him whenever they want.,3.8378,2.4666,37,"[4, 7, 7, 2, 2, 1, 7, 4, 1, 6, 7, 4, 1, 2, 3, 1, 6, 1, 3, 2, 7, 1, 6, 3, 1, 1, 7, 5, 7, 4, 1, 6, 1, 1, 6, 7, 7]",filler
+The police is obliged by law to make no compromises.,4.0,1.8856,37,"[4, 6, 7, 3, 4, 2, 7, 5, 2, 4, 1, 6, 5, 2, 1, 7, 3, 5, 5, 4, 3, 3, 6, 5, 1, 6, 6, 1, 6, 3, 2, 5, 1, 4, 6, 4, 3]",filler
+Too many inferior or unnecessary academic books are published each year.,5.4595,1.8042,37,"[4, 7, 7, 6, 6, 1, 7, 4, 4, 7, 7, 6, 7, 3, 4, 7, 7, 4, 3, 4, 3, 6, 5, 7, 7, 7, 7, 6, 6, 7, 6, 3, 7, 1, 5, 7, 7]",filler
+We should reach out and help the needy wherever they may be.,5.8649,1.4174,37,"[4, 7, 7, 7, 4, 7, 7, 4, 2, 7, 6, 7, 7, 6, 4, 7, 7, 4, 6, 4, 7, 4, 7, 7, 7, 5, 6, 5, 7, 7, 4, 4, 6, 6, 7, 7, 7]",filler
+We should teach our children to use household products for their proper purposes.,5.5946,1.5716,37,"[4, 7, 6, 7, 2, 6, 7, 5, 3, 7, 7, 7, 7, 2, 4, 7, 6, 6, 6, 4, 7, 4, 7, 7, 6, 3, 6, 6, 7, 7, 4, 5, 7, 6, 4, 4, 7]",filler
+Wearing high-heel shoes is good for hiking because they anchor the feet well into the rock cracks.,3.4865,2.1682,37,"[4, 6, 7, 2, 1, 1, 7, 3, 3, 3, 7, 7, 4, 1, 3, 1, 1, 1, 4, 1, 1, 4, 7, 3, 5, 1, 3, 5, 6, 2, 4, 3, 1, 4, 1, 5, 7]",filler
+Working skills boost efficiency and make people lazy.,2.1081,1.7446,37,"[4, 1, 7, 1, 1, 1, 7, 4, 3, 1, 5, 4, 1, 2, 1, 1, 4, 4, 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 3, 1, 1]",filler

@@ -1,6 +1,7 @@
-Please read each sentence and then answer the question immediately following.
 Rate the target sentence for naturalness on a scale of 1-5 (1 being unnatural and 5 being very natural) within the context of the previous sentence.
-Rate on a scale from 1 to 5.
-Answer with one number.
+Rate on a scale from 1 to 5:
+1 = unnatural
+5 = very natural
+Answer with one digit.
 
 <<{sentence}>>

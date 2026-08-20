@@ -1,230 +1,230 @@
-unit,mean,std,n,individual_ratings
-"A group of high-school students had just come out of their bus and were walking towards the museum of natural history, when a truck going way too fast appeared at the end of the street. Into the bus the truck crashed.",1.75,0.8292,4,"[1, 1, 3, 2]"
-"A group of high-school students had just come out of their bus and were walking towards the museum of natural history, when a truck going way too fast appeared at the end of the street. The truck crashed into the bus.",3.5,0.5,2,"[3, 4]"
-"A group of high-school students had just come out of their bus and were walking towards the museum of natural history, when an accident happened. A truck crashed into the bus.",3.875,1.0533,8,"[3, 2, 5, 5, 3, 5, 4, 4]"
-"A group of high-school students had just come out of their bus and were walking towards the museum of natural history, when an accident happened. Into the bus a truck crashed.",1.1667,0.3727,6,"[1, 2, 1, 1, 1, 1]"
-A group of high-school students were walking towards the museum of natural history when an accident happened. A truck crashed into a bus.,4.2,0.7483,5,"[5, 5, 3, 4, 4]"
-"A group of high-school students were walking towards the museum of natural history, when a truck going way too fast appeared at the end of the street. Into a bus the truck crashed.",1.6667,0.4714,3,"[1, 2, 2]"
-"A group of high-school students were walking towards the museum of natural history, when a truck going way too fast appeared at the end of the street. The truck crashed into a bus.",4.0,,1,[4]
-"A group of high-school students were walking towards the museum of natural history, when an accident happened. Into a bus a truck crashed.",1.5,0.866,4,"[1, 1, 3, 1]"
-A patient apologized to his doctor for having missed the noon appointment. The doctor agreed to see him early tomorrow.,4.4706,0.5549,34,"[4, 5, 4, 4, 4, 4, 4, 5, 5, 4, 4, 4, 4, 5, 4, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 4, 5, 4, 5, 4, 3, 5, 4]"
-"According to a new scientific study, by walking 1 hour a day, one can prevent health problems such as heart disease and type 2 diabetes. A simple walk can save a life.",4.3235,0.9305,34,"[4, 2, 4, 5, 4, 3, 4, 2, 5, 5, 2, 4, 4, 5, 4, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4, 3, 5, 5]"
-"According to the judge's decision, the company had to pay compensation to the claimants. The company appealed against the decision.",4.1765,0.8565,34,"[3, 5, 4, 5, 4, 4, 5, 2, 4, 4, 5, 4, 3, 5, 4, 5, 5, 5, 5, 2, 3, 5, 4, 4, 4, 5, 5, 5, 4, 4, 3, 5, 4, 4]"
-"After a few minutes of searching, I finally found my seat but it was already occupied by a a middle-aged woman chatting with someone at the phone. In front of a child the woman sat.",1.8,1.1662,5,"[1, 4, 2, 1, 1]"
-"After a few minutes of searching, I finally found my seat but it was already occupied by a a middle-aged woman chatting with someone at the phone. The woman sat in front of a child.",2.0,1.4142,3,"[4, 1, 1]"
-"After a few minutes of searching, I finally found my seat but it was already occupied by a young child chatting with a middle-aged woman. In front of the child the woman sat.",2.4,0.8,5,"[2, 2, 2, 4, 2]"
-"After a few minutes of searching, I finally found my seat but it was already occupied by a young child chatting with a middle-aged woman. The woman sat in front of the child.",4.3333,0.4714,3,"[4, 4, 5]"
-"After a few minutes of searching, I finally found my seat but it was already occupied by a young child chatting with someone at the phone. A woman sat in front of the child.",2.5,1.2583,6,"[1, 1, 3, 2, 4, 4]"
-"After a few minutes of searching, I finally found my seat but it was already occupied by a young child chatting with someone at the phone. In front of the child a woman sat.",3.3333,0.4714,3,"[3, 4, 3]"
-"After a few minutes of searching, I finally found my seat but it was already occupied. A woman sat in front of a child.",2.4,1.0198,5,"[4, 1, 2, 3, 2]"
-"After a few minutes of searching, I finally found my seat but it was already occupied. In front of a child a woman sat.",1.75,0.433,4,"[2, 1, 2, 2]"
-"After a long walk up the mountain, they finally reached a place where they saw a bog, a Swiss chalet, and a small stream. A woman lived in the chalet.",2.5,0.5,2,"[2, 3]"
-"After a long walk up the mountain, they finally reached a place where they saw a bog, a Swiss chalet, and a small stream. In the chalet a woman lived.",2.6667,0.9428,6,"[3, 4, 1, 3, 3, 2]"
-"After a long walk up the mountain, they finally reached a place where they saw a bog, a few tents, and a small stream. A woman lived in a chalet.",2.0,0.0,2,"[2, 2]"
-"After a long walk up the mountain, they finally reached a place where they saw a bog, a few tents, and a small stream. In a chalet a woman lived.",1.4,0.4899,5,"[1, 1, 2, 1, 2]"
-"After a long walk up the mountain, they finally reached a place where they saw an old woman carrying potatoes, a Swiss chalet, and a small stream. In the chalet the woman lived.",2.0,1.0,6,"[1, 2, 2, 4, 1, 2]"
-"After a long walk up the mountain, they finally reached a place where they saw an old woman carrying potatoes, a Swiss chalet, and a small stream. The woman lived in the chalet.",3.0,1.4142,3,"[2, 2, 5]"
-"After a long walk up the mountain, they finally reached a place where they saw an old woman carrying potatoes, a few tents, and a small stream. In a chalet the woman lived.",1.5714,0.4949,7,"[1, 1, 2, 2, 2, 2, 1]"
-"After a long walk up the mountain, they finally reached a place where they saw an old woman carrying potatoes, a few tents, and a small stream. The woman lived in a chalet.",3.0,0.8165,3,"[3, 2, 4]"
-Around noon we were waiting in front of the cathedral and we saw a red car stopping close to a well-dressed boy who had been standing there for about 10 minutes. Into the car the boy stepped.,3.6667,0.9428,3,"[5, 3, 3]"
-Around noon we were waiting in front of the cathedral and we saw a red car stopping close to a well-dressed boy who had been standing there for about 10 minutes. The boy stepped into the car.,3.75,0.433,4,"[4, 3, 4, 4]"
-Around noon we were waiting in front of the cathedral and we saw a red car stopping close to us. A boy stepped into the car.,3.3333,1.2472,3,"[5, 3, 2]"
-Around noon we were waiting in front of the cathedral and we saw a red car stopping close to us. Into the car a boy stepped.,1.5,0.5,4,"[1, 2, 1, 2]"
-Around noon we were waiting in front of the cathedral and we saw a well-dressed boy who had been standing there for about 10 minutes. Into a car the boy stepped.,1.5556,0.9558,9,"[2, 1, 1, 2, 1, 1, 4, 1, 1]"
-Around noon we were waiting in front of the cathedral and we saw a well-dressed boy who had been standing there for about 10 minutes. The boy stepped into a car.,3.1667,1.0672,6,"[3, 2, 5, 3, 2, 4]"
-Around noon we were waiting in front of the cathedral and we were getting frustrated because of the delay of our ride. A boy stepped into a car.,2.0,,1,[2]
-Around noon we were waiting in front of the cathedral and we were getting frustrated because of the delay of our ride. Into a car a boy stepped.,2.25,1.0897,4,"[2, 4, 1, 2]"
-"As a matter of fact, none of her friends can stand Laine's moody behavior. Everyone has to deal with her constant whims.",3.9412,1.0273,34,"[3, 1, 4, 5, 3, 3, 5, 4, 4, 3, 3, 4, 3, 4, 5, 5, 3, 5, 5, 2, 5, 4, 5, 4, 5, 4, 2, 4, 4, 5, 4, 5, 4, 5]"
-Bates admitted that on the whole he found his new job satisfying. The salary was guaranteeing him financial security.,4.0588,0.9375,34,"[4, 3, 5, 4, 3, 5, 4, 2, 5, 4, 4, 4, 5, 5, 4, 5, 5, 4, 3, 3, 5, 4, 5, 4, 1, 5, 5, 5, 4, 3, 4, 4, 4, 4]"
-"Because of the drought, the price of bread was high that year. Many grain farmers had to face a very difficult time.",3.8824,1.1315,34,"[4, 4, 4, 5, 3, 1, 4, 2, 5, 2, 4, 4, 3, 5, 4, 4, 5, 5, 4, 4, 5, 4, 5, 2, 4, 5, 5, 5, 4, 4, 3, 1, 5, 4]"
-"Before yesterday, for three months Gary hadn't spoken to Jesse at all. A silly misunderstanding had originated the rift.",3.4118,1.1406,34,"[4, 5, 3, 5, 4, 2, 5, 5, 2, 3, 2, 4, 4, 2, 3, 3, 4, 5, 2, 2, 4, 2, 5, 2, 4, 3, 2, 2, 4, 4, 2, 4, 4, 5]"
-Bradley fears that at the concert his girlfriend might have a panic attack. At the concert there will be lots of people.,3.5882,0.9737,34,"[2, 4, 3, 3, 3, 4, 4, 2, 3, 4, 3, 3, 4, 2, 5, 3, 4, 5, 4, 3, 4, 4, 5, 1, 2, 4, 4, 4, 4, 5, 4, 5, 4, 4]"
-Brook is firmly convinced that with hard work and perseverance anyone can obtain a good position. Her boyfriend is less optimistic.,4.5882,0.8087,34,"[4, 5, 4, 5, 4, 4, 4, 5, 4, 3, 5, 5, 1, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]"
-Carol was in her dentist's waiting room when a cute little cat entered the room. Onto a sofa the cat jumped.,2.25,0.433,4,"[3, 2, 2, 2]"
-Carol was in her dentist's waiting room when a cute little cat entered the room. The cat jumped onto a sofa.,4.75,0.433,4,"[4, 5, 5, 5]"
-Carol was in her dentist's waiting room with an anxious face. A cat jumped onto a sofa.,1.5,0.5,6,"[1, 2, 1, 2, 2, 1]"
-Carol was in her dentist's waiting room with an anxious face. Onto a sofa a cat jumped.,1.3333,0.4714,3,"[1, 2, 1]"
-Carol was sitting on a sofa in her dentist's waiting room when a cute little cat entered the room. Onto the sofa the cat jumped.,2.0,0.0,2,"[2, 2]"
-Carol was sitting on a sofa in her dentist's waiting room when a cute little cat entered the room. The cat jumped onto the sofa.,4.5,0.5,6,"[4, 5, 4, 5, 4, 5]"
-Carol was sitting on a sofa in her dentist's waiting room with an anxious face. A cat jumped onto the sofa.,5.0,0.0,2,"[5, 5]"
-Carol was sitting on a sofa in her dentist's waiting room with an anxious face. Onto the sofa a cat jumped.,2.2857,0.6999,7,"[3, 1, 2, 3, 2, 2, 3]"
-"Despite strong pressure from the government, the unions have refused to order a return to work. Public opinion is against the union's decision.",3.7941,0.7963,34,"[3, 3, 4, 4, 4, 3, 3, 4, 3, 4, 4, 3, 2, 5, 4, 4, 5, 5, 4, 3, 4, 3, 4, 5, 4, 4, 5, 5, 4, 4, 4, 4, 3, 2]"
-Elton is such a nice guy and he would do anything for his friends. A person like him is needed in this individualistic society.,3.8235,1.0702,34,"[3, 3, 4, 5, 5, 4, 4, 2, 2, 3, 2, 5, 4, 5, 4, 4, 5, 5, 5, 2, 5, 3, 5, 2, 5, 4, 5, 3, 4, 4, 4, 2, 4, 4]"
-"Even though the sky was pretty cloudy, the temperature outside was still quite pleasant. An old woman decided to go for a walk.",3.3529,1.2575,34,"[2, 1, 4, 2, 3, 4, 3, 4, 1, 4, 4, 4, 5, 3, 3, 4, 3, 4, 5, 4, 5, 5, 4, 1, 1, 3, 5, 5, 3, 5, 3, 2, 3, 2]"
-"For the sake of millions of citizens, a new healthcare system is absolutely needed. The president should be spending more time on this issue.",4.7059,0.5162,34,"[3, 4, 4, 5, 4, 4, 5, 5, 5, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5]"
-"From her house, Sue had a perfect view of a hangar in the nearby military base where a gigantic aircraft was stored. Out from the hangar the aircraft rolled.",1.5,0.5,2,"[1, 2]"
-"From her house, Sue had a perfect view of a hangar in the nearby military base where a gigantic aircraft was stored. The aircraft rolled out from the hangar.",3.25,1.0897,4,"[2, 5, 3, 3]"
-"From her house, Sue had a perfect view of a hangar in the nearby military base where the air force personell was performing some operations. An aircraft rolled out from the hangar.",4.5,0.5,4,"[4, 4, 5, 5]"
-"From her house, Sue had a perfect view of a hangar in the nearby military base where the air force personell was performing some operations. Out from the hangar an aircraft rolled.",1.0,0.0,3,"[1, 1, 1]"
-"From her house, Sue had a perfect view of a nearby military base where a gigantic aircraft was stored. Out from a hangar the aircraft rolled.",2.4286,1.178,7,"[2, 1, 4, 2, 4, 1, 3]"
-"From her house, Sue had a perfect view of a nearby military base where a gigantic aircraft was stored. The aircraft rolled out from a hangar.",4.3333,0.4714,6,"[4, 4, 5, 4, 4, 5]"
-"From her house, Sue had a perfect view of the nearby military base where the air force personell was performing some operations. An aircraft rolled out from a hangar.",3.3333,1.2472,3,"[5, 2, 3]"
-"From her house, Sue had a perfect view of the nearby military base where the air force personell was performing some operations. Out from a hangar an aircraft rolled.",3.0,1.2649,5,"[4, 2, 1, 4, 4]"
-Gerard is admired by his colleagues. He is a hard-working person.,4.6765,0.5801,34,"[4, 5, 4, 5, 5, 4, 5, 5, 5, 5, 5, 4, 3, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 3, 4, 5, 5, 5, 5, 5, 4, 5, 5, 5]"
-"Immediately past the little church, the group of tourists preceded by a dog proceeded towards the left. The dog trotted up a road.",3.25,1.299,8,"[2, 3, 5, 4, 5, 3, 1, 3]"
-"Immediately past the little church, the group of tourists preceded by a dog proceeded towards the left. Up a road the dog trotted.",2.5,1.2583,6,"[4, 4, 1, 1, 2, 3]"
-"Immediately past the little church, the group of tourists preceded by a dog took an uphill road on the left. The dog trotted up the road.",3.0,,1,[3]
-"Immediately past the little church, the group of tourists preceded by a dog took an uphill road on the left. Up the road the dog trotted.",3.5,0.866,4,"[4, 4, 2, 4]"
-"Immediately past the little church, the group of tourists preceded by their guide proceeded towards the left. A dog trotted up a road.",1.0,,1,[1]
-"Immediately past the little church, the group of tourists preceded by their guide proceeded towards the left. Up a road a dog trotted.",1.5714,1.0498,7,"[1, 1, 4, 1, 1, 2, 1]"
-"Immediately past the little church, the group of tourists preceded by their guide took an uphill road on the left. A dog trotted up the road.",5.0,,1,[5]
-"Immediately past the little church, the group of tourists preceded by their guide took an uphill road on the left. Up the road a dog trotted.",2.8333,1.0672,6,"[3, 3, 1, 4, 4, 2]"
-"In the afternoon, Kate decided to go to the inauguration of a monument for a donor to the university and there she saw a curious man in a blue suit. Next to the monument the man stood.",2.3333,1.2472,3,"[1, 2, 4]"
-"In the afternoon, Kate decided to go to the inauguration of a monument for a donor to the university and there she saw a curious man in a blue suit. The man stood next to the monument.",3.8571,1.3553,7,"[1, 4, 3, 5, 5, 4, 5]"
-"In the afternoon, Kate decided to go to the inauguration of a monument for a donor to the university. A man stood next to the monument.",3.375,0.9922,8,"[3, 3, 4, 1, 4, 4, 4, 4]"
-"In the afternoon, Kate decided to go to the inauguration of a monument for a donor to the university. Next to the monument a man stood.",3.0,0.8165,3,"[3, 2, 4]"
-"In the afternoon, Kate decided to go to visit one of the most famous public gardens in the city and there she saw a curious man in a blue suit. Next to a monument the man stood.",3.0,0.0,2,"[3, 3]"
-"In the afternoon, Kate decided to go to visit one of the most famous public gardens in the city and there she saw a curious man in a blue suit. The man stood next to a monument.",3.5,0.866,4,"[3, 3, 3, 5]"
-"In the afternoon, Kate decided to go to visit one of the most famous public gardens in the city. A man stood next to a monument.",2.3333,1.2472,3,"[2, 1, 4]"
-"In the afternoon, Kate decided to go to visit one of the most famous public gardens in the city. Next to a monument a man stood.",1.5,0.5,4,"[1, 2, 2, 1]"
-"In the dining hall you could see a fireplace in which several logs were burning, a pendulum clock, a portrait of Churchill, and a huge window with red velvet curtains on either side. Above the fireplace the portrait hung.",2.5,0.5,4,"[3, 3, 2, 2]"
-"In the dining hall you could see a fireplace in which several logs were burning, a pendulum clock, a portrait of Churchill, and a huge window with red velvet curtains on either side. The portrait hung above the fireplace.",4.0,1.0,2,"[3, 5]"
-"In the dining hall you could see a fireplace in which several logs were burning, a pendulum clock, a squared table, and a huge window with red velvet curtains on either side. A portrait hung above the fireplace.",4.75,0.433,4,"[5, 4, 5, 5]"
-"In the dining hall you could see a fireplace in which several logs were burning, a pendulum clock, a squared table, and a huge window with red velvet curtains on either side. Above the fireplace a portrait hung.",3.3333,0.9428,3,"[4, 2, 4]"
-"In the dining hall you could see three sideboards, a pendulum clock, a portrait of Churchill, and a huge window with red velvet curtains on either side. Above a fireplace the portrait hung.",3.0,1.4142,4,"[3, 1, 3, 5]"
-"In the dining hall you could see three sideboards, a pendulum clock, a portrait of Churchill, and a huge window with red velvet curtains on either side. The portrait hung above a fireplace.",4.5,0.5,4,"[4, 5, 4, 5]"
-"In the dining hall you could see three sideboards, a pendulum clock, a squared table, and a huge window with red velvet curtains on either side. A portrait hung above a fireplace.",3.1667,1.5723,6,"[2, 5, 4, 2, 1, 5]"
-"In the dining hall you could see three sideboards, a pendulum clock, a squared table, and a huge window with red velvet curtains on either side. Above a fireplace a portrait hung.",2.7143,1.1606,7,"[3, 4, 1, 3, 4, 1, 3]"
-In the morning the grass on the lawn was wet because it had been raining for the entire night. The neighbors were playing with their dog on the lawn.,3.0,1.1882,34,"[2, 4, 3, 1, 2, 2, 3, 2, 2, 4, 3, 2, 2, 2, 3, 2, 4, 2, 4, 4, 5, 5, 4, 1, 3, 3, 4, 3, 4, 5, 4, 1, 5, 2]"
-"Last Sunday, we went to visit a small village placed on the shore of a lake which is famous for a legend about a mythical creature that was claimed to have inhabited the area. In the lake the creature lived.",2.0,0.7071,4,"[1, 3, 2, 2]"
-"Last Sunday, we went to visit a small village placed on the shore of a lake which is famous for a legend about a mythical creature that was claimed to have inhabited the area. The creature lived in the lake.",3.4286,1.0498,7,"[4, 2, 4, 3, 5, 2, 4]"
-"Last Sunday, we went to visit a small village placed on the shore of a lake which is famous for a legend. A creature lived in the lake.",3.25,0.8292,4,"[4, 2, 4, 3]"
-"Last Sunday, we went to visit a small village placed on the shore of a lake which is famous for a legend. In the lake a creature lived.",1.8,0.7483,5,"[1, 2, 1, 2, 3]"
-"Last Sunday, we went to visit a small village which is famous for a legend about a mythical creature that was claimed to have inhabited the area. In a lake the creature lived.",2.0,0.5774,6,"[2, 2, 1, 2, 3, 2]"
-"Last Sunday, we went to visit a small village which is famous for a legend about a mythical creature that was claimed to have inhabited the area. The creature lived in a lake.",4.0,0.0,2,"[4, 4]"
-"Last Sunday, we went to visit a small village which is famous for a legend. A creature lived in a lake.",4.0,0.8165,3,"[4, 3, 5]"
-"Last Sunday, we went to visit a small village which is famous for a legend. In a lake a creature lived.",1.5,0.5,2,"[2, 1]"
-"Last Tuesday, everyone was shocked by the judge's ruling. Such a verdict was unexpected.",4.0588,1.0831,34,"[4, 5, 4, 5, 4, 1, 4, 5, 3, 4, 5, 4, 4, 1, 4, 5, 4, 5, 5, 2, 5, 4, 5, 2, 5, 4, 4, 5, 5, 5, 4, 4, 4, 4]"
-"Last year, an important company took a beating over privacy concerns. A huge fine was imposed on the company.",4.3529,0.8001,34,"[4, 2, 4, 5, 4, 4, 5, 4, 3, 4, 4, 4, 5, 2, 5, 4, 5, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 4, 5, 4, 4, 5]"
-Lionel told us that at that time his sister was studying medicine. A year later she quit.,4.0909,0.8299,33,"[3, 4, 4, 4, 4, 4, 4, 5, 3, 4, 3, 5, 3, 2, 4, 5, 4, 5, 4, 5, 5, 4, 5, 5, 5, 4, 4, 5, 4, 5, 4, 2, 4]"
-Lisa made it clear that she would never accept that job offer. The work schedule is incompatible with a daily work out.,3.7941,0.9003,34,"[3, 5, 4, 3, 4, 3, 4, 4, 3, 2, 3, 2, 4, 5, 4, 5, 5, 5, 3, 4, 3, 4, 5, 5, 4, 5, 4, 4, 3, 4, 3, 2, 4, 4]"
-Martha was at the station of Salem waiting for a train to Boston when she met a very old man who started to tell his story. The train arrived to the station.,2.0,0.0,4,"[2, 2, 2, 2]"
-Martha was at the station of Salem waiting for a train to Boston when she met a very old man who started to tell his story. To the station the train arrived.,1.0,,1,[1]
-Martha was at the station of Salem when she met a very old man who started to tell his story. A train arrived to the station.,2.7778,1.4741,9,"[1, 1, 4, 2, 5, 3, 2, 2, 5]"
-Martha was at the station of Salem when she met a very old man who started to tell his story. To the station a train arrived.,1.8,1.1662,5,"[1, 1, 2, 1, 4]"
-Martha was in Salem when she met a very old man who started to tell his story. A train arrived to a station.,2.0,0.8165,3,"[3, 1, 2]"
-Martha was in Salem when she met a very old man who started to tell his story. To a station a train arrived.,1.5714,0.4949,7,"[2, 1, 2, 2, 2, 1, 1]"
-Martha was playing with her little kid near the hotel where they were spending their holidays. Into a river the kid fell.,1.8,0.7483,5,"[3, 1, 2, 2, 1]"
-Martha was playing with her little kid near the hotel where they were spending their holidays. The kid fell into a river.,3.25,0.8292,4,"[4, 4, 3, 2]"
-Martha was playing with her little kid on a river bank near the hotel where they were spending their holidays. Into the river the kid fell.,1.6667,0.7454,6,"[2, 2, 1, 1, 3, 1]"
-Martha was playing with her little kid on a river bank near the hotel where they were spending their holidays. The kid fell into the river.,4.0,0.0,4,"[4, 4, 4, 4]"
-Martha was reading a book near the hotel where she was spending her holidays. A kid fell into a river.,2.4,1.3565,5,"[2, 1, 4, 4, 1]"
-Martha was reading a book near the hotel where she was spending her holidays. Into a river a kid fell.,1.625,0.9922,8,"[1, 1, 2, 1, 4, 1, 1, 2]"
-Martha was reading a book on a river bank near the hotel where she was spending her holidays. A kid fell into the river.,2.0,,1,[2]
-Martha was reading a book on a river bank near the hotel where she was spending her holidays. Into the river a kid fell.,2.0,,1,[2]
-Martha was travelling on a train when she met a very old man who started to tell his story. To a station the train arrived.,1.8,0.7483,5,"[3, 2, 1, 2, 1]"
-"On account of their wide experience in climbing, Richard and Ben were voted leaders of the expedition. Everyone was happy about this outcome.",4.303,0.7971,33,"[5, 4, 3, 4, 3, 4, 5, 4, 5, 4, 4, 2, 5, 5, 4, 5, 5, 5, 4, 5, 4, 5, 3, 4, 5, 5, 5, 5, 4, 4, 3, 5, 5]"
-"On the website, it said that yesterday the library would have been open until midnight. Nonetheless, at 8pm the library was already closed.",4.0588,1.1867,34,"[3, 5, 4, 2, 5, 1, 4, 5, 4, 4, 4, 4, 5, 5, 4, 2, 5, 5, 4, 4, 5, 5, 3, 4, 5, 5, 5, 5, 5, 5, 4, 1, 2, 5]"
-Police accused protesters of hurling metal rods and bricks at officers. The protesters pleaded not guilty.,4.0,1.029,34,"[4, 2, 4, 4, 3, 1, 4, 5, 4, 4, 5, 3, 2, 5, 3, 5, 5, 3, 5, 4, 4, 5, 5, 4, 3, 3, 4, 4, 4, 5, 5, 5, 5, 5]"
-Recent experimental findings suggest that infants are aware of the difference between probable and improbable events. An unexpected outcome makes them more alert.,4.0588,1.0831,34,"[2, 5, 4, 5, 5, 3, 3, 4, 4, 4, 1, 4, 2, 5, 4, 5, 5, 5, 5, 2, 5, 5, 5, 4, 4, 4, 5, 5, 3, 4, 5, 5, 3, 4]"
-"Several hours after the beginning of our search, we reached a point where we saw a bicycle completely covered by thick brushwood. Beside a pathway the bicycle was.",1.2,0.4,5,"[1, 1, 1, 2, 1]"
-"Several hours after the beginning of our search, we reached a point where we saw a bicycle completely covered by thick brushwood. The bicycle was beside a pathway.",3.6667,1.2472,3,"[4, 2, 5]"
-"Several hours after the beginning of our search, we reached a point where we saw an object completely covered by thick brushwood. A bicycle was beside a pathway.",2.1429,1.1249,7,"[3, 1, 1, 4, 3, 2, 1]"
-"Several hours after the beginning of our search, we reached a point where we saw an object completely covered by thick brushwood. Beside a pathway a bicycle was.",1.0,0.0,2,"[1, 1]"
-"Several hours after the beginning of our search, we reached a small pathway where we saw a bicycle completely covered by thick brushwood. .Beside the pathway the bicycle was.",1.75,0.8292,4,"[3, 2, 1, 1]"
-"Several hours after the beginning of our search, we reached a small pathway where we saw a bicycle completely covered by thick brushwood. The bicycle was beside the pathway.",3.6667,1.1055,6,"[2, 4, 5, 5, 3, 3]"
-"Several hours after the beginning of our search, we reached a small pathway where we saw an object completely covered by thick brushwood. A bicycle was beside the pathway.",3.5,0.866,4,"[4, 4, 2, 4]"
-"Several hours after the beginning of our search, we reached a small pathway where we saw an object completely covered by thick brushwood. Beside the pathway a bicycle was.",2.3333,1.8856,3,"[1, 5, 1]"
-Simon came out of the church and looked immediately towards the right corner of the street from where the bus to Providence was expected to arrive. Around the corner the bus appeared.,2.5,1.5,4,"[5, 2, 1, 2]"
-Simon came out of the church and looked immediately towards the right corner of the street from where the bus to Providence was expected to arrive. The bus appeared around the corner.,3.5,0.5,2,"[4, 3]"
-Simon came out of the church and looked immediately towards the right corner of the street with an impatient face. A bus appeared around the corner.,4.3333,0.9428,3,"[3, 5, 5]"
-Simon came out of the church and looked immediately towards the right corner of the street with an impatient face. Around the corner a bus appeared.,2.5,1.5,2,"[1, 4]"
-Simon came out of the church and reached the opposite sidewalk where he waited for 30 minutes constantly checking the time. A bus appeared around a corner.,2.5,0.9574,6,"[3, 1, 2, 2, 3, 4]"
-Simon came out of the church and reached the opposite sidewalk where he waited for 30 minutes constantly checking the time. Around a corner a bus appeared.,3.0,1.0,2,"[4, 2]"
-Simon came out of the church and reached the opposite sidewalk where he waited for the bus directed to Providence constantly checking the time. Around a corner the bus appeared.,2.8333,1.3437,6,"[5, 3, 2, 4, 1, 2]"
-Simon came out of the church and reached the opposite sidewalk where he waited for the bus directed to Providence constantly checking the time. The bus appeared around a corner.,3.3333,0.9428,9,"[4, 2, 3, 3, 2, 5, 4, 3, 4]"
-Sonia was visiting Ventor on the Isle of Wight with her new boyfriend when something unexpected happened. A wave crashed over a seawall.,4.0,0.6325,5,"[4, 4, 4, 3, 5]"
-Sonia was visiting Ventor on the Isle of Wight with her new boyfriend when something unexpected happened. Over a seawall a wave crashed.,2.0,1.0954,5,"[1, 2, 1, 2, 4]"
-Sonia was walking in Ventor on the Isle of Wight with her new boyfriend when they saw an approaching huge wave. Over a seawall the wave crashed.,3.0,,1,[3]
-Sonia was walking in Ventor on the Isle of Wight with her new boyfriend when they saw an approaching huge wave. The wave crashed over a seawall.,4.5,0.5,2,"[4, 5]"
-Sonia was walking on a seawall in Ventor on the Isle of Wight with her new boyfriend when something unexpected happened. A wave crashed over the seawall.,4.0,0.0,2,"[4, 4]"
-Sonia was walking on a seawall in Ventor on the Isle of Wight with her new boyfriend when something unexpected happened. Over the seawall a wave crashed.,2.3333,1.2472,6,"[2, 4, 1, 1, 2, 4]"
-Sonia was walking on a seawall in Ventor on the Isle of Wight with her new boyfriend when they saw an approaching huge wave. Over the seawall the wave crashed.,2.1429,1.1249,7,"[3, 1, 2, 4, 3, 1, 1]"
-Sonia was walking on a seawall in Ventor on the Isle of Wight with her new boyfriend when they saw an approaching huge wave. The wave crashed over the seawall.,4.6667,0.4714,6,"[5, 4, 5, 4, 5, 5]"
-Susan was sleeping in her room while a thief approached her house. The thief climbed through a window.,4.0,0.5774,6,"[4, 4, 3, 5, 4, 4]"
-Susan was sleeping in her room while a thief approached her house. Through a window the thief climbed.,2.75,1.0897,4,"[3, 3, 4, 1]"
-Susan was sleeping in her room with one of the windows open which was noticed by a thief. The thief climbed through the window.,4.1667,0.6872,6,"[4, 4, 5, 3, 5, 4]"
-Susan was sleeping in her room with one of the windows open which was noticed by a thief. Through the window the thief climbed.,3.0,,1,[3]
-Susan was sleeping in her room with one of the windows open. A thief climbed through the window.,4.25,0.433,4,"[4, 4, 4, 5]"
-Susan was sleeping in her room with one of the windows open. Through the window a thief climbed.,2.3333,0.4714,6,"[2, 3, 2, 3, 2, 2]"
-Susan was sleeping in her room with the air conditioner on. A thief climbed through a window.,2.8,1.1662,5,"[4, 2, 3, 1, 4]"
-Susan was sleeping in her room with the air conditioner on. Through a window a thief climbed.,1.0,0.0,2,"[1, 1]"
-"The ambassador invited 60 guests to celebrate her birthday. Only 45 showed up to the party, though.",4.4118,0.7323,34,"[3, 5, 4, 3, 4, 4, 4, 5, 4, 4, 5, 4, 5, 5, 4, 5, 3, 5, 5, 3, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 3, 4, 5]"
-"The bedroom was cozy and and its furniture included a desk, an office chair with wheels, and a twin bed. A cabinet sat next to the desk.",3.0,1.2247,4,"[3, 5, 2, 2]"
-"The bedroom was cozy and and its furniture included a desk, an office chair with wheels, and a twin bed. Next to the desk a cabinet sat.",2.3333,0.9428,6,"[3, 1, 2, 2, 4, 2]"
-"The bedroom was cozy and and its furniture included a floor lamp, an office chair with wheels, and a twin bed. A cabinet sat next to a desk.",3.3333,0.9428,3,"[2, 4, 4]"
-"The bedroom was cozy and and its furniture included a floor lamp, an office chair with wheels, and a twin bed. Next to a desk a cabinet sat.",1.75,0.433,4,"[2, 2, 2, 1]"
-"The bedroom was cozy and its furniture included a desk, a six drawer cabinet, and a twin bed. Next to the desk the cabinet sat.",2.4444,1.2571,9,"[3, 5, 2, 1, 1, 2, 4, 2, 2]"
-"The bedroom was cozy and its furniture included a desk, a six drawer cabinet, and a twin bed. The cabinet sat next to the desk.",4.0,0.6325,5,"[4, 4, 5, 3, 4]"
-"The bedroom was cozy and its furniture included a floor lamp, a six drawer cabinet, and a twin bed. The cabinet sat next to a desk.",3.3333,0.9428,3,"[2, 4, 4]"
-"The boyfriend sent his girlfriend very expensive flowers. However, she had told him not to do it.",3.8824,0.963,34,"[3, 5, 4, 4, 3, 5, 4, 4, 3, 4, 4, 4, 3, 5, 4, 2, 5, 5, 4, 3, 5, 2, 5, 2, 4, 4, 4, 5, 5, 4, 5, 3, 4, 2]"
-The children were in the town park playing with a ball but soon stopped playing to chase after a squirrel that had attracted their attention. Out from a bush the squirrel jumped.,2.5,1.5,4,"[4, 1, 1, 4]"
-The children were in the town park playing with a ball but soon stopped playing to chase after a squirrel that had attracted their attention. The squirrel jumped out from a bush.,4.0,0.6325,5,"[3, 5, 4, 4, 4]"
-The children were in the town park playing with a ball but soon stopped playing. A squirrel jumped out from a bush.,5.0,,1,[5]
-The children were in the town park playing with a ball but soon stopped playing. Out from a bush a squirrel jumped.,3.0,1.0,2,"[2, 4]"
-The children were in the town park playing with a ball which ended up close to a bush where a squirrel was hiding. Out from the bush the squirrel jumped.,2.5,0.9574,6,"[3, 1, 2, 4, 2, 3]"
-The children were in the town park playing with a ball which ended up close to a bush where a squirrel was hiding. The squirrel jumped out from the bush.,4.625,0.696,8,"[5, 3, 5, 5, 5, 5, 5, 4]"
-The children were in the town park playing with a ball which ended up close to a bush. A squirrel jumped out from the bush.,3.8,0.9798,5,"[3, 3, 5, 3, 5]"
-The children were in the town park playing with a ball which ended up close to a bush. Out from the bush a squirrel jumped.,3.6667,0.4714,3,"[4, 3, 4]"
-"The college student was wondering whether to go to the end-of-semester party. Eventually, he decided to go.",4.5588,0.6035,34,"[4, 5, 4, 3, 4, 3, 5, 5, 5, 4, 5, 5, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 4, 5, 5, 4, 5, 5, 4, 5, 5]"
-The delivery man was already there when they arrived home. The man had been waiting for at least 15 minutes.,4.4412,0.8468,34,"[3, 5, 4, 2, 4, 3, 4, 5, 4, 4, 5, 4, 5, 5, 4, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 4]"
-"The first room that the real estate agent showed Mary was a living room with a finely carved table in the middle, a Cuckoo clock on a wall, and a colorful couch in one of the corners. Over the table the clock towered.",3.0,1.0,6,"[3, 1, 4, 4, 3, 3]"
-"The first room that the real estate agent showed Mary was a living room with a finely carved table in the middle, a Cuckoo clock on a wall, and a colorful couch in one of the corners. The clock towered over the table.",3.6,1.0198,5,"[4, 5, 2, 4, 3]"
-"The first room that the real estate agent showed Mary was a living room with a finely carved table in the middle, a wooden bookcase, and a colorful couch in one of the corners. A clock towered over the table.",2.0,0.0,4,"[2, 2, 2, 2]"
-"The first room that the real estate agent showed Mary was a living room with a finely carved table in the middle, a wooden bookcase, and a colorful couch in one of the corners. Over the table a clock towered.",2.3333,1.2472,6,"[2, 2, 2, 1, 5, 2]"
-"The first room that the real estate agent showed Mary was a living room with an impressively big curved TV, a Cuckoo clock on a wall, and a colorful couch in one of the corners. Over a table the clock towered.",2.0,0.0,2,"[2, 2]"
-"The first room that the real estate agent showed Mary was a living room with an impressively big curved TV, a Cuckoo clock on a wall, and a colorful couch in one of the corners. The clock towered over a table.",3.6667,1.2472,3,"[2, 5, 4]"
-"The first room that the real estate agent showed Mary was a living room with an impressively big curved TV, a wooden bookcase, and a colorful couch in one of the corners. A clock towered over a table.",3.2,0.7483,5,"[3, 4, 3, 4, 2]"
-"The first room that the real estate agent showed Mary was a living room with an impressively big curved TV, a wooden bookcase, and a colorful couch in one of the corners. Over a table a clock towered.",1.6667,0.4714,3,"[2, 1, 2]"
-The football players decided that before the next game they needed to talk to their coach. A serious problem had arisen in the team.,4.2353,0.8765,34,"[4, 4, 4, 5, 4, 5, 5, 4, 4, 3, 5, 4, 3, 5, 5, 5, 4, 5, 5, 5, 5, 3, 4, 1, 3, 4, 4, 4, 5, 4, 5, 5, 5, 4]"
-"The letter with the announcement of their uncle's death reached them late. So, they didn't come to the funeral.",4.0588,0.9056,34,"[4, 5, 2, 4, 3, 5, 4, 5, 2, 4, 5, 4, 4, 5, 4, 4, 3, 5, 5, 3, 5, 4, 4, 4, 5, 3, 4, 4, 4, 4, 5, 2, 5, 5]"
-The magician entered the stage a handkerchief in one of his hands and wearing a blue tuxedo. A frog appeared out from a hat.,2.5,1.118,4,"[2, 4, 3, 1]"
-The magician entered the stage a handkerchief in one of his hands and wearing a blue tuxedo. Out from a hat a frog appeared.,1.6667,0.4714,3,"[2, 2, 1]"
-The magician entered the stage with a frog in one of his hands which he then put in one his pockets. Out from a hat the frog appeared.,2.8,1.4697,5,"[5, 1, 4, 2, 2]"
-The magician entered the stage with a frog in one of his hands which he then put in one his pockets. The frog appeared out from a hat.,2.5,1.5,2,"[1, 4]"
-The magician entered the stage with an empty hat in one of his hands and a frog in the other which he then put in one his pockets. Out from the hat the frog appeared.,2.3333,0.4714,6,"[3, 2, 3, 2, 2, 2]"
-The magician entered the stage with an empty hat in one of his hands and a frog in the other which he then put in one his pockets. The frog appeared out from the hat.,3.75,1.0897,4,"[4, 2, 5, 4]"
-The magician entered the stage with an empty hat in one of his hands and wearing a blue tuxedo. A frog appeared out from the hat.,3.375,0.857,8,"[3, 4, 3, 3, 4, 3, 2, 5]"
-The magician entered the stage with an empty hat in one of his hands and wearing a blue tuxedo. Out from the hat a frog appeared.,2.5,0.5,2,"[2, 3]"
-"The neighborhood where I was used to live as a child included a cinema, a condominium, and several single-family homes. A villa was behind the condominium.",3.2,0.9798,5,"[4, 2, 4, 2, 4]"
-"The neighborhood where I was used to live as a child included a cinema, a condominium, and several single-family homes. Behind the condominium a villa was.",1.4,0.4899,5,"[2, 1, 1, 2, 1]"
-"The neighborhood where I was used to live as a child included a cinema, a hospital, and several single-family homes. A villa was behind a condominium.",1.3333,0.7454,6,"[1, 1, 3, 1, 1, 1]"
-"The neighborhood where I was used to live as a child included a cinema, a hospital, and several single-family homes. Behind a condominium a villa was.",1.4,0.4899,5,"[2, 1, 2, 1, 1]"
-"The neighborhood where I was used to live as a child included a majestic villa, a condominium, and several single-family homes. Behind the condominium the villa was.",1.6667,0.4714,3,"[1, 2, 2]"
-"The neighborhood where I was used to live as a child included a majestic villa, a condominium, and several single-family homes. The villa was behind the condominium.",3.75,0.433,4,"[4, 3, 4, 4]"
-"The neighborhood where I was used to live as a child included a majestic villa, a hospital, and several single-family homes. Behind a condominium the villa was.",2.0,,1,[2]
-"The neighborhood where I was used to live as a child included a majestic villa, a hospital, and several single-family homes. The villa was behind a condominium.",3.0,1.2649,5,"[4, 2, 2, 5, 2]"
-"The police officer entered the room and saw a half-empty whiskey bottle, a broken chair, a box, and a scary painting. A weapon lay behind the box.",2.6667,0.4714,3,"[3, 2, 3]"
-"The police officer entered the room and saw a half-empty whiskey bottle, a broken chair, a box, and a scary painting. Behind the box a weapon lay.",3.0,0.8165,3,"[3, 4, 2]"
-"The police officer entered the room and saw a half-empty whiskey bottle, a broken chair, an open cupboard, and a scary painting. A weapon lay behind a box.",3.5,0.866,4,"[4, 4, 2, 4]"
-"The police officer entered the room and saw a half-empty whiskey bottle, a broken chair, an open cupboard, and a scary painting. Behind a box a weapon lay.",2.2,1.1662,5,"[1, 1, 3, 2, 4]"
-"The police officer entered the room and saw a hunting weapon, a broken chair, a box, and a scary painting. Behind the box the weapon lay.",2.6667,0.7454,6,"[4, 3, 3, 2, 2, 2]"
-"The police officer entered the room and saw a hunting weapon, a broken chair, a box, and a scary painting. The weapon lay behind the box.",3.5,0.5,2,"[3, 4]"
-"The police officer entered the room and saw a hunting weapon, a broken chair, an open cupboard, and a scary painting. Behind a box the weapon lay.",1.8,0.4,5,"[1, 2, 2, 2, 2]"
-"The police officer entered the room and saw a hunting weapon, a broken chair, an open cupboard, and a scary painting. The weapon lay behind a box.",2.6667,1.2472,6,"[1, 1, 4, 4, 3, 3]"
-The professor announced that at the end of the academic year he would retire. A student sent the professor a gift.,4.0294,0.7854,34,"[3, 4, 4, 4, 4, 3, 5, 4, 3, 4, 4, 3, 5, 3, 5, 5, 3, 5, 5, 5, 5, 4, 4, 4, 3, 4, 4, 5, 3, 5, 4, 3, 3, 5]"
-The professor proposed that for the remaining classes students be responsible for leading the discussion of the papers. A student refused to do so.,3.5588,0.9759,34,"[3, 4, 3, 3, 2, 1, 4, 2, 2, 3, 4, 3, 4, 5, 4, 5, 3, 4, 4, 4, 4, 4, 4, 2, 4, 3, 4, 5, 3, 5, 3, 4, 4, 5]"
-The student petitioned a professor regarding a course. The professor approved the petition without problems.,4.3235,0.5801,34,"[4, 5, 4, 5, 4, 5, 5, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 5, 4, 3, 4, 5, 5, 4, 5, 4, 5, 5, 5, 4, 3, 5, 4]"
-"To entertain her daughter, Susi started to sing opera arias from Verdi's Rigoletto. This opera was her daughter's favorite.",4.5294,0.6524,34,"[3, 5, 4, 5, 3, 4, 5, 5, 4, 5, 4, 4, 5, 5, 4, 3, 4, 5, 5, 5, 5, 4, 5, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5]"
-"To the great admiration of all the bystanders, Jack jumped in the cold water. A drowning child was rescued.",2.9706,1.0977,34,"[2, 3, 2, 3, 3, 1, 4, 2, 2, 4, 2, 3, 2, 4, 4, 3, 4, 3, 5, 3, 5, 3, 5, 1, 2, 3, 2, 2, 2, 2, 3, 3, 5, 4]"
-"When Jack opened the door of the cottage the first thing he laid eyes on were a broken couch, a round table, a bed with an iron frame, and a kettle boiling on the fire. A cat lay in a basket.",3.0,1.4142,6,"[5, 2, 2, 1, 4, 4]"
-"When Jack opened the door of the cottage the first thing he laid eyes on were a broken couch, a round table, a bed with an iron frame, and a kettle boiling on the fire. In a basket a cat lay.",2.5714,1.0498,7,"[2, 2, 3, 2, 1, 4, 4]"
-"When Jack opened the door of the cottage the first things he laid eyes on were a basket, a round table, a bed with an iron frame, and a kettle boiling on the fire. A cat lay in the basket.",4.1667,0.6872,6,"[3, 4, 4, 5, 4, 5]"
-"When Jack opened the door of the cottage the first things he laid eyes on were a basket, a round table, a bed with an iron frame, and a kettle boiling on the fire. In the basket a cat lay.",2.0,0.0,2,"[2, 2]"
-"When Jack opened the door of the cottage the first things he laid eyes on were a basket, a round table, a large sleepy black cat, and a kettle boiling on the fire. In the basket the cat lay.",2.5,1.118,4,"[3, 1, 4, 2]"
-"When Jack opened the door of the cottage the first things he laid eyes on were a basket, a round table, a large sleepy black cat, and a kettle boiling on the fire. The cat lay in the basket.",3.0,1.0,2,"[4, 2]"
-"When Jack opened the door of the cottage the first things he laid eyes on were a broken couch, a round table, a large sleepy black cat, and a kettle boiling on the fire. The cat lay in a basket.",3.5714,1.4983,7,"[5, 1, 3, 4, 5, 5, 2]"
-"When the police officers entered the room, Jock was drinking and playing poker. The officers arrested him immediately.",4.2647,0.9795,34,"[3, 5, 4, 4, 4, 2, 3, 5, 3, 4, 4, 2, 2, 5, 3, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 4, 5, 5]"
-"When visiting Marc's house, Paul noticed these peculiar objects: a Persian rug, a golden chandelier, a chair probably dating back to the 1700s, and an oil lamp. A statue stood next to the chair.",4.0,0.0,2,"[4, 4]"
-"When visiting Marc's house, Paul noticed these peculiar objects: a Persian rug, a golden chandelier, a chair probably dating back to the 1700s, and an oil lamp. Next to the chair a statue stood.",2.6,0.8,5,"[3, 2, 2, 4, 2]"
-"When visiting Marc's house, Paul noticed these peculiar objects: a Persian rug, a golden chandelier, an arched mirror, and an oil lamp. A statue stood next to a chair.",3.1667,1.0672,6,"[3, 3, 5, 2, 4, 2]"
-"When visiting Marc's house, Paul noticed these peculiar objects: a Persian rug, a golden chandelier, an arched mirror, and an oil lamp. Next to a chair a statue stood.",1.5,0.5,2,"[1, 2]"
-"When visiting Marc's house, Paul noticed these peculiar objects: a huge statue representing a medieval knight, a golden chandelier, a chair probably dating back to the 1700s, and an oil lamp. Next to the chair the statue stood.",2.5,0.5,2,"[3, 2]"
-"When visiting Marc's house, Paul noticed these peculiar objects: a huge statue representing a medieval knight, a golden chandelier, a chair probably dating back to the 1700s, and an oil lamp. The statue stood next to the chair.",3.4,1.0198,5,"[3, 2, 5, 3, 4]"
-"When visiting Marc's house, Paul noticed these peculiar objects: a huge statue representing a medieval knight, a golden chandelier, an arched mirror, and an oil lamp. Next to a chair the statue stood.",1.5,0.7638,6,"[1, 1, 2, 1, 1, 3]"
-"When visiting Marc's house, Paul noticed these peculiar objects: a huge statue representing a medieval knight, a golden chandelier, an arched mirror, and an oil lamp. The statue stood next to a chair.",4.0,1.1547,6,"[5, 3, 2, 5, 4, 5]"
-"While entering the hotel hall, Margot noticed that the walls were almost completely unadorned. Only a few paintings hung on the walls.",4.1765,0.8565,34,"[3, 5, 4, 4, 4, 3, 4, 5, 4, 5, 4, 4, 3, 2, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 4, 5, 4, 5, 4, 3, 3, 4]"
-"Wisely, the Congress has decided to reject the Education Reform Bill. The bill had been opposed by public opinion.",3.8529,1.0328,34,"[4, 5, 4, 4, 3, 2, 5, 2, 4, 4, 4, 4, 3, 5, 4, 4, 5, 5, 2, 3, 4, 3, 5, 5, 4, 5, 5, 5, 5, 2, 4, 3, 3, 2]"
-"With the exception of James, none of us stayed at the party until the end. After the host's speech, we went home.",3.9118,1.0946,34,"[3, 4, 4, 4, 4, 4, 4, 2, 3, 5, 3, 2, 4, 5, 4, 5, 5, 5, 5, 3, 5, 5, 5, 2, 5, 4, 4, 5, 4, 5, 4, 2, 4, 1]"
-Within the company there were serious concerns about the Chief Executive's conduct. A rumor had circulated about an extramarital affair.,4.3529,0.7228,34,"[3, 4, 4, 5, 4, 4, 4, 5, 3, 4, 5, 4, 5, 5, 4, 5, 5, 5, 4, 5, 5, 4, 5, 2, 4, 4, 5, 5, 5, 4, 5, 4, 4, 5]"
-"Without the help of his older brother, Devon would have been a homeless person. The brother lent him a huge amount of money.",3.6765,1.1561,34,"[4, 4, 4, 4, 2, 1, 5, 2, 2, 5, 3, 4, 4, 5, 5, 1, 4, 5, 3, 4, 4, 3, 5, 3, 4, 3, 4, 5, 2, 4, 3, 5, 4, 5]"
+unit,mean,std,n,individual_ratings,item_type
+"A group of high-school students had just come out of their bus and were walking towards the museum of natural history, when a truck going way too fast appeared at the end of the street. Into the bus the truck crashed.",1.75,0.9574,4,"[1, 1, 3, 2]",test
+"A group of high-school students had just come out of their bus and were walking towards the museum of natural history, when a truck going way too fast appeared at the end of the street. The truck crashed into the bus.",3.5,0.7071,2,"[3, 4]",test
+"A group of high-school students had just come out of their bus and were walking towards the museum of natural history, when an accident happened. A truck crashed into the bus.",3.875,1.126,8,"[3, 2, 5, 5, 3, 5, 4, 4]",test
+"A group of high-school students had just come out of their bus and were walking towards the museum of natural history, when an accident happened. Into the bus a truck crashed.",1.1667,0.4082,6,"[1, 2, 1, 1, 1, 1]",test
+A group of high-school students were walking towards the museum of natural history when an accident happened. A truck crashed into a bus.,4.2,0.8367,5,"[5, 5, 3, 4, 4]",test
+"A group of high-school students were walking towards the museum of natural history, when a truck going way too fast appeared at the end of the street. Into a bus the truck crashed.",1.6667,0.5774,3,"[1, 2, 2]",test
+"A group of high-school students were walking towards the museum of natural history, when a truck going way too fast appeared at the end of the street. The truck crashed into a bus.",4.0,,1,[4],test
+"A group of high-school students were walking towards the museum of natural history, when an accident happened. Into a bus a truck crashed.",1.5,1.0,4,"[1, 1, 3, 1]",test
+A patient apologized to his doctor for having missed the noon appointment. The doctor agreed to see him early tomorrow.,4.4706,0.5633,34,"[4, 5, 4, 4, 4, 4, 4, 5, 5, 4, 4, 4, 4, 5, 4, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 4, 5, 4, 5, 4, 3, 5, 4]",filler
+"According to a new scientific study, by walking 1 hour a day, one can prevent health problems such as heart disease and type 2 diabetes. A simple walk can save a life.",4.3235,0.9445,34,"[4, 2, 4, 5, 4, 3, 4, 2, 5, 5, 2, 4, 4, 5, 4, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4, 3, 5, 5]",filler
+"According to the judge's decision, the company had to pay compensation to the claimants. The company appealed against the decision.",4.1765,0.8694,34,"[3, 5, 4, 5, 4, 4, 5, 2, 4, 4, 5, 4, 3, 5, 4, 5, 5, 5, 5, 2, 3, 5, 4, 4, 4, 5, 5, 5, 4, 4, 3, 5, 4, 4]",filler
+"After a few minutes of searching, I finally found my seat but it was already occupied by a a middle-aged woman chatting with someone at the phone. In front of a child the woman sat.",1.8,1.3038,5,"[1, 4, 2, 1, 1]",test
+"After a few minutes of searching, I finally found my seat but it was already occupied by a a middle-aged woman chatting with someone at the phone. The woman sat in front of a child.",2.0,1.7321,3,"[4, 1, 1]",test
+"After a few minutes of searching, I finally found my seat but it was already occupied by a young child chatting with a middle-aged woman. In front of the child the woman sat.",2.4,0.8944,5,"[2, 2, 2, 4, 2]",test
+"After a few minutes of searching, I finally found my seat but it was already occupied by a young child chatting with a middle-aged woman. The woman sat in front of the child.",4.3333,0.5774,3,"[4, 4, 5]",test
+"After a few minutes of searching, I finally found my seat but it was already occupied by a young child chatting with someone at the phone. A woman sat in front of the child.",2.5,1.3784,6,"[1, 1, 3, 2, 4, 4]",test
+"After a few minutes of searching, I finally found my seat but it was already occupied by a young child chatting with someone at the phone. In front of the child a woman sat.",3.3333,0.5774,3,"[3, 4, 3]",test
+"After a few minutes of searching, I finally found my seat but it was already occupied. A woman sat in front of a child.",2.4,1.1402,5,"[4, 1, 2, 3, 2]",test
+"After a few minutes of searching, I finally found my seat but it was already occupied. In front of a child a woman sat.",1.75,0.5,4,"[2, 1, 2, 2]",test
+"After a long walk up the mountain, they finally reached a place where they saw a bog, a Swiss chalet, and a small stream. A woman lived in the chalet.",2.5,0.7071,2,"[2, 3]",test
+"After a long walk up the mountain, they finally reached a place where they saw a bog, a Swiss chalet, and a small stream. In the chalet a woman lived.",2.6667,1.0328,6,"[3, 4, 1, 3, 3, 2]",test
+"After a long walk up the mountain, they finally reached a place where they saw a bog, a few tents, and a small stream. A woman lived in a chalet.",2.0,0.0,2,"[2, 2]",test
+"After a long walk up the mountain, they finally reached a place where they saw a bog, a few tents, and a small stream. In a chalet a woman lived.",1.4,0.5477,5,"[1, 1, 2, 1, 2]",test
+"After a long walk up the mountain, they finally reached a place where they saw an old woman carrying potatoes, a Swiss chalet, and a small stream. In the chalet the woman lived.",2.0,1.0954,6,"[1, 2, 2, 4, 1, 2]",test
+"After a long walk up the mountain, they finally reached a place where they saw an old woman carrying potatoes, a Swiss chalet, and a small stream. The woman lived in the chalet.",3.0,1.7321,3,"[2, 2, 5]",test
+"After a long walk up the mountain, they finally reached a place where they saw an old woman carrying potatoes, a few tents, and a small stream. In a chalet the woman lived.",1.5714,0.5345,7,"[1, 1, 2, 2, 2, 2, 1]",test
+"After a long walk up the mountain, they finally reached a place where they saw an old woman carrying potatoes, a few tents, and a small stream. The woman lived in a chalet.",3.0,1.0,3,"[3, 2, 4]",test
+Around noon we were waiting in front of the cathedral and we saw a red car stopping close to a well-dressed boy who had been standing there for about 10 minutes. Into the car the boy stepped.,3.6667,1.1547,3,"[5, 3, 3]",test
+Around noon we were waiting in front of the cathedral and we saw a red car stopping close to a well-dressed boy who had been standing there for about 10 minutes. The boy stepped into the car.,3.75,0.5,4,"[4, 3, 4, 4]",test
+Around noon we were waiting in front of the cathedral and we saw a red car stopping close to us. A boy stepped into the car.,3.3333,1.5275,3,"[5, 3, 2]",test
+Around noon we were waiting in front of the cathedral and we saw a red car stopping close to us. Into the car a boy stepped.,1.5,0.5774,4,"[1, 2, 1, 2]",test
+Around noon we were waiting in front of the cathedral and we saw a well-dressed boy who had been standing there for about 10 minutes. Into a car the boy stepped.,1.5556,1.0138,9,"[2, 1, 1, 2, 1, 1, 4, 1, 1]",test
+Around noon we were waiting in front of the cathedral and we saw a well-dressed boy who had been standing there for about 10 minutes. The boy stepped into a car.,3.1667,1.169,6,"[3, 2, 5, 3, 2, 4]",test
+Around noon we were waiting in front of the cathedral and we were getting frustrated because of the delay of our ride. A boy stepped into a car.,2.0,,1,[2],test
+Around noon we were waiting in front of the cathedral and we were getting frustrated because of the delay of our ride. Into a car a boy stepped.,2.25,1.2583,4,"[2, 4, 1, 2]",test
+"As a matter of fact, none of her friends can stand Laine's moody behavior. Everyone has to deal with her constant whims.",3.9412,1.0428,34,"[3, 1, 4, 5, 3, 3, 5, 4, 4, 3, 3, 4, 3, 4, 5, 5, 3, 5, 5, 2, 5, 4, 5, 4, 5, 4, 2, 4, 4, 5, 4, 5, 4, 5]",filler
+Bates admitted that on the whole he found his new job satisfying. The salary was guaranteeing him financial security.,4.0588,0.9516,34,"[4, 3, 5, 4, 3, 5, 4, 2, 5, 4, 4, 4, 5, 5, 4, 5, 5, 4, 3, 3, 5, 4, 5, 4, 1, 5, 5, 5, 4, 3, 4, 4, 4, 4]",filler
+"Because of the drought, the price of bread was high that year. Many grain farmers had to face a very difficult time.",3.8824,1.1485,34,"[4, 4, 4, 5, 3, 1, 4, 2, 5, 2, 4, 4, 3, 5, 4, 4, 5, 5, 4, 4, 5, 4, 5, 2, 4, 5, 5, 5, 4, 4, 3, 1, 5, 4]",filler
+"Before yesterday, for three months Gary hadn't spoken to Jesse at all. A silly misunderstanding had originated the rift.",3.4118,1.1578,34,"[4, 5, 3, 5, 4, 2, 5, 5, 2, 3, 2, 4, 4, 2, 3, 3, 4, 5, 2, 2, 4, 2, 5, 2, 4, 3, 2, 2, 4, 4, 2, 4, 4, 5]",filler
+Bradley fears that at the concert his girlfriend might have a panic attack. At the concert there will be lots of people.,3.5882,0.9883,34,"[2, 4, 3, 3, 3, 4, 4, 2, 3, 4, 3, 3, 4, 2, 5, 3, 4, 5, 4, 3, 4, 4, 5, 1, 2, 4, 4, 4, 4, 5, 4, 5, 4, 4]",filler
+Brook is firmly convinced that with hard work and perseverance anyone can obtain a good position. Her boyfriend is less optimistic.,4.5882,0.8209,34,"[4, 5, 4, 5, 4, 4, 4, 5, 4, 3, 5, 5, 1, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]",filler
+Carol was in her dentist's waiting room when a cute little cat entered the room. Onto a sofa the cat jumped.,2.25,0.5,4,"[3, 2, 2, 2]",test
+Carol was in her dentist's waiting room when a cute little cat entered the room. The cat jumped onto a sofa.,4.75,0.5,4,"[4, 5, 5, 5]",test
+Carol was in her dentist's waiting room with an anxious face. A cat jumped onto a sofa.,1.5,0.5477,6,"[1, 2, 1, 2, 2, 1]",test
+Carol was in her dentist's waiting room with an anxious face. Onto a sofa a cat jumped.,1.3333,0.5774,3,"[1, 2, 1]",test
+Carol was sitting on a sofa in her dentist's waiting room when a cute little cat entered the room. Onto the sofa the cat jumped.,2.0,0.0,2,"[2, 2]",test
+Carol was sitting on a sofa in her dentist's waiting room when a cute little cat entered the room. The cat jumped onto the sofa.,4.5,0.5477,6,"[4, 5, 4, 5, 4, 5]",test
+Carol was sitting on a sofa in her dentist's waiting room with an anxious face. A cat jumped onto the sofa.,5.0,0.0,2,"[5, 5]",test
+Carol was sitting on a sofa in her dentist's waiting room with an anxious face. Onto the sofa a cat jumped.,2.2857,0.7559,7,"[3, 1, 2, 3, 2, 2, 3]",test
+"Despite strong pressure from the government, the unions have refused to order a return to work. Public opinion is against the union's decision.",3.7941,0.8083,34,"[3, 3, 4, 4, 4, 3, 3, 4, 3, 4, 4, 3, 2, 5, 4, 4, 5, 5, 4, 3, 4, 3, 4, 5, 4, 4, 5, 5, 4, 4, 4, 4, 3, 2]",filler
+Elton is such a nice guy and he would do anything for his friends. A person like him is needed in this individualistic society.,3.8235,1.0863,34,"[3, 3, 4, 5, 5, 4, 4, 2, 2, 3, 2, 5, 4, 5, 4, 4, 5, 5, 5, 2, 5, 3, 5, 2, 5, 4, 5, 3, 4, 4, 4, 2, 4, 4]",filler
+"Even though the sky was pretty cloudy, the temperature outside was still quite pleasant. An old woman decided to go for a walk.",3.3529,1.2764,34,"[2, 1, 4, 2, 3, 4, 3, 4, 1, 4, 4, 4, 5, 3, 3, 4, 3, 4, 5, 4, 5, 5, 4, 1, 1, 3, 5, 5, 3, 5, 3, 2, 3, 2]",filler
+"For the sake of millions of citizens, a new healthcare system is absolutely needed. The president should be spending more time on this issue.",4.7059,0.5239,34,"[3, 4, 4, 5, 4, 4, 5, 5, 5, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5]",filler
+"From her house, Sue had a perfect view of a hangar in the nearby military base where a gigantic aircraft was stored. Out from the hangar the aircraft rolled.",1.5,0.7071,2,"[1, 2]",test
+"From her house, Sue had a perfect view of a hangar in the nearby military base where a gigantic aircraft was stored. The aircraft rolled out from the hangar.",3.25,1.2583,4,"[2, 5, 3, 3]",test
+"From her house, Sue had a perfect view of a hangar in the nearby military base where the air force personell was performing some operations. An aircraft rolled out from the hangar.",4.5,0.5774,4,"[4, 4, 5, 5]",test
+"From her house, Sue had a perfect view of a hangar in the nearby military base where the air force personell was performing some operations. Out from the hangar an aircraft rolled.",1.0,0.0,3,"[1, 1, 1]",test
+"From her house, Sue had a perfect view of a nearby military base where a gigantic aircraft was stored. Out from a hangar the aircraft rolled.",2.4286,1.2724,7,"[2, 1, 4, 2, 4, 1, 3]",test
+"From her house, Sue had a perfect view of a nearby military base where a gigantic aircraft was stored. The aircraft rolled out from a hangar.",4.3333,0.5164,6,"[4, 4, 5, 4, 4, 5]",test
+"From her house, Sue had a perfect view of the nearby military base where the air force personell was performing some operations. An aircraft rolled out from a hangar.",3.3333,1.5275,3,"[5, 2, 3]",test
+"From her house, Sue had a perfect view of the nearby military base where the air force personell was performing some operations. Out from a hangar an aircraft rolled.",3.0,1.4142,5,"[4, 2, 1, 4, 4]",test
+Gerard is admired by his colleagues. He is a hard-working person.,4.6765,0.5888,34,"[4, 5, 4, 5, 5, 4, 5, 5, 5, 5, 5, 4, 3, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 3, 4, 5, 5, 5, 5, 5, 4, 5, 5, 5]",filler
+"Immediately past the little church, the group of tourists preceded by a dog proceeded towards the left. The dog trotted up a road.",3.25,1.3887,8,"[2, 3, 5, 4, 5, 3, 1, 3]",test
+"Immediately past the little church, the group of tourists preceded by a dog proceeded towards the left. Up a road the dog trotted.",2.5,1.3784,6,"[4, 4, 1, 1, 2, 3]",test
+"Immediately past the little church, the group of tourists preceded by a dog took an uphill road on the left. The dog trotted up the road.",3.0,,1,[3],test
+"Immediately past the little church, the group of tourists preceded by a dog took an uphill road on the left. Up the road the dog trotted.",3.5,1.0,4,"[4, 4, 2, 4]",test
+"Immediately past the little church, the group of tourists preceded by their guide proceeded towards the left. A dog trotted up a road.",1.0,,1,[1],test
+"Immediately past the little church, the group of tourists preceded by their guide proceeded towards the left. Up a road a dog trotted.",1.5714,1.1339,7,"[1, 1, 4, 1, 1, 2, 1]",test
+"Immediately past the little church, the group of tourists preceded by their guide took an uphill road on the left. A dog trotted up the road.",5.0,,1,[5],test
+"Immediately past the little church, the group of tourists preceded by their guide took an uphill road on the left. Up the road a dog trotted.",2.8333,1.169,6,"[3, 3, 1, 4, 4, 2]",test
+"In the afternoon, Kate decided to go to the inauguration of a monument for a donor to the university and there she saw a curious man in a blue suit. Next to the monument the man stood.",2.3333,1.5275,3,"[1, 2, 4]",test
+"In the afternoon, Kate decided to go to the inauguration of a monument for a donor to the university and there she saw a curious man in a blue suit. The man stood next to the monument.",3.8571,1.4639,7,"[1, 4, 3, 5, 5, 4, 5]",test
+"In the afternoon, Kate decided to go to the inauguration of a monument for a donor to the university. A man stood next to the monument.",3.375,1.0607,8,"[3, 3, 4, 1, 4, 4, 4, 4]",test
+"In the afternoon, Kate decided to go to the inauguration of a monument for a donor to the university. Next to the monument a man stood.",3.0,1.0,3,"[3, 2, 4]",test
+"In the afternoon, Kate decided to go to visit one of the most famous public gardens in the city and there she saw a curious man in a blue suit. Next to a monument the man stood.",3.0,0.0,2,"[3, 3]",test
+"In the afternoon, Kate decided to go to visit one of the most famous public gardens in the city and there she saw a curious man in a blue suit. The man stood next to a monument.",3.5,1.0,4,"[3, 3, 3, 5]",test
+"In the afternoon, Kate decided to go to visit one of the most famous public gardens in the city. A man stood next to a monument.",2.3333,1.5275,3,"[2, 1, 4]",test
+"In the afternoon, Kate decided to go to visit one of the most famous public gardens in the city. Next to a monument a man stood.",1.5,0.5774,4,"[1, 2, 2, 1]",test
+"In the dining hall you could see a fireplace in which several logs were burning, a pendulum clock, a portrait of Churchill, and a huge window with red velvet curtains on either side. Above the fireplace the portrait hung.",2.5,0.5774,4,"[3, 3, 2, 2]",test
+"In the dining hall you could see a fireplace in which several logs were burning, a pendulum clock, a portrait of Churchill, and a huge window with red velvet curtains on either side. The portrait hung above the fireplace.",4.0,1.4142,2,"[3, 5]",test
+"In the dining hall you could see a fireplace in which several logs were burning, a pendulum clock, a squared table, and a huge window with red velvet curtains on either side. A portrait hung above the fireplace.",4.75,0.5,4,"[5, 4, 5, 5]",test
+"In the dining hall you could see a fireplace in which several logs were burning, a pendulum clock, a squared table, and a huge window with red velvet curtains on either side. Above the fireplace a portrait hung.",3.3333,1.1547,3,"[4, 2, 4]",test
+"In the dining hall you could see three sideboards, a pendulum clock, a portrait of Churchill, and a huge window with red velvet curtains on either side. Above a fireplace the portrait hung.",3.0,1.633,4,"[3, 1, 3, 5]",test
+"In the dining hall you could see three sideboards, a pendulum clock, a portrait of Churchill, and a huge window with red velvet curtains on either side. The portrait hung above a fireplace.",4.5,0.5774,4,"[4, 5, 4, 5]",test
+"In the dining hall you could see three sideboards, a pendulum clock, a squared table, and a huge window with red velvet curtains on either side. A portrait hung above a fireplace.",3.1667,1.7224,6,"[2, 5, 4, 2, 1, 5]",test
+"In the dining hall you could see three sideboards, a pendulum clock, a squared table, and a huge window with red velvet curtains on either side. Above a fireplace a portrait hung.",2.7143,1.2536,7,"[3, 4, 1, 3, 4, 1, 3]",test
+In the morning the grass on the lawn was wet because it had been raining for the entire night. The neighbors were playing with their dog on the lawn.,3.0,1.206,34,"[2, 4, 3, 1, 2, 2, 3, 2, 2, 4, 3, 2, 2, 2, 3, 2, 4, 2, 4, 4, 5, 5, 4, 1, 3, 3, 4, 3, 4, 5, 4, 1, 5, 2]",filler
+"Last Sunday, we went to visit a small village placed on the shore of a lake which is famous for a legend about a mythical creature that was claimed to have inhabited the area. In the lake the creature lived.",2.0,0.8165,4,"[1, 3, 2, 2]",test
+"Last Sunday, we went to visit a small village placed on the shore of a lake which is famous for a legend about a mythical creature that was claimed to have inhabited the area. The creature lived in the lake.",3.4286,1.1339,7,"[4, 2, 4, 3, 5, 2, 4]",test
+"Last Sunday, we went to visit a small village placed on the shore of a lake which is famous for a legend. A creature lived in the lake.",3.25,0.9574,4,"[4, 2, 4, 3]",test
+"Last Sunday, we went to visit a small village placed on the shore of a lake which is famous for a legend. In the lake a creature lived.",1.8,0.8367,5,"[1, 2, 1, 2, 3]",test
+"Last Sunday, we went to visit a small village which is famous for a legend about a mythical creature that was claimed to have inhabited the area. In a lake the creature lived.",2.0,0.6325,6,"[2, 2, 1, 2, 3, 2]",test
+"Last Sunday, we went to visit a small village which is famous for a legend about a mythical creature that was claimed to have inhabited the area. The creature lived in a lake.",4.0,0.0,2,"[4, 4]",test
+"Last Sunday, we went to visit a small village which is famous for a legend. A creature lived in a lake.",4.0,1.0,3,"[4, 3, 5]",test
+"Last Sunday, we went to visit a small village which is famous for a legend. In a lake a creature lived.",1.5,0.7071,2,"[2, 1]",test
+"Last Tuesday, everyone was shocked by the judge's ruling. Such a verdict was unexpected.",4.0588,1.0993,34,"[4, 5, 4, 5, 4, 1, 4, 5, 3, 4, 5, 4, 4, 1, 4, 5, 4, 5, 5, 2, 5, 4, 5, 2, 5, 4, 4, 5, 5, 5, 4, 4, 4, 4]",filler
+"Last year, an important company took a beating over privacy concerns. A huge fine was imposed on the company.",4.3529,0.8121,34,"[4, 2, 4, 5, 4, 4, 5, 4, 3, 4, 4, 4, 5, 2, 5, 4, 5, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 4, 5, 4, 4, 5]",filler
+Lionel told us that at that time his sister was studying medicine. A year later she quit.,4.0909,0.8427,33,"[3, 4, 4, 4, 4, 4, 4, 5, 3, 4, 3, 5, 3, 2, 4, 5, 4, 5, 4, 5, 5, 4, 5, 5, 5, 4, 4, 5, 4, 5, 4, 2, 4]",filler
+Lisa made it clear that she would never accept that job offer. The work schedule is incompatible with a daily work out.,3.7941,0.9138,34,"[3, 5, 4, 3, 4, 3, 4, 4, 3, 2, 3, 2, 4, 5, 4, 5, 5, 5, 3, 4, 3, 4, 5, 5, 4, 5, 4, 4, 3, 4, 3, 2, 4, 4]",filler
+Martha was at the station of Salem waiting for a train to Boston when she met a very old man who started to tell his story. The train arrived to the station.,2.0,0.0,4,"[2, 2, 2, 2]",test
+Martha was at the station of Salem waiting for a train to Boston when she met a very old man who started to tell his story. To the station the train arrived.,1.0,,1,[1],test
+Martha was at the station of Salem when she met a very old man who started to tell his story. A train arrived to the station.,2.7778,1.5635,9,"[1, 1, 4, 2, 5, 3, 2, 2, 5]",test
+Martha was at the station of Salem when she met a very old man who started to tell his story. To the station a train arrived.,1.8,1.3038,5,"[1, 1, 2, 1, 4]",test
+Martha was in Salem when she met a very old man who started to tell his story. A train arrived to a station.,2.0,1.0,3,"[3, 1, 2]",test
+Martha was in Salem when she met a very old man who started to tell his story. To a station a train arrived.,1.5714,0.5345,7,"[2, 1, 2, 2, 2, 1, 1]",test
+Martha was playing with her little kid near the hotel where they were spending their holidays. Into a river the kid fell.,1.8,0.8367,5,"[3, 1, 2, 2, 1]",test
+Martha was playing with her little kid near the hotel where they were spending their holidays. The kid fell into a river.,3.25,0.9574,4,"[4, 4, 3, 2]",test
+Martha was playing with her little kid on a river bank near the hotel where they were spending their holidays. Into the river the kid fell.,1.6667,0.8165,6,"[2, 2, 1, 1, 3, 1]",test
+Martha was playing with her little kid on a river bank near the hotel where they were spending their holidays. The kid fell into the river.,4.0,0.0,4,"[4, 4, 4, 4]",test
+Martha was reading a book near the hotel where she was spending her holidays. A kid fell into a river.,2.4,1.5166,5,"[2, 1, 4, 4, 1]",test
+Martha was reading a book near the hotel where she was spending her holidays. Into a river a kid fell.,1.625,1.0607,8,"[1, 1, 2, 1, 4, 1, 1, 2]",test
+Martha was reading a book on a river bank near the hotel where she was spending her holidays. A kid fell into the river.,2.0,,1,[2],test
+Martha was reading a book on a river bank near the hotel where she was spending her holidays. Into the river a kid fell.,2.0,,1,[2],test
+Martha was travelling on a train when she met a very old man who started to tell his story. To a station the train arrived.,1.8,0.8367,5,"[3, 2, 1, 2, 1]",test
+"On account of their wide experience in climbing, Richard and Ben were voted leaders of the expedition. Everyone was happy about this outcome.",4.303,0.8095,33,"[5, 4, 3, 4, 3, 4, 5, 4, 5, 4, 4, 2, 5, 5, 4, 5, 5, 5, 4, 5, 4, 5, 3, 4, 5, 5, 5, 5, 4, 4, 3, 5, 5]",filler
+"On the website, it said that yesterday the library would have been open until midnight. Nonetheless, at 8pm the library was already closed.",4.0588,1.2046,34,"[3, 5, 4, 2, 5, 1, 4, 5, 4, 4, 4, 4, 5, 5, 4, 2, 5, 5, 4, 4, 5, 5, 3, 4, 5, 5, 5, 5, 5, 5, 4, 1, 2, 5]",filler
+Police accused protesters of hurling metal rods and bricks at officers. The protesters pleaded not guilty.,4.0,1.0445,34,"[4, 2, 4, 4, 3, 1, 4, 5, 4, 4, 5, 3, 2, 5, 3, 5, 5, 3, 5, 4, 4, 5, 5, 4, 3, 3, 4, 4, 4, 5, 5, 5, 5, 5]",filler
+Recent experimental findings suggest that infants are aware of the difference between probable and improbable events. An unexpected outcome makes them more alert.,4.0588,1.0993,34,"[2, 5, 4, 5, 5, 3, 3, 4, 4, 4, 1, 4, 2, 5, 4, 5, 5, 5, 5, 2, 5, 5, 5, 4, 4, 4, 5, 5, 3, 4, 5, 5, 3, 4]",filler
+"Several hours after the beginning of our search, we reached a point where we saw a bicycle completely covered by thick brushwood. Beside a pathway the bicycle was.",1.2,0.4472,5,"[1, 1, 1, 2, 1]",test
+"Several hours after the beginning of our search, we reached a point where we saw a bicycle completely covered by thick brushwood. The bicycle was beside a pathway.",3.6667,1.5275,3,"[4, 2, 5]",test
+"Several hours after the beginning of our search, we reached a point where we saw an object completely covered by thick brushwood. A bicycle was beside a pathway.",2.1429,1.215,7,"[3, 1, 1, 4, 3, 2, 1]",test
+"Several hours after the beginning of our search, we reached a point where we saw an object completely covered by thick brushwood. Beside a pathway a bicycle was.",1.0,0.0,2,"[1, 1]",test
+"Several hours after the beginning of our search, we reached a small pathway where we saw a bicycle completely covered by thick brushwood. .Beside the pathway the bicycle was.",1.75,0.9574,4,"[3, 2, 1, 1]",test
+"Several hours after the beginning of our search, we reached a small pathway where we saw a bicycle completely covered by thick brushwood. The bicycle was beside the pathway.",3.6667,1.2111,6,"[2, 4, 5, 5, 3, 3]",test
+"Several hours after the beginning of our search, we reached a small pathway where we saw an object completely covered by thick brushwood. A bicycle was beside the pathway.",3.5,1.0,4,"[4, 4, 2, 4]",test
+"Several hours after the beginning of our search, we reached a small pathway where we saw an object completely covered by thick brushwood. Beside the pathway a bicycle was.",2.3333,2.3094,3,"[1, 5, 1]",test
+Simon came out of the church and looked immediately towards the right corner of the street from where the bus to Providence was expected to arrive. Around the corner the bus appeared.,2.5,1.7321,4,"[5, 2, 1, 2]",test
+Simon came out of the church and looked immediately towards the right corner of the street from where the bus to Providence was expected to arrive. The bus appeared around the corner.,3.5,0.7071,2,"[4, 3]",test
+Simon came out of the church and looked immediately towards the right corner of the street with an impatient face. A bus appeared around the corner.,4.3333,1.1547,3,"[3, 5, 5]",test
+Simon came out of the church and looked immediately towards the right corner of the street with an impatient face. Around the corner a bus appeared.,2.5,2.1213,2,"[1, 4]",test
+Simon came out of the church and reached the opposite sidewalk where he waited for 30 minutes constantly checking the time. A bus appeared around a corner.,2.5,1.0488,6,"[3, 1, 2, 2, 3, 4]",test
+Simon came out of the church and reached the opposite sidewalk where he waited for 30 minutes constantly checking the time. Around a corner a bus appeared.,3.0,1.4142,2,"[4, 2]",test
+Simon came out of the church and reached the opposite sidewalk where he waited for the bus directed to Providence constantly checking the time. Around a corner the bus appeared.,2.8333,1.472,6,"[5, 3, 2, 4, 1, 2]",test
+Simon came out of the church and reached the opposite sidewalk where he waited for the bus directed to Providence constantly checking the time. The bus appeared around a corner.,3.3333,1.0,9,"[4, 2, 3, 3, 2, 5, 4, 3, 4]",test
+Sonia was visiting Ventor on the Isle of Wight with her new boyfriend when something unexpected happened. A wave crashed over a seawall.,4.0,0.7071,5,"[4, 4, 4, 3, 5]",test
+Sonia was visiting Ventor on the Isle of Wight with her new boyfriend when something unexpected happened. Over a seawall a wave crashed.,2.0,1.2247,5,"[1, 2, 1, 2, 4]",test
+Sonia was walking in Ventor on the Isle of Wight with her new boyfriend when they saw an approaching huge wave. Over a seawall the wave crashed.,3.0,,1,[3],test
+Sonia was walking in Ventor on the Isle of Wight with her new boyfriend when they saw an approaching huge wave. The wave crashed over a seawall.,4.5,0.7071,2,"[4, 5]",test
+Sonia was walking on a seawall in Ventor on the Isle of Wight with her new boyfriend when something unexpected happened. A wave crashed over the seawall.,4.0,0.0,2,"[4, 4]",test
+Sonia was walking on a seawall in Ventor on the Isle of Wight with her new boyfriend when something unexpected happened. Over the seawall a wave crashed.,2.3333,1.3663,6,"[2, 4, 1, 1, 2, 4]",test
+Sonia was walking on a seawall in Ventor on the Isle of Wight with her new boyfriend when they saw an approaching huge wave. Over the seawall the wave crashed.,2.1429,1.215,7,"[3, 1, 2, 4, 3, 1, 1]",test
+Sonia was walking on a seawall in Ventor on the Isle of Wight with her new boyfriend when they saw an approaching huge wave. The wave crashed over the seawall.,4.6667,0.5164,6,"[5, 4, 5, 4, 5, 5]",test
+Susan was sleeping in her room while a thief approached her house. The thief climbed through a window.,4.0,0.6325,6,"[4, 4, 3, 5, 4, 4]",test
+Susan was sleeping in her room while a thief approached her house. Through a window the thief climbed.,2.75,1.2583,4,"[3, 3, 4, 1]",test
+Susan was sleeping in her room with one of the windows open which was noticed by a thief. The thief climbed through the window.,4.1667,0.7528,6,"[4, 4, 5, 3, 5, 4]",test
+Susan was sleeping in her room with one of the windows open which was noticed by a thief. Through the window the thief climbed.,3.0,,1,[3],test
+Susan was sleeping in her room with one of the windows open. A thief climbed through the window.,4.25,0.5,4,"[4, 4, 4, 5]",test
+Susan was sleeping in her room with one of the windows open. Through the window a thief climbed.,2.3333,0.5164,6,"[2, 3, 2, 3, 2, 2]",test
+Susan was sleeping in her room with the air conditioner on. A thief climbed through a window.,2.8,1.3038,5,"[4, 2, 3, 1, 4]",test
+Susan was sleeping in her room with the air conditioner on. Through a window a thief climbed.,1.0,0.0,2,"[1, 1]",test
+"The ambassador invited 60 guests to celebrate her birthday. Only 45 showed up to the party, though.",4.4118,0.7434,34,"[3, 5, 4, 3, 4, 4, 4, 5, 4, 4, 5, 4, 5, 5, 4, 5, 3, 5, 5, 3, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 3, 4, 5]",filler
+"The bedroom was cozy and and its furniture included a desk, an office chair with wheels, and a twin bed. A cabinet sat next to the desk.",3.0,1.4142,4,"[3, 5, 2, 2]",test
+"The bedroom was cozy and and its furniture included a desk, an office chair with wheels, and a twin bed. Next to the desk a cabinet sat.",2.3333,1.0328,6,"[3, 1, 2, 2, 4, 2]",test
+"The bedroom was cozy and and its furniture included a floor lamp, an office chair with wheels, and a twin bed. A cabinet sat next to a desk.",3.3333,1.1547,3,"[2, 4, 4]",test
+"The bedroom was cozy and and its furniture included a floor lamp, an office chair with wheels, and a twin bed. Next to a desk a cabinet sat.",1.75,0.5,4,"[2, 2, 2, 1]",test
+"The bedroom was cozy and its furniture included a desk, a six drawer cabinet, and a twin bed. Next to the desk the cabinet sat.",2.4444,1.3333,9,"[3, 5, 2, 1, 1, 2, 4, 2, 2]",test
+"The bedroom was cozy and its furniture included a desk, a six drawer cabinet, and a twin bed. The cabinet sat next to the desk.",4.0,0.7071,5,"[4, 4, 5, 3, 4]",test
+"The bedroom was cozy and its furniture included a floor lamp, a six drawer cabinet, and a twin bed. The cabinet sat next to a desk.",3.3333,1.1547,3,"[2, 4, 4]",test
+"The boyfriend sent his girlfriend very expensive flowers. However, she had told him not to do it.",3.8824,0.9775,34,"[3, 5, 4, 4, 3, 5, 4, 4, 3, 4, 4, 4, 3, 5, 4, 2, 5, 5, 4, 3, 5, 2, 5, 2, 4, 4, 4, 5, 5, 4, 5, 3, 4, 2]",filler
+The children were in the town park playing with a ball but soon stopped playing to chase after a squirrel that had attracted their attention. Out from a bush the squirrel jumped.,2.5,1.7321,4,"[4, 1, 1, 4]",test
+The children were in the town park playing with a ball but soon stopped playing to chase after a squirrel that had attracted their attention. The squirrel jumped out from a bush.,4.0,0.7071,5,"[3, 5, 4, 4, 4]",test
+The children were in the town park playing with a ball but soon stopped playing. A squirrel jumped out from a bush.,5.0,,1,[5],test
+The children were in the town park playing with a ball but soon stopped playing. Out from a bush a squirrel jumped.,3.0,1.4142,2,"[2, 4]",test
+The children were in the town park playing with a ball which ended up close to a bush where a squirrel was hiding. Out from the bush the squirrel jumped.,2.5,1.0488,6,"[3, 1, 2, 4, 2, 3]",test
+The children were in the town park playing with a ball which ended up close to a bush where a squirrel was hiding. The squirrel jumped out from the bush.,4.625,0.744,8,"[5, 3, 5, 5, 5, 5, 5, 4]",test
+The children were in the town park playing with a ball which ended up close to a bush. A squirrel jumped out from the bush.,3.8,1.0954,5,"[3, 3, 5, 3, 5]",test
+The children were in the town park playing with a ball which ended up close to a bush. Out from the bush a squirrel jumped.,3.6667,0.5774,3,"[4, 3, 4]",test
+"The college student was wondering whether to go to the end-of-semester party. Eventually, he decided to go.",4.5588,0.6126,34,"[4, 5, 4, 3, 4, 3, 5, 5, 5, 4, 5, 5, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 4, 5, 5, 4, 5, 5, 4, 5, 5]",filler
+The delivery man was already there when they arrived home. The man had been waiting for at least 15 minutes.,4.4412,0.8596,34,"[3, 5, 4, 2, 4, 3, 4, 5, 4, 4, 5, 4, 5, 5, 4, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 4]",filler
+"The first room that the real estate agent showed Mary was a living room with a finely carved table in the middle, a Cuckoo clock on a wall, and a colorful couch in one of the corners. Over the table the clock towered.",3.0,1.0954,6,"[3, 1, 4, 4, 3, 3]",test
+"The first room that the real estate agent showed Mary was a living room with a finely carved table in the middle, a Cuckoo clock on a wall, and a colorful couch in one of the corners. The clock towered over the table.",3.6,1.1402,5,"[4, 5, 2, 4, 3]",test
+"The first room that the real estate agent showed Mary was a living room with a finely carved table in the middle, a wooden bookcase, and a colorful couch in one of the corners. A clock towered over the table.",2.0,0.0,4,"[2, 2, 2, 2]",test
+"The first room that the real estate agent showed Mary was a living room with a finely carved table in the middle, a wooden bookcase, and a colorful couch in one of the corners. Over the table a clock towered.",2.3333,1.3663,6,"[2, 2, 2, 1, 5, 2]",test
+"The first room that the real estate agent showed Mary was a living room with an impressively big curved TV, a Cuckoo clock on a wall, and a colorful couch in one of the corners. Over a table the clock towered.",2.0,0.0,2,"[2, 2]",test
+"The first room that the real estate agent showed Mary was a living room with an impressively big curved TV, a Cuckoo clock on a wall, and a colorful couch in one of the corners. The clock towered over a table.",3.6667,1.5275,3,"[2, 5, 4]",test
+"The first room that the real estate agent showed Mary was a living room with an impressively big curved TV, a wooden bookcase, and a colorful couch in one of the corners. A clock towered over a table.",3.2,0.8367,5,"[3, 4, 3, 4, 2]",test
+"The first room that the real estate agent showed Mary was a living room with an impressively big curved TV, a wooden bookcase, and a colorful couch in one of the corners. Over a table a clock towered.",1.6667,0.5774,3,"[2, 1, 2]",test
+The football players decided that before the next game they needed to talk to their coach. A serious problem had arisen in the team.,4.2353,0.8896,34,"[4, 4, 4, 5, 4, 5, 5, 4, 4, 3, 5, 4, 3, 5, 5, 5, 4, 5, 5, 5, 5, 3, 4, 1, 3, 4, 4, 4, 5, 4, 5, 5, 5, 4]",filler
+"The letter with the announcement of their uncle's death reached them late. So, they didn't come to the funeral.",4.0588,0.9192,34,"[4, 5, 2, 4, 3, 5, 4, 5, 2, 4, 5, 4, 4, 5, 4, 4, 3, 5, 5, 3, 5, 4, 4, 4, 5, 3, 4, 4, 4, 4, 5, 2, 5, 5]",filler
+The magician entered the stage a handkerchief in one of his hands and wearing a blue tuxedo. A frog appeared out from a hat.,2.5,1.291,4,"[2, 4, 3, 1]",test
+The magician entered the stage a handkerchief in one of his hands and wearing a blue tuxedo. Out from a hat a frog appeared.,1.6667,0.5774,3,"[2, 2, 1]",test
+The magician entered the stage with a frog in one of his hands which he then put in one his pockets. Out from a hat the frog appeared.,2.8,1.6432,5,"[5, 1, 4, 2, 2]",test
+The magician entered the stage with a frog in one of his hands which he then put in one his pockets. The frog appeared out from a hat.,2.5,2.1213,2,"[1, 4]",test
+The magician entered the stage with an empty hat in one of his hands and a frog in the other which he then put in one his pockets. Out from the hat the frog appeared.,2.3333,0.5164,6,"[3, 2, 3, 2, 2, 2]",test
+The magician entered the stage with an empty hat in one of his hands and a frog in the other which he then put in one his pockets. The frog appeared out from the hat.,3.75,1.2583,4,"[4, 2, 5, 4]",test
+The magician entered the stage with an empty hat in one of his hands and wearing a blue tuxedo. A frog appeared out from the hat.,3.375,0.9161,8,"[3, 4, 3, 3, 4, 3, 2, 5]",test
+The magician entered the stage with an empty hat in one of his hands and wearing a blue tuxedo. Out from the hat a frog appeared.,2.5,0.7071,2,"[2, 3]",test
+"The neighborhood where I was used to live as a child included a cinema, a condominium, and several single-family homes. A villa was behind the condominium.",3.2,1.0954,5,"[4, 2, 4, 2, 4]",test
+"The neighborhood where I was used to live as a child included a cinema, a condominium, and several single-family homes. Behind the condominium a villa was.",1.4,0.5477,5,"[2, 1, 1, 2, 1]",test
+"The neighborhood where I was used to live as a child included a cinema, a hospital, and several single-family homes. A villa was behind a condominium.",1.3333,0.8165,6,"[1, 1, 3, 1, 1, 1]",test
+"The neighborhood where I was used to live as a child included a cinema, a hospital, and several single-family homes. Behind a condominium a villa was.",1.4,0.5477,5,"[2, 1, 2, 1, 1]",test
+"The neighborhood where I was used to live as a child included a majestic villa, a condominium, and several single-family homes. Behind the condominium the villa was.",1.6667,0.5774,3,"[1, 2, 2]",test
+"The neighborhood where I was used to live as a child included a majestic villa, a condominium, and several single-family homes. The villa was behind the condominium.",3.75,0.5,4,"[4, 3, 4, 4]",test
+"The neighborhood where I was used to live as a child included a majestic villa, a hospital, and several single-family homes. Behind a condominium the villa was.",2.0,,1,[2],test
+"The neighborhood where I was used to live as a child included a majestic villa, a hospital, and several single-family homes. The villa was behind a condominium.",3.0,1.4142,5,"[4, 2, 2, 5, 2]",test
+"The police officer entered the room and saw a half-empty whiskey bottle, a broken chair, a box, and a scary painting. A weapon lay behind the box.",2.6667,0.5774,3,"[3, 2, 3]",test
+"The police officer entered the room and saw a half-empty whiskey bottle, a broken chair, a box, and a scary painting. Behind the box a weapon lay.",3.0,1.0,3,"[3, 4, 2]",test
+"The police officer entered the room and saw a half-empty whiskey bottle, a broken chair, an open cupboard, and a scary painting. A weapon lay behind a box.",3.5,1.0,4,"[4, 4, 2, 4]",test
+"The police officer entered the room and saw a half-empty whiskey bottle, a broken chair, an open cupboard, and a scary painting. Behind a box a weapon lay.",2.2,1.3038,5,"[1, 1, 3, 2, 4]",test
+"The police officer entered the room and saw a hunting weapon, a broken chair, a box, and a scary painting. Behind the box the weapon lay.",2.6667,0.8165,6,"[4, 3, 3, 2, 2, 2]",test
+"The police officer entered the room and saw a hunting weapon, a broken chair, a box, and a scary painting. The weapon lay behind the box.",3.5,0.7071,2,"[3, 4]",test
+"The police officer entered the room and saw a hunting weapon, a broken chair, an open cupboard, and a scary painting. Behind a box the weapon lay.",1.8,0.4472,5,"[1, 2, 2, 2, 2]",test
+"The police officer entered the room and saw a hunting weapon, a broken chair, an open cupboard, and a scary painting. The weapon lay behind a box.",2.6667,1.3663,6,"[1, 1, 4, 4, 3, 3]",test
+The professor announced that at the end of the academic year he would retire. A student sent the professor a gift.,4.0294,0.7972,34,"[3, 4, 4, 4, 4, 3, 5, 4, 3, 4, 4, 3, 5, 3, 5, 5, 3, 5, 5, 5, 5, 4, 4, 4, 3, 4, 4, 5, 3, 5, 4, 3, 3, 5]",filler
+The professor proposed that for the remaining classes students be responsible for leading the discussion of the papers. A student refused to do so.,3.5588,0.9906,34,"[3, 4, 3, 3, 2, 1, 4, 2, 2, 3, 4, 3, 4, 5, 4, 5, 3, 4, 4, 4, 4, 4, 4, 2, 4, 3, 4, 5, 3, 5, 3, 4, 4, 5]",filler
+The student petitioned a professor regarding a course. The professor approved the petition without problems.,4.3235,0.5888,34,"[4, 5, 4, 5, 4, 5, 5, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 5, 4, 3, 4, 5, 5, 4, 5, 4, 5, 5, 5, 4, 3, 5, 4]",filler
+"To entertain her daughter, Susi started to sing opera arias from Verdi's Rigoletto. This opera was her daughter's favorite.",4.5294,0.6622,34,"[3, 5, 4, 5, 3, 4, 5, 5, 4, 5, 4, 4, 5, 5, 4, 3, 4, 5, 5, 5, 5, 4, 5, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5]",filler
+"To the great admiration of all the bystanders, Jack jumped in the cold water. A drowning child was rescued.",2.9706,1.1142,34,"[2, 3, 2, 3, 3, 1, 4, 2, 2, 4, 2, 3, 2, 4, 4, 3, 4, 3, 5, 3, 5, 3, 5, 1, 2, 3, 2, 2, 2, 2, 3, 3, 5, 4]",filler
+"When Jack opened the door of the cottage the first thing he laid eyes on were a broken couch, a round table, a bed with an iron frame, and a kettle boiling on the fire. A cat lay in a basket.",3.0,1.5492,6,"[5, 2, 2, 1, 4, 4]",test
+"When Jack opened the door of the cottage the first thing he laid eyes on were a broken couch, a round table, a bed with an iron frame, and a kettle boiling on the fire. In a basket a cat lay.",2.5714,1.1339,7,"[2, 2, 3, 2, 1, 4, 4]",test
+"When Jack opened the door of the cottage the first things he laid eyes on were a basket, a round table, a bed with an iron frame, and a kettle boiling on the fire. A cat lay in the basket.",4.1667,0.7528,6,"[3, 4, 4, 5, 4, 5]",test
+"When Jack opened the door of the cottage the first things he laid eyes on were a basket, a round table, a bed with an iron frame, and a kettle boiling on the fire. In the basket a cat lay.",2.0,0.0,2,"[2, 2]",test
+"When Jack opened the door of the cottage the first things he laid eyes on were a basket, a round table, a large sleepy black cat, and a kettle boiling on the fire. In the basket the cat lay.",2.5,1.291,4,"[3, 1, 4, 2]",test
+"When Jack opened the door of the cottage the first things he laid eyes on were a basket, a round table, a large sleepy black cat, and a kettle boiling on the fire. The cat lay in the basket.",3.0,1.4142,2,"[4, 2]",test
+"When Jack opened the door of the cottage the first things he laid eyes on were a broken couch, a round table, a large sleepy black cat, and a kettle boiling on the fire. The cat lay in a basket.",3.5714,1.6183,7,"[5, 1, 3, 4, 5, 5, 2]",test
+"When the police officers entered the room, Jock was drinking and playing poker. The officers arrested him immediately.",4.2647,0.9942,34,"[3, 5, 4, 4, 4, 2, 3, 5, 3, 4, 4, 2, 2, 5, 3, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 4, 5, 5]",filler
+"When visiting Marc's house, Paul noticed these peculiar objects: a Persian rug, a golden chandelier, a chair probably dating back to the 1700s, and an oil lamp. A statue stood next to the chair.",4.0,0.0,2,"[4, 4]",test
+"When visiting Marc's house, Paul noticed these peculiar objects: a Persian rug, a golden chandelier, a chair probably dating back to the 1700s, and an oil lamp. Next to the chair a statue stood.",2.6,0.8944,5,"[3, 2, 2, 4, 2]",test
+"When visiting Marc's house, Paul noticed these peculiar objects: a Persian rug, a golden chandelier, an arched mirror, and an oil lamp. A statue stood next to a chair.",3.1667,1.169,6,"[3, 3, 5, 2, 4, 2]",test
+"When visiting Marc's house, Paul noticed these peculiar objects: a Persian rug, a golden chandelier, an arched mirror, and an oil lamp. Next to a chair a statue stood.",1.5,0.7071,2,"[1, 2]",test
+"When visiting Marc's house, Paul noticed these peculiar objects: a huge statue representing a medieval knight, a golden chandelier, a chair probably dating back to the 1700s, and an oil lamp. Next to the chair the statue stood.",2.5,0.7071,2,"[3, 2]",test
+"When visiting Marc's house, Paul noticed these peculiar objects: a huge statue representing a medieval knight, a golden chandelier, a chair probably dating back to the 1700s, and an oil lamp. The statue stood next to the chair.",3.4,1.1402,5,"[3, 2, 5, 3, 4]",test
+"When visiting Marc's house, Paul noticed these peculiar objects: a huge statue representing a medieval knight, a golden chandelier, an arched mirror, and an oil lamp. Next to a chair the statue stood.",1.5,0.8367,6,"[1, 1, 2, 1, 1, 3]",test
+"When visiting Marc's house, Paul noticed these peculiar objects: a huge statue representing a medieval knight, a golden chandelier, an arched mirror, and an oil lamp. The statue stood next to a chair.",4.0,1.2649,6,"[5, 3, 2, 5, 4, 5]",test
+"While entering the hotel hall, Margot noticed that the walls were almost completely unadorned. Only a few paintings hung on the walls.",4.1765,0.8694,34,"[3, 5, 4, 4, 4, 3, 4, 5, 4, 5, 4, 4, 3, 2, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 4, 5, 4, 5, 4, 3, 3, 4]",filler
+"Wisely, the Congress has decided to reject the Education Reform Bill. The bill had been opposed by public opinion.",3.8529,1.0483,34,"[4, 5, 4, 4, 3, 2, 5, 2, 4, 4, 4, 4, 3, 5, 4, 4, 5, 5, 2, 3, 4, 3, 5, 5, 4, 5, 5, 5, 5, 2, 4, 3, 3, 2]",filler
+"With the exception of James, none of us stayed at the party until the end. After the host's speech, we went home.",3.9118,1.111,34,"[3, 4, 4, 4, 4, 4, 4, 2, 3, 5, 3, 2, 4, 5, 4, 5, 5, 5, 5, 3, 5, 5, 5, 2, 5, 4, 4, 5, 4, 5, 4, 2, 4, 1]",filler
+Within the company there were serious concerns about the Chief Executive's conduct. A rumor had circulated about an extramarital affair.,4.3529,0.7337,34,"[3, 4, 4, 5, 4, 4, 4, 5, 3, 4, 5, 4, 5, 5, 4, 5, 5, 5, 4, 5, 5, 4, 5, 2, 4, 4, 5, 5, 5, 4, 5, 4, 4, 5]",filler
+"Without the help of his older brother, Devon would have been a homeless person. The brother lent him a huge amount of money.",3.6765,1.1735,34,"[4, 4, 4, 4, 2, 1, 5, 2, 2, 5, 3, 4, 4, 5, 5, 1, 4, 5, 3, 4, 4, 3, 5, 3, 4, 3, 4, 5, 2, 4, 3, 5, 4, 5]",filler

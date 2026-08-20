@@ -1,103 +1,101 @@
-unit,mean,std,n,individual_ratings
-A backpack carries all the essentials on a hike.,4.7333,1.4591,30,"[5, 4, 7, 4, 3, 7, 7, 4, 2, 5, 4, 6, 5, 4, 4, 5, 5, 7, 5, 1, 3, 6, 5, 7, 5, 5, 3, 4, 5, 5]"
-A businessman began speaking loudly on the phone.,5.6,1.5406,30,"[7, 5, 5, 2, 3, 7, 7, 7, 4, 6, 7, 7, 6, 7, 5, 5, 7, 7, 7, 1, 6, 6, 5, 6, 5, 6, 6, 7, 4, 5]"
-A high-speed train now connects Paris and Berlin.,3.8667,1.5649,30,"[7, 5, 5, 3, 3, 5, 7, 6, 2, 3, 5, 4, 4, 6, 2, 5, 3, 2, 2, 4, 1, 3, 3, 4, 3, 5, 2, 5, 2, 5]"
-A lighthouse guides ships to safety.,5.2333,1.3585,30,"[7, 4, 4, 7, 4, 7, 7, 5, 3, 3, 6, 5, 7, 5, 4, 5, 7, 6, 4, 7, 5, 4, 4, 7, 4, 5, 6, 7, 4, 4]"
-A menacing storm rolled across the horizon.,5.4667,1.3597,30,"[7, 6, 5, 5, 5, 7, 7, 6, 4, 2, 4, 5, 6, 7, 5, 6, 7, 7, 6, 7, 4, 6, 5, 6, 3, 6, 6, 7, 3, 4]"
-A mountain climbing team reached the K2 summit.,4.9333,1.6918,30,"[6, 5, 5, 7, 5, 7, 7, 6, 2, 2, 4, 7, 7, 4, 5, 6, 6, 3, 3, 5, 5, 6, 6, 7, 6, 6, 3, 3, 2, 2]"
-A new restaurant opened downtown last week.,4.0667,1.4591,30,"[7, 3, 5, 3, 4, 6, 7, 4, 4, 6, 5, 2, 5, 1, 3, 5, 2, 2, 4, 4, 4, 2, 4, 5, 5, 5, 3, 4, 3, 5]"
-A productive morning routine sets the tone for the day.,2.6333,1.6829,30,"[5, 2, 5, 1, 1, 5, 4, 1, 1, 2, 1, 6, 1, 1, 4, 5, 1, 1, 2, 1, 1, 3, 3, 4, 3, 5, 4, 1, 1, 4]"
-A rat gnawed through the cables in the walls.,5.6897,1.1775,29,"[7, 4, 5, 4, 7, 7, 7, 5, 6, 6, 7, 7, 6, 5, 5, 7, 7, 7, 7, 6, 4, 4, 5, 4, 5, 5, 7, 4, 5]"
-A series of unusual occurrences plagued the small town.,2.1333,1.384,30,"[4, 2, 5, 1, 2, 4, 4, 1, 1, 3, 2, 2, 1, 2, 3, 6, 1, 1, 1, 1, 1, 2, 1, 3, 2, 4, 1, 1, 1, 1]"
-A solid education lays the foundation for future success.,2.4667,1.6275,30,"[6, 2, 6, 1, 1, 4, 4, 2, 1, 5, 1, 1, 1, 3, 3, 6, 1, 1, 1, 1, 1, 3, 2, 3, 3, 4, 2, 1, 2, 2]"
-A tree provides a home for birds.,5.4667,1.335,30,"[7, 5, 6, 6, 4, 7, 7, 5, 3, 7, 7, 6, 6, 5, 6, 6, 7, 5, 7, 7, 3, 5, 4, 5, 6, 2, 5, 6, 4, 5]"
-A wildlife preserve was recently created in the Amazon.,3.8333,1.3437,30,"[5, 4, 4, 3, 3, 6, 6, 3, 2, 6, 1, 5, 5, 5, 4, 5, 2, 3, 4, 4, 1, 3, 5, 5, 4, 4, 4, 4, 2, 3]"
-An intense heat wave swept across the city.,4.1,1.7388,30,"[7, 5, 5, 3, 4, 5, 7, 5, 2, 5, 6, 3, 1, 5, 4, 6, 2, 7, 6, 1, 1, 4, 3, 3, 5, 4, 2, 4, 3, 5]"
-Consuming alcohol is dangerous for your health.,2.7667,2.0279,30,"[5, 3, 6, 1, 1, 4, 7, 1, 1, 2, 1, 3, 1, 1, 3, 5, 1, 2, 2, 7, 1, 4, 1, 6, 3, 6, 2, 1, 1, 1]"
-David meticulously planned each step of his journey.,3.4,1.6248,30,"[6, 3, 6, 1, 3, 4, 5, 4, 2, 5, 3, 2, 5, 2, 4, 5, 1, 5, 2, 1, 3, 2, 2, 7, 2, 5, 2, 4, 2, 4]"
-Excellent customer service can make or break a business.,2.5,1.7654,30,"[6, 2, 4, 1, 1, 4, 5, 1, 1, 5, 3, 2, 1, 1, 3, 3, 1, 2, 1, 1, 1, 5, 1, 2, 2, 5, 2, 1, 1, 7]"
-I did not get the gist of the idea.,2.0667,1.5691,30,"[2, 2, 6, 2, 1, 2, 1, 1, 2, 5, 1, 2, 1, 1, 5, 1, 1, 2, 2, 1, 1, 1, 1, 2, 1, 3, 2, 1, 2, 7]"
-Jenny's dress was bright and cheerful.,5.6333,1.378,30,"[7, 5, 5, 3, 6, 7, 7, 7, 3, 7, 7, 7, 7, 7, 6, 7, 5, 4, 7, 7, 4, 6, 4, 6, 3, 5, 5, 6, 4, 5]"
-Jeremy stopped at a diner for lunch.,4.7,1.6763,30,"[7, 3, 4, 4, 5, 7, 7, 3, 3, 6, 6, 7, 5, 6, 4, 5, 3, 1, 4, 7, 6, 3, 4, 5, 2, 5, 7, 5, 2, 5]"
-John forgot his umbrella and got soaked.,5.5172,1.4532,29,"[7, 5, 6, 3, 7, 7, 6, 4, 7, 5, 7, 7, 7, 3, 6, 7, 5, 7, 4, 7, 6, 4, 6, 3, 5, 5, 7, 3, 4]"
-Judy grabbed her shopping list on the way out the door.,5.6,1.6248,30,"[7, 5, 4, 4, 5, 7, 7, 7, 3, 7, 7, 7, 7, 7, 5, 5, 7, 5, 6, 7, 6, 5, 5, 7, 1, 4, 7, 7, 2, 5]"
-Large areas of forest were cleared for agriculture.,5.3333,1.325,30,"[7, 4, 7, 4, 4, 7, 7, 5, 3, 5, 6, 6, 6, 7, 4, 6, 7, 5, 7, 7, 3, 5, 5, 5, 4, 4, 5, 7, 4, 4]"
-Learning a new language opens up many doors.,2.2,1.7205,30,"[7, 2, 5, 1, 1, 4, 4, 1, 1, 5, 2, 1, 1, 1, 2, 4, 1, 1, 1, 1, 1, 2, 1, 1, 2, 5, 1, 1, 1, 5]"
-Libraries offer knowledge to eager learners.,2.8333,1.7717,30,"[5, 3, 5, 1, 2, 4, 5, 2, 1, 7, 1, 2, 3, 6, 3, 5, 1, 1, 1, 3, 1, 3, 2, 2, 5, 3, 1, 1, 1, 5]"
-Lily kept her thoughts to herself during the meeting.,3.4333,1.9267,30,"[6, 2, 4, 2, 2, 7, 7, 6, 1, 2, 3, 7, 4, 1, 2, 4, 2, 1, 5, 1, 5, 4, 4, 5, 2, 5, 2, 2, 1, 4]"
-Sarah loves reading mystery novels.,3.4483,1.8116,29,"[7, 4, 4, 2, 6, 7, 2, 2, 7, 2, 3, 3, 2, 3, 6, 4, 1, 2, 1, 1, 2, 3, 4, 3, 3, 6, 4, 2, 4]"
-September was unusually humid and hot.,3.5333,1.7839,30,"[6, 4, 6, 2, 1, 7, 7, 4, 1, 3, 5, 6, 2, 3, 4, 5, 5, 2, 2, 1, 2, 4, 2, 3, 3, 5, 1, 4, 2, 4]"
-Sophie planted strawberry seeds in the backyard.,5.4667,1.3098,30,"[7, 5, 5, 4, 5, 7, 7, 7, 3, 6, 6, 7, 7, 5, 5, 6, 5, 4, 7, 7, 6, 4, 5, 6, 3, 5, 6, 7, 4, 3]"
-Strong winds frequently blow through the Sahara Desert.,5.0333,1.4256,30,"[7, 4, 7, 2, 2, 7, 7, 5, 3, 5, 6, 7, 4, 5, 4, 6, 4, 5, 6, 5, 5, 5, 6, 5, 5, 4, 6, 7, 3, 4]"
-Teachers inspire students to reach their full potential.,3.0333,1.5596,30,"[5, 3, 5, 1, 2, 5, 5, 1, 1, 6, 5, 4, 1, 2, 4, 5, 3, 1, 2, 1, 1, 3, 2, 3, 4, 5, 3, 3, 2, 3]"
-The Antique clock ticked heavily every second.,5.4667,1.4545,30,"[7, 5, 3, 4, 2, 7, 7, 7, 4, 5, 6, 7, 6, 3, 5, 6, 7, 7, 6, 7, 6, 5, 5, 6, 3, 5, 7, 7, 4, 5]"
-The actor was praised for his powerful performance.,3.7333,1.8962,30,"[7, 2, 4, 1, 2, 7, 7, 3, 3, 7, 2, 4, 4, 1, 5, 6, 5, 5, 4, 1, 1, 2, 2, 5, 5, 5, 3, 4, 2, 3]"
-The architect revealed plans for a modern skyscraper.,4.2667,1.6918,30,"[7, 4, 5, 2, 3, 7, 5, 3, 1, 2, 5, 6, 7, 3, 4, 6, 7, 4, 5, 1, 5, 5, 5, 4, 2, 4, 3, 5, 3, 5]"
-The astronaut strapped into the shuttle.,5.3667,1.5162,30,"[7, 4, 7, 4, 5, 6, 7, 7, 5, 2, 6, 7, 7, 2, 4, 6, 7, 7, 6, 5, 6, 5, 6, 7, 5, 6, 4, 5, 3, 3]"
-The athlete shared his workout routine with the press.,4.4333,1.5638,30,"[6, 3, 5, 1, 3, 7, 7, 6, 3, 6, 5, 4, 5, 6, 4, 6, 2, 3, 3, 4, 4, 4, 2, 5, 6, 6, 5, 5, 2, 5]"
-The cat remained calm during the thunderstorm.,5.5333,1.3098,30,"[7, 5, 5, 4, 4, 7, 7, 7, 3, 6, 5, 7, 7, 3, 5, 6, 5, 7, 6, 7, 6, 5, 5, 5, 7, 5, 6, 7, 3, 4]"
-The celebration was joyous and full of laughter.,5.0333,1.378,30,"[7, 3, 5, 3, 3, 7, 7, 4, 2, 6, 5, 7, 5, 6, 5, 7, 5, 6, 5, 3, 5, 5, 6, 6, 4, 5, 5, 5, 3, 6]"
-The chef accidentally added too much salt to the soup.,5.0,1.4376,30,"[7, 4, 5, 2, 4, 7, 7, 6, 4, 7, 4, 3, 6, 5, 4, 4, 3, 7, 4, 6, 6, 5, 5, 5, 5, 5, 6, 7, 2, 5]"
-The childhood friends have been missing each other.,3.4,1.8726,30,"[7, 2, 6, 1, 1, 4, 7, 4, 1, 6, 7, 4, 2, 3, 4, 5, 3, 2, 2, 2, 2, 2, 2, 3, 3, 6, 4, 1, 2, 4]"
-The city was bustling and vibrant.,5.6,1.1136,30,"[7, 3, 6, 5, 6, 7, 7, 6, 4, 6, 5, 7, 6, 7, 5, 6, 7, 6, 6, 3, 5, 6, 5, 6, 5, 5, 5, 7, 4, 5]"
-The city zoo recently introduced a new animal habitat.,4.0,1.5916,30,"[5, 5, 5, 1, 4, 6, 7, 3, 3, 5, 3, 4, 7, 6, 4, 6, 3, 4, 3, 4, 1, 2, 4, 5, 2, 5, 2, 4, 2, 5]"
-The climber reached the top after weeks of prep.,4.7,1.4866,30,"[7, 5, 4, 5, 4, 7, 7, 5, 4, 5, 3, 6, 6, 4, 2, 6, 1, 4, 5, 7, 6, 5, 5, 5, 4, 3, 5, 5, 2, 4]"
-The cooking class was practicing dicing onions.,5.9333,0.9978,30,"[7, 7, 6, 6, 6, 7, 7, 7, 5, 6, 6, 7, 6, 6, 5, 7, 7, 6, 6, 5, 6, 5, 5, 5, 4, 6, 7, 7, 3, 5]"
-The cup is filled with fresh black coffee.,6.6667,0.5375,30,"[7, 7, 5, 7, 7, 7, 7, 7, 6, 6, 7, 7, 7, 7, 6, 6, 7, 7, 7, 7, 6, 7, 7, 7, 6, 6, 7, 7, 7, 6]"
-The dancer moved with grace across the stage.,5.7931,1.2423,29,"[7, 6, 5, 6, 4, 7, 7, 6, 5, 7, 6, 7, 7, 6, 5, 6, 7, 6, 6, 7, 6, 5, 5, 5, 3, 7, 7, 2, 5]"
-The daughter angrily left the dinner table.,5.6333,1.4256,30,"[7, 4, 4, 5, 5, 7, 7, 7, 5, 7, 5, 7, 7, 7, 5, 6, 6, 4, 7, 7, 4, 6, 4, 7, 2, 5, 7, 7, 3, 5]"
-The dealer shuffled the deck of cards.,6.1667,0.969,30,"[7, 5, 7, 7, 6, 7, 7, 7, 6, 5, 7, 6, 7, 7, 6, 6, 7, 7, 7, 7, 5, 5, 6, 6, 4, 5, 7, 7, 5, 4]"
-The detective arrived at the crime scene at midday.,4.8333,1.655,30,"[7, 4, 5, 1, 3, 7, 7, 4, 4, 6, 5, 4, 6, 2, 4, 6, 7, 6, 5, 4, 6, 3, 5, 7, 6, 5, 2, 7, 3, 4]"
-The doctor updated the patient's chart.,5.2667,1.436,30,"[6, 5, 5, 4, 4, 7, 7, 6, 4, 6, 7, 7, 6, 6, 5, 5, 7, 2, 5, 5, 6, 3, 3, 7, 5, 5, 7, 6, 2, 5]"
-The drought reduced the supply in the reservoir.,4.9,1.599,30,"[7, 4, 3, 5, 4, 6, 7, 5, 5, 6, 3, 6, 7, 7, 4, 6, 5, 4, 6, 1, 5, 5, 2, 7, 4, 4, 5, 7, 2, 5]"
-The early morning train was packed with commuters.,6.2333,0.9894,30,"[7, 6, 5, 7, 5, 7, 7, 7, 5, 6, 7, 7, 7, 7, 6, 7, 7, 7, 7, 7, 5, 5, 6, 7, 6, 4, 7, 7, 4, 5]"
-The family sat down at the restaurant.,6.1333,1.0242,30,"[7, 5, 7, 4, 5, 7, 7, 5, 5, 7, 7, 7, 6, 7, 5, 5, 7, 7, 7, 7, 7, 6, 4, 7, 5, 5, 7, 7, 6, 6]"
-The festival will feature local musicians and artists.,4.2,1.6411,30,"[7, 3, 5, 1, 1, 7, 7, 4, 4, 6, 4, 5, 4, 4, 7, 5, 3, 3, 4, 1, 2, 4, 4, 3, 5, 5, 4, 5, 4, 5]"
-The filmmaker has monitored climate change for years.,2.4333,1.6059,30,"[6, 3, 3, 1, 3, 6, 6, 2, 1, 1, 1, 2, 1, 2, 2, 6, 1, 1, 2, 1, 2, 2, 2, 3, 3, 4, 1, 2, 2, 1]"
-The first flight to Frankfurt this morning was delayed.,3.2,1.8511,30,"[7, 3, 4, 2, 1, 6, 7, 3, 1, 6, 2, 3, 2, 2, 3, 5, 1, 2, 1, 1, 1, 3, 2, 6, 5, 5, 3, 4, 2, 3]"
-The hike was exhausting for the beginners.,4.4333,1.2297,30,"[7, 5, 5, 2, 2, 6, 5, 3, 2, 5, 5, 5, 3, 4, 5, 6, 5, 4, 4, 4, 5, 4, 5, 4, 6, 5, 6, 4, 3, 4]"
-The hikers reached the mountain summit.,5.8,1.1944,30,"[7, 5, 5, 4, 4, 7, 7, 5, 4, 6, 3, 7, 7, 7, 5, 6, 7, 6, 5, 7, 6, 7, 6, 7, 6, 5, 7, 7, 4, 5]"
-The horror movie kept movie-goers on edge with each scene.,4.7667,1.5424,30,"[6, 6, 6, 4, 6, 7, 7, 2, 3, 2, 4, 6, 6, 4, 6, 6, 5, 5, 5, 1, 5, 4, 5, 5, 4, 4, 5, 7, 2, 5]"
-The invasive species took over the lake.,3.6667,1.8318,30,"[5, 4, 6, 1, 5, 7, 7, 2, 2, 6, 5, 2, 4, 1, 4, 5, 1, 3, 4, 1, 1, 5, 3, 5, 3, 5, 1, 4, 3, 5]"
-The journalist covered breaking news from a conflict zone.,5.0667,1.3646,30,"[7, 4, 5, 2, 4, 7, 6, 6, 4, 7, 6, 5, 6, 3, 6, 6, 7, 6, 4, 5, 3, 3, 4, 6, 6, 5, 6, 5, 3, 5]"
-The kids played outside on the playground after class.,5.6,1.3317,30,"[7, 5, 5, 4, 5, 7, 7, 6, 4, 6, 7, 7, 7, 5, 5, 6, 7, 3, 7, 7, 6, 3, 5, 6, 5, 5, 7, 7, 4, 3]"
-The library is hosting a reading challenge for kids.,3.7333,1.7114,30,"[6, 3, 5, 3, 2, 7, 7, 3, 3, 6, 1, 5, 4, 5, 4, 5, 2, 2, 3, 1, 4, 2, 3, 4, 7, 5, 2, 3, 3, 2]"
-The motivational speaker gave an inspiring talk.,4.5667,1.8562,30,"[7, 3, 6, 1, 2, 7, 7, 2, 3, 7, 6, 7, 4, 4, 5, 6, 5, 7, 3, 4, 5, 4, 3, 2, 3, 4, 6, 7, 2, 5]"
-The movie crew set up a table of food for the shoot.,5.5333,1.2311,30,"[7, 5, 5, 5, 5, 7, 7, 5, 4, 6, 7, 6, 7, 6, 4, 6, 7, 4, 6, 7, 6, 5, 6, 6, 4, 5, 5, 7, 2, 4]"
-The museum had impressive ancient artifacts.,5.2333,1.116,30,"[6, 4, 6, 4, 4, 7, 7, 4, 3, 5, 5, 7, 6, 5, 6, 6, 4, 6, 6, 4, 6, 4, 4, 5, 7, 5, 6, 4, 5, 6]"
-The new law reduced funding for public transportation.,2.2,1.6813,30,"[7, 3, 6, 1, 1, 5, 3, 3, 1, 5, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 1, 2, 1, 1, 2, 5, 1, 1, 2, 2]"
-The novelist released a highly anticipated sequel.,2.9333,1.6918,30,"[6, 2, 5, 1, 1, 5, 6, 4, 3, 5, 1, 5, 2, 2, 2, 5, 1, 1, 2, 1, 3, 1, 2, 2, 2, 6, 3, 4, 2, 3]"
-The nurse administered the vaccination.,5.8,1.1372,30,"[7, 4, 4, 5, 4, 7, 7, 6, 5, 5, 7, 7, 7, 7, 5, 5, 7, 7, 5, 7, 6, 5, 5, 7, 5, 5, 7, 7, 4, 5]"
-The old bicycle had squeaky brakes.,5.2667,1.5261,30,"[7, 4, 4, 2, 2, 7, 7, 7, 4, 5, 5, 6, 6, 5, 6, 6, 6, 7, 6, 7, 2, 6, 3, 5, 6, 5, 7, 5, 4, 6]"
-The old typewriter clattered loudly with every keystroke.,5.4667,1.5861,30,"[7, 4, 4, 3, 2, 7, 7, 6, 4, 6, 5, 7, 7, 7, 5, 6, 5, 6, 6, 7, 6, 7, 6, 7, 2, 4, 7, 7, 3, 4]"
-The open water bottle fell from the table.,5.9,1.2477,30,"[7, 5, 5, 5, 6, 7, 7, 7, 6, 7, 7, 7, 7, 6, 5, 6, 7, 7, 7, 7, 5, 6, 4, 5, 3, 5, 7, 7, 3, 4]"
-The painter mixed the perfect shade of blue.,5.2667,1.3149,30,"[6, 4, 5, 4, 5, 7, 7, 3, 4, 6, 5, 7, 6, 7, 5, 7, 5, 7, 7, 4, 5, 6, 3, 4, 3, 5, 5, 7, 4, 5]"
-The painting was abstract and confusing to some viewers.,3.9667,1.4716,30,"[4, 4, 5, 3, 1, 6, 4, 4, 2, 5, 2, 5, 2, 1, 4, 6, 4, 5, 4, 5, 5, 3, 4, 3, 4, 6, 2, 7, 4, 5]"
-The pilot entered the cockpit with the crew.,5.7667,1.1455,30,"[6, 5, 6, 7, 5, 7, 7, 7, 4, 6, 6, 7, 7, 7, 5, 5, 7, 5, 6, 7, 4, 6, 6, 6, 4, 6, 5, 7, 3, 4]"
-The pilot navigated the plane through turbulent skies.,5.3,1.2949,30,"[7, 4, 4, 4, 4, 7, 7, 5, 2, 3, 6, 4, 6, 5, 5, 6, 6, 7, 6, 7, 6, 4, 6, 5, 5, 5, 6, 7, 4, 6]"
-The politician fought to improve the community.,2.8667,1.7075,30,"[6, 2, 5, 2, 2, 7, 5, 2, 1, 6, 2, 2, 3, 3, 4, 5, 1, 2, 2, 1, 1, 2, 2, 2, 5, 4, 1, 1, 2, 3]"
-The professor distributed the final assessment.,4.4667,1.7839,30,"[6, 3, 4, 2, 4, 6, 7, 3, 2, 6, 5, 6, 6, 5, 5, 5, 7, 1, 6, 1, 6, 5, 3, 5, 1, 5, 7, 5, 3, 4]"
-The referee signaled that the game is almost over.,5.3333,1.4907,30,"[7, 3, 6, 2, 5, 7, 7, 5, 4, 7, 5, 6, 7, 7, 5, 5, 5, 6, 4, 7, 6, 4, 4, 5, 7, 4, 7, 7, 3, 3]"
-The restaurant served delicious food.,4.8667,1.4996,30,"[7, 5, 5, 3, 4, 7, 7, 4, 2, 7, 7, 5, 2, 6, 4, 5, 6, 6, 5, 4, 5, 4, 5, 6, 6, 4, 6, 3, 2, 4]"
-The river flowed gently through the valley.,6.2,0.8718,30,"[7, 6, 5, 7, 4, 7, 7, 6, 5, 6, 7, 7, 7, 7, 5, 6, 7, 7, 7, 7, 6, 7, 5, 6, 6, 5, 5, 7, 6, 6]"
-The runners lined up at the starting line.,6.2667,0.9978,30,"[7, 4, 5, 7, 6, 7, 7, 6, 4, 7, 7, 7, 6, 7, 6, 5, 7, 6, 7, 7, 6, 6, 7, 7, 7, 5, 7, 7, 4, 7]"
-The server crashed suddenly during a major deal.,3.7333,1.7876,30,"[7, 3, 6, 3, 2, 6, 7, 5, 2, 3, 5, 5, 2, 2, 4, 6, 4, 2, 1, 2, 1, 4, 2, 4, 3, 5, 3, 7, 2, 4]"
-"The snowstorm blanketed the roads with thick, icy snow.",6.1667,0.8596,30,"[7, 5, 5, 5, 6, 6, 7, 7, 6, 5, 7, 7, 7, 5, 6, 7, 7, 7, 7, 7, 5, 7, 6, 6, 6, 5, 7, 7, 5, 5]"
-The speaker received a round of polite applause.,5.2333,1.3828,30,"[7, 4, 4, 4, 2, 7, 7, 7, 3, 6, 7, 6, 5, 5, 6, 6, 7, 3, 5, 4, 5, 5, 5, 5, 6, 6, 5, 7, 3, 5]"
-The star player was injured during a critical game.,5.1333,1.7839,30,"[7, 3, 4, 3, 2, 7, 7, 6, 3, 7, 6, 7, 6, 6, 5, 5, 7, 3, 4, 7, 2, 4, 4, 7, 7, 5, 7, 7, 2, 4]"
-The summer camp encouraged adventure and exploration.,3.0667,1.5902,30,"[6, 4, 4, 2, 1, 6, 4, 2, 1, 3, 1, 2, 4, 1, 4, 5, 5, 2, 3, 1, 1, 5, 2, 5, 3, 5, 2, 4, 2, 2]"
-The sun rose over the city skyline.,6.0333,0.9481,30,"[7, 6, 4, 7, 5, 7, 7, 5, 6, 5, 6, 7, 7, 6, 6, 6, 7, 5, 7, 6, 7, 7, 6, 7, 5, 4, 6, 7, 5, 5]"
-The swimmer glided smoothly across the pool.,6.2667,0.7272,30,"[7, 6, 7, 5, 5, 7, 7, 7, 6, 7, 5, 7, 6, 6, 5, 6, 7, 6, 7, 7, 6, 7, 6, 7, 6, 6, 6, 7, 6, 5]"
-The teacher assigned extra homework.,3.9,2.0873,30,"[7, 2, 5, 1, 1, 7, 7, 4, 2, 7, 6, 7, 6, 1, 4, 5, 1, 4, 2, 1, 2, 3, 3, 6, 2, 5, 3, 5, 3, 5]"
-The team secured a major sponsorship deal.,2.9,1.7578,30,"[5, 2, 5, 1, 1, 6, 5, 2, 1, 7, 3, 1, 2, 1, 4, 3, 5, 1, 2, 1, 1, 3, 2, 4, 6, 4, 2, 2, 2, 3]"
-The toddler couldn't wait to take his first steps,3.7333,1.8962,30,"[6, 3, 4, 1, 3, 7, 7, 3, 1, 6, 1, 5, 6, 2, 5, 7, 5, 1, 4, 2, 2, 4, 3, 1, 4, 5, 5, 4, 2, 3]"
-The toddler's laughter was loud and uninhibited.,5.4667,1.4314,30,"[7, 5, 7, 7, 3, 7, 7, 5, 4, 5, 6, 7, 5, 6, 6, 7, 6, 6, 6, 7, 4, 5, 5, 6, 3, 4, 6, 7, 3, 2]"
-The train arrived right on schedule.,4.8333,1.8089,30,"[7, 3, 5, 3, 4, 7, 7, 3, 1, 7, 2, 5, 6, 7, 5, 4, 4, 6, 5, 2, 6, 2, 3, 5, 7, 7, 6, 7, 4, 5]"
-The tree stood tall through the storm.,5.7333,1.0934,30,"[7, 4, 5, 5, 5, 7, 7, 5, 6, 6, 7, 7, 7, 7, 4, 6, 7, 6, 7, 7, 5, 5, 5, 5, 5, 5, 5, 7, 4, 4]"
-The tropical beach was sunny and inviting.,6.1,0.9781,30,"[7, 5, 5, 6, 5, 7, 7, 6, 5, 6, 7, 7, 7, 6, 6, 6, 7, 6, 7, 4, 6, 7, 6, 7, 6, 6, 7, 7, 3, 6]"
-The tycoon built a great business from the ground up.,2.6667,1.7192,30,"[7, 2, 5, 2, 2, 5, 5, 4, 1, 5, 1, 2, 1, 1, 3, 6, 1, 2, 2, 1, 1, 2, 2, 3, 2, 5, 1, 1, 2, 3]"
-The weatherman predicted record-high temperatures.,4.4,1.5188,30,"[6, 5, 4, 2, 5, 7, 5, 3, 3, 5, 7, 2, 5, 2, 4, 6, 4, 6, 3, 3, 2, 4, 5, 5, 5, 5, 6, 7, 3, 3]"
-The winter wind whipped through the bare branches.,5.6667,1.2737,30,"[7, 5, 5, 7, 3, 7, 7, 7, 5, 5, 6, 6, 7, 7, 3, 6, 6, 7, 7, 7, 5, 6, 5, 5, 4, 4, 4, 7, 4, 6]"
-There's a farmer's market every Sunday downtown.,4.8966,1.6886,29,"[7, 3, 6, 1, 5, 7, 3, 3, 7, 3, 6, 5, 7, 4, 6, 4, 2, 6, 7, 5, 4, 5, 5, 5, 6, 6, 7, 2, 5]"
-Traffic on the main highway was at a stand-still.,6.0667,1.2893,30,"[7, 7, 5, 7, 3, 7, 7, 7, 4, 7, 7, 7, 7, 7, 5, 6, 7, 6, 7, 7, 7, 5, 5, 7, 5, 4, 7, 7, 3, 5]"
-Trees provide shade on a hot summer day.,5.7,0.9713,30,"[7, 4, 4, 6, 6, 7, 7, 6, 5, 6, 6, 7, 6, 7, 6, 6, 6, 7, 6, 7, 4, 5, 5, 6, 5, 5, 5, 5, 4, 5]"
+unit,mean,std,n,individual_ratings,item_type
+A backpack carries all the essentials on a hike.,4.7333,1.484,30,"[5, 4, 7, 4, 3, 7, 7, 4, 2, 5, 4, 6, 5, 4, 4, 5, 5, 7, 5, 1, 3, 6, 5, 7, 5, 5, 3, 4, 5, 5]",test
+A businessman began speaking loudly on the phone.,5.6,1.5669,30,"[7, 5, 5, 2, 3, 7, 7, 7, 4, 6, 7, 7, 6, 7, 5, 5, 7, 7, 7, 1, 6, 6, 5, 6, 5, 6, 6, 7, 4, 5]",test
+A high-speed train now connects Paris and Berlin.,3.8667,1.5916,30,"[7, 5, 5, 3, 3, 5, 7, 6, 2, 3, 5, 4, 4, 6, 2, 5, 3, 2, 2, 4, 1, 3, 3, 4, 3, 5, 2, 5, 2, 5]",test
+A lighthouse guides ships to safety.,5.2333,1.3817,30,"[7, 4, 4, 7, 4, 7, 7, 5, 3, 3, 6, 5, 7, 5, 4, 5, 7, 6, 4, 7, 5, 4, 4, 7, 4, 5, 6, 7, 4, 4]",test
+A menacing storm rolled across the horizon.,5.4667,1.383,30,"[7, 6, 5, 5, 5, 7, 7, 6, 4, 2, 4, 5, 6, 7, 5, 6, 7, 7, 6, 7, 4, 6, 5, 6, 3, 6, 6, 7, 3, 4]",test
+A mountain climbing team reached the K2 summit.,4.9333,1.7207,30,"[6, 5, 5, 7, 5, 7, 7, 6, 2, 2, 4, 7, 7, 4, 5, 6, 6, 3, 3, 5, 5, 6, 6, 7, 6, 6, 3, 3, 2, 2]",test
+A new restaurant opened downtown last week.,4.0667,1.484,30,"[7, 3, 5, 3, 4, 6, 7, 4, 4, 6, 5, 2, 5, 1, 3, 5, 2, 2, 4, 4, 4, 2, 4, 5, 5, 5, 3, 4, 3, 5]",test
+A productive morning routine sets the tone for the day.,2.6333,1.7117,30,"[5, 2, 5, 1, 1, 5, 4, 1, 1, 2, 1, 6, 1, 1, 4, 5, 1, 1, 2, 1, 1, 3, 3, 4, 3, 5, 4, 1, 1, 4]",test
+A rat gnawed through the cables in the walls.,5.6897,1.1983,29,"[7, 4, 5, 4, 7, 7, 7, 5, 6, 6, 7, 7, 6, 5, 5, 7, 7, 7, 7, 6, 4, 4, 5, 4, 5, 5, 7, 4, 5]",test
+A series of unusual occurrences plagued the small town.,2.1333,1.4077,30,"[4, 2, 5, 1, 2, 4, 4, 1, 1, 3, 2, 2, 1, 2, 3, 6, 1, 1, 1, 1, 1, 2, 1, 3, 2, 4, 1, 1, 1, 1]",test
+A solid education lays the foundation for future success.,2.4667,1.6554,30,"[6, 2, 6, 1, 1, 4, 4, 2, 1, 5, 1, 1, 1, 3, 3, 6, 1, 1, 1, 1, 1, 3, 2, 3, 3, 4, 2, 1, 2, 2]",test
+A tree provides a home for birds.,5.4667,1.3578,30,"[7, 5, 6, 6, 4, 7, 7, 5, 3, 7, 7, 6, 6, 5, 6, 6, 7, 5, 7, 7, 3, 5, 4, 5, 6, 2, 5, 6, 4, 5]",test
+A wildlife preserve was recently created in the Amazon.,3.8333,1.3667,30,"[5, 4, 4, 3, 3, 6, 6, 3, 2, 6, 1, 5, 5, 5, 4, 5, 2, 3, 4, 4, 1, 3, 5, 5, 4, 4, 4, 4, 2, 3]",test
+An intense heat wave swept across the city.,4.1,1.7685,30,"[7, 5, 5, 3, 4, 5, 7, 5, 2, 5, 6, 3, 1, 5, 4, 6, 2, 7, 6, 1, 1, 4, 3, 3, 5, 4, 2, 4, 3, 5]",test
+Consuming alcohol is dangerous for your health.,2.7667,2.0625,30,"[5, 3, 6, 1, 1, 4, 7, 1, 1, 2, 1, 3, 1, 1, 3, 5, 1, 2, 2, 7, 1, 4, 1, 6, 3, 6, 2, 1, 1, 1]",test
+David meticulously planned each step of his journey.,3.4,1.6526,30,"[6, 3, 6, 1, 3, 4, 5, 4, 2, 5, 3, 2, 5, 2, 4, 5, 1, 5, 2, 1, 3, 2, 2, 7, 2, 5, 2, 4, 2, 4]",test
+Excellent customer service can make or break a business.,2.5,1.7956,30,"[6, 2, 4, 1, 1, 4, 5, 1, 1, 5, 3, 2, 1, 1, 3, 3, 1, 2, 1, 1, 1, 5, 1, 2, 2, 5, 2, 1, 1, 7]",test
+Jenny's dress was bright and cheerful.,5.6333,1.4016,30,"[7, 5, 5, 3, 6, 7, 7, 7, 3, 7, 7, 7, 7, 7, 6, 7, 5, 4, 7, 7, 4, 6, 4, 6, 3, 5, 5, 6, 4, 5]",test
+Jeremy stopped at a diner for lunch.,4.7,1.705,30,"[7, 3, 4, 4, 5, 7, 7, 3, 3, 6, 6, 7, 5, 6, 4, 5, 3, 1, 4, 7, 6, 3, 4, 5, 2, 5, 7, 5, 2, 5]",test
+John forgot his umbrella and got soaked.,5.5172,1.4789,29,"[7, 5, 6, 3, 7, 7, 6, 4, 7, 5, 7, 7, 7, 3, 6, 7, 5, 7, 4, 7, 6, 4, 6, 3, 5, 5, 7, 3, 4]",test
+Judy grabbed her shopping list on the way out the door.,5.6,1.6526,30,"[7, 5, 4, 4, 5, 7, 7, 7, 3, 7, 7, 7, 7, 7, 5, 5, 7, 5, 6, 7, 6, 5, 5, 7, 1, 4, 7, 7, 2, 5]",test
+Large areas of forest were cleared for agriculture.,5.3333,1.3476,30,"[7, 4, 7, 4, 4, 7, 7, 5, 3, 5, 6, 6, 6, 7, 4, 6, 7, 5, 7, 7, 3, 5, 5, 5, 4, 4, 5, 7, 4, 4]",test
+Learning a new language opens up many doors.,2.2,1.7499,30,"[7, 2, 5, 1, 1, 4, 4, 1, 1, 5, 2, 1, 1, 1, 2, 4, 1, 1, 1, 1, 1, 2, 1, 1, 2, 5, 1, 1, 1, 5]",test
+Libraries offer knowledge to eager learners.,2.8333,1.802,30,"[5, 3, 5, 1, 2, 4, 5, 2, 1, 7, 1, 2, 3, 6, 3, 5, 1, 1, 1, 3, 1, 3, 2, 2, 5, 3, 1, 1, 1, 5]",test
+Lily kept her thoughts to herself during the meeting.,3.4333,1.9597,30,"[6, 2, 4, 2, 2, 7, 7, 6, 1, 2, 3, 7, 4, 1, 2, 4, 2, 1, 5, 1, 5, 4, 4, 5, 2, 5, 2, 2, 1, 4]",test
+Sarah loves reading mystery novels.,3.4483,1.8436,29,"[7, 4, 4, 2, 6, 7, 2, 2, 7, 2, 3, 3, 2, 3, 6, 4, 1, 2, 1, 1, 2, 3, 4, 3, 3, 6, 4, 2, 4]",test
+September was unusually humid and hot.,3.5333,1.8144,30,"[6, 4, 6, 2, 1, 7, 7, 4, 1, 3, 5, 6, 2, 3, 4, 5, 5, 2, 2, 1, 2, 4, 2, 3, 3, 5, 1, 4, 2, 4]",test
+Sophie planted strawberry seeds in the backyard.,5.4667,1.3322,30,"[7, 5, 5, 4, 5, 7, 7, 7, 3, 6, 6, 7, 7, 5, 5, 6, 5, 4, 7, 7, 6, 4, 5, 6, 3, 5, 6, 7, 4, 3]",test
+Strong winds frequently blow through the Sahara Desert.,5.0333,1.4499,30,"[7, 4, 7, 2, 2, 7, 7, 5, 3, 5, 6, 7, 4, 5, 4, 6, 4, 5, 6, 5, 5, 5, 6, 5, 5, 4, 6, 7, 3, 4]",test
+Teachers inspire students to reach their full potential.,3.0333,1.5862,30,"[5, 3, 5, 1, 2, 5, 5, 1, 1, 6, 5, 4, 1, 2, 4, 5, 3, 1, 2, 1, 1, 3, 2, 3, 4, 5, 3, 3, 2, 3]",test
+The Antique clock ticked heavily every second.,5.4667,1.4794,30,"[7, 5, 3, 4, 2, 7, 7, 7, 4, 5, 6, 7, 6, 3, 5, 6, 7, 7, 6, 7, 6, 5, 5, 6, 3, 5, 7, 7, 4, 5]",test
+The actor was praised for his powerful performance.,3.7333,1.9286,30,"[7, 2, 4, 1, 2, 7, 7, 3, 3, 7, 2, 4, 4, 1, 5, 6, 5, 5, 4, 1, 1, 2, 2, 5, 5, 5, 3, 4, 2, 3]",test
+The architect revealed plans for a modern skyscraper.,4.2667,1.7207,30,"[7, 4, 5, 2, 3, 7, 5, 3, 1, 2, 5, 6, 7, 3, 4, 6, 7, 4, 5, 1, 5, 5, 5, 4, 2, 4, 3, 5, 3, 5]",test
+The astronaut strapped into the shuttle.,5.3667,1.5421,30,"[7, 4, 7, 4, 5, 6, 7, 7, 5, 2, 6, 7, 7, 2, 4, 6, 7, 7, 6, 5, 6, 5, 6, 7, 5, 6, 4, 5, 3, 3]",test
+The athlete shared his workout routine with the press.,4.4333,1.5906,30,"[6, 3, 5, 1, 3, 7, 7, 6, 3, 6, 5, 4, 5, 6, 4, 6, 2, 3, 3, 4, 4, 4, 2, 5, 6, 6, 5, 5, 2, 5]",test
+The cat remained calm during the thunderstorm.,5.5333,1.3322,30,"[7, 5, 5, 4, 4, 7, 7, 7, 3, 6, 5, 7, 7, 3, 5, 6, 5, 7, 6, 7, 6, 5, 5, 5, 7, 5, 6, 7, 3, 4]",test
+The celebration was joyous and full of laughter.,5.0333,1.4016,30,"[7, 3, 5, 3, 3, 7, 7, 4, 2, 6, 5, 7, 5, 6, 5, 7, 5, 6, 5, 3, 5, 5, 6, 6, 4, 5, 5, 5, 3, 6]",test
+The chef accidentally added too much salt to the soup.,5.0,1.4622,30,"[7, 4, 5, 2, 4, 7, 7, 6, 4, 7, 4, 3, 6, 5, 4, 4, 3, 7, 4, 6, 6, 5, 5, 5, 5, 5, 6, 7, 2, 5]",test
+The childhood friends have been missing each other.,3.4,1.9046,30,"[7, 2, 6, 1, 1, 4, 7, 4, 1, 6, 7, 4, 2, 3, 4, 5, 3, 2, 2, 2, 2, 2, 2, 3, 3, 6, 4, 1, 2, 4]",test
+The city was bustling and vibrant.,5.6,1.1326,30,"[7, 3, 6, 5, 6, 7, 7, 6, 4, 6, 5, 7, 6, 7, 5, 6, 7, 6, 6, 3, 5, 6, 5, 6, 5, 5, 5, 7, 4, 5]",test
+The city zoo recently introduced a new animal habitat.,4.0,1.6189,30,"[5, 5, 5, 1, 4, 6, 7, 3, 3, 5, 3, 4, 7, 6, 4, 6, 3, 4, 3, 4, 1, 2, 4, 5, 2, 5, 2, 4, 2, 5]",test
+The climber reached the top after weeks of prep.,4.7,1.512,30,"[7, 5, 4, 5, 4, 7, 7, 5, 4, 5, 3, 6, 6, 4, 2, 6, 1, 4, 5, 7, 6, 5, 5, 5, 4, 3, 5, 5, 2, 4]",test
+The cooking class was practicing dicing onions.,5.9333,1.0148,30,"[7, 7, 6, 6, 6, 7, 7, 7, 5, 6, 6, 7, 6, 6, 5, 7, 7, 6, 6, 5, 6, 5, 5, 5, 4, 6, 7, 7, 3, 5]",test
+The dancer moved with grace across the stage.,5.7931,1.2643,29,"[7, 6, 5, 6, 4, 7, 7, 6, 5, 7, 6, 7, 7, 6, 5, 6, 7, 6, 6, 7, 6, 5, 5, 5, 3, 7, 7, 2, 5]",test
+The daughter angrily left the dinner table.,5.6333,1.4499,30,"[7, 4, 4, 5, 5, 7, 7, 7, 5, 7, 5, 7, 7, 7, 5, 6, 6, 4, 7, 7, 4, 6, 4, 7, 2, 5, 7, 7, 3, 5]",test
+The dealer shuffled the deck of cards.,6.1667,0.9855,30,"[7, 5, 7, 7, 6, 7, 7, 7, 6, 5, 7, 6, 7, 7, 6, 6, 7, 7, 7, 7, 5, 5, 6, 6, 4, 5, 7, 7, 5, 4]",test
+The detective arrived at the crime scene at midday.,4.8333,1.6833,30,"[7, 4, 5, 1, 3, 7, 7, 4, 4, 6, 5, 4, 6, 2, 4, 6, 7, 6, 5, 4, 6, 3, 5, 7, 6, 5, 2, 7, 3, 4]",test
+The doctor updated the patient's chart.,5.2667,1.4606,30,"[6, 5, 5, 4, 4, 7, 7, 6, 4, 6, 7, 7, 6, 6, 5, 5, 7, 2, 5, 5, 6, 3, 3, 7, 5, 5, 7, 6, 2, 5]",test
+The drought reduced the supply in the reservoir.,4.9,1.6263,30,"[7, 4, 3, 5, 4, 6, 7, 5, 5, 6, 3, 6, 7, 7, 4, 6, 5, 4, 6, 1, 5, 5, 2, 7, 4, 4, 5, 7, 2, 5]",test
+The early morning train was packed with commuters.,6.2333,1.0063,30,"[7, 6, 5, 7, 5, 7, 7, 7, 5, 6, 7, 7, 7, 7, 6, 7, 7, 7, 7, 7, 5, 5, 6, 7, 6, 4, 7, 7, 4, 5]",test
+The family sat down at the restaurant.,6.1333,1.0417,30,"[7, 5, 7, 4, 5, 7, 7, 5, 5, 7, 7, 7, 6, 7, 5, 5, 7, 7, 7, 7, 7, 6, 4, 7, 5, 5, 7, 7, 6, 6]",test
+The festival will feature local musicians and artists.,4.2,1.6692,30,"[7, 3, 5, 1, 1, 7, 7, 4, 4, 6, 4, 5, 4, 4, 7, 5, 3, 3, 4, 1, 2, 4, 4, 3, 5, 5, 4, 5, 4, 5]",test
+The filmmaker has monitored climate change for years.,2.4333,1.6333,30,"[6, 3, 3, 1, 3, 6, 6, 2, 1, 1, 1, 2, 1, 2, 2, 6, 1, 1, 2, 1, 2, 2, 2, 3, 3, 4, 1, 2, 2, 1]",test
+The first flight to Frankfurt this morning was delayed.,3.2,1.8828,30,"[7, 3, 4, 2, 1, 6, 7, 3, 1, 6, 2, 3, 2, 2, 3, 5, 1, 2, 1, 1, 1, 3, 2, 6, 5, 5, 3, 4, 2, 3]",test
+The hike was exhausting for the beginners.,4.4333,1.2507,30,"[7, 5, 5, 2, 2, 6, 5, 3, 2, 5, 5, 5, 3, 4, 5, 6, 5, 4, 4, 4, 5, 4, 5, 4, 6, 5, 6, 4, 3, 4]",test
+The hikers reached the mountain summit.,5.8,1.2149,30,"[7, 5, 5, 4, 4, 7, 7, 5, 4, 6, 3, 7, 7, 7, 5, 6, 7, 6, 5, 7, 6, 7, 6, 7, 6, 5, 7, 7, 4, 5]",test
+The horror movie kept movie-goers on edge with each scene.,4.7667,1.5687,30,"[6, 6, 6, 4, 6, 7, 7, 2, 3, 2, 4, 6, 6, 4, 6, 6, 5, 5, 5, 1, 5, 4, 5, 5, 4, 4, 5, 7, 2, 5]",test
+The invasive species took over the lake.,3.6667,1.8631,30,"[5, 4, 6, 1, 5, 7, 7, 2, 2, 6, 5, 2, 4, 1, 4, 5, 1, 3, 4, 1, 1, 5, 3, 5, 3, 5, 1, 4, 3, 5]",test
+The journalist covered breaking news from a conflict zone.,5.0667,1.388,30,"[7, 4, 5, 2, 4, 7, 6, 6, 4, 7, 6, 5, 6, 3, 6, 6, 7, 6, 4, 5, 3, 3, 4, 6, 6, 5, 6, 5, 3, 5]",test
+The kids played outside on the playground after class.,5.6,1.3544,30,"[7, 5, 5, 4, 5, 7, 7, 6, 4, 6, 7, 7, 7, 5, 5, 6, 7, 3, 7, 7, 6, 3, 5, 6, 5, 5, 7, 7, 4, 3]",test
+The library is hosting a reading challenge for kids.,3.7333,1.7407,30,"[6, 3, 5, 3, 2, 7, 7, 3, 3, 6, 1, 5, 4, 5, 4, 5, 2, 2, 3, 1, 4, 2, 3, 4, 7, 5, 2, 3, 3, 2]",test
+The motivational speaker gave an inspiring talk.,4.5667,1.888,30,"[7, 3, 6, 1, 2, 7, 7, 2, 3, 7, 6, 7, 4, 4, 5, 6, 5, 7, 3, 4, 5, 4, 3, 2, 3, 4, 6, 7, 2, 5]",test
+The movie crew set up a table of food for the shoot.,5.5333,1.2521,30,"[7, 5, 5, 5, 5, 7, 7, 5, 4, 6, 7, 6, 7, 6, 4, 6, 7, 4, 6, 7, 6, 5, 6, 6, 4, 5, 5, 7, 2, 4]",test
+The museum had impressive ancient artifacts.,5.2333,1.1351,30,"[6, 4, 6, 4, 4, 7, 7, 4, 3, 5, 5, 7, 6, 5, 6, 6, 4, 6, 6, 4, 6, 4, 4, 5, 7, 5, 6, 4, 5, 6]",test
+The new law reduced funding for public transportation.,2.2,1.71,30,"[7, 3, 6, 1, 1, 5, 3, 3, 1, 5, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 1, 2, 1, 1, 2, 5, 1, 1, 2, 2]",test
+The novelist released a highly anticipated sequel.,2.9333,1.7207,30,"[6, 2, 5, 1, 1, 5, 6, 4, 3, 5, 1, 5, 2, 2, 2, 5, 1, 1, 2, 1, 3, 1, 2, 2, 2, 6, 3, 4, 2, 3]",test
+The nurse administered the vaccination.,5.8,1.1567,30,"[7, 4, 4, 5, 4, 7, 7, 6, 5, 5, 7, 7, 7, 7, 5, 5, 7, 7, 5, 7, 6, 5, 5, 7, 5, 5, 7, 7, 4, 5]",test
+The old bicycle had squeaky brakes.,5.2667,1.5522,30,"[7, 4, 4, 2, 2, 7, 7, 7, 4, 5, 5, 6, 6, 5, 6, 6, 6, 7, 6, 7, 2, 6, 3, 5, 6, 5, 7, 5, 4, 6]",test
+The old typewriter clattered loudly with every keystroke.,5.4667,1.6132,30,"[7, 4, 4, 3, 2, 7, 7, 6, 4, 6, 5, 7, 7, 7, 5, 6, 5, 6, 6, 7, 6, 7, 6, 7, 2, 4, 7, 7, 3, 4]",test
+The open water bottle fell from the table.,5.9,1.269,30,"[7, 5, 5, 5, 6, 7, 7, 7, 6, 7, 7, 7, 7, 6, 5, 6, 7, 7, 7, 7, 5, 6, 4, 5, 3, 5, 7, 7, 3, 4]",test
+The painter mixed the perfect shade of blue.,5.2667,1.3374,30,"[6, 4, 5, 4, 5, 7, 7, 3, 4, 6, 5, 7, 6, 7, 5, 7, 5, 7, 7, 4, 5, 6, 3, 4, 3, 5, 5, 7, 4, 5]",test
+The painting was abstract and confusing to some viewers.,3.9667,1.4967,30,"[4, 4, 5, 3, 1, 6, 4, 4, 2, 5, 2, 5, 2, 1, 4, 6, 4, 5, 4, 5, 5, 3, 4, 3, 4, 6, 2, 7, 4, 5]",test
+The pilot entered the cockpit with the crew.,5.7667,1.1651,30,"[6, 5, 6, 7, 5, 7, 7, 7, 4, 6, 6, 7, 7, 7, 5, 5, 7, 5, 6, 7, 4, 6, 6, 6, 4, 6, 5, 7, 3, 4]",test
+The pilot navigated the plane through turbulent skies.,5.3,1.317,30,"[7, 4, 4, 4, 4, 7, 7, 5, 2, 3, 6, 4, 6, 5, 5, 6, 6, 7, 6, 7, 6, 4, 6, 5, 5, 5, 6, 7, 4, 6]",test
+The politician fought to improve the community.,2.8667,1.7367,30,"[6, 2, 5, 2, 2, 7, 5, 2, 1, 6, 2, 2, 3, 3, 4, 5, 1, 2, 2, 1, 1, 2, 2, 2, 5, 4, 1, 1, 2, 3]",test
+The professor distributed the final assessment.,4.4667,1.8144,30,"[6, 3, 4, 2, 4, 6, 7, 3, 2, 6, 5, 6, 6, 5, 5, 5, 7, 1, 6, 1, 6, 5, 3, 5, 1, 5, 7, 5, 3, 4]",test
+The referee signaled that the game is almost over.,5.3333,1.5162,30,"[7, 3, 6, 2, 5, 7, 7, 5, 4, 7, 5, 6, 7, 7, 5, 5, 5, 6, 4, 7, 6, 4, 4, 5, 7, 4, 7, 7, 3, 3]",test
+The restaurant served delicious food.,4.8667,1.5253,30,"[7, 5, 5, 3, 4, 7, 7, 4, 2, 7, 7, 5, 2, 6, 4, 5, 6, 6, 5, 4, 5, 4, 5, 6, 6, 4, 6, 3, 2, 4]",test
+The river flowed gently through the valley.,6.2,0.8867,30,"[7, 6, 5, 7, 4, 7, 7, 6, 5, 6, 7, 7, 7, 7, 5, 6, 7, 7, 7, 7, 6, 7, 5, 6, 6, 5, 5, 7, 6, 6]",test
+The runners lined up at the starting line.,6.2667,1.0148,30,"[7, 4, 5, 7, 6, 7, 7, 6, 4, 7, 7, 7, 6, 7, 6, 5, 7, 6, 7, 7, 6, 6, 7, 7, 7, 5, 7, 7, 4, 7]",test
+The server crashed suddenly during a major deal.,3.7333,1.8182,30,"[7, 3, 6, 3, 2, 6, 7, 5, 2, 3, 5, 5, 2, 2, 4, 6, 4, 2, 1, 2, 1, 4, 2, 4, 3, 5, 3, 7, 2, 4]",test
+"The snowstorm blanketed the roads with thick, icy snow.",6.1667,0.8743,30,"[7, 5, 5, 5, 6, 6, 7, 7, 6, 5, 7, 7, 7, 5, 6, 7, 7, 7, 7, 7, 5, 7, 6, 6, 6, 5, 7, 7, 5, 5]",test
+The speaker received a round of polite applause.,5.2333,1.4065,30,"[7, 4, 4, 4, 2, 7, 7, 7, 3, 6, 7, 6, 5, 5, 6, 6, 7, 3, 5, 4, 5, 5, 5, 5, 6, 6, 5, 7, 3, 5]",test
+The star player was injured during a critical game.,5.1333,1.8144,30,"[7, 3, 4, 3, 2, 7, 7, 6, 3, 7, 6, 7, 6, 6, 5, 5, 7, 3, 4, 7, 2, 4, 4, 7, 7, 5, 7, 7, 2, 4]",test
+The summer camp encouraged adventure and exploration.,3.0667,1.6174,30,"[6, 4, 4, 2, 1, 6, 4, 2, 1, 3, 1, 2, 4, 1, 4, 5, 5, 2, 3, 1, 1, 5, 2, 5, 3, 5, 2, 4, 2, 2]",test
+The sun rose over the city skyline.,6.0333,0.9643,30,"[7, 6, 4, 7, 5, 7, 7, 5, 6, 5, 6, 7, 7, 6, 6, 6, 7, 5, 7, 6, 7, 7, 6, 7, 5, 4, 6, 7, 5, 5]",test
+The swimmer glided smoothly across the pool.,6.2667,0.7397,30,"[7, 6, 7, 5, 5, 7, 7, 7, 6, 7, 5, 7, 6, 6, 5, 6, 7, 6, 7, 7, 6, 7, 6, 7, 6, 6, 6, 7, 6, 5]",test
+The teacher assigned extra homework.,3.9,2.1229,30,"[7, 2, 5, 1, 1, 7, 7, 4, 2, 7, 6, 7, 6, 1, 4, 5, 1, 4, 2, 1, 2, 3, 3, 6, 2, 5, 3, 5, 3, 5]",test
+The team secured a major sponsorship deal.,2.9,1.7879,30,"[5, 2, 5, 1, 1, 6, 5, 2, 1, 7, 3, 1, 2, 1, 4, 3, 5, 1, 2, 1, 1, 3, 2, 4, 6, 4, 2, 2, 2, 3]",test
+The toddler couldn't wait to take his first steps,3.7333,1.9286,30,"[6, 3, 4, 1, 3, 7, 7, 3, 1, 6, 1, 5, 6, 2, 5, 7, 5, 1, 4, 2, 2, 4, 3, 1, 4, 5, 5, 4, 2, 3]",test
+The toddler's laughter was loud and uninhibited.,5.4667,1.4559,30,"[7, 5, 7, 7, 3, 7, 7, 5, 4, 5, 6, 7, 5, 6, 6, 7, 6, 6, 6, 7, 4, 5, 5, 6, 3, 4, 6, 7, 3, 2]",test
+The train arrived right on schedule.,4.8333,1.8399,30,"[7, 3, 5, 3, 4, 7, 7, 3, 1, 7, 2, 5, 6, 7, 5, 4, 4, 6, 5, 2, 6, 2, 3, 5, 7, 7, 6, 7, 4, 5]",test
+The tree stood tall through the storm.,5.7333,1.1121,30,"[7, 4, 5, 5, 5, 7, 7, 5, 6, 6, 7, 7, 7, 7, 4, 6, 7, 6, 7, 7, 5, 5, 5, 5, 5, 5, 5, 7, 4, 4]",test
+The tropical beach was sunny and inviting.,6.1,0.9948,30,"[7, 5, 5, 6, 5, 7, 7, 6, 5, 6, 7, 7, 7, 6, 6, 6, 7, 6, 7, 4, 6, 7, 6, 7, 6, 6, 7, 7, 3, 6]",test
+The tycoon built a great business from the ground up.,2.6667,1.7486,30,"[7, 2, 5, 2, 2, 5, 5, 4, 1, 5, 1, 2, 1, 1, 3, 6, 1, 2, 2, 1, 1, 2, 2, 3, 2, 5, 1, 1, 2, 3]",test
+The weatherman predicted record-high temperatures.,4.4,1.5447,30,"[6, 5, 4, 2, 5, 7, 5, 3, 3, 5, 7, 2, 5, 2, 4, 6, 4, 6, 3, 3, 2, 4, 5, 5, 5, 5, 6, 7, 3, 3]",test
+The winter wind whipped through the bare branches.,5.6667,1.2954,30,"[7, 5, 5, 7, 3, 7, 7, 7, 5, 5, 6, 6, 7, 7, 3, 6, 6, 7, 7, 7, 5, 6, 5, 5, 4, 4, 4, 7, 4, 6]",test
+There's a farmer's market every Sunday downtown.,4.8966,1.7185,29,"[7, 3, 6, 1, 5, 7, 3, 3, 7, 3, 6, 5, 7, 4, 6, 4, 2, 6, 7, 5, 4, 5, 5, 5, 6, 6, 7, 2, 5]",test
+Traffic on the main highway was at a stand-still.,6.0667,1.3113,30,"[7, 7, 5, 7, 3, 7, 7, 7, 4, 7, 7, 7, 7, 7, 5, 6, 7, 6, 7, 7, 7, 5, 5, 7, 5, 4, 7, 7, 3, 5]",test
+Trees provide shade on a hot summer day.,5.7,0.9879,30,"[7, 4, 4, 6, 6, 7, 7, 6, 5, 6, 6, 7, 6, 7, 6, 6, 6, 7, 6, 7, 4, 5, 5, 6, 5, 5, 5, 5, 4, 5]",test

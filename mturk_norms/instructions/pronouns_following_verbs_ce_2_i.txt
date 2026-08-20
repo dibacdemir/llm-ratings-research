@@ -1,5 +1,8 @@
-Rate the sentence.
-Rate on a scale from 1 to 3. (scale inferred from observed responses)
-Answer with one number.
+Read the sentence and decide who the pronoun refers to. How strong is your intuition about who the pronoun refers to?
+Rate on a scale from 1 to 3:
+1 = Not strong
+2 = Reasonably strong
+3 = Strong
+Answer with one digit.
 
 <<{sentence}>>

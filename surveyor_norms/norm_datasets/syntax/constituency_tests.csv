@@ -1,49 +1,49 @@
-unit,mean,std,n,individual_ratings
-"A clever solution, the student thought of.",2.1786,0.6008,28,"[3, 4, 2, 2, 2, 2, 2, 2, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 2, 2, 1, 2, 3, 2, 1]"
-"A perfect wedding, the couple dreamed of.",2.7742,1.1559,31,"[3, 1, 4, 3, 3, 1, 3, 5, 3, 2, 2, 4, 2, 4, 2, 1, 4, 2, 4, 2, 3, 3, 5, 1, 2, 5, 3, 2, 2, 3, 2]"
-"A thunderstorm, the weather service warned of.",2.4444,1.1331,27,"[3, 3, 2, 4, 1, 2, 1, 2, 2, 4, 2, 4, 2, 2, 5, 4, 1, 2, 4, 2, 2, 1, 1, 2, 2, 4, 2]"
-"Clues, the detective looked for.",2.3333,1.1222,27,"[4, 2, 1, 4, 2, 2, 1, 2, 1, 3, 2, 4, 2, 1, 4, 4, 1, 4, 4, 3, 2, 2, 1, 1, 2, 2, 2]"
-"Elegant dresses, her wardrobe consisted of.",2.0645,0.7593,31,"[3, 4, 3, 2, 3, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 2, 4, 1, 2, 2, 1, 1, 1, 2, 2, 2]"
-"Experienced professionals, the team consisted of.",2.5,0.866,20,"[1, 2, 4, 3, 4, 3, 2, 4, 2, 3, 2, 2, 2, 1, 2, 2, 3, 3, 3, 2]"
-"For clues, the detective looked.",2.36,1.0911,25,"[4, 2, 4, 3, 4, 4, 1, 2, 3, 1, 1, 4, 2, 2, 4, 2, 1, 2, 2, 2, 2, 1, 3, 2, 1]"
-"For repairs, the customer paid.",2.5652,1.1731,23,"[1, 2, 1, 1, 2, 3, 3, 4, 4, 4, 3, 2, 2, 4, 3, 4, 5, 2, 3, 2, 1, 1, 2]"
-"For the bus, the nurse waited.",2.5357,1.149,28,"[4, 3, 3, 2, 4, 2, 2, 4, 4, 2, 1, 2, 2, 1, 4, 2, 1, 2, 3, 5, 1, 2, 2, 2, 2, 2, 5, 2]"
-"For the exam, the student studied.",2.7727,1.3119,22,"[4, 2, 1, 3, 3, 2, 5, 3, 2, 4, 5, 4, 4, 2, 1, 5, 2, 3, 1, 2, 2, 1]"
-"For the fellowship, the student applied.",2.6364,0.9315,22,"[2, 4, 4, 2, 4, 2, 2, 4, 2, 3, 2, 2, 4, 1, 2, 4, 2, 2, 2, 3, 3, 2]"
-"For the patients, the nurse cared.",2.5833,1.2219,24,"[4, 2, 2, 1, 1, 2, 5, 2, 4, 4, 2, 2, 4, 2, 2, 4, 5, 1, 2, 2, 1, 3, 3, 2]"
-"His dribbling skills, the player boasted of.",2.1333,1.0873,30,"[3, 2, 2, 1, 3, 1, 1, 3, 4, 4, 1, 2, 1, 1, 3, 1, 4, 1, 1, 1, 2, 1, 4, 2, 2, 2, 2, 3, 2, 4]"
-"Of a clever solution, the student thought.",2.0,0.9129,24,"[4, 1, 2, 2, 1, 2, 3, 2, 4, 2, 2, 2, 4, 1, 2, 1, 1, 1, 2, 2, 1, 2, 2, 2]"
-"Of a perfect wedding, the couple dreamed.",2.25,0.9937,20,"[4, 4, 2, 2, 4, 2, 2, 2, 2, 4, 1, 2, 3, 1, 2, 1, 2, 2, 2, 1]"
-"Of a thunderstorm, the weather service warned.",1.8,0.8485,25,"[3, 2, 1, 2, 3, 2, 1, 2, 3, 3, 1, 2, 1, 1, 4, 2, 1, 1, 2, 1, 1, 1, 2, 2, 1]"
-"Of elegant dresses, her wardrobe consisted.",1.8571,1.1249,21,"[4, 1, 1, 2, 1, 2, 2, 5, 1, 2, 4, 1, 1, 1, 2, 2, 2, 1, 1, 2, 1]"
-"Of experienced professionals, the team consisted.",1.8125,0.6343,32,"[3, 2, 2, 2, 2, 2, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 2, 2, 2, 1, 1, 2, 1, 1, 2, 2, 2, 3, 1, 1, 1, 2]"
-"Of his dribbling skills, the player boasted.",2.087,1.0999,23,"[1, 4, 1, 3, 2, 5, 2, 3, 3, 2, 1, 2, 4, 1, 2, 2, 2, 1, 1, 2, 1, 1, 2]"
-"Of severe pain, the patient complained.",2.4444,1.0999,27,"[3, 2, 5, 4, 3, 1, 2, 3, 2, 2, 2, 1, 2, 1, 1, 2, 4, 3, 4, 2, 1, 4, 2, 4, 2, 2, 2]"
-"Of the cool band, the hipsters heard.",1.5455,0.4979,22,"[2, 1, 1, 1, 2, 2, 2, 1, 1, 1, 2, 1, 2, 2, 2, 2, 2, 2, 1, 2, 1, 1]"
-"Of the hazardous waste, the company disposed.",2.3182,1.0174,22,"[2, 4, 3, 4, 3, 2, 1, 3, 3, 1, 1, 1, 4, 2, 2, 4, 2, 1, 2, 2, 2, 2]"
-"Of the large language model, the teacher disapproved.",2.5135,1.1768,37,"[4, 4, 2, 2, 1, 4, 4, 1, 1, 3, 2, 4, 4, 1, 3, 2, 2, 4, 1, 4, 3, 2, 5, 1, 2, 2, 4, 2, 2, 2, 1, 1, 2, 3, 4, 2, 2]"
-"Of the proposed budget changes, the committee approved.",2.4571,1.1794,35,"[4, 4, 2, 4, 4, 3, 1, 4, 4, 2, 1, 3, 2, 2, 1, 2, 1, 1, 1, 4, 4, 3, 2, 2, 3, 5, 2, 1, 3, 2, 1, 2, 3, 2, 1]"
-"Of the strike, the labor union approved.",2.1667,0.8498,24,"[3, 1, 2, 2, 3, 2, 2, 2, 3, 2, 2, 5, 1, 2, 2, 2, 2, 3, 1, 2, 1, 2, 3, 2]"
-"Repairs, the customer paid for.",2.5,1.118,28,"[3, 4, 3, 2, 4, 3, 2, 4, 1, 2, 1, 2, 4, 5, 2, 1, 2, 1, 2, 2, 4, 2, 3, 2, 1, 4, 2, 2]"
-"Severe pain, the patient complained of.",2.12,0.9516,25,"[4, 2, 4, 1, 4, 3, 2, 2, 2, 2, 2, 2, 4, 2, 2, 2, 2, 1, 1, 1, 2, 2, 1, 1, 2]"
-"The birds, the cat listened to.",2.0645,0.9135,31,"[4, 4, 2, 2, 4, 4, 2, 1, 1, 1, 2, 2, 2, 1, 2, 1, 2, 3, 2, 2, 2, 3, 2, 2, 2, 1, 1, 1, 2, 2, 2]"
-"The bus, the nurse waiter for.",1.32,0.6765,25,"[1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 1, 4, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2]"
-"The cool band, the hipsters heard of.",2.3333,1.1353,30,"[2, 4, 1, 3, 2, 2, 3, 1, 4, 4, 2, 2, 1, 2, 2, 1, 5, 4, 1, 3, 4, 1, 1, 2, 1, 2, 3, 3, 2, 2]"
-"The customer, the company responded to.",2.0,0.8402,17,"[4, 1, 2, 2, 3, 3, 2, 1, 1, 2, 1, 1, 2, 2, 2, 3, 2]"
-"The editor, the journalist wrote to.",2.129,1.0393,31,"[4, 2, 1, 4, 2, 2, 1, 4, 3, 3, 1, 1, 3, 4, 1, 2, 1, 4, 1, 3, 2, 2, 2, 1, 2, 2, 2, 1, 2, 1, 2]"
-"The exam, the student studied for.",2.6333,1.2512,30,"[4, 4, 4, 4, 2, 1, 2, 1, 4, 4, 1, 2, 4, 4, 3, 2, 5, 4, 1, 1, 2, 2, 1, 3, 1, 2, 3, 2, 4, 2]"
-"The fellowship, the student applied for.",1.9655,0.9643,29,"[3, 2, 2, 1, 1, 1, 1, 2, 2, 4, 3, 1, 1, 2, 3, 2, 2, 2, 1, 2, 5, 2, 2, 1, 2, 1, 3, 2, 1]"
-"The girls, the boy waved to.",1.95,0.7399,20,"[1, 2, 2, 1, 2, 2, 3, 4, 2, 2, 2, 2, 1, 1, 2, 2, 2, 2, 3, 1]"
-"The hazardous waste, the company disposed of.",2.3333,1.1055,30,"[3, 4, 4, 1, 4, 1, 1, 5, 2, 2, 2, 3, 3, 2, 4, 2, 2, 2, 2, 1, 2, 4, 2, 2, 1, 1, 1, 3, 2, 2]"
-"The large language model, the teacher disapproved of.",2.2667,0.9286,15,"[2, 3, 3, 2, 1, 4, 2, 2, 2, 3, 2, 1, 4, 2, 1]"
-"The patient, the doctor talked to.",2.1071,1.1445,28,"[5, 4, 3, 1, 4, 2, 1, 1, 1, 1, 2, 1, 2, 4, 1, 2, 2, 2, 1, 3, 1, 2, 2, 1, 1, 3, 3, 3]"
-"The patients, the nurse cared for.",2.1429,0.833,28,"[3, 2, 2, 3, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 5, 2, 2, 2, 2, 1, 2, 2, 2, 1, 2, 2, 1, 2]"
-"The proposed budget changes, the committee approved of.",2.9412,1.1617,17,"[4, 5, 2, 4, 4, 2, 2, 3, 2, 2, 5, 1, 3, 3, 2, 4, 2]"
-"The strike, the labor union approved of.",2.0714,1.1628,28,"[2, 4, 4, 1, 2, 2, 1, 3, 2, 1, 2, 1, 2, 4, 2, 4, 5, 1, 1, 1, 2, 1, 2, 1, 1, 3, 2, 1]"
-"The teacher, the child apologized to.",2.0,0.8944,15,"[2, 2, 1, 2, 1, 2, 2, 4, 2, 4, 2, 2, 1, 2, 1]"
-"To the birds, the cat listened.",2.5714,1.0942,21,"[4, 2, 2, 2, 2, 2, 2, 5, 4, 4, 4, 2, 2, 2, 2, 1, 2, 2, 4, 3, 1]"
-"To the customer, the company responded.",2.5294,0.9772,34,"[3, 4, 2, 2, 2, 1, 2, 4, 4, 5, 2, 3, 2, 2, 3, 2, 3, 2, 2, 4, 4, 3, 2, 2, 3, 4, 2, 2, 2, 1, 2, 2, 2, 1]"
-"To the editor, the journalist wrote.",2.55,1.244,20,"[4, 5, 4, 2, 4, 4, 1, 2, 2, 4, 2, 2, 2, 1, 2, 1, 4, 2, 2, 1]"
-"To the girls, the boy waved.",2.3939,1.0427,33,"[4, 2, 1, 2, 4, 4, 3, 2, 2, 1, 3, 2, 2, 4, 2, 2, 5, 4, 4, 2, 2, 1, 2, 1, 2, 2, 2, 2, 3, 2, 1, 2, 2]"
-"To the patient, the doctor talked.",2.2917,0.9345,24,"[2, 3, 4, 1, 4, 2, 2, 4, 3, 1, 2, 4, 2, 2, 2, 2, 2, 2, 1, 2, 2, 3, 1, 2]"
-"To the teacher, the child apologized.",2.6486,1.0958,37,"[4, 4, 5, 2, 2, 4, 2, 1, 1, 2, 2, 4, 4, 4, 3, 2, 2, 4, 2, 3, 3, 3, 5, 1, 2, 3, 3, 2, 2, 2, 2, 1, 2, 4, 2, 2, 2]"
+unit,mean,std,n,individual_ratings,item_type
+"A clever solution, the student thought of.",2.1786,0.6118,28,"[3, 4, 2, 2, 2, 2, 2, 2, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 2, 2, 1, 2, 3, 2, 1]",test
+"A perfect wedding, the couple dreamed of.",2.7742,1.175,31,"[3, 1, 4, 3, 3, 1, 3, 5, 3, 2, 2, 4, 2, 4, 2, 1, 4, 2, 4, 2, 3, 3, 5, 1, 2, 5, 3, 2, 2, 3, 2]",test
+"A thunderstorm, the weather service warned of.",2.4444,1.1547,27,"[3, 3, 2, 4, 1, 2, 1, 2, 2, 4, 2, 4, 2, 2, 5, 4, 1, 2, 4, 2, 2, 1, 1, 2, 2, 4, 2]",test
+"Clues, the detective looked for.",2.3333,1.1435,27,"[4, 2, 1, 4, 2, 2, 1, 2, 1, 3, 2, 4, 2, 1, 4, 4, 1, 4, 4, 3, 2, 2, 1, 1, 2, 2, 2]",test
+"Elegant dresses, her wardrobe consisted of.",2.0645,0.7718,31,"[3, 4, 3, 2, 3, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 2, 4, 1, 2, 2, 1, 1, 1, 2, 2, 2]",test
+"Experienced professionals, the team consisted of.",2.5,0.8885,20,"[1, 2, 4, 3, 4, 3, 2, 4, 2, 3, 2, 2, 2, 1, 2, 2, 3, 3, 3, 2]",test
+"For clues, the detective looked.",2.36,1.1136,25,"[4, 2, 4, 3, 4, 4, 1, 2, 3, 1, 1, 4, 2, 2, 4, 2, 1, 2, 2, 2, 2, 1, 3, 2, 1]",test
+"For repairs, the customer paid.",2.5652,1.1995,23,"[1, 2, 1, 1, 2, 3, 3, 4, 4, 4, 3, 2, 2, 4, 3, 4, 5, 2, 3, 2, 1, 1, 2]",test
+"For the bus, the nurse waited.",2.5357,1.1701,28,"[4, 3, 3, 2, 4, 2, 2, 4, 4, 2, 1, 2, 2, 1, 4, 2, 1, 2, 3, 5, 1, 2, 2, 2, 2, 2, 5, 2]",test
+"For the exam, the student studied.",2.7727,1.3428,22,"[4, 2, 1, 3, 3, 2, 5, 3, 2, 4, 5, 4, 4, 2, 1, 5, 2, 3, 1, 2, 2, 1]",test
+"For the fellowship, the student applied.",2.6364,0.9535,22,"[2, 4, 4, 2, 4, 2, 2, 4, 2, 3, 2, 2, 4, 1, 2, 4, 2, 2, 2, 3, 3, 2]",test
+"For the patients, the nurse cared.",2.5833,1.2482,24,"[4, 2, 2, 1, 1, 2, 5, 2, 4, 4, 2, 2, 4, 2, 2, 4, 5, 1, 2, 2, 1, 3, 3, 2]",test
+"His dribbling skills, the player boasted of.",2.1333,1.1059,30,"[3, 2, 2, 1, 3, 1, 1, 3, 4, 4, 1, 2, 1, 1, 3, 1, 4, 1, 1, 1, 2, 1, 4, 2, 2, 2, 2, 3, 2, 4]",test
+"Of a clever solution, the student thought.",2.0,0.9325,24,"[4, 1, 2, 2, 1, 2, 3, 2, 4, 2, 2, 2, 4, 1, 2, 1, 1, 1, 2, 2, 1, 2, 2, 2]",test
+"Of a perfect wedding, the couple dreamed.",2.25,1.0195,20,"[4, 4, 2, 2, 4, 2, 2, 2, 2, 4, 1, 2, 3, 1, 2, 1, 2, 2, 2, 1]",test
+"Of a thunderstorm, the weather service warned.",1.8,0.866,25,"[3, 2, 1, 2, 3, 2, 1, 2, 3, 3, 1, 2, 1, 1, 4, 2, 1, 1, 2, 1, 1, 1, 2, 2, 1]",test
+"Of elegant dresses, her wardrobe consisted.",1.8571,1.1526,21,"[4, 1, 1, 2, 1, 2, 2, 5, 1, 2, 4, 1, 1, 1, 2, 2, 2, 1, 1, 2, 1]",test
+"Of experienced professionals, the team consisted.",1.8125,0.6445,32,"[3, 2, 2, 2, 2, 2, 3, 1, 1, 1, 2, 2, 3, 2, 2, 2, 2, 2, 2, 1, 1, 2, 1, 1, 2, 2, 2, 3, 1, 1, 1, 2]",test
+"Of his dribbling skills, the player boasted.",2.087,1.1246,23,"[1, 4, 1, 3, 2, 5, 2, 3, 3, 2, 1, 2, 4, 1, 2, 2, 2, 1, 1, 2, 1, 1, 2]",test
+"Of severe pain, the patient complained.",2.4444,1.1209,27,"[3, 2, 5, 4, 3, 1, 2, 3, 2, 2, 2, 1, 2, 1, 1, 2, 4, 3, 4, 2, 1, 4, 2, 4, 2, 2, 2]",test
+"Of the cool band, the hipsters heard.",1.5455,0.5096,22,"[2, 1, 1, 1, 2, 2, 2, 1, 1, 1, 2, 1, 2, 2, 2, 2, 2, 2, 1, 2, 1, 1]",test
+"Of the hazardous waste, the company disposed.",2.3182,1.0414,22,"[2, 4, 3, 4, 3, 2, 1, 3, 3, 1, 1, 1, 4, 2, 2, 4, 2, 1, 2, 2, 2, 2]",test
+"Of the large language model, the teacher disapproved.",2.5135,1.1931,37,"[4, 4, 2, 2, 1, 4, 4, 1, 1, 3, 2, 4, 4, 1, 3, 2, 2, 4, 1, 4, 3, 2, 5, 1, 2, 2, 4, 2, 2, 2, 1, 1, 2, 3, 4, 2, 2]",test
+"Of the proposed budget changes, the committee approved.",2.4571,1.1966,35,"[4, 4, 2, 4, 4, 3, 1, 4, 4, 2, 1, 3, 2, 2, 1, 2, 1, 1, 1, 4, 4, 3, 2, 2, 3, 5, 2, 1, 3, 2, 1, 2, 3, 2, 1]",test
+"Of the strike, the labor union approved.",2.1667,0.8681,24,"[3, 1, 2, 2, 3, 2, 2, 2, 3, 2, 2, 5, 1, 2, 2, 2, 2, 3, 1, 2, 1, 2, 3, 2]",test
+"Repairs, the customer paid for.",2.5,1.1386,28,"[3, 4, 3, 2, 4, 3, 2, 4, 1, 2, 1, 2, 4, 5, 2, 1, 2, 1, 2, 2, 4, 2, 3, 2, 1, 4, 2, 2]",test
+"Severe pain, the patient complained of.",2.12,0.9713,25,"[4, 2, 4, 1, 4, 3, 2, 2, 2, 2, 2, 2, 4, 2, 2, 2, 2, 1, 1, 1, 2, 2, 1, 1, 2]",test
+"The birds, the cat listened to.",2.0645,0.9286,31,"[4, 4, 2, 2, 4, 4, 2, 1, 1, 1, 2, 2, 2, 1, 2, 1, 2, 3, 2, 2, 2, 3, 2, 2, 2, 1, 1, 1, 2, 2, 2]",test
+"The bus, the nurse waiter for.",1.32,0.6904,25,"[1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 1, 4, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2]",test
+"The cool band, the hipsters heard of.",2.3333,1.1547,30,"[2, 4, 1, 3, 2, 2, 3, 1, 4, 4, 2, 2, 1, 2, 2, 1, 5, 4, 1, 3, 4, 1, 1, 2, 1, 2, 3, 3, 2, 2]",test
+"The customer, the company responded to.",2.0,0.866,17,"[4, 1, 2, 2, 3, 3, 2, 1, 1, 2, 1, 1, 2, 2, 2, 3, 2]",test
+"The editor, the journalist wrote to.",2.129,1.0565,31,"[4, 2, 1, 4, 2, 2, 1, 4, 3, 3, 1, 1, 3, 4, 1, 2, 1, 4, 1, 3, 2, 2, 2, 1, 2, 2, 2, 1, 2, 1, 2]",test
+"The exam, the student studied for.",2.6333,1.2726,30,"[4, 4, 4, 4, 2, 1, 2, 1, 4, 4, 1, 2, 4, 4, 3, 2, 5, 4, 1, 1, 2, 2, 1, 3, 1, 2, 3, 2, 4, 2]",test
+"The fellowship, the student applied for.",1.9655,0.9814,29,"[3, 2, 2, 1, 1, 1, 1, 2, 2, 4, 3, 1, 1, 2, 3, 2, 2, 2, 1, 2, 5, 2, 2, 1, 2, 1, 3, 2, 1]",test
+"The girls, the boy waved to.",1.95,0.7592,20,"[1, 2, 2, 1, 2, 2, 3, 4, 2, 2, 2, 2, 1, 1, 2, 2, 2, 2, 3, 1]",test
+"The hazardous waste, the company disposed of.",2.3333,1.1244,30,"[3, 4, 4, 1, 4, 1, 1, 5, 2, 2, 2, 3, 3, 2, 4, 2, 2, 2, 2, 1, 2, 4, 2, 2, 1, 1, 1, 3, 2, 2]",test
+"The large language model, the teacher disapproved of.",2.2667,0.9612,15,"[2, 3, 3, 2, 1, 4, 2, 2, 2, 3, 2, 1, 4, 2, 1]",test
+"The patient, the doctor talked to.",2.1071,1.1655,28,"[5, 4, 3, 1, 4, 2, 1, 1, 1, 1, 2, 1, 2, 4, 1, 2, 2, 2, 1, 3, 1, 2, 2, 1, 1, 3, 3, 3]",test
+"The patients, the nurse cared for.",2.1429,0.8483,28,"[3, 2, 2, 3, 2, 4, 2, 2, 2, 3, 2, 1, 2, 2, 5, 2, 2, 2, 2, 1, 2, 2, 2, 1, 2, 2, 1, 2]",test
+"The proposed budget changes, the committee approved of.",2.9412,1.1974,17,"[4, 5, 2, 4, 4, 2, 2, 3, 2, 2, 5, 1, 3, 3, 2, 4, 2]",test
+"The strike, the labor union approved of.",2.0714,1.1841,28,"[2, 4, 4, 1, 2, 2, 1, 3, 2, 1, 2, 1, 2, 4, 2, 4, 5, 1, 1, 1, 2, 1, 2, 1, 1, 3, 2, 1]",test
+"The teacher, the child apologized to.",2.0,0.9258,15,"[2, 2, 1, 2, 1, 2, 2, 4, 2, 4, 2, 2, 1, 2, 1]",test
+"To the birds, the cat listened.",2.5714,1.1212,21,"[4, 2, 2, 2, 2, 2, 2, 5, 4, 4, 4, 2, 2, 2, 2, 1, 2, 2, 4, 3, 1]",test
+"To the customer, the company responded.",2.5294,0.9919,34,"[3, 4, 2, 2, 2, 1, 2, 4, 4, 5, 2, 3, 2, 2, 3, 2, 3, 2, 2, 4, 4, 3, 2, 2, 3, 4, 2, 2, 2, 1, 2, 2, 2, 1]",test
+"To the editor, the journalist wrote.",2.55,1.2763,20,"[4, 5, 4, 2, 4, 4, 1, 2, 2, 4, 2, 2, 2, 1, 2, 1, 4, 2, 2, 1]",test
+"To the girls, the boy waved.",2.3939,1.0589,33,"[4, 2, 1, 2, 4, 4, 3, 2, 2, 1, 3, 2, 2, 4, 2, 2, 5, 4, 4, 2, 2, 1, 2, 1, 2, 2, 2, 2, 3, 2, 1, 2, 2]",test
+"To the patient, the doctor talked.",2.2917,0.9546,24,"[2, 3, 4, 1, 4, 2, 2, 4, 3, 1, 2, 4, 2, 2, 2, 2, 2, 2, 1, 2, 2, 3, 1, 2]",test
+"To the teacher, the child apologized.",2.6486,1.111,37,"[4, 4, 5, 2, 2, 4, 2, 1, 1, 2, 2, 4, 4, 4, 3, 2, 2, 4, 2, 3, 3, 3, 5, 1, 2, 3, 3, 2, 2, 2, 2, 1, 2, 4, 2, 2, 2]",test

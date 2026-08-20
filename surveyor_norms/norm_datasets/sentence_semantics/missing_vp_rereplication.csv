@@ -1,73 +1,73 @@
-unit,mean,std,n,individual_ratings
-The aliens who are technologically advanced beyond our wildest dreams only pay any attention to us because of our expanding shell of old TV programs propagating throughout the galaxy.,2.25,1.3229,32,"[1, 4, 1, 4, 4, 1, 4, 5, 1, 4, 3, 1, 1, 2, 2, 3, 2, 2, 2, 1, 3, 1, 2, 4, 1, 1, 1, 1, 1, 5, 2, 2]"
-The ancient manuscript that the grad student who the new card catalog had confused a great deal was missing a page.,4.1667,0.6872,6,"[5, 5, 4, 4, 3, 4]"
-The ancient manuscript that the grad student who the new card catalog had confused a great deal was studying in the library was missing a page.,4.1,0.8307,10,"[4, 5, 4, 4, 4, 2, 4, 5, 4, 5]"
-The ancient manuscript that the grad student who the new card catalog had confused a great deal was studying in the library.,3.8571,1.1249,7,"[3, 5, 3, 2, 4, 5, 5]"
-The ancient manuscript that the grad student who the new card catalog was studying in the library was missing a page.,3.6667,1.0541,9,"[5, 5, 4, 4, 2, 2, 3, 4, 4]"
-The angry scientist who the professor thought would destroy the computer printout analyzed the data correctly.,2.0938,0.9798,32,"[1, 3, 2, 4, 2, 2, 2, 1, 2, 3, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 3, 1, 1, 1, 4, 1, 1, 2, 3, 5, 1, 3]"
-The apartment that the maid who the service had sent over was cleaning every week was well decorated.,3.3,1.3454,10,"[5, 2, 2, 4, 5, 4, 4, 2, 1, 4]"
-The apartment that the maid who the service had sent over was cleaning every week.,3.75,1.6394,4,"[5, 5, 4, 1]"
-The apartment that the maid who the service had sent over was well decorated.,3.6667,1.2472,6,"[5, 4, 5, 2, 4, 2]"
-The apartment that the maid who the service was cleaning every week was well decorated.,2.4167,1.3819,12,"[4, 2, 4, 1, 2, 1, 2, 2, 5, 1, 1, 4]"
-The aviator that the servant wonders whether his master will invite is unavailable at the moment.,3.2812,1.3284,32,"[4, 5, 2, 5, 2, 2, 4, 3, 2, 3, 5, 2, 4, 2, 5, 2, 4, 2, 3, 4, 5, 1, 5, 4, 2, 1, 1, 4, 4, 4, 5, 4]"
-The baby who the composer remembered the claim that the drummer had intended to write a song for was turning two years old.,4.0938,1.128,32,"[5, 5, 5, 5, 5, 4, 4, 4, 3, 5, 4, 5, 5, 3, 3, 3, 5, 2, 4, 4, 4, 1, 5, 5, 4, 4, 5, 4, 1, 5, 5, 5]"
-The bartender who the captain remembered had served the estranged couple some strong drinks was very friendly.,2.3438,1.0491,32,"[1, 3, 4, 4, 4, 3, 2, 2, 1, 3, 3, 1, 2, 1, 4, 2, 2, 1, 2, 2, 4, 2, 2, 2, 4, 1, 2, 2, 1, 2, 2, 4]"
-The brilliant professor sneered at the young student who the administrator said had plagiarized the paper that he had seen earlier that morning.,2.0625,1.0588,32,"[1, 4, 4, 5, 2, 2, 4, 2, 1, 2, 2, 2, 1, 2, 2, 1, 3, 2, 1, 1, 1, 2, 2, 4, 2, 1, 1, 2, 2, 2, 1, 2]"
-The crazed fan circled around the tennis player whose unbecoming conduct the line judge secretly despised.,2.6562,1.2896,32,"[1, 2, 2, 5, 2, 5, 4, 2, 1, 3, 4, 3, 1, 3, 4, 2, 4, 1, 1, 2, 5, 3, 2, 1, 2, 4, 2, 1, 4, 2, 3, 4]"
-The crime that the gangster who the story had planned for weeks was quickly solved.,3.6923,1.0659,13,"[5, 3, 4, 4, 4, 4, 4, 4, 1, 4, 4, 2, 5]"
-The crime that the gangster who the story had profiled had planned for weeks was quickly solved.,2.5,1.6583,4,"[3, 5, 1, 1]"
-The crime that the gangster who the story had profiled had planned for weeks.,3.5,1.2247,8,"[2, 2, 4, 2, 4, 4, 5, 5]"
-The crime that the gangster who the story had profiled was quickly solved.,2.0,1.4142,7,"[1, 1, 5, 2, 3, 1, 1]"
-"The dark-haired, mysterious Brazilian woman who the man from Quebec thought cooked very well was visiting only briefly.",2.4062,1.1141,32,"[1, 3, 2, 4, 2, 3, 3, 2, 1, 1, 4, 2, 2, 2, 3, 3, 5, 2, 1, 2, 2, 4, 4, 1, 2, 2, 1, 2, 1, 4, 2, 4]"
-The doctor who the nurse who had trusted the report that the specialist ran tests on sensed a scandal was approaching.,3.8125,1.3332,32,"[2, 5, 5, 5, 4, 5, 3, 5, 3, 3, 4, 3, 5, 3, 5, 1, 4, 1, 5, 4, 5, 2, 5, 5, 5, 1, 5, 4, 4, 5, 2, 4]"
-The dog-catcher found the puppy which belonged to the cowboy who wanted posters of were plastered all over town.,3.0,1.0607,32,"[2, 4, 4, 5, 4, 4, 3, 2, 3, 2, 3, 4, 2, 2, 3, 2, 4, 1, 5, 4, 2, 4, 4, 2, 2, 2, 2, 2, 3, 2, 4, 4]"
-The fish who the storyteller asserted that the child had caught last Thursday evening at dusk promised three magic wishes.,2.875,1.1924,32,"[3, 4, 4, 5, 4, 5, 2, 2, 1, 4, 4, 3, 2, 2, 4, 1, 3, 1, 3, 3, 5, 2, 2, 2, 1, 4, 3, 2, 2, 2, 3, 4]"
-The fisherman who the cook finally acknowledged really liked seafood admired the sincere schoolteacher.,3.0938,1.3077,32,"[1, 3, 2, 4, 4, 5, 2, 2, 3, 3, 4, 2, 5, 2, 5, 2, 4, 1, 4, 3, 2, 4, 5, 5, 4, 4, 1, 4, 1, 2, 4, 2]"
-The form was stamped by the bureaucrat who worked at the ministry where everyone who had walked strangely.,3.75,1.1726,32,"[5, 5, 5, 5, 2, 5, 3, 4, 4, 4, 4, 4, 4, 3, 5, 4, 5, 2, 5, 2, 5, 3, 4, 2, 4, 2, 2, 4, 1, 4, 5, 4]"
-The game that the child who the lawnmower had startled in the yard lasted for hours.,3.8571,1.2454,7,"[4, 4, 5, 2, 5, 5, 2]"
-The game that the child who the lawnmower had startled in the yard was playing in the morning lasted for hours.,4.0833,0.9538,12,"[2, 4, 5, 5, 5, 4, 3, 4, 3, 5, 4, 5]"
-The game that the child who the lawnmower had startled in the yard was playing in the morning.,3.6,0.8,5,"[4, 4, 4, 2, 4]"
-The game that the child who the lawnmower was playing in the morning lasted for hours.,4.25,1.299,8,"[4, 4, 5, 5, 5, 5, 1, 5]"
-The interviewer who the prison warden said would advance his plans had a few surprises up his sleeve.,1.9375,1.0289,32,"[1, 2, 2, 2, 2, 3, 2, 2, 1, 4, 3, 1, 1, 1, 3, 1, 5, 1, 1, 2, 3, 1, 1, 2, 1, 1, 2, 2, 2, 2, 1, 4]"
-The lecture that the professor who the newspaper story had just profiled in detail was not well attended.,3.125,0.7806,8,"[4, 3, 3, 4, 3, 2, 2, 4]"
-The lecture that the professor who the newspaper story had just profiled in detail was teaching poorly was not well attended.,3.0,1.5811,4,"[2, 1, 5, 4]"
-The lecture that the professor who the newspaper story had just profiled in detail was teaching poorly.,2.75,1.0104,12,"[3, 2, 3, 3, 3, 2, 2, 1, 5, 3, 2, 4]"
-The lecture that the professor who the newspaper story was teaching poorly was not well attended.,4.375,0.696,8,"[5, 5, 3, 4, 4, 5, 5, 4]"
-The light that the clown sees when the spaceships come and the heat he feels from living so close to the reactor are related.,2.5938,1.2713,32,"[2, 3, 1, 4, 4, 5, 3, 2, 1, 1, 3, 2, 4, 3, 5, 2, 2, 1, 2, 3, 5, 2, 2, 2, 4, 4, 1, 1, 1, 2, 2, 4]"
-The lullaby that the famous country singer who the record label had signed to a big contract was singing yesterday was written seventy years ago.,2.25,0.433,4,"[2, 2, 3, 2]"
-The lullaby that the famous country singer who the record label had signed to a big contract was singing yesterday.,3.3333,1.3499,15,"[5, 5, 1, 4, 4, 2, 4, 2, 3, 2, 4, 4, 5, 1, 4]"
-The lullaby that the famous country singer who the record label had signed to a big contract was written seventy years ago.,3.3333,1.1547,9,"[2, 4, 4, 3, 3, 5, 1, 4, 4]"
-The lullaby that the famous country singer who the record label was singing yesterday was written seventy years ago.,2.25,1.299,4,"[3, 1, 1, 4]"
-The mail-order bride who relatives feared their persecution about found an ally in the butler who had a considerable inheritance.,3.2188,1.1106,32,"[3, 5, 5, 3, 2, 2, 3, 3, 2, 4, 3, 2, 2, 3, 5, 2, 2, 2, 4, 4, 5, 4, 5, 5, 2, 4, 3, 4, 3, 2, 2, 3]"
-The man who can never be adequately described belongs with the woman who causes extreme pain with her visits.,2.625,1.2183,32,"[1, 4, 2, 4, 2, 2, 4, 4, 1, 2, 4, 2, 2, 3, 5, 2, 3, 2, 3, 2, 4, 2, 5, 2, 2, 2, 1, 1, 2, 5, 1, 3]"
-The members of the party that opposed the political leader and the exile who fled the country hated each other.,2.375,1.1659,32,"[1, 4, 4, 4, 1, 2, 4, 2, 1, 4, 3, 2, 4, 1, 3, 1, 2, 2, 2, 4, 2, 2, 4, 2, 2, 1, 4, 2, 1, 1, 1, 3]"
-The monologue that the actor who the movie industry had snubbed repeatedly was extremely well written.,2.25,1.299,4,"[3, 1, 1, 4]"
-The monologue that the actor who the movie industry had snubbed repeatedly was performing last month was extremely well written.,3.0909,0.9959,11,"[1, 4, 2, 3, 3, 4, 3, 4, 2, 4, 4]"
-The monologue that the actor who the movie industry had snubbed repeatedly was performing last month.,3.25,1.199,8,"[5, 4, 1, 4, 3, 2, 3, 4]"
-The monologue that the actor who the movie industry was performing last month was extremely well written.,3.4444,1.2571,9,"[5, 5, 3, 3, 4, 2, 1, 4, 4]"
-The novel that the horror author who the publishing company had recently fired had typed quickly was banned by the local library.,3.1429,0.9897,7,"[3, 4, 5, 3, 3, 2, 2]"
-The novel that the horror author who the publishing company had recently fired had typed quickly.,4.4,1.2,5,"[5, 5, 2, 5, 5]"
-The novel that the horror author who the publishing company had recently fired was banned by the local library.,2.5,0.7071,8,"[2, 4, 3, 2, 3, 2, 2, 2]"
-The novel that the horror author who the publishing company had typed quickly was banned by the local library.,3.0,1.354,12,"[5, 4, 5, 4, 3, 1, 3, 2, 2, 4, 1, 2]"
-The picture that the artist who the school had expelled for cheating was hurriedly copying was printed in a magazine.,3.625,1.317,8,"[5, 4, 4, 4, 1, 4, 2, 5]"
-The picture that the artist who the school had expelled for cheating was hurriedly copying.,3.7778,0.9162,9,"[5, 3, 4, 4, 4, 2, 5, 4, 3]"
-The picture that the artist who the school had expelled for cheating was printed in a magazine.,3.0,1.0541,9,"[4, 5, 4, 2, 2, 2, 3, 2, 3]"
-The picture that the artist who the school was hurriedly copying was printed in a magazine.,4.1667,0.3727,6,"[4, 4, 4, 4, 5, 4]"
-The plastic surgeon who the aging beauty queen thought had done an excellent job on her operation watched many daytime television programs.,2.2812,0.9758,32,"[2, 3, 2, 4, 2, 3, 2, 1, 1, 4, 3, 2, 2, 2, 4, 3, 2, 2, 2, 3, 1, 2, 4, 1, 1, 1, 2, 2, 3, 1, 2, 4]"
-The prayer that the monk who the isolated monastery had admitted was chanting every day was echoing in the empty church.,4.125,0.7806,8,"[3, 4, 5, 5, 4, 3, 5, 4]"
-The prayer that the monk who the isolated monastery had admitted was chanting every day.,3.75,0.6614,8,"[4, 3, 3, 4, 3, 4, 4, 5]"
-The prayer that the monk who the isolated monastery had admitted was echoing in the empty church.,3.3077,1.264,13,"[3, 4, 4, 4, 3, 1, 1, 5, 4, 5, 3, 2, 4]"
-The prayer that the monk who the isolated monastery was chanting every day was echoing in the empty church.,3.6667,0.4714,3,"[4, 3, 4]"
-The repairman arrived and attempted to fix the computers for which the manuals never seem to be around.,1.6562,0.775,32,"[2, 3, 1, 3, 1, 1, 1, 1, 1, 2, 3, 3, 1, 2, 1, 1, 2, 1, 2, 2, 2, 1, 3, 2, 1, 1, 1, 2, 1, 1, 1, 3]"
-The shirt that the seamstress who the immigration officer had investigated last week needed to be dry cleaned.,2.4286,1.178,7,"[2, 3, 1, 4, 4, 1, 2]"
-The shirt that the seamstress who the immigration officer had investigated last week was carefully mending needed to be dry cleaned.,3.3333,1.2472,9,"[4, 3, 5, 1, 2, 3, 4, 5, 3]"
-The shirt that the seamstress who the immigration officer had investigated last week was carefully mending.,3.5,1.4142,8,"[5, 5, 3, 4, 3, 1, 5, 2]"
-The shirt that the seamstress who the immigration officer was carefully mending needed to be dry cleaned.,4.0,1.2247,8,"[5, 5, 5, 5, 4, 2, 4, 2]"
-The trophy that the athlete who the restaurant had hired as a spokesman had won at the track meet was stolen later.,2.875,1.2686,8,"[4, 2, 4, 1, 4, 3, 1, 4]"
-The trophy that the athlete who the restaurant had hired as a spokesman had won at the track meet.,3.8571,1.2454,7,"[5, 4, 1, 5, 4, 4, 4]"
-The trophy that the athlete who the restaurant had hired as a spokesman was stolen later.,3.0833,1.3202,12,"[3, 4, 5, 3, 1, 4, 3, 4, 1, 4, 1, 4]"
-The trophy that the athlete who the restaurant had won at the track meet was stolen later.,4.0,1.2247,4,"[5, 5, 4, 2]"
-The window-washer stared at the executive whose habits the janitor had hinted indicated a drinking problem.,2.5312,1.1452,32,"[1, 3, 2, 4, 4, 4, 2, 2, 1, 1, 3, 2, 2, 2, 4, 1, 4, 1, 2, 2, 4, 1, 4, 2, 4, 2, 3, 2, 1, 4, 4, 3]"
-There's a blue light near the stop sign at the corner next to the run-down stereo store.,1.3438,0.475,32,"[1, 2, 1, 2, 2, 2, 1, 1, 2, 1, 2, 1, 1, 1, 2, 1, 2, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2]"
-This is the dog that Fred wondered which lawn was on when he came home last week.,3.5312,1.2243,32,"[4, 5, 5, 5, 5, 4, 3, 3, 4, 5, 3, 4, 4, 2, 3, 2, 2, 2, 4, 4, 3, 5, 5, 4, 2, 2, 5, 5, 2, 4, 1, 2]"
-Whether the doctor would be sued in spite of the fact that he had diagnosed the mysterious disease was investigated by the reporter.,2.5625,1.3448,32,"[1, 4, 2, 4, 2, 4, 5, 2, 1, 1, 2, 2, 4, 2, 2, 2, 2, 2, 5, 2, 3, 2, 5, 4, 2, 1, 1, 1, 1, 5, 4, 2]"
+unit,mean,std,n,individual_ratings,item_type
+The aliens who are technologically advanced beyond our wildest dreams only pay any attention to us because of our expanding shell of old TV programs propagating throughout the galaxy.,2.25,1.344,32,"[1, 4, 1, 4, 4, 1, 4, 5, 1, 4, 3, 1, 1, 2, 2, 3, 2, 2, 2, 1, 3, 1, 2, 4, 1, 1, 1, 1, 1, 5, 2, 2]",filler
+The ancient manuscript that the grad student who the new card catalog had confused a great deal was missing a page.,4.1667,0.7528,6,"[5, 5, 4, 4, 3, 4]",test
+The ancient manuscript that the grad student who the new card catalog had confused a great deal was studying in the library was missing a page.,4.1,0.8756,10,"[4, 5, 4, 4, 4, 2, 4, 5, 4, 5]",test
+The ancient manuscript that the grad student who the new card catalog had confused a great deal was studying in the library.,3.8571,1.215,7,"[3, 5, 3, 2, 4, 5, 5]",test
+The ancient manuscript that the grad student who the new card catalog was studying in the library was missing a page.,3.6667,1.118,9,"[5, 5, 4, 4, 2, 2, 3, 4, 4]",test
+The angry scientist who the professor thought would destroy the computer printout analyzed the data correctly.,2.0938,0.9955,32,"[1, 3, 2, 4, 2, 2, 2, 1, 2, 3, 2, 2, 2, 2, 2, 2, 1, 2, 2, 2, 3, 1, 1, 1, 4, 1, 1, 2, 3, 5, 1, 3]",filler
+The apartment that the maid who the service had sent over was cleaning every week was well decorated.,3.3,1.4181,10,"[5, 2, 2, 4, 5, 4, 4, 2, 1, 4]",test
+The apartment that the maid who the service had sent over was cleaning every week.,3.75,1.893,4,"[5, 5, 4, 1]",test
+The apartment that the maid who the service had sent over was well decorated.,3.6667,1.3663,6,"[5, 4, 5, 2, 4, 2]",test
+The apartment that the maid who the service was cleaning every week was well decorated.,2.4167,1.4434,12,"[4, 2, 4, 1, 2, 1, 2, 2, 5, 1, 1, 4]",test
+The aviator that the servant wonders whether his master will invite is unavailable at the moment.,3.2812,1.3497,32,"[4, 5, 2, 5, 2, 2, 4, 3, 2, 3, 5, 2, 4, 2, 5, 2, 4, 2, 3, 4, 5, 1, 5, 4, 2, 1, 1, 4, 4, 4, 5, 4]",filler
+The baby who the composer remembered the claim that the drummer had intended to write a song for was turning two years old.,4.0938,1.1461,32,"[5, 5, 5, 5, 5, 4, 4, 4, 3, 5, 4, 5, 5, 3, 3, 3, 5, 2, 4, 4, 4, 1, 5, 5, 4, 4, 5, 4, 1, 5, 5, 5]",filler
+The bartender who the captain remembered had served the estranged couple some strong drinks was very friendly.,2.3438,1.0659,32,"[1, 3, 4, 4, 4, 3, 2, 2, 1, 3, 3, 1, 2, 1, 4, 2, 2, 1, 2, 2, 4, 2, 2, 2, 4, 1, 2, 2, 1, 2, 2, 4]",filler
+The brilliant professor sneered at the young student who the administrator said had plagiarized the paper that he had seen earlier that morning.,2.0625,1.0758,32,"[1, 4, 4, 5, 2, 2, 4, 2, 1, 2, 2, 2, 1, 2, 2, 1, 3, 2, 1, 1, 1, 2, 2, 4, 2, 1, 1, 2, 2, 2, 1, 2]",filler
+The crazed fan circled around the tennis player whose unbecoming conduct the line judge secretly despised.,2.6562,1.3102,32,"[1, 2, 2, 5, 2, 5, 4, 2, 1, 3, 4, 3, 1, 3, 4, 2, 4, 1, 1, 2, 5, 3, 2, 1, 2, 4, 2, 1, 4, 2, 3, 4]",filler
+The crime that the gangster who the story had planned for weeks was quickly solved.,3.6923,1.1094,13,"[5, 3, 4, 4, 4, 4, 4, 4, 1, 4, 4, 2, 5]",test
+The crime that the gangster who the story had profiled had planned for weeks was quickly solved.,2.5,1.9149,4,"[3, 5, 1, 1]",test
+The crime that the gangster who the story had profiled had planned for weeks.,3.5,1.3093,8,"[2, 2, 4, 2, 4, 4, 5, 5]",test
+The crime that the gangster who the story had profiled was quickly solved.,2.0,1.5275,7,"[1, 1, 5, 2, 3, 1, 1]",test
+"The dark-haired, mysterious Brazilian woman who the man from Quebec thought cooked very well was visiting only briefly.",2.4062,1.1319,32,"[1, 3, 2, 4, 2, 3, 3, 2, 1, 1, 4, 2, 2, 2, 3, 3, 5, 2, 1, 2, 2, 4, 4, 1, 2, 2, 1, 2, 1, 4, 2, 4]",filler
+The doctor who the nurse who had trusted the report that the specialist ran tests on sensed a scandal was approaching.,3.8125,1.3545,32,"[2, 5, 5, 5, 4, 5, 3, 5, 3, 3, 4, 3, 5, 3, 5, 1, 4, 1, 5, 4, 5, 2, 5, 5, 5, 1, 5, 4, 4, 5, 2, 4]",filler
+The dog-catcher found the puppy which belonged to the cowboy who wanted posters of were plastered all over town.,3.0,1.0776,32,"[2, 4, 4, 5, 4, 4, 3, 2, 3, 2, 3, 4, 2, 2, 3, 2, 4, 1, 5, 4, 2, 4, 4, 2, 2, 2, 2, 2, 3, 2, 4, 4]",filler
+The fish who the storyteller asserted that the child had caught last Thursday evening at dusk promised three magic wishes.,2.875,1.2115,32,"[3, 4, 4, 5, 4, 5, 2, 2, 1, 4, 4, 3, 2, 2, 4, 1, 3, 1, 3, 3, 5, 2, 2, 2, 1, 4, 3, 2, 2, 2, 3, 4]",filler
+The fisherman who the cook finally acknowledged really liked seafood admired the sincere schoolteacher.,3.0938,1.3286,32,"[1, 3, 2, 4, 4, 5, 2, 2, 3, 3, 4, 2, 5, 2, 5, 2, 4, 1, 4, 3, 2, 4, 5, 5, 4, 4, 1, 4, 1, 2, 4, 2]",filler
+The form was stamped by the bureaucrat who worked at the ministry where everyone who had walked strangely.,3.75,1.1914,32,"[5, 5, 5, 5, 2, 5, 3, 4, 4, 4, 4, 4, 4, 3, 5, 4, 5, 2, 5, 2, 5, 3, 4, 2, 4, 2, 2, 4, 1, 4, 5, 4]",filler
+The game that the child who the lawnmower had startled in the yard lasted for hours.,3.8571,1.3452,7,"[4, 4, 5, 2, 5, 5, 2]",test
+The game that the child who the lawnmower had startled in the yard was playing in the morning lasted for hours.,4.0833,0.9962,12,"[2, 4, 5, 5, 5, 4, 3, 4, 3, 5, 4, 5]",test
+The game that the child who the lawnmower had startled in the yard was playing in the morning.,3.6,0.8944,5,"[4, 4, 4, 2, 4]",test
+The game that the child who the lawnmower was playing in the morning lasted for hours.,4.25,1.3887,8,"[4, 4, 5, 5, 5, 5, 1, 5]",test
+The interviewer who the prison warden said would advance his plans had a few surprises up his sleeve.,1.9375,1.0453,32,"[1, 2, 2, 2, 2, 3, 2, 2, 1, 4, 3, 1, 1, 1, 3, 1, 5, 1, 1, 2, 3, 1, 1, 2, 1, 1, 2, 2, 2, 2, 1, 4]",filler
+The lecture that the professor who the newspaper story had just profiled in detail was not well attended.,3.125,0.8345,8,"[4, 3, 3, 4, 3, 2, 2, 4]",test
+The lecture that the professor who the newspaper story had just profiled in detail was teaching poorly was not well attended.,3.0,1.8257,4,"[2, 1, 5, 4]",test
+The lecture that the professor who the newspaper story had just profiled in detail was teaching poorly.,2.75,1.0553,12,"[3, 2, 3, 3, 3, 2, 2, 1, 5, 3, 2, 4]",test
+The lecture that the professor who the newspaper story was teaching poorly was not well attended.,4.375,0.744,8,"[5, 5, 3, 4, 4, 5, 5, 4]",test
+The light that the clown sees when the spaceships come and the heat he feels from living so close to the reactor are related.,2.5938,1.2916,32,"[2, 3, 1, 4, 4, 5, 3, 2, 1, 1, 3, 2, 4, 3, 5, 2, 2, 1, 2, 3, 5, 2, 2, 2, 4, 4, 1, 1, 1, 2, 2, 4]",filler
+The lullaby that the famous country singer who the record label had signed to a big contract was singing yesterday was written seventy years ago.,2.25,0.5,4,"[2, 2, 3, 2]",test
+The lullaby that the famous country singer who the record label had signed to a big contract was singing yesterday.,3.3333,1.3973,15,"[5, 5, 1, 4, 4, 2, 4, 2, 3, 2, 4, 4, 5, 1, 4]",test
+The lullaby that the famous country singer who the record label had signed to a big contract was written seventy years ago.,3.3333,1.2247,9,"[2, 4, 4, 3, 3, 5, 1, 4, 4]",test
+The lullaby that the famous country singer who the record label was singing yesterday was written seventy years ago.,2.25,1.5,4,"[3, 1, 1, 4]",test
+The mail-order bride who relatives feared their persecution about found an ally in the butler who had a considerable inheritance.,3.2188,1.1284,32,"[3, 5, 5, 3, 2, 2, 3, 3, 2, 4, 3, 2, 2, 3, 5, 2, 2, 2, 4, 4, 5, 4, 5, 5, 2, 4, 3, 4, 3, 2, 2, 3]",filler
+The man who can never be adequately described belongs with the woman who causes extreme pain with her visits.,2.625,1.2378,32,"[1, 4, 2, 4, 2, 2, 4, 4, 1, 2, 4, 2, 2, 3, 5, 2, 3, 2, 3, 2, 4, 2, 5, 2, 2, 2, 1, 1, 2, 5, 1, 3]",filler
+The members of the party that opposed the political leader and the exile who fled the country hated each other.,2.375,1.1846,32,"[1, 4, 4, 4, 1, 2, 4, 2, 1, 4, 3, 2, 4, 1, 3, 1, 2, 2, 2, 4, 2, 2, 4, 2, 2, 1, 4, 2, 1, 1, 1, 3]",filler
+The monologue that the actor who the movie industry had snubbed repeatedly was extremely well written.,2.25,1.5,4,"[3, 1, 1, 4]",test
+The monologue that the actor who the movie industry had snubbed repeatedly was performing last month was extremely well written.,3.0909,1.0445,11,"[1, 4, 2, 3, 3, 4, 3, 4, 2, 4, 4]",test
+The monologue that the actor who the movie industry had snubbed repeatedly was performing last month.,3.25,1.2817,8,"[5, 4, 1, 4, 3, 2, 3, 4]",test
+The monologue that the actor who the movie industry was performing last month was extremely well written.,3.4444,1.3333,9,"[5, 5, 3, 3, 4, 2, 1, 4, 4]",test
+The novel that the horror author who the publishing company had recently fired had typed quickly was banned by the local library.,3.1429,1.069,7,"[3, 4, 5, 3, 3, 2, 2]",test
+The novel that the horror author who the publishing company had recently fired had typed quickly.,4.4,1.3416,5,"[5, 5, 2, 5, 5]",test
+The novel that the horror author who the publishing company had recently fired was banned by the local library.,2.5,0.7559,8,"[2, 4, 3, 2, 3, 2, 2, 2]",test
+The novel that the horror author who the publishing company had typed quickly was banned by the local library.,3.0,1.4142,12,"[5, 4, 5, 4, 3, 1, 3, 2, 2, 4, 1, 2]",test
+The picture that the artist who the school had expelled for cheating was hurriedly copying was printed in a magazine.,3.625,1.4079,8,"[5, 4, 4, 4, 1, 4, 2, 5]",test
+The picture that the artist who the school had expelled for cheating was hurriedly copying.,3.7778,0.9718,9,"[5, 3, 4, 4, 4, 2, 5, 4, 3]",test
+The picture that the artist who the school had expelled for cheating was printed in a magazine.,3.0,1.118,9,"[4, 5, 4, 2, 2, 2, 3, 2, 3]",test
+The picture that the artist who the school was hurriedly copying was printed in a magazine.,4.1667,0.4082,6,"[4, 4, 4, 4, 5, 4]",test
+The plastic surgeon who the aging beauty queen thought had done an excellent job on her operation watched many daytime television programs.,2.2812,0.9914,32,"[2, 3, 2, 4, 2, 3, 2, 1, 1, 4, 3, 2, 2, 2, 4, 3, 2, 2, 2, 3, 1, 2, 4, 1, 1, 1, 2, 2, 3, 1, 2, 4]",filler
+The prayer that the monk who the isolated monastery had admitted was chanting every day was echoing in the empty church.,4.125,0.8345,8,"[3, 4, 5, 5, 4, 3, 5, 4]",test
+The prayer that the monk who the isolated monastery had admitted was chanting every day.,3.75,0.7071,8,"[4, 3, 3, 4, 3, 4, 4, 5]",test
+The prayer that the monk who the isolated monastery had admitted was echoing in the empty church.,3.3077,1.3156,13,"[3, 4, 4, 4, 3, 1, 1, 5, 4, 5, 3, 2, 4]",test
+The prayer that the monk who the isolated monastery was chanting every day was echoing in the empty church.,3.6667,0.5774,3,"[4, 3, 4]",test
+The repairman arrived and attempted to fix the computers for which the manuals never seem to be around.,1.6562,0.7874,32,"[2, 3, 1, 3, 1, 1, 1, 1, 1, 2, 3, 3, 1, 2, 1, 1, 2, 1, 2, 2, 2, 1, 3, 2, 1, 1, 1, 2, 1, 1, 1, 3]",filler
+The shirt that the seamstress who the immigration officer had investigated last week needed to be dry cleaned.,2.4286,1.2724,7,"[2, 3, 1, 4, 4, 1, 2]",test
+The shirt that the seamstress who the immigration officer had investigated last week was carefully mending needed to be dry cleaned.,3.3333,1.3229,9,"[4, 3, 5, 1, 2, 3, 4, 5, 3]",test
+The shirt that the seamstress who the immigration officer had investigated last week was carefully mending.,3.5,1.5119,8,"[5, 5, 3, 4, 3, 1, 5, 2]",test
+The shirt that the seamstress who the immigration officer was carefully mending needed to be dry cleaned.,4.0,1.3093,8,"[5, 5, 5, 5, 4, 2, 4, 2]",test
+The trophy that the athlete who the restaurant had hired as a spokesman had won at the track meet was stolen later.,2.875,1.3562,8,"[4, 2, 4, 1, 4, 3, 1, 4]",test
+The trophy that the athlete who the restaurant had hired as a spokesman had won at the track meet.,3.8571,1.3452,7,"[5, 4, 1, 5, 4, 4, 4]",test
+The trophy that the athlete who the restaurant had hired as a spokesman was stolen later.,3.0833,1.379,12,"[3, 4, 5, 3, 1, 4, 3, 4, 1, 4, 1, 4]",test
+The trophy that the athlete who the restaurant had won at the track meet was stolen later.,4.0,1.4142,4,"[5, 5, 4, 2]",test
+The window-washer stared at the executive whose habits the janitor had hinted indicated a drinking problem.,2.5312,1.1635,32,"[1, 3, 2, 4, 4, 4, 2, 2, 1, 1, 3, 2, 2, 2, 4, 1, 4, 1, 2, 2, 4, 1, 4, 2, 4, 2, 3, 2, 1, 4, 4, 3]",filler
+There's a blue light near the stop sign at the corner next to the run-down stereo store.,1.3438,0.4826,32,"[1, 2, 1, 2, 2, 2, 1, 1, 2, 1, 2, 1, 1, 1, 2, 1, 2, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2]",filler
+This is the dog that Fred wondered which lawn was on when he came home last week.,3.5312,1.2439,32,"[4, 5, 5, 5, 5, 4, 3, 3, 4, 5, 3, 4, 4, 2, 3, 2, 2, 2, 4, 4, 3, 5, 5, 4, 2, 2, 5, 5, 2, 4, 1, 2]",filler
+Whether the doctor would be sued in spite of the fact that he had diagnosed the mysterious disease was investigated by the reporter.,2.5625,1.3664,32,"[1, 4, 2, 4, 2, 4, 5, 2, 1, 1, 2, 2, 4, 2, 2, 2, 2, 2, 5, 2, 3, 2, 5, 4, 2, 1, 1, 1, 1, 5, 4, 2]",filler

@@ -1,5 +1,10 @@
-Rate the sentence.
-Rate on a scale from 1 to 5. (scale inferred from observed responses)
-Answer with one number.
+Read the question and the reply. How literal is the reply?
+Rate on a scale from 1 to 5:
+1 = Extremely non-literal
+2 = Somewhat non-literal
+3 = Medium
+4 = Somewhat literal
+5 = Extremely literal
+Answer with one digit.
 
 <<{sentence}>>

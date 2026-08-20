@@ -1,45 +1,45 @@
-unit,mean,std,n,individual_ratings
-Christian put his difficult math homework that was due tomorrow off.,1.8,0.4,5,"[2, 2, 2, 2, 1]"
-Christian put his homework off.,3.3333,1.3744,6,"[5, 4, 4, 4, 2, 1]"
-Christian put off his difficult math homework that was due tomorrow.,3.8571,0.9897,7,"[5, 4, 2, 5, 4, 4, 3]"
-Christian put off his homework.,4.6667,0.4714,6,"[5, 5, 4, 4, 5, 5]"
-Frank put down the book.,5.0,0.0,7,"[5, 5, 5, 5, 5, 5, 5]"
-Frank put down the new mystery book that he bought.,4.6667,0.7454,6,"[5, 5, 5, 5, 5, 3]"
-Frank put the book down.,4.9,0.3,10,"[5, 4, 5, 5, 5, 5, 5, 5, 5, 5]"
-Frank put the new mystery book that he bought down.,3.0,,1,[3]
-Jay sent in the disobedient student that had been fighting.,3.0,1.2247,4,"[3, 4, 4, 1]"
-Jay sent in the student.,4.3333,0.4714,6,"[4, 4, 4, 4, 5, 5]"
-Jay sent the disobedient student that had been fighting in.,1.5714,0.4949,7,"[2, 2, 2, 2, 1, 1, 1]"
-Jay sent the student in.,4.875,0.3307,8,"[5, 5, 5, 5, 5, 5, 4, 5]"
-Jerry pushed down the lever.,4.5,0.5,4,"[4, 4, 5, 5]"
-Jerry pushed down the rusty metal lever that turned off the water.,3.8,0.8718,10,"[5, 4, 4, 4, 4, 5, 3, 4, 3, 2]"
-Jerry pushed the lever down.,5.0,0.0,6,"[5, 5, 5, 5, 5, 5]"
-Jerry pushed the rusty metal lever that turned off the water down.,1.7143,0.8806,7,"[2, 1, 1, 1, 1, 3, 3]"
-Joe threw out the documents.,5.0,0.0,6,"[5, 5, 5, 5, 5, 5]"
-Joe threw out the very important documents that he brought home.,4.0,0.0,3,"[4, 4, 4]"
-Joe threw the documents out.,4.1667,0.6872,6,"[4, 4, 5, 3, 4, 5]"
-Joe threw the very important documents that he brought home out.,2.6,1.2,10,"[3, 4, 1, 2, 2, 3, 3, 2, 1, 5]"
-Karen broke down the box.,4.1667,0.8975,6,"[4, 5, 5, 5, 3, 3]"
-Karen broke down the cardboard box that she had used to move.,3.7778,1.0304,9,"[4, 5, 4, 2, 4, 4, 4, 5, 2]"
-Karen broke the box down.,3.0,0.8165,3,"[2, 4, 3]"
-Karen broke the cardboard box that she had used to move down.,2.3333,0.9428,6,"[2, 2, 4, 1, 3, 2]"
-Patrick kicked out the audience member.,4.3333,0.9428,3,"[5, 5, 3]"
-Patrick kicked out the obnoxious audience member who was heckling.,3.7778,1.1331,9,"[4, 3, 4, 2, 5, 5, 5, 4, 2]"
-Patrick kicked the audience member out.,4.6,0.4899,5,"[4, 4, 5, 5, 5]"
-Patrick kicked the obnoxious audience member who was heckling out.,3.1429,1.3553,7,"[5, 4, 4, 2, 4, 1, 2]"
-The agent approached the publicists about the photo-shoot.,4.4167,0.9091,24,"[5, 4, 5, 4, 4, 4, 5, 5, 4, 4, 5, 5, 3, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 1]"
-The counselor consoled the students about the competition.,4.1667,0.7993,24,"[5, 5, 5, 4, 5, 4, 4, 4, 5, 3, 5, 3, 4, 4, 5, 5, 5, 2, 3, 4, 4, 4, 4, 4]"
-The florist sent the flowers that were very expensive to the boy.,2.9167,1.1149,24,"[4, 3, 3, 2, 4, 2, 2, 2, 1, 2, 2, 3, 4, 2, 4, 4, 4, 4, 2, 2, 1, 4, 4, 5]"
-The host complimented the author who was being interviewed on all the talk shows.,3.6538,0.7308,26,"[4, 4, 4, 3, 4, 4, 3, 3, 4, 4, 4, 4, 4, 3, 4, 4, 4, 5, 3, 2, 2, 4, 3, 3, 4, 5]"
-The principal criticized the instructors for the program.,3.7917,0.9991,24,"[4, 4, 5, 4, 5, 2, 2, 4, 4, 4, 4, 4, 5, 5, 3, 3, 3, 5, 4, 4, 2, 5, 2, 4]"
-The publisher complimented the editors on the magazine.,4.5833,0.5713,24,"[5, 4, 5, 4, 5, 4, 4, 4, 5, 5, 5, 5, 5, 4, 5, 5, 5, 4, 3, 5, 4, 5, 5, 5]"
-The reporter interviewed the actors about the movie.,4.72,0.6645,25,"[5, 5, 5, 4, 4, 4, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5]"
-The socialite praised the hostesses for the party which was held yesterday in a luxurious ballroom.,2.8333,1.1426,24,"[4, 3, 4, 3, 2, 2, 3, 2, 2, 2, 4, 4, 3, 2, 2, 2, 2, 5, 2, 4, 1, 5, 4, 1]"
-The student petitioned the professors regarding the course.,3.5,0.866,24,"[4, 2, 5, 2, 4, 2, 4, 3, 4, 4, 3, 4, 4, 3, 4, 4, 4, 3, 2, 4, 3, 3, 4, 5]"
-The trainer left alone the angry-looking dog who was growling.,3.3333,1.2472,3,"[3, 2, 5]"
-The trainer left alone the dog.,2.4545,1.4993,11,"[4, 5, 1, 1, 2, 3, 1, 2, 1, 2, 5]"
-The trainer left the angry-looking dog who was growling alone.,3.5,1.0,8,"[3, 2, 4, 4, 4, 2, 4, 5]"
-The trainer left the dog alone.,4.2,1.1662,5,"[5, 4, 5, 5, 2]"
-"This morning, a manager stayed who is rarely in the office so the employees were very well behaved.",1.7083,0.7348,24,"[2, 1, 2, 2, 2, 1, 2, 2, 1, 2, 2, 2, 2, 1, 1, 1, 1, 2, 1, 3, 1, 4, 1, 2]"
-"When it storms, the grass gets wet, so the landscaper can't cut the grass.",3.75,1.2666,24,"[3, 3, 5, 4, 4, 4, 4, 2, 4, 2, 5, 4, 5, 2, 5, 5, 5, 5, 5, 4, 2, 5, 2, 1]"
-"Yesterday, a patient complained who had missed his noon appointment so the doctor agreed to see him early tomorrow.",1.7917,0.7626,24,"[2, 2, 1, 4, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 2, 2, 2, 2, 1, 1, 1, 3, 2, 3]"
+unit,mean,std,n,individual_ratings,item_type
+Christian put his difficult math homework that was due tomorrow off.,1.8,0.4472,5,"[2, 2, 2, 2, 1]",test
+Christian put his homework off.,3.3333,1.5055,6,"[5, 4, 4, 4, 2, 1]",test
+Christian put off his difficult math homework that was due tomorrow.,3.8571,1.069,7,"[5, 4, 2, 5, 4, 4, 3]",test
+Christian put off his homework.,4.6667,0.5164,6,"[5, 5, 4, 4, 5, 5]",test
+Frank put down the book.,5.0,0.0,7,"[5, 5, 5, 5, 5, 5, 5]",test
+Frank put down the new mystery book that he bought.,4.6667,0.8165,6,"[5, 5, 5, 5, 5, 3]",test
+Frank put the book down.,4.9,0.3162,10,"[5, 4, 5, 5, 5, 5, 5, 5, 5, 5]",test
+Frank put the new mystery book that he bought down.,3.0,,1,[3],test
+Jay sent in the disobedient student that had been fighting.,3.0,1.4142,4,"[3, 4, 4, 1]",test
+Jay sent in the student.,4.3333,0.5164,6,"[4, 4, 4, 4, 5, 5]",test
+Jay sent the disobedient student that had been fighting in.,1.5714,0.5345,7,"[2, 2, 2, 2, 1, 1, 1]",test
+Jay sent the student in.,4.875,0.3536,8,"[5, 5, 5, 5, 5, 5, 4, 5]",test
+Jerry pushed down the lever.,4.5,0.5774,4,"[4, 4, 5, 5]",test
+Jerry pushed down the rusty metal lever that turned off the water.,3.8,0.9189,10,"[5, 4, 4, 4, 4, 5, 3, 4, 3, 2]",test
+Jerry pushed the lever down.,5.0,0.0,6,"[5, 5, 5, 5, 5, 5]",test
+Jerry pushed the rusty metal lever that turned off the water down.,1.7143,0.9512,7,"[2, 1, 1, 1, 1, 3, 3]",test
+Joe threw out the documents.,5.0,0.0,6,"[5, 5, 5, 5, 5, 5]",test
+Joe threw out the very important documents that he brought home.,4.0,0.0,3,"[4, 4, 4]",test
+Joe threw the documents out.,4.1667,0.7528,6,"[4, 4, 5, 3, 4, 5]",test
+Joe threw the very important documents that he brought home out.,2.6,1.2649,10,"[3, 4, 1, 2, 2, 3, 3, 2, 1, 5]",test
+Karen broke down the box.,4.1667,0.9832,6,"[4, 5, 5, 5, 3, 3]",test
+Karen broke down the cardboard box that she had used to move.,3.7778,1.0929,9,"[4, 5, 4, 2, 4, 4, 4, 5, 2]",test
+Karen broke the box down.,3.0,1.0,3,"[2, 4, 3]",test
+Karen broke the cardboard box that she had used to move down.,2.3333,1.0328,6,"[2, 2, 4, 1, 3, 2]",test
+Patrick kicked out the audience member.,4.3333,1.1547,3,"[5, 5, 3]",test
+Patrick kicked out the obnoxious audience member who was heckling.,3.7778,1.2019,9,"[4, 3, 4, 2, 5, 5, 5, 4, 2]",test
+Patrick kicked the audience member out.,4.6,0.5477,5,"[4, 4, 5, 5, 5]",test
+Patrick kicked the obnoxious audience member who was heckling out.,3.1429,1.4639,7,"[5, 4, 4, 2, 4, 1, 2]",test
+The agent approached the publicists about the photo-shoot.,4.4167,0.9286,24,"[5, 4, 5, 4, 4, 4, 5, 5, 4, 4, 5, 5, 3, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 1]",filler
+The counselor consoled the students about the competition.,4.1667,0.8165,24,"[5, 5, 5, 4, 5, 4, 4, 4, 5, 3, 5, 3, 4, 4, 5, 5, 5, 2, 3, 4, 4, 4, 4, 4]",filler
+The florist sent the flowers that were very expensive to the boy.,2.9167,1.1389,24,"[4, 3, 3, 2, 4, 2, 2, 2, 1, 2, 2, 3, 4, 2, 4, 4, 4, 4, 2, 2, 1, 4, 4, 5]",filler
+The host complimented the author who was being interviewed on all the talk shows.,3.6538,0.7452,26,"[4, 4, 4, 3, 4, 4, 3, 3, 4, 4, 4, 4, 4, 3, 4, 4, 4, 5, 3, 2, 2, 4, 3, 3, 4, 5]",filler
+The principal criticized the instructors for the program.,3.7917,1.0206,24,"[4, 4, 5, 4, 5, 2, 2, 4, 4, 4, 4, 4, 5, 5, 3, 3, 3, 5, 4, 4, 2, 5, 2, 4]",filler
+The publisher complimented the editors on the magazine.,4.5833,0.5836,24,"[5, 4, 5, 4, 5, 4, 4, 4, 5, 5, 5, 5, 5, 4, 5, 5, 5, 4, 3, 5, 4, 5, 5, 5]",filler
+The reporter interviewed the actors about the movie.,4.72,0.6782,25,"[5, 5, 5, 4, 4, 4, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5]",filler
+The socialite praised the hostesses for the party which was held yesterday in a luxurious ballroom.,2.8333,1.1672,24,"[4, 3, 4, 3, 2, 2, 3, 2, 2, 2, 4, 4, 3, 2, 2, 2, 2, 5, 2, 4, 1, 5, 4, 1]",filler
+The student petitioned the professors regarding the course.,3.5,0.8847,24,"[4, 2, 5, 2, 4, 2, 4, 3, 4, 4, 3, 4, 4, 3, 4, 4, 4, 3, 2, 4, 3, 3, 4, 5]",filler
+The trainer left alone the angry-looking dog who was growling.,3.3333,1.5275,3,"[3, 2, 5]",test
+The trainer left alone the dog.,2.4545,1.5725,11,"[4, 5, 1, 1, 2, 3, 1, 2, 1, 2, 5]",test
+The trainer left the angry-looking dog who was growling alone.,3.5,1.069,8,"[3, 2, 4, 4, 4, 2, 4, 5]",test
+The trainer left the dog alone.,4.2,1.3038,5,"[5, 4, 5, 5, 2]",test
+"This morning, a manager stayed who is rarely in the office so the employees were very well behaved.",1.7083,0.7506,24,"[2, 1, 2, 2, 2, 1, 2, 2, 1, 2, 2, 2, 2, 1, 1, 1, 1, 2, 1, 3, 1, 4, 1, 2]",filler
+"When it storms, the grass gets wet, so the landscaper can't cut the grass.",3.75,1.2938,24,"[3, 3, 5, 4, 4, 4, 4, 2, 4, 2, 5, 4, 5, 2, 5, 5, 5, 5, 5, 4, 2, 5, 2, 1]",filler
+"Yesterday, a patient complained who had missed his noon appointment so the doctor agreed to see him early tomorrow.",1.7917,0.779,24,"[2, 2, 1, 4, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 2, 2, 2, 2, 1, 1, 1, 3, 2, 3]",filler

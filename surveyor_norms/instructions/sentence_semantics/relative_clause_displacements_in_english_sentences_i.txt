@@ -1,5 +1,7 @@
-Please read each sentence and then answer the question immediately following. For each sentence, indicate your reaction to the sentence by selecting a number from (1) to (5). Select (5) for sentences that seem fully normal and understandable to you. Select (1) for sentences that seem odd, awkward or difficult for you to understand. If you think, the sentences are somewhere between these extremes, use one fo the middle responses from (2) to (4). Please note that there are no right or wrong answers for the questions. Select your responses using the entire scale, solely on your gut reaction, not on the rules you may have learned about what is "proper" or "correct" English.
 Rate how normal and understandable the following sentence is to you
-Answer with one number.
+Rate on a scale from 1 to 5:
+1 = Bad
+5 = Good
+Answer with one digit.
 
 <<{sentence}>>

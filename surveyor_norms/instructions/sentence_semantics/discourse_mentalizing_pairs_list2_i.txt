@@ -1,5 +1,7 @@
-You will read 100 sentence pairs. We would like you to rate each pair of sentences according to how much it made you think of other people's experiences, thoughts, beliefs, desires, and/or emotions on a scale from 1 (not at all) to 7 (very much). For example, a pair like Steve called Jenny to tell her how much he valued their friendship. Jenny smiled warmly upon hearing these kind words. has a meaning that is related to other people's states of mind and emotions so you might rate it as a 6 or a 7. In contrast, a pair like The ball quickly rolled down the steep hill. The block tower collapsed when the ball made contact. does not, so you might rate it as a 1 or a 2.
 How much do these sentences make you think of other people's experiences, thoughts, beliefs, desires, and/or emotions?
-Answer with one number.
+Rate on a scale from 1 to 7:
+1 = Not at all
+7 = Very much
+Answer with one digit.
 
 <<{sentence}>>

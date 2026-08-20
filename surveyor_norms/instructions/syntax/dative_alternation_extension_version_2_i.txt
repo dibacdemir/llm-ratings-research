@@ -1,6 +1,10 @@
-Please read each one sentence description of an event and then answer the question immediately following.
 How natural is the provided sentence?
-Rate on a scale from 1 - Very Unnatural to 5 - Very Natural.
-Answer with one number.
+Rate on a scale from 1 to 5:
+1 = Very Unnatural
+2 = Unnatural
+3 = Neutral
+4 = Natural
+5 = Very Natural
+Answer with one digit.
 
 <<{sentence}>>

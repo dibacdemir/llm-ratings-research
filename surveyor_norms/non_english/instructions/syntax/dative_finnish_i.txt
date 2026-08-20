@@ -1,0 +1,10 @@
+Arvioi, kuinka luonnollinen lihavoitu kohdelause on.
+Arvioi asteikolla 1–5:
+1 = Epäluonnollinen
+2 = Melko epäluonnollinen
+3 = Ei luonnollinen eikä epäluonnollinen
+4 = Melko luonnollinen
+5 = Luonnollinen
+Vastaa yhdellä numerolla.
+
+<<{sentence}>>

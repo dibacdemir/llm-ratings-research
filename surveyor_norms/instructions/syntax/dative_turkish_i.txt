@@ -1,6 +1,0 @@
-Talimatlar: Lütfen cümle çiftlerini okuyun ve ikinci (hedef) cümlenin ne kadar doğal olduğunu değerlendirin.
-Lütfen hedef cümlenin ne kadar doğal olduğunu değerlendirin.
-Rate on a scale from 5: çok doğal to 1: hiç doğal değil.
-Answer with one number.
-
-<<{sentence}>>

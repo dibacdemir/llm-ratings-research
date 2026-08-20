@@ -1,51 +1,80 @@
-# mturk_norms — sentence/word-rating data converted from the MTURK export
+# mturk_norms — sentence/word-rating data converted from the TedLab MTurk export
 
-Auto-converted from `MTURK_export_2026-07-15.zip` into the same schema as the existing
-`norm_datasets/` + `instructions/` in this repo. **Nothing in the original repo (or in
-surveyor_norms) was modified**; this is a standalone sibling directory.
+Converted from `raw-data/MTURK_export_2026-07-15.zip`, then **repaired on 2026-08-20**
+following the audit in [`../audit/DATA_AUDIT_2026-08-19.md`](../audit/DATA_AUDIT_2026-08-19.md).
+Question wording and response-scale labels come from `raw-data/_WORDING.zip`
+(a reconstruction from the live MTurk Requester dashboard + recovered local HIT
+templates), since the batch-CSV export itself never contained them.
 
 ## What's here
-- `norm_datasets/<experiment>.csv` — one file per experiment folder, columns:
-  `unit, mean, std, n, individual_ratings` (`unit` = the rated sentence/word, HTML stripped)
-- `instructions/<experiment>_i.txt` — reconstructed prompt (see caveat 2)
-- `a_index.csv` — one row per converted experiment (dim, inferred scale, #batch files, #units, #ratings, median n/unit)
-(15 experiments were reviewed and excluded: units that looked like questions, image-filename units, boilerplate, or n=1)
-- `_remaining_classification.csv` — every one of the 2,853 MTurk CSVs labeled by category (what was and wasn't converted, and why)
 
-## How the conversion works
-MTurk stores data "wide": one row per worker, with `Answer.RatingN` = that worker's rating of
-the stimulus in `Input.trial_N` (or `Input.sentN`, etc.). We auto-detect, per file, the stimulus
-column family whose index set matches the Rating columns, pair `(sentence_N, RatingN)` for every
-worker, and aggregate by sentence text **across all batch files in the same experiment folder**
-(this naturally dedupes the many re-run batches). Alignment was verified against the raw data.
+- `norm_datasets/<experiment>.csv` — one file per experiment folder, columns
+  `unit, mean, std, n, individual_ratings` (`unit` = the rated text, HTML stripped;
+  `std` = **sample SD, ddof=1**; `mean` recomputable from `individual_ratings`).
+- `instructions/<experiment>_i.txt` — the rating prompt: dimension-specific question,
+  the study's **verbatim recovered scale labels on every point**
+  (`1 = Extremely unnatural … 5 = Extremely natural`), "Answer with one digit.",
+  stimulus as `<<{sentence}>>` (or `<<{word}>>` for the 29 word/phrase-unit sets:
+  `massive_mem_*`, `copy_of_verb_causality_*`/`verb_causality_semantics`, `word3_*`).
+- `a_index.csv` — one row per dataset with `status`, `dimension`, `scale`,
+  `scale_labels` (verbatim, `|`-joined), `placeholder`, and per-dataset
+  `question_provenance` / `scale_source` documenting exactly where each instruction's
+  wording came from (dashboard row, catalog, template, or reconstruction) — **read this
+  before publishing any dataset**.
+- `non_english/` — non-English datasets, same layout (`norm_datasets/` +
+  `instructions/`): currently only `pascal_1_dec_2012` (French sentences, French
+  instruction). Kept apart so the main tree is uniformly English; the `language`
+  column in `a_index.csv` records each dataset's language.
+- `_remaining_classification.csv` — legacy triage of all 2,853 raw CSVs (pre-repair
+  bookkeeping; counts are approximate).
 
-## Yield
-**171 clean experiments, 54,498 unique units, 1,722,570 individual ratings** (15 flagged experiments excluded).
-This is ~10x the surveyor set. Many are sentence naturalness/acceptability studies; some (e.g.
-"Massive mem familiarity/imageability") are classic single-word norms like the published datasets
-already in this repo. Scales inferred from responses: 1–5 (148), 1–7 (29), 1–3 (9).
+## Yield (post-repair)
 
-## Classification of ALL 2,853 MTurk CSVs (see _remaining_classification.csv)
-| category | files | folders | status |
-|---|---|---|---|
-| A rating, convertible                | 908 | 307 | **175 folders converted here**; ~120 more are rating-type but had per-file index mismatches — need alignment review |
-| B rating, stimulus column unclear    | 113 | 68  | convertible with extra step (locate the stimulus column) |
-| C yes/no comprehension               | 343 | 140 | convertible to proportion-correct (like dentella2023 in repo), not a mean rating |
-| D memory / reaction-time games       | 39  | 28  | not a rating task — excluded |
-| E surveycode only                    | 178 | 112 | real responses live in an external system, not in this export — cannot convert |
-| F other / unclassified               | 1272| 552 | mixed; needs manual triage (some rating, some junk) |
+**169 datasets** (2011–2021): **153 usable** + **16 blocked** awaiting wording from
+collaborators (`status=blocked_missing_wording`; list and repair recipe in
+[`../audit/BLOCKED_MISSING_WORDING.md`](../audit/BLOCKED_MISSING_WORDING.md) — the
+blocked files are untouched and still carry every pre-audit defect).
+Totals: **55,365 units, 1,711,901 individual ratings**. Scales: 1–5 (136), 1–7 (24),
+1–3 (9). Two audio-stimulus datasets (`..._marie_expt3*`) were dropped entirely
+(units were `.aiff` filenames).
 
-## Caveats (read before using)
-1. **Batch files ≠ experiments.** 908 A-class CSVs collapse to ~307 experiments; we output one
-   norm per experiment folder. A folder occasionally mixes sub-experiments; ratings are still
-   aggregated only from `Answer.Rating*` columns.
-2. **Instructions are weaker than surveyor's.** MTurk does NOT store the question text or scale in
-   the data (they lived in the HIT template). So the prompt here is a generic question inferred
-   from the folder name (naturalness/acceptability/…) and the scale is inferred from observed
-   response range. Treat instructions as approximate; verify before publishing.
-3. **Unit numbering alignment is assumed** where the Rating index set exactly matches the stimulus
-   index set. 15 experiments that failed a sanity check (units looked like questions, etc.) were excluded.
-4. **No participant exclusions / attention-check filtering** applied.
-5. **Not de-identified.** Raw MTurk CSVs contain WorkerId; folder names contain researcher names.
-   Scrub before any release. (Only aggregated units+ratings were written out here, no WorkerId.)
-6. **Dates 2011–2021, no manifest** — experiments are not linked to publications.
+## 2026-08-20 repair (summary)
+
+1. **Instructions rebuilt for all 153 usable sets** from the recovered wording:
+   dimension-specific questions, verbatim all-point scale labels, no meta text,
+   correct placeholder, French for the French survey. Scale labels are *recovered*;
+   the interrogative phrasing of the question is usually *reconstructed* (the
+   dashboard stores layouts, rarely literal question sentences) — see
+   `question_provenance`.
+2. **11 datasets re-converted from raw**: `erp_norming_error_detection_june_2013_4`
+   (ratings were attached to the unpresented grammatical controls; now keyed to the
+   presented `trial_2` stimuli), `verb_causality_study_syntax` (11 silently dropped
+   batch files recovered), `verb_causality_study_semantics` (2 dropped batches
+   recovered), and 7 context-design sets re-keyed to full context+target units,
+   un-pooling ratings that had been averaged across experimental conditions
+   (`imperative_control_iad_gs`, `..._for_gs_may_11_2011`, `cul_jack_april_12_2012_54`,
+   `word_length_context...`, `acd_v1`, `acd_v6`, `for_jkm_jan_2012`); plus a mojibake
+   repair in `orange_camel...`.
+3. **`std` recomputed as sample SD (ddof=1)** everywhere (was undocumented ddof=0).
+
+## Caveats
+
+1. **Question wording is largely reconstructed** (scale labels are not — they are
+   verbatim dashboard recoveries). `a_index.csv` flags the datasets where the
+   dimension itself rests on folder-name convention or sibling inference; a further
+   list of scale assignments awaiting collaborator confirmation is in
+   [`../audit/REMAINING_FIXES.md`](../audit/REMAINING_FIXES.md).
+2. **No participant exclusions / attention-check filtering** applied, with one
+   exception: the 10 button-catch trial units ("Choose the leftmost button." etc.)
+   were removed from `mk_grammaticality_study_7_20` on 2026-08-20 (their means
+   tracked button position, not grammaticality).
+3. **No filler annotation**: the export does not mark fillers, so unlike
+   `surveyor_norms` there is no `item_type` column here.
+4. **Overlap with published norms**: `massive_mem_*` word lists overlap up to 63%
+   with `norm_datasets/` (brysbaert2014, warriner2013, kuperman2012, lancaster2020…),
+   including same-dimension pairs — do not treat them as independent.
+5. **Not de-identified** (folder names contain researcher names; raw CSVs contain
+   WorkerIds). Scrub before release.
+6. **`verb_causality_study_syntax`** now includes all 15 batch lists; ~70% of its
+   units have n≤4 (each recovered list ran few workers) — check `n` before item-level
+   analyses.

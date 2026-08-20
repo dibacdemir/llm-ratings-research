@@ -1,385 +1,385 @@
-unit,mean,std,n,individual_ratings
-Barbara was angry that Thomas moved.,4.1,1.179,20,"[3, 5, 3, 5, 5, 4, 3, 5, 5, 3, 5, 5, 4, 5, 2, 5, 5, 4, 5, 1]"
-Barbara was annoyed that Jennifer misunderstood.,4.3,0.9539,20,"[2, 5, 4, 5, 5, 4, 4, 5, 5, 4, 5, 3, 4, 5, 5, 5, 4, 2, 5, 5]"
-Barbara was annoyed that Jennifer wanted something.,4.45,0.8047,20,"[3, 4, 2, 5, 5, 4, 4, 5, 5, 4, 5, 5, 4, 5, 5, 5, 4, 5, 5, 5]"
-Barbara was ashamed that Robert consented.,3.55,1.3219,20,"[1, 3, 4, 5, 2, 4, 3, 4, 1, 4, 3, 5, 4, 2, 4, 5, 5, 2, 5, 5]"
-Barbara was aware that Susan misunderstood.,4.4,1.0198,20,"[2, 5, 3, 5, 5, 3, 4, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 2, 5, 5]"
-Barbara was aware that Susan stole something.,4.3,1.0536,20,"[5, 5, 3, 5, 5, 1, 3, 5, 5, 5, 5, 4, 3, 5, 4, 5, 4, 5, 5, 4]"
-Barbara was certain that Mary made something.,4.25,0.7665,20,"[4, 5, 3, 5, 5, 4, 3, 4, 4, 4, 3, 4, 3, 5, 4, 5, 5, 5, 5, 5]"
-Barbara was content that Jennifer agreed.,4.15,0.7263,20,"[4, 4, 3, 4, 5, 3, 4, 4, 5, 4, 5, 5, 3, 3, 4, 5, 5, 4, 5, 4]"
-Barbara was disappointed that David moved.,4.1579,1.2675,19,"[3, 5, 2, 5, 5, 4, 5, 5, 1, 5, 4, 3, 5, 5, 5, 5, 2, 5, 5]"
-Barbara was elated that Lisa arrived.,4.35,1.0137,20,"[2, 5, 3, 5, 5, 4, 4, 5, 5, 2, 5, 5, 5, 3, 5, 5, 5, 4, 5, 5]"
-Barbara was elated that Lisa required something.,3.55,1.2031,20,"[5, 3, 2, 4, 2, 3, 3, 4, 1, 4, 4, 5, 2, 2, 5, 5, 4, 4, 5, 4]"
-Barbara was flabbergasted that Lisa wanted something.,3.6842,1.4162,19,"[4, 4, 1, 5, 4, 2, 5, 4, 3, 4, 5, 4, 3, 1, 5, 5, 5, 5, 1]"
-Barbara was shocked that Elizabeth consented.,4.05,1.1169,20,"[2, 5, 4, 5, 5, 3, 4, 5, 5, 4, 5, 4, 3, 2, 3, 5, 5, 2, 5, 5]"
-Charles was amused that Barbara smiled.,4.4,0.8602,20,"[4, 5, 2, 5, 5, 3, 3, 5, 4, 4, 5, 5, 5, 5, 4, 5, 5, 4, 5, 5]"
-Charles was angry that Nancy laughed.,4.45,0.8047,20,"[4, 5, 3, 5, 5, 5, 4, 4, 5, 4, 5, 5, 5, 5, 4, 5, 5, 4, 5, 2]"
-Charles was concerned that Karen consented.,4.25,0.5362,20,"[4, 4, 4, 5, 4, 4, 4, 4, 5, 4, 4, 4, 4, 3, 5, 5, 4, 4, 5, 5]"
-Charles was dubious that Joseph waited.,2.95,1.4309,20,"[2, 5, 1, 1, 2, 4, 3, 4, 3, 3, 4, 1, 5, 1, 4, 5, 4, 4, 2, 1]"
-Charles was ecstatic that Mary wanted something.,3.6842,1.2162,19,"[3, 2, 5, 2, 4, 3, 4, 1, 4, 5, 4, 3, 5, 5, 5, 4, 2, 5, 4]"
-Charles was impressed that Michael bought something.,4.4211,0.5908,19,"[4, 5, 3, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 4, 5, 5, 4, 5, 5]"
-Charles was indignant that Robert stole something.,3.95,1.3592,20,"[5, 5, 2, 5, 5, 5, 4, 4, 2, 4, 5, 5, 3, 1, 5, 5, 4, 4, 5, 1]"
-Charles was jealous that Jennifer took something.,3.75,1.3739,20,"[4, 5, 2, 5, 4, 2, 4, 4, 1, 3, 4, 5, 2, 5, 5, 5, 5, 4, 5, 1]"
-Charles was optimistic that Elizabeth moved.,3.7,1.2288,20,"[3, 5, 3, 2, 4, 3, 4, 5, 1, 5, 4, 2, 3, 5, 5, 5, 4, 2, 5, 4]"
-Christopher was aware that Lisa broke something.,4.5,0.8062,20,"[5, 4, 2, 5, 5, 4, 4, 5, 5, 4, 5, 5, 3, 5, 4, 5, 5, 5, 5, 5]"
-Christopher was certain that James laughed.,4.15,1.0618,20,"[2, 5, 4, 5, 5, 2, 3, 4, 5, 5, 5, 5, 5, 4, 2, 5, 4, 4, 5, 4]"
-Christopher was content that John cried.,3.1579,1.2253,19,"[3, 2, 2, 2, 2, 2, 4, 1, 4, 4, 2, 4, 3, 2, 5, 4, 5, 5, 4]"
-Christopher was convinced that Nancy made something.,4.35,0.9097,20,"[3, 4, 3, 5, 5, 4, 2, 4, 5, 5, 3, 5, 5, 5, 5, 5, 5, 4, 5, 5]"
-Christopher was dubious that David smiled.,2.9,1.3748,20,"[4, 3, 4, 1, 4, 1, 4, 2, 1, 3, 4, 5, 3, 2, 5, 2, 5, 2, 2, 1]"
-Christopher was irritated that Robert required something.,3.55,1.2835,20,"[3, 4, 2, 4, 1, 3, 4, 4, 5, 4, 4, 5, 2, 2, 4, 5, 5, 4, 5, 1]"
-Christopher was mad that Robert stole something.,4.4,1.0198,20,"[5, 5, 2, 5, 5, 2, 3, 5, 5, 5, 5, 4, 4, 5, 3, 5, 5, 5, 5, 5]"
-Daniel was convinced that Robert agreed.,4.25,1.0897,20,"[2, 5, 2, 5, 5, 4, 5, 4, 3, 4, 5, 4, 5, 5, 5, 5, 5, 2, 5, 5]"
-Daniel was glad that Joseph moved.,4.4,0.9165,20,"[5, 5, 3, 5, 5, 3, 5, 5, 5, 4, 5, 5, 3, 5, 4, 5, 5, 4, 5, 2]"
-Daniel was irritated that Charles agreed.,4.1,1.1358,20,"[4, 4, 3, 5, 5, 3, 3, 5, 5, 5, 5, 4, 5, 5, 2, 5, 4, 1, 5, 4]"
-Daniel was relieved that Richard consented.,4.45,0.8646,20,"[4, 5, 2, 5, 5, 3, 3, 5, 5, 5, 5, 5, 4, 4, 5, 5, 5, 4, 5, 5]"
-Daniel was relieved that Richard required something.,4.05,0.9206,20,"[4, 3, 4, 5, 4, 4, 4, 4, 2, 4, 5, 5, 3, 4, 5, 5, 5, 4, 5, 2]"
-David was anxious that Jessica consented.,3.8,1.1662,20,"[3, 4, 4, 5, 4, 3, 5, 4, 3, 4, 4, 4, 3, 5, 5, 5, 4, 1, 5, 1]"
-David was bitter that Jessica stole something.,4.05,1.244,20,"[5, 5, 1, 5, 4, 3, 3, 4, 5, 4, 5, 5, 3, 5, 5, 4, 4, 5, 5, 1]"
-David was content that Richard understood something.,4.1,1.0909,20,"[3, 5, 2, 2, 4, 2, 3, 5, 5, 4, 5, 5, 5, 5, 5, 4, 4, 5, 5, 4]"
-David was flabbergasted that Charles laughed.,3.6,1.5297,20,"[2, 4, 3, 5, 1, 4, 4, 5, 1, 4, 5, 5, 3, 1, 5, 5, 4, 5, 5, 1]"
-David was flustered that Lisa needed something.,3.85,1.1522,20,"[4, 4, 4, 5, 2, 3, 3, 4, 5, 5, 5, 4, 3, 5, 4, 5, 4, 2, 5, 1]"
-David was flustered that Lisa smiled.,3.9,1.3748,20,"[4, 3, 3, 5, 4, 5, 4, 5, 1, 4, 5, 5, 4, 1, 5, 5, 4, 5, 5, 1]"
-David was grateful that Thomas arrived.,4.4737,0.9386,19,"[4, 5, 2, 5, 5, 5, 4, 5, 5, 4, 5, 5, 5, 5, 4, 5, 2, 5, 5]"
-David was grateful that Thomas needed something.,3.85,1.1079,20,"[4, 4, 4, 5, 2, 3, 4, 5, 1, 4, 3, 4, 2, 5, 4, 4, 5, 4, 5, 5]"
-David was hopeful that Robert took something.,3.85,1.1948,20,"[4, 3, 4, 5, 4, 1, 4, 2, 1, 5, 5, 4, 4, 5, 5, 4, 4, 4, 5, 4]"
-David was jubilant that Sarah moved.,3.75,1.0897,20,"[2, 5, 3, 4, 2, 4, 4, 4, 4, 5, 5, 5, 4, 2, 5, 3, 5, 3, 2, 4]"
-David was mad that William took something.,4.4,0.9695,20,"[5, 5, 2, 5, 5, 3, 4, 5, 5, 4, 5, 5, 4, 5, 5, 5, 5, 2, 5, 4]"
-Elizabeth was aware that Sarah laughed.,4.4,0.8602,20,"[2, 5, 3, 5, 5, 4, 3, 5, 5, 5, 5, 4, 5, 5, 4, 5, 5, 4, 5, 4]"
-Elizabeth was certain that John misunderstood.,4.45,0.8646,20,"[4, 5, 2, 5, 5, 3, 5, 5, 5, 5, 5, 5, 3, 4, 4, 5, 5, 4, 5, 5]"
-Elizabeth was concerned that Mary preferred something.,3.45,0.9734,20,"[2, 4, 3, 2, 2, 3, 3, 2, 4, 5, 3, 5, 3, 3, 4, 4, 5, 4, 4, 4]"
-Elizabeth was hopeful that Barbara misunderstood.,3.55,1.3955,20,"[3, 5, 4, 5, 4, 4, 5, 2, 1, 4, 5, 4, 3, 1, 4, 5, 4, 2, 5, 1]"
-Elizabeth was irate that Daniel disagreed.,3.95,1.2835,20,"[2, 4, 2, 5, 5, 3, 5, 5, 5, 3, 5, 4, 2, 4, 5, 5, 5, 4, 5, 1]"
-Elizabeth was jealous that Barbara preferred something.,3.65,1.2359,20,"[2, 4, 3, 4, 4, 1, 4, 2, 4, 5, 5, 4, 5, 5, 4, 4, 4, 3, 5, 1]"
-Elizabeth was relieved that Susan cried.,4.05,1.0712,20,"[3, 5, 2, 5, 5, 1, 4, 5, 4, 5, 4, 3, 4, 4, 5, 5, 4, 5, 4, 4]"
-Elizabeth was sorry that Mary made something.,3.6,1.3191,20,"[4, 4, 2, 5, 2, 3, 4, 2, 1, 5, 4, 4, 5, 4, 5, 3, 5, 5, 4, 1]"
-James was anxious that Daniel required something.,3.65,1.1522,20,"[4, 4, 3, 5, 2, 4, 4, 1, 5, 4, 3, 4, 2, 4, 3, 5, 5, 2, 5, 4]"
-James was enraged that Sarah misunderstood.,4.0,1.2247,20,"[4, 5, 2, 5, 4, 2, 3, 5, 5, 4, 5, 5, 3, 3, 5, 5, 5, 1, 5, 4]"
-James was irate that Jennifer wanted something.,4.2,0.9274,20,"[4, 3, 4, 5, 5, 4, 4, 4, 5, 4, 5, 5, 5, 4, 4, 5, 4, 4, 5, 1]"
-James was jubilant that Thomas made something.,3.25,1.3739,20,"[2, 4, 2, 4, 2, 3, 4, 2, 5, 4, 2, 5, 3, 1, 5, 4, 5, 5, 2, 1]"
-James was positive that Karen broke something.,4.45,1.0712,20,"[5, 5, 2, 5, 5, 1, 5, 5, 5, 4, 5, 4, 5, 4, 5, 5, 5, 5, 5, 4]"
-James was shocked that Patricia made something.,3.95,1.0712,20,"[4, 5, 2, 5, 5, 3, 4, 4, 4, 4, 3, 4, 3, 5, 5, 5, 4, 4, 5, 1]"
-James was sorry that Jessica laughed.,3.85,1.3143,20,"[4, 4, 2, 5, 4, 4, 3, 2, 1, 4, 5, 5, 4, 5, 5, 5, 5, 4, 5, 1]"
-James was worried that Thomas broke something.,4.7,0.5568,20,"[5, 5, 3, 5, 5, 4, 5, 4, 5, 4, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5]"
-James was worried that Thomas understood.,3.55,1.3592,20,"[2, 4, 3, 5, 1, 4, 3, 4, 1, 3, 5, 5, 3, 5, 4, 5, 5, 2, 5, 2]"
-Jennifer was confident that Michael misunderstood.,4.2,0.9274,20,"[4, 3, 2, 5, 4, 4, 4, 4, 5, 4, 5, 4, 5, 4, 5, 5, 5, 2, 5, 5]"
-Jennifer was flabbergasted that Christopher took something.,4.35,0.8529,20,"[5, 5, 3, 5, 5, 2, 4, 5, 5, 4, 5, 5, 3, 4, 5, 5, 4, 4, 5, 4]"
-Jennifer was furious that Lisa understood.,3.4,1.3928,20,"[2, 5, 3, 5, 4, 1, 3, 4, 1, 4, 2, 4, 5, 4, 4, 5, 4, 2, 5, 1]"
-Jennifer was glad that William bought something.,4.4,1.0677,20,"[2, 5, 4, 5, 5, 1, 5, 5, 5, 4, 5, 4, 5, 5, 5, 5, 5, 4, 5, 4]"
-Jennifer was livid that Mary understood.,3.3,1.382,20,"[4, 3, 2, 4, 4, 2, 4, 5, 1, 4, 2, 4, 2, 1, 5, 5, 4, 4, 5, 1]"
-Jennifer was sad that Richard agreed.,3.75,1.1347,20,"[3, 4, 4, 5, 2, 3, 4, 5, 3, 2, 5, 5, 3, 5, 4, 5, 4, 2, 5, 2]"
-Jennifer was satisfied that Mary needed something.,3.7,1.2288,20,"[4, 3, 3, 4, 4, 2, 3, 4, 1, 4, 5, 5, 3, 5, 5, 4, 5, 1, 5, 4]"
-Jessica was amused that Nancy desired something.,4.0,1.2247,20,"[3, 4, 3, 5, 4, 5, 4, 4, 1, 4, 5, 5, 5, 3, 5, 5, 5, 4, 5, 1]"
-Jessica was ashamed that Lisa understood.,3.0,1.5166,20,"[2, 3, 2, 5, 2, 2, 2, 4, 1, 1, 2, 4, 5, 4, 5, 5, 4, 1, 5, 1]"
-Jessica was convinced that Barbara preferred something.,4.2,0.8124,20,"[3, 5, 4, 2, 4, 4, 4, 5, 5, 4, 4, 5, 3, 5, 5, 4, 5, 4, 5, 4]"
-Jessica was flabbergasted that Daniel misunderstood.,3.4,1.6553,20,"[1, 5, 2, 5, 4, 1, 3, 2, 4, 5, 5, 5, 4, 1, 4, 5, 5, 1, 5, 1]"
-Jessica was grateful that William waited.,4.2,1.1662,20,"[1, 5, 2, 5, 4, 4, 4, 5, 5, 4, 5, 4, 5, 5, 4, 5, 5, 2, 5, 5]"
-Jessica was happy that William moved.,4.45,0.8047,20,"[4, 5, 3, 5, 5, 3, 3, 5, 5, 4, 5, 3, 5, 5, 5, 5, 5, 4, 5, 5]"
-Jessica was livid that James disagreed.,3.8,1.4,20,"[4, 5, 2, 5, 5, 2, 5, 4, 5, 4, 5, 3, 4, 1, 5, 5, 4, 2, 5, 1]"
-Jessica was satisfied that David required something.,3.6842,1.1722,19,"[2, 3, 4, 5, 2, 4, 5, 4, 1, 4, 4, 4, 2, 3, 5, 5, 4, 5, 4]"
-John was doubtful that Linda cried.,4.1,1.0909,20,"[4, 4, 3, 5, 5, 5, 4, 4, 1, 5, 4, 5, 5, 3, 5, 5, 4, 5, 2, 4]"
-John was grateful that James wanted something.,4.0,1.0954,20,"[3, 4, 2, 5, 5, 2, 3, 5, 3, 4, 5, 5, 4, 5, 5, 4, 4, 2, 5, 5]"
-John was irritated that Nancy needed something.,4.15,1.0137,20,"[4, 4, 3, 5, 4, 2, 3, 5, 5, 5, 5, 5, 3, 5, 4, 5, 5, 4, 5, 2]"
-John was optimistic that Patricia concurred.,3.8,1.1662,20,"[3, 5, 3, 2, 2, 2, 4, 4, 5, 4, 5, 5, 3, 3, 4, 5, 5, 2, 5, 5]"
-John was sad that Michael required something.,4.0,1.0488,20,"[5, 4, 2, 5, 2, 3, 4, 4, 4, 4, 5, 5, 3, 5, 4, 5, 5, 2, 5, 4]"
-John was sure that Jennifer cried.,4.4,0.9165,20,"[2, 5, 3, 5, 5, 4, 4, 5, 5, 4, 5, 5, 3, 3, 5, 5, 5, 5, 5, 5]"
-Joseph was optimistic that Linda bought something.,4.15,0.7921,20,"[4, 4, 2, 5, 4, 4, 5, 4, 3, 4, 4, 5, 5, 3, 4, 5, 5, 4, 5, 4]"
-Joseph was positive that Linda waited.,4.2,0.9798,20,"[2, 4, 3, 5, 5, 3, 4, 4, 5, 5, 4, 5, 4, 5, 5, 5, 5, 2, 5, 4]"
-Joseph was proud that Jessica broke something.,3.65,1.3519,20,"[1, 3, 2, 5, 5, 5, 4, 2, 1, 4, 3, 4, 2, 5, 5, 5, 4, 4, 5, 4]"
-Joseph was sad that Susan consented.,3.6842,0.9762,19,"[4, 4, 2, 5, 4, 3, 3, 4, 3, 2, 5, 4, 4, 3, 5, 4, 2, 5, 4]"
-Joseph was sure that Elizabeth waited.,4.35,1.1079,20,"[2, 5, 2, 5, 5, 3, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 2, 5, 5]"
-Karen was amused that Joseph wanted something.,4.3,0.9539,20,"[5, 4, 2, 5, 5, 3, 5, 4, 2, 4, 5, 5, 4, 5, 5, 5, 5, 4, 5, 4]"
-Karen was content that Susan required something.,3.5,1.245,20,"[4, 4, 3, 1, 2, 1, 5, 4, 1, 4, 5, 4, 3, 4, 4, 4, 4, 4, 5, 4]"
-Karen was doubtful that David agreed.,3.95,1.1169,20,"[5, 5, 3, 5, 5, 2, 3, 4, 4, 5, 4, 5, 3, 3, 5, 5, 4, 2, 2, 5]"
-Karen was excited that Susan made something.,4.45,0.8047,20,"[5, 5, 2, 5, 5, 3, 4, 4, 5, 4, 5, 4, 5, 5, 4, 5, 4, 5, 5, 5]"
-Karen was fearful that Elizabeth cried.,3.55,1.4654,20,"[2, 5, 3, 5, 1, 1, 4, 4, 1, 4, 5, 4, 5, 4, 5, 4, 4, 4, 5, 1]"
-Karen was fearful that Elizabeth sold something.,3.9,1.044,20,"[5, 4, 3, 5, 4, 3, 5, 4, 4, 4, 2, 5, 3, 4, 4, 5, 4, 5, 4, 1]"
-Karen was happy that Christopher sold something.,4.1,1.3379,20,"[5, 5, 2, 5, 5, 1, 4, 4, 5, 3, 5, 5, 3, 5, 4, 5, 5, 5, 5, 1]"
-Karen was hopeful that John moved.,3.65,1.1948,20,"[4, 4, 2, 5, 2, 3, 4, 4, 1, 2, 4, 4, 4, 5, 4, 5, 4, 2, 5, 5]"
-Karen was irate that Jessica preferred something.,3.5,1.3601,20,"[3, 4, 1, 5, 2, 2, 4, 4, 2, 5, 5, 5, 3, 2, 5, 4, 4, 4, 5, 1]"
-Karen was jealous that Daniel laughed.,3.75,1.3739,20,"[3, 3, 3, 5, 1, 1, 4, 5, 1, 4, 4, 4, 3, 5, 5, 5, 5, 4, 5, 5]"
-Karen was mad that Joseph concurred.,4.0,0.8944,20,"[4, 3, 4, 2, 4, 2, 3, 4, 4, 4, 5, 5, 4, 4, 4, 5, 5, 4, 5, 5]"
-Karen was proud that Nancy understood something.,4.65,0.5723,20,"[4, 5, 4, 5, 5, 4, 5, 5, 5, 4, 5, 5, 3, 4, 5, 5, 5, 5, 5, 5]"
-Linda was anxious that Mary broke something.,4.3,0.9539,20,"[3, 4, 2, 5, 5, 4, 4, 4, 5, 2, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4]"
-Linda was certain that Sarah sold something.,4.45,0.8047,20,"[4, 4, 3, 5, 5, 3, 5, 5, 5, 4, 5, 5, 3, 3, 5, 5, 5, 5, 5, 5]"
-Linda was distraught that Elizabeth arrived.,3.9,1.3379,20,"[2, 4, 4, 5, 4, 4, 4, 5, 5, 5, 5, 5, 3, 1, 5, 5, 4, 2, 5, 1]"
-Linda was distraught that Elizabeth desired something.,3.7,1.1,20,"[2, 3, 3, 5, 2, 4, 4, 4, 4, 4, 3, 4, 3, 4, 5, 5, 5, 4, 5, 1]"
-Linda was excited that John understood something.,4.3158,0.8616,19,"[5, 5, 2, 5, 5, 3, 4, 4, 5, 4, 4, 5, 3, 4, 4, 5, 5, 5, 5]"
-Linda was flustered that Mary stole something.,3.6,1.4967,20,"[3, 4, 2, 4, 5, 1, 5, 4, 2, 2, 5, 5, 4, 1, 5, 5, 4, 5, 5, 1]"
-Linda was jubilant that Elizabeth required something.,2.8,1.3266,20,"[2, 2, 1, 1, 2, 2, 3, 4, 1, 4, 4, 4, 2, 1, 5, 3, 5, 4, 2, 4]"
-Linda was satisfied that Susan waited.,4.05,1.1608,20,"[2, 4, 2, 5, 4, 3, 4, 4, 5, 1, 5, 4, 5, 5, 5, 5, 4, 4, 5, 5]"
-Linda was surprised that Karen arrived.,4.3,1.005,20,"[2, 5, 3, 5, 5, 3, 4, 5, 5, 4, 5, 4, 5, 5, 5, 5, 5, 2, 5, 4]"
-Linda was surprised that Karen required something.,3.75,1.1779,20,"[4, 4, 2, 5, 4, 2, 4, 4, 4, 4, 5, 5, 3, 3, 5, 5, 4, 2, 5, 1]"
-Lisa was amused that Mary cried.,3.8421,1.4961,19,"[5, 4, 2, 5, 5, 1, 3, 5, 1, 5, 5, 4, 3, 4, 5, 5, 5, 5, 1]"
-Lisa was annoyed that William consented.,3.95,1.3955,20,"[2, 5, 2, 5, 2, 4, 3, 5, 5, 1, 5, 5, 5, 3, 5, 5, 5, 2, 5, 5]"
-Lisa was impressed that Sarah consented.,4.05,1.0235,20,"[4, 5, 4, 5, 2, 4, 4, 4, 5, 5, 5, 5, 3, 2, 4, 5, 4, 2, 5, 4]"
-Lisa was impressed that Sarah sold something.,4.35,1.1079,20,"[4, 5, 2, 5, 5, 1, 4, 5, 5, 4, 5, 5, 3, 5, 5, 5, 5, 5, 5, 4]"
-Lisa was mad that Thomas moved.,4.55,0.7399,20,"[5, 5, 3, 5, 5, 3, 3, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4]"
-Lisa was proud that Daniel consented.,4.2,1.077,20,"[1, 5, 4, 5, 4, 2, 4, 5, 5, 4, 4, 5, 3, 4, 5, 5, 5, 4, 5, 5]"
-Lisa was shocked that Nancy understood something.,4.1,0.8307,20,"[5, 4, 2, 5, 5, 5, 3, 4, 4, 4, 3, 5, 3, 4, 5, 4, 4, 5, 4, 4]"
-Lisa was sorry that Robert disagreed.,4.05,1.4654,20,"[2, 5, 1, 5, 5, 4, 4, 5, 4, 5, 5, 5, 5, 5, 5, 5, 4, 1, 5, 1]"
-Mary was annoyed that Susan broke something.,4.35,0.8529,20,"[2, 5, 3, 5, 5, 4, 4, 5, 5, 4, 5, 5, 3, 4, 4, 5, 4, 5, 5, 5]"
-Mary was disappointed that William required something.,4.15,0.7263,20,"[4, 5, 3, 4, 4, 3, 3, 4, 4, 4, 5, 5, 3, 5, 5, 5, 4, 4, 5, 4]"
-Mary was furious that Sarah stole something.,4.4211,0.9903,19,"[5, 3, 5, 5, 3, 3, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 2, 5, 5]"
-Mary was happy that Daniel understood.,4.7,0.4583,20,"[4, 5, 4, 5, 5, 5, 4, 5, 5, 4, 5, 5, 5, 5, 4, 5, 5, 4, 5, 5]"
-Mary was irate that Patricia cried.,3.7,1.1874,20,"[2, 3, 2, 5, 5, 2, 4, 4, 3, 4, 5, 4, 3, 4, 4, 5, 4, 5, 5, 1]"
-Mary was irritated that Karen smiled.,4.2,1.0296,20,"[3, 5, 1, 5, 5, 3, 3, 4, 4, 4, 4, 5, 5, 5, 4, 5, 5, 4, 5, 5]"
-Mary was sore that Christopher moved.,2.8,1.1225,20,"[2, 3, 3, 1, 2, 2, 4, 2, 3, 2, 3, 2, 3, 3, 5, 5, 4, 2, 4, 1]"
-Mary was sore that Christopher took something.,3.3,1.4177,20,"[4, 3, 2, 1, 4, 4, 4, 2, 5, 4, 3, 1, 2, 5, 2, 5, 5, 5, 4, 1]"
-Michael was angry that James made something.,3.8,1.0296,20,"[4, 4, 3, 5, 5, 4, 3, 4, 1, 3, 4, 4, 3, 5, 2, 4, 4, 5, 5, 4]"
-Michael was elated that William broke something.,3.45,1.3592,20,"[3, 4, 2, 4, 4, 3, 2, 2, 1, 5, 4, 5, 2, 3, 4, 5, 5, 5, 5, 1]"
-Michael was enraged that Charles needed something.,3.85,1.1522,20,"[4, 4, 2, 5, 2, 4, 4, 4, 4, 4, 4, 4, 5, 1, 5, 5, 5, 4, 5, 2]"
-Michael was excited that Daniel arrived.,4.3,1.005,20,"[4, 5, 2, 5, 5, 2, 3, 5, 5, 4, 5, 5, 3, 5, 4, 5, 5, 4, 5, 5]"
-Michael was fearful that James arrived.,3.4211,1.2697,19,"[4, 4, 3, 5, 1, 3, 4, 4, 4, 2, 5, 3, 2, 4, 4, 1, 2, 5, 5]"
-Michael was indignant that Patricia smiled.,3.0,1.3038,20,"[2, 3, 4, 2, 2, 2, 2, 3, 1, 3, 5, 4, 3, 2, 2, 5, 5, 4, 5, 1]"
-Michael was livid that Lisa broke something.,4.35,1.1522,20,"[4, 5, 3, 5, 5, 4, 5, 5, 5, 5, 5, 5, 3, 2, 5, 5, 5, 5, 5, 1]"
-Michael was relieved that Jennifer desired something.,3.8,1.1225,20,"[3, 3, 2, 4, 4, 4, 4, 5, 1, 3, 5, 5, 2, 4, 4, 5, 5, 4, 5, 4]"
-Michael was shocked that Susan agreed.,4.35,1.1948,20,"[2, 5, 2, 5, 5, 1, 4, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 4, 5, 5]"
-Michael was sure that William desired something.,4.25,0.8874,20,"[3, 4, 3, 5, 5, 2, 4, 5, 4, 5, 5, 4, 3, 5, 5, 5, 4, 5, 5, 4]"
-Nancy was bitter that Barbara concurred.,3.4,1.1576,20,"[3, 3, 3, 2, 2, 2, 4, 4, 4, 4, 4, 2, 3, 3, 5, 5, 5, 4, 5, 1]"
-Nancy was glad that Sarah made something.,4.55,0.669,20,"[4, 5, 3, 5, 5, 4, 3, 4, 5, 4, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5]"
-Nancy was positive that Barbara made something.,4.05,0.8047,20,"[4, 4, 3, 5, 5, 2, 4, 4, 5, 4, 3, 4, 3, 5, 4, 4, 4, 5, 5, 4]"
-Nancy was sad that William needed something.,4.0526,1.1459,19,"[3, 5, 5, 4, 3, 4, 4, 2, 5, 5, 5, 3, 5, 4, 5, 4, 5, 5, 1]"
-Patricia was elated that Linda disagreed.,3.2,1.3638,20,"[1, 3, 3, 2, 2, 3, 3, 4, 3, 5, 3, 4, 4, 1, 5, 5, 5, 2, 5, 1]"
-Patricia was furious that Christopher agreed.,3.9474,1.2762,19,"[2, 3, 2, 5, 5, 2, 4, 5, 5, 5, 5, 5, 2, 4, 5, 5, 2, 5, 4]"
-Patricia was happy that Barbara required something.,4.2,0.9274,20,"[4, 4, 2, 5, 2, 4, 4, 4, 3, 5, 5, 4, 5, 5, 5, 5, 5, 4, 5, 4]"
-Patricia was jealous that Michael arrived.,3.85,1.2359,20,"[5, 4, 4, 5, 2, 3, 5, 2, 2, 2, 4, 5, 3, 5, 5, 5, 5, 4, 5, 2]"
-Patricia was sorry that Daniel sold something.,3.6,1.1136,20,"[3, 3, 2, 4, 5, 3, 4, 4, 3, 3, 4, 5, 3, 2, 4, 5, 5, 5, 4, 1]"
-Richard was bitter that Charles desired something.,3.6,1.0677,20,"[3, 3, 3, 4, 2, 2, 4, 5, 3, 3, 4, 4, 5, 4, 4, 5, 4, 4, 5, 1]"
-Richard was bitter that Charles smiled.,4.25,1.0897,20,"[4, 5, 5, 5, 5, 4, 4, 4, 1, 5, 5, 4, 3, 5, 5, 5, 5, 4, 5, 2]"
-Richard was concerned that Jennifer took something.,4.2,1.1662,20,"[3, 4, 2, 5, 5, 1, 3, 4, 5, 5, 5, 5, 5, 3, 5, 5, 5, 4, 5, 5]"
-Richard was confident that Daniel understood something.,4.35,0.8529,20,"[3, 4, 2, 5, 5, 5, 4, 4, 5, 4, 5, 5, 3, 4, 5, 5, 4, 5, 5, 5]"
-Richard was convinced that Lisa arrived.,4.25,0.9937,20,"[2, 5, 4, 5, 4, 4, 3, 5, 5, 5, 5, 5, 3, 5, 4, 5, 5, 2, 5, 4]"
-Richard was distraught that Daniel concurred.,3.7,1.2689,20,"[3, 5, 2, 4, 1, 3, 3, 5, 1, 3, 5, 4, 4, 5, 3, 5, 4, 5, 5, 4]"
-Richard was hopeful that Lisa understood something.,4.2632,0.8487,19,"[3, 4, 5, 5, 2, 4, 4, 5, 4, 5, 4, 3, 5, 5, 5, 5, 4, 5, 4]"
-Robert was angry that John took something.,4.2,1.1225,20,"[2, 5, 2, 5, 5, 3, 5, 5, 5, 4, 5, 4, 3, 5, 5, 5, 5, 4, 5, 2]"
-Robert was disappointed that Elizabeth understood something.,3.35,1.2757,20,"[4, 4, 3, 5, 2, 1, 4, 2, 1, 5, 3, 5, 2, 3, 5, 4, 4, 4, 4, 2]"
-Robert was disappointed that Elizabeth waited.,4.3,0.8426,20,"[3, 5, 2, 5, 4, 3, 4, 5, 4, 4, 4, 5, 5, 5, 5, 5, 5, 4, 5, 4]"
-Robert was distraught that David made something.,3.4,1.2,20,"[3, 4, 2, 5, 4, 2, 3, 4, 2, 5, 4, 2, 3, 2, 5, 4, 4, 4, 5, 1]"
-Robert was dubious that Nancy preferred something.,2.5,1.1619,20,"[2, 5, 2, 1, 4, 1, 3, 4, 1, 3, 3, 2, 3, 1, 4, 3, 3, 2, 2, 1]"
-Robert was furious that Richard required something.,4.0,1.0,20,"[3, 5, 2, 5, 4, 4, 4, 4, 5, 2, 4, 4, 2, 5, 4, 5, 5, 4, 5, 4]"
-Robert was positive that Michael laughed.,4.5,0.5916,20,"[5, 4, 4, 5, 5, 4, 3, 5, 5, 4, 5, 4, 4, 5, 5, 5, 4, 4, 5, 5]"
-Robert was satisfied that Joseph smiled.,4.55,0.4975,20,"[5, 4, 4, 4, 4, 4, 5, 5, 4, 5, 4, 5, 5, 5, 4, 5, 5, 4, 5, 5]"
-Robert was sore that Patricia understood.,2.45,1.4654,20,"[1, 3, 2, 1, 1, 1, 4, 1, 1, 2, 4, 5, 2, 4, 2, 5, 4, 1, 4, 1]"
-Robert was surprised that Lisa understood something.,4.25,0.8292,20,"[5, 4, 3, 5, 5, 4, 4, 4, 4, 2, 5, 5, 3, 5, 5, 5, 5, 4, 4, 4]"
-Sarah was ecstatic that David needed something.,3.6316,1.3063,19,"[3, 3, 5, 2, 1, 3, 4, 1, 4, 5, 5, 4, 2, 4, 5, 5, 4, 5, 4]"
-Sarah was ecstatic that David smiled.,4.2,1.077,20,"[4, 5, 3, 5, 4, 4, 5, 5, 5, 4, 5, 4, 5, 1, 4, 5, 4, 5, 5, 2]"
-Sarah was indignant that Susan agreed.,3.2,1.3266,20,"[1, 4, 3, 5, 4, 2, 3, 4, 4, 4, 2, 2, 4, 1, 4, 4, 5, 2, 5, 1]"
-Sarah was indignant that Susan sold something.,3.4,1.4283,20,"[3, 4, 3, 4, 1, 4, 4, 2, 1, 5, 3, 4, 4, 1, 5, 5, 4, 5, 5, 1]"
-Sarah was optimistic that Christopher required something.,3.65,1.2359,20,"[3, 4, 4, 2, 2, 4, 4, 4, 1, 5, 5, 2, 3, 5, 4, 5, 5, 2, 5, 4]"
-Sarah was sure that David bought something.,4.7,0.5568,20,"[4, 5, 3, 5, 5, 4, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4]"
-Sarah was surprised that John cried.,4.6,0.6633,20,"[4, 5, 3, 5, 5, 4, 4, 5, 4, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5]"
-Sarah was worried that Lisa bought something.,4.35,0.9631,20,"[4, 5, 4, 5, 5, 1, 4, 4, 5, 4, 5, 5, 3, 5, 5, 5, 4, 5, 5, 4]"
-Susan was anxious that Sarah waited.,3.8,1.1225,20,"[5, 5, 3, 5, 2, 4, 4, 2, 3, 4, 4, 4, 2, 3, 5, 5, 5, 2, 5, 4]"
-Susan was ashamed that Christopher understood something.,3.25,1.4448,20,"[2, 4, 4, 5, 2, 2, 4, 2, 1, 1, 5, 2, 3, 5, 4, 4, 5, 4, 5, 1]"
-Susan was enraged that Daniel sold something.,4.3,0.9,20,"[3, 4, 3, 5, 5, 3, 4, 5, 5, 5, 5, 5, 5, 2, 4, 5, 4, 5, 5, 4]"
-Susan was proud that Thomas cried.,3.8,1.3266,20,"[3, 3, 3, 5, 4, 4, 3, 5, 1, 4, 3, 2, 5, 5, 5, 5, 5, 5, 5, 1]"
-Susan was sore that Joseph stole something.,3.2,1.249,20,"[4, 4, 3, 1, 2, 3, 4, 4, 5, 4, 2, 4, 4, 3, 2, 4, 5, 1, 4, 1]"
-Thomas was ashamed that Richard wanted something.,3.8,1.2884,20,"[2, 4, 1, 5, 4, 4, 4, 4, 3, 1, 5, 5, 5, 4, 4, 5, 5, 4, 5, 2]"
-Thomas was confident that David preferred something.,3.95,1.0235,20,"[2, 4, 2, 2, 4, 5, 4, 4, 4, 4, 3, 5, 3, 5, 4, 5, 5, 5, 4, 5]"
-Thomas was doubtful that Charles wanted something.,4.15,0.7921,20,"[4, 4, 3, 5, 5, 4, 4, 4, 4, 4, 3, 5, 4, 5, 5, 5, 4, 4, 5, 2]"
-Thomas was ecstatic that Robert waited.,3.9,1.4457,20,"[2, 5, 1, 5, 1, 3, 2, 4, 5, 4, 5, 4, 5, 5, 5, 5, 5, 2, 5, 5]"
-Thomas was enraged that Nancy agreed.,3.8,1.2083,20,"[4, 4, 2, 4, 2, 3, 4, 5, 4, 4, 5, 5, 3, 1, 5, 5, 5, 2, 5, 4]"
-Thomas was excited that James agreed.,4.0,1.2247,20,"[2, 5, 2, 5, 4, 1, 4, 5, 5, 4, 5, 5, 4, 5, 4, 5, 4, 2, 5, 4]"
-Thomas was glad that Richard misunderstood.,3.9,1.3379,20,"[5, 4, 2, 5, 5, 4, 4, 4, 1, 4, 3, 5, 5, 5, 4, 5, 5, 2, 5, 1]"
-Thomas was impressed that William waited.,4.45,0.9206,20,"[4, 5, 2, 5, 2, 5, 4, 5, 5, 5, 5, 4, 5, 5, 5, 5, 4, 4, 5, 5]"
-Thomas was livid that Sarah made something.,4.0,1.1832,20,"[3, 4, 2, 5, 2, 4, 4, 4, 1, 5, 5, 5, 5, 3, 5, 5, 5, 4, 5, 4]"
-Was Barbara angry that Thomas moved?,4.3,0.8426,20,"[5, 5, 4, 5, 4, 3, 4, 5, 5, 3, 5, 4, 4, 5, 4, 5, 5, 2, 5, 4]"
-Was Barbara annoyed that Jennifer misunderstood?,4.0,1.3038,20,"[2, 5, 4, 5, 4, 5, 4, 5, 5, 3, 5, 5, 3, 5, 4, 5, 4, 1, 5, 1]"
-Was Barbara elated that Lisa arrived?,4.05,1.1608,20,"[4, 5, 4, 4, 4, 4, 4, 4, 5, 4, 5, 5, 3, 1, 5, 5, 5, 4, 5, 1]"
-Was Barbara shocked that Elizabeth consented?,4.05,1.0712,20,"[1, 5, 3, 5, 4, 4, 4, 4, 5, 4, 5, 4, 4, 3, 5, 5, 5, 2, 5, 4]"
-Was Charles amused that Barbara smiled?,4.1,0.9434,20,"[4, 4, 2, 5, 2, 3, 4, 5, 4, 5, 5, 4, 4, 3, 5, 5, 5, 4, 5, 4]"
-Was Charles dubious that Joseph waited?,2.8,1.1662,20,"[2, 3, 2, 1, 2, 5, 4, 4, 2, 4, 4, 4, 2, 2, 4, 2, 2, 4, 2, 1]"
-Was Charles flustered that Patricia disagreed?,3.4,1.241,20,"[2, 4, 2, 4, 1, 4, 3, 4, 4, 4, 5, 4, 4, 1, 4, 5, 4, 2, 5, 2]"
-Was Charles indignant that Robert disagreed?,3.5,1.4318,20,"[1, 4, 4, 4, 2, 5, 5, 1, 4, 3, 4, 5, 4, 1, 5, 5, 4, 2, 5, 2]"
-Was Charles optimistic that Elizabeth moved?,3.85,1.1948,20,"[4, 4, 2, 2, 4, 5, 3, 4, 1, 5, 4, 5, 4, 5, 5, 5, 4, 2, 5, 4]"
-Was Christopher dubious that David smiled?,3.0,1.3416,20,"[2, 4, 2, 2, 2, 1, 3, 4, 1, 4, 4, 5, 4, 3, 2, 2, 5, 4, 5, 1]"
-Was Christopher irritated that Robert arrived?,3.75,1.0897,20,"[3, 4, 3, 5, 2, 2, 4, 4, 4, 4, 5, 5, 3, 4, 4, 5, 4, 4, 5, 1]"
-Was Daniel angry that Patricia misunderstood?,4.2,0.9274,20,"[5, 5, 3, 5, 2, 2, 4, 4, 5, 4, 4, 5, 4, 5, 4, 5, 5, 4, 5, 4]"
-Was Daniel relieved that Richard consented?,4.1,1.044,20,"[2, 5, 2, 4, 4, 4, 4, 4, 5, 5, 5, 5, 3, 5, 4, 5, 5, 2, 5, 4]"
-Was Daniel worried that Elizabeth smiled?,3.9,1.2207,20,"[5, 4, 4, 5, 2, 4, 5, 4, 1, 4, 5, 5, 3, 5, 4, 5, 4, 2, 5, 2]"
-Was David anxious that Jessica consented?,3.7,1.2689,20,"[3, 4, 4, 2, 4, 4, 3, 5, 3, 4, 5, 5, 3, 3, 5, 5, 5, 1, 5, 1]"
-Was David bitter that Jessica waited?,3.8,1.2083,20,"[2, 4, 4, 5, 1, 3, 4, 4, 4, 4, 5, 4, 3, 5, 4, 5, 4, 5, 5, 1]"
-Was David grateful that Thomas arrived?,4.45,0.8646,20,"[3, 5, 2, 5, 5, 3, 4, 4, 5, 5, 5, 4, 4, 5, 5, 5, 5, 5, 5, 5]"
-Was David indignant that Daniel arrived?,3.35,1.3519,20,"[4, 4, 2, 2, 4, 4, 3, 4, 1, 4, 5, 4, 3, 1, 4, 5, 5, 1, 5, 2]"
-Was David jubilant that Sarah moved?,3.7,1.1874,20,"[4, 2, 3, 1, 4, 5, 5, 2, 5, 4, 4, 5, 3, 4, 5, 3, 4, 5, 2, 4]"
-Was Elizabeth ashamed that Sarah laughed?,3.95,1.0712,20,"[2, 4, 3, 5, 1, 4, 4, 4, 5, 3, 4, 5, 3, 5, 5, 5, 4, 4, 5, 4]"
-Was Elizabeth certain that John misunderstood?,4.2632,1.0178,19,"[3, 5, 2, 5, 5, 3, 4, 5, 5, 4, 5, 5, 5, 5, 4, 5, 4, 2, 5]"
-Was Elizabeth hopeful that Barbara misunderstood?,2.95,1.3592,20,"[3, 3, 2, 5, 4, 2, 3, 2, 1, 1, 1, 2, 3, 2, 4, 5, 5, 2, 5, 4]"
-Was Elizabeth jealous that Barbara disagreed?,3.4,1.3928,20,"[3, 4, 1, 5, 1, 3, 5, 4, 1, 3, 3, 5, 3, 4, 5, 5, 4, 2, 5, 2]"
-Was Elizabeth relieved that Susan cried?,3.55,1.3592,20,"[4, 4, 2, 5, 4, 1, 4, 4, 2, 1, 2, 5, 5, 3, 4, 5, 2, 5, 5, 4]"
-Was Elizabeth sorry that Mary cried?,4.25,1.0428,20,"[3, 5, 3, 5, 4, 4, 3, 4, 5, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 1]"
-Was Elizabeth surprised that Michael agreed?,4.4,0.8,20,"[4, 5, 2, 5, 5, 3, 4, 5, 5, 4, 5, 4, 5, 5, 5, 5, 4, 4, 5, 4]"
-Was James annoyed that Charles arrived?,3.85,1.3519,20,"[4, 5, 2, 5, 2, 2, 4, 5, 5, 3, 5, 5, 3, 2, 5, 5, 4, 5, 5, 1]"
-Was James concerned that David disagreed?,3.85,1.3143,20,"[3, 5, 3, 4, 1, 5, 4, 5, 5, 4, 5, 5, 3, 3, 5, 5, 4, 2, 5, 1]"
-Was James enraged that Sarah misunderstood?,3.75,1.299,20,"[4, 5, 3, 4, 4, 1, 4, 5, 4, 2, 5, 5, 3, 4, 4, 5, 5, 2, 5, 1]"
-Was James impressed that Elizabeth misunderstood?,3.5,1.5,20,"[3, 4, 5, 5, 4, 4, 3, 1, 1, 1, 5, 4, 4, 3, 5, 5, 5, 2, 5, 1]"
-Was James worried that Thomas understood?,3.25,1.3739,20,"[1, 4, 3, 5, 1, 3, 3, 4, 1, 3, 4, 4, 5, 3, 4, 5, 4, 1, 5, 2]"
-Was Jennifer glad that William agreed?,4.0,1.2649,20,"[2, 5, 3, 5, 5, 2, 4, 4, 5, 4, 5, 4, 5, 5, 5, 5, 4, 2, 5, 1]"
-Was Jennifer hopeful that James cried?,3.5,1.3229,20,"[4, 4, 3, 5, 4, 4, 4, 4, 1, 1, 2, 2, 2, 5, 5, 5, 4, 4, 5, 2]"
-Was Jennifer mad that James waited?,3.9,1.2207,20,"[3, 5, 1, 5, 4, 4, 4, 4, 4, 4, 5, 5, 4, 1, 5, 5, 4, 2, 5, 4]"
-Was Jennifer positive that William arrived?,4.15,1.0618,20,"[4, 4, 3, 5, 4, 1, 4, 4, 5, 4, 5, 5, 4, 5, 5, 5, 5, 2, 5, 4]"
-Was Jennifer sorry that Nancy concurred?,3.4,1.2806,20,"[2, 4, 3, 2, 2, 4, 4, 5, 1, 5, 5, 4, 3, 1, 4, 4, 4, 4, 5, 2]"
-Was Jessica elated that Charles waited?,3.55,1.3592,20,"[4, 5, 1, 2, 2, 2, 4, 4, 5, 4, 5, 5, 3, 1, 4, 5, 4, 2, 5, 4]"
-Was Jessica flabbergasted that Daniel misunderstood?,3.55,1.4654,20,"[1, 3, 2, 4, 1, 4, 4, 4, 4, 4, 5, 5, 4, 1, 5, 5, 5, 4, 5, 1]"
-Was Jessica livid that James disagreed?,3.65,1.3143,20,"[1, 5, 4, 2, 4, 4, 4, 4, 5, 4, 5, 5, 3, 1, 4, 5, 4, 2, 5, 2]"
-Was John amused that Christopher agreed?,3.5,1.533,20,"[4, 5, 2, 5, 1, 4, 4, 1, 1, 1, 4, 4, 4, 3, 5, 5, 5, 2, 5, 5]"
-Was John doubtful that Linda cried?,3.5263,1.0447,19,"[2, 5, 4, 4, 4, 3, 4, 4, 1, 3, 3, 4, 3, 3, 5, 4, 5, 4, 2]"
-Was John ecstatic that Jennifer misunderstood?,3.25,1.299,20,"[3, 5, 2, 2, 2, 4, 3, 4, 1, 4, 5, 2, 4, 3, 4, 4, 5, 2, 5, 1]"
-Was John happy that James concurred?,4.0,1.1402,20,"[1, 4, 4, 4, 2, 2, 4, 4, 5, 4, 5, 5, 5, 3, 5, 5, 5, 4, 5, 4]"
-Was John jubilant that Joseph consented?,3.3,1.4526,20,"[1, 4, 3, 2, 4, 2, 4, 2, 5, 4, 5, 5, 3, 1, 5, 3, 5, 1, 2, 5]"
-Was John sure that Jennifer cried?,4.35,0.8529,20,"[5, 5, 2, 5, 5, 4, 4, 4, 5, 3, 4, 5, 3, 4, 5, 5, 5, 5, 5, 4]"
-Was Joseph certain that Jessica disagreed?,4.2,0.9274,20,"[4, 5, 3, 5, 5, 5, 3, 5, 5, 4, 5, 4, 3, 3, 4, 5, 4, 2, 5, 5]"
-Was Joseph content that Michael concurred?,3.6,1.3565,20,"[2, 5, 2, 1, 2, 3, 3, 4, 4, 4, 5, 5, 3, 1, 5, 5, 4, 5, 5, 4]"
-Was Joseph impressed that Daniel arrived?,3.65,1.3519,20,"[4, 4, 3, 5, 2, 3, 4, 5, 5, 4, 5, 5, 2, 1, 4, 5, 4, 2, 5, 1]"
-Was Joseph positive that Linda waited?,3.6,1.2,20,"[2, 3, 2, 5, 5, 2, 4, 4, 4, 4, 5, 4, 3, 1, 4, 5, 4, 2, 5, 4]"
-Was Joseph sad that Susan consented?,3.6,1.4283,20,"[4, 4, 2, 5, 1, 4, 4, 4, 5, 1, 5, 3, 4, 3, 5, 5, 5, 2, 5, 1]"
-Was Karen anxious that Robert understood?,3.25,1.337,20,"[2, 4, 4, 4, 1, 4, 4, 4, 1, 4, 4, 1, 4, 3, 4, 5, 4, 1, 5, 2]"
-Was Karen content that Susan misunderstood?,3.45,1.4309,20,"[4, 3, 3, 1, 2, 4, 4, 4, 1, 4, 5, 5, 4, 4, 5, 5, 4, 1, 5, 1]"
-Was Karen irate that Jessica arrived?,3.95,1.244,20,"[5, 4, 2, 5, 4, 5, 5, 4, 4, 5, 5, 4, 3, 1, 5, 5, 4, 2, 5, 2]"
-Was Karen proud that Nancy smiled?,3.8,1.077,20,"[1, 5, 3, 4, 4, 4, 4, 4, 5, 4, 5, 3, 3, 3, 5, 5, 3, 2, 5, 4]"
-Was Linda aware that Jessica understood?,4.55,0.7399,20,"[4, 5, 4, 5, 4, 5, 5, 5, 5, 4, 4, 4, 5, 5, 5, 5, 5, 2, 5, 5]"
-Was Linda concerned that Jessica laughed?,3.65,1.3883,20,"[2, 5, 2, 5, 2, 5, 4, 4, 4, 3, 5, 4, 3, 3, 5, 5, 5, 1, 5, 1]"
-Was Linda sure that Jessica misunderstood?,3.95,1.244,20,"[3, 5, 3, 5, 5, 4, 4, 4, 5, 1, 5, 4, 3, 3, 5, 5, 5, 1, 5, 4]"
-Was Linda surprised that Karen arrived?,4.35,0.8529,20,"[5, 5, 3, 5, 4, 4, 5, 5, 5, 5, 5, 5, 3, 2, 4, 5, 4, 4, 5, 4]"
-Was Lisa sad that Patricia laughed?,4.1579,0.8744,19,"[5, 5, 3, 5, 4, 5, 4, 4, 5, 3, 4, 5, 3, 4, 4, 5, 4, 2, 5]"
-Was Lisa satisfied that Michael understood?,4.2,0.9798,20,"[5, 5, 4, 4, 5, 3, 4, 4, 5, 4, 5, 5, 3, 2, 5, 5, 5, 4, 5, 2]"
-Was Mary fearful that Daniel consented?,3.3,1.382,20,"[3, 5, 2, 2, 2, 3, 3, 4, 2, 1, 5, 5, 3, 1, 5, 5, 4, 2, 5, 4]"
-Was Mary happy that Daniel understood?,4.3,0.9539,20,"[5, 5, 2, 5, 4, 4, 4, 5, 5, 4, 5, 5, 3, 5, 4, 5, 5, 2, 5, 4]"
-Was Mary irritated that Karen smiled?,4.15,1.0618,20,"[4, 4, 2, 5, 1, 5, 4, 5, 4, 3, 4, 4, 5, 5, 5, 5, 5, 4, 5, 4]"
-Was Mary sore that Christopher moved?,2.9,1.2207,20,"[2, 3, 3, 1, 2, 4, 4, 2, 5, 3, 4, 2, 3, 1, 2, 5, 5, 2, 3, 2]"
-Was Michael excited that Daniel arrived?,4.0,1.3416,20,"[4, 5, 3, 5, 5, 1, 3, 5, 5, 4, 5, 5, 3, 1, 5, 5, 4, 2, 5, 5]"
-Was Michael livid that Lisa cried?,4.0,1.0488,20,"[4, 5, 2, 4, 5, 2, 4, 4, 3, 5, 5, 5, 3, 2, 4, 5, 4, 5, 5, 4]"
-Was Nancy ashamed that Joseph smiled?,3.65,1.1948,20,"[4, 4, 3, 5, 2, 4, 4, 4, 4, 4, 5, 4, 2, 1, 2, 5, 5, 2, 5, 4]"
-Was Nancy confident that Christopher moved?,4.15,1.0618,20,"[2, 2, 4, 5, 5, 3, 5, 4, 4, 5, 5, 5, 4, 4, 5, 5, 5, 4, 5, 2]"
-Was Nancy disappointed that Christopher cried?,3.95,1.2031,20,"[4, 5, 2, 5, 4, 2, 3, 5, 5, 4, 4, 5, 3, 3, 4, 5, 5, 5, 5, 1]"
-Was Patricia furious that Christopher agreed?,3.65,1.2359,20,"[2, 5, 2, 4, 4, 4, 3, 4, 4, 2, 4, 5, 3, 4, 5, 5, 5, 2, 5, 1]"
-Was Patricia jealous that Michael arrived?,3.5789,1.3885,19,"[4, 3, 3, 5, 2, 5, 4, 1, 2, 5, 4, 3, 5, 4, 5, 5, 2, 5, 1]"
-Was Richard bitter that Charles smiled?,3.7,1.382,20,"[2, 4, 3, 4, 4, 5, 3, 5, 1, 1, 5, 4, 4, 4, 5, 5, 4, 5, 5, 1]"
-Was Richard confident that Daniel cried?,3.8,1.3266,20,"[2, 4, 5, 5, 4, 1, 3, 2, 3, 5, 4, 4, 4, 1, 4, 5, 5, 5, 5, 5]"
-Was Richard convinced that Lisa arrived?,3.75,1.299,20,"[1, 5, 3, 5, 4, 2, 3, 4, 4, 4, 5, 5, 5, 2, 5, 5, 4, 2, 5, 2]"
-Was Richard disappointed that John consented?,3.75,1.4098,20,"[1, 4, 2, 5, 4, 4, 3, 5, 5, 2, 5, 5, 3, 5, 4, 5, 5, 2, 5, 1]"
-Was Richard distraught that Daniel concurred?,3.0,1.3416,20,"[2, 3, 2, 4, 2, 1, 4, 2, 1, 4, 2, 1, 2, 3, 5, 5, 4, 4, 5, 4]"
-Was Richard shocked that Linda concurred?,3.9,1.179,20,"[2, 5, 3, 4, 2, 1, 4, 4, 5, 4, 4, 4, 3, 3, 5, 5, 5, 5, 5, 5]"
-Was Robert aware that William smiled?,4.5,0.922,20,"[1, 5, 4, 5, 5, 5, 4, 5, 5, 4, 5, 4, 4, 5, 4, 5, 5, 5, 5, 5]"
-Was Robert doubtful that Nancy disagreed?,3.9,0.995,20,"[2, 4, 3, 4, 4, 3, 4, 5, 4, 4, 4, 2, 5, 4, 4, 5, 5, 2, 5, 5]"
-Was Robert optimistic that Richard laughed?,3.85,1.1948,20,"[3, 5, 2, 4, 2, 4, 4, 4, 1, 4, 5, 2, 4, 5, 4, 5, 5, 5, 5, 4]"
-Was Robert sore that Patricia understood?,3.0,1.3784,20,"[2, 2, 4, 1, 1, 3, 3, 5, 1, 5, 4, 4, 3, 2, 5, 4, 4, 2, 4, 1]"
-Was Sarah flabbergasted that Susan smiled?,3.3,1.5199,20,"[2, 3, 2, 2, 1, 5, 3, 4, 1, 4, 5, 4, 4, 1, 4, 5, 5, 5, 5, 1]"
-Was Sarah mad that John cried?,4.2,1.2884,20,"[4, 5, 4, 5, 5, 2, 5, 4, 5, 4, 5, 5, 5, 1, 4, 5, 5, 5, 5, 1]"
-Was Susan grateful that Michael concurred?,4.2,0.9274,20,"[2, 4, 3, 4, 4, 4, 4, 5, 5, 3, 5, 5, 3, 3, 5, 5, 5, 5, 5, 5]"
-Was Susan irate that Lisa concurred?,3.15,1.4925,20,"[1, 3, 2, 1, 1, 3, 3, 5, 1, 4, 5, 4, 3, 3, 1, 5, 4, 5, 5, 4]"
-Was Thomas convinced that Karen understood?,4.05,1.1608,20,"[2, 5, 2, 5, 5, 4, 4, 4, 5, 4, 5, 4, 3, 5, 5, 5, 5, 2, 5, 2]"
-Was Thomas ecstatic that Robert waited?,4.05,0.9206,20,"[3, 5, 2, 5, 4, 2, 4, 4, 5, 4, 5, 4, 3, 4, 5, 5, 4, 4, 5, 4]"
-Was Thomas enraged that Nancy agreed?,3.85,1.3143,20,"[2, 5, 1, 4, 4, 4, 4, 4, 3, 4, 5, 5, 2, 4, 5, 5, 5, 1, 5, 5]"
-Was Thomas excited that James agreed?,4.45,0.9734,20,"[3, 5, 4, 5, 5, 4, 5, 4, 5, 5, 1, 5, 5, 5, 4, 5, 5, 4, 5, 5]"
-Was Thomas fearful that Joseph moved?,3.65,1.0137,20,"[3, 4, 3, 5, 4, 4, 3, 4, 4, 4, 3, 5, 3, 3, 4, 5, 4, 2, 5, 1]"
-Was Thomas flustered that James moved?,3.6,1.6248,20,"[1, 5, 1, 5, 1, 4, 4, 4, 3, 5, 5, 5, 3, 1, 5, 5, 5, 4, 5, 1]"
-Was Thomas glad that Richard misunderstood?,3.55,1.4654,20,"[2, 4, 2, 5, 5, 4, 3, 5, 1, 4, 4, 2, 5, 2, 5, 5, 5, 2, 5, 1]"
-Was William distraught that Mary smiled?,3.65,1.3883,20,"[4, 5, 3, 5, 1, 4, 3, 4, 1, 4, 5, 5, 3, 2, 5, 5, 4, 4, 5, 1]"
-Was William furious that David disagreed?,3.9,1.0909,20,"[3, 5, 4, 5, 2, 2, 4, 5, 5, 3, 4, 5, 3, 3, 4, 5, 5, 2, 5, 4]"
-Was William proud that Sarah laughed?,3.5,1.4318,20,"[1, 5, 2, 5, 4, 1, 3, 2, 1, 3, 4, 5, 3, 3, 4, 5, 5, 5, 5, 4]"
-Was William satisfied that James cried?,3.7,1.2288,20,"[4, 3, 4, 5, 4, 5, 2, 3, 1, 2, 3, 5, 2, 3, 5, 5, 4, 5, 5, 4]"
-What was Barbara angry that Thomas bought?,3.2,1.249,20,"[2, 2, 2, 2, 1, 4, 3, 2, 5, 4, 2, 2, 3, 4, 4, 5, 3, 5, 5, 4]"
-What was Barbara aware that Susan stole?,3.6,1.241,20,"[4, 2, 3, 4, 5, 3, 4, 4, 4, 4, 2, 4, 3, 1, 4, 5, 1, 5, 5, 5]"
-What was Barbara flabbergasted that Lisa wanted?,3.1,1.4457,20,"[2, 2, 2, 1, 1, 3, 4, 2, 5, 4, 1, 2, 3, 2, 5, 5, 5, 4, 5, 4]"
-What was Charles anxious that Lisa sold?,3.0526,1.3562,19,"[2, 2, 4, 5, 1, 4, 3, 2, 4, 4, 2, 4, 3, 1, 5, 5, 4, 2, 1]"
-What was Charles jealous that Jennifer took?,3.0526,1.4317,19,"[2, 2, 5, 1, 5, 4, 2, 1, 3, 2, 4, 2, 3, 5, 5, 3, 3, 5, 1]"
-What was Charles livid that Nancy took?,3.2632,1.4812,19,"[1, 2, 3, 4, 4, 4, 1, 1, 5, 3, 2, 5, 3, 1, 5, 5, 4, 5, 4]"
-What was Charles sore that William understood?,2.85,1.4586,20,"[2, 2, 3, 2, 4, 4, 4, 1, 1, 4, 5, 5, 1, 1, 4, 5, 2, 2, 4, 1]"
-What was Christopher certain that James stole?,3.65,1.558,20,"[1, 2, 4, 5, 4, 2, 3, 1, 5, 2, 5, 5, 3, 1, 5, 5, 5, 5, 5, 5]"
-What was Christopher irritated that Robert required?,3.3,1.5524,20,"[2, 2, 4, 5, 1, 5, 4, 4, 5, 5, 2, 4, 2, 1, 2, 5, 5, 2, 5, 1]"
-What was David bitter that Jessica stole?,3.15,1.621,20,"[3, 2, 3, 5, 1, 2, 4, 1, 1, 4, 1, 5, 5, 3, 5, 5, 5, 2, 5, 1]"
-What was David content that Richard understood?,3.15,1.2757,20,"[3, 2, 3, 1, 1, 4, 3, 1, 4, 3, 4, 4, 3, 2, 2, 5, 4, 4, 5, 5]"
-What was David fearful that Christopher desired?,3.2,1.4353,20,"[2, 2, 3, 4, 1, 2, 4, 2, 1, 4, 2, 5, 3, 1, 5, 5, 4, 5, 5, 4]"
-What was David flustered that Lisa needed?,2.6,1.4629,20,"[1, 2, 2, 4, 1, 2, 3, 1, 4, 2, 1, 4, 2, 1, 4, 5, 5, 2, 5, 1]"
-What was David proud that Patricia required?,2.75,1.299,20,"[2, 2, 3, 2, 1, 4, 3, 1, 1, 3, 2, 2, 2, 2, 5, 5, 2, 4, 5, 4]"
-What was Elizabeth bitter that Patricia wanted?,2.7895,1.5071,19,"[2, 2, 2, 1, 5, 5, 1, 3, 2, 1, 2, 3, 1, 4, 5, 2, 5, 5, 2]"
-What was Elizabeth glad that Michael required?,2.75,1.5124,20,"[3, 2, 2, 5, 1, 3, 2, 1, 1, 4, 1, 4, 3, 1, 5, 5, 4, 2, 5, 1]"
-What was Elizabeth sorry that Mary made?,3.05,1.5961,20,"[1, 2, 3, 2, 1, 4, 4, 1, 1, 5, 1, 4, 3, 1, 5, 5, 5, 4, 5, 4]"
-What was Elizabeth surprised that Michael took?,3.3,1.382,20,"[3, 2, 3, 2, 1, 5, 3, 2, 3, 4, 2, 5, 2, 1, 5, 5, 4, 4, 5, 5]"
-What was James concerned that David sold?,2.85,1.6515,20,"[1, 2, 2, 5, 1, 2, 2, 1, 5, 1, 2, 5, 3, 1, 4, 5, 4, 1, 5, 5]"
-What was James elated that Nancy took?,2.9,1.4457,20,"[2, 2, 3, 2, 1, 1, 4, 1, 1, 4, 2, 5, 2, 3, 4, 5, 2, 5, 5, 4]"
-What was James enraged that Sarah broke?,3.0526,1.5719,19,"[2, 2, 3, 5, 1, 2, 1, 1, 5, 2, 2, 5, 3, 1, 5, 5, 4, 5, 4]"
-What was James irate that Jennifer wanted?,2.6,1.3191,20,"[1, 2, 3, 2, 1, 2, 4, 1, 4, 3, 2, 2, 3, 1, 2, 5, 4, 4, 5, 1]"
-What was James jubilant that Thomas made?,2.85,1.4239,20,"[1, 2, 2, 4, 1, 3, 4, 1, 4, 4, 1, 5, 3, 2, 5, 3, 4, 5, 2, 1]"
-What was James positive that Karen broke?,3.55,1.4654,20,"[1, 2, 4, 5, 4, 5, 4, 1, 5, 4, 1, 5, 3, 2, 4, 5, 2, 5, 5, 4]"
-What was James relieved that Thomas sold?,3.1,1.578,20,"[2, 2, 4, 2, 1, 1, 5, 1, 5, 4, 2, 4, 2, 1, 5, 5, 2, 5, 5, 4]"
-What was James shocked that Patricia made?,3.35,1.4586,20,"[1, 2, 2, 5, 1, 4, 4, 1, 5, 4, 1, 4, 3, 3, 4, 5, 4, 5, 5, 4]"
-What was James worried that Thomas broke?,3.55,1.3955,20,"[2, 2, 3, 5, 1, 4, 4, 2, 5, 4, 2, 5, 3, 1, 5, 5, 4, 5, 5, 4]"
-What was Jennifer indignant that Karen desired?,2.85,1.3883,20,"[3, 2, 3, 1, 1, 4, 3, 1, 1, 4, 1, 4, 3, 2, 5, 5, 3, 4, 5, 2]"
-What was Jennifer satisfied that Mary needed?,2.8421,1.5648,19,"[3, 2, 2, 2, 1, 2, 3, 1, 1, 5, 2, 5, 1, 4, 5, 5, 1, 5, 4]"
-What was Jessica convinced that Barbara preferred?,3.5263,1.3905,19,"[4, 2, 3, 4, 2, 2, 4, 2, 5, 2, 5, 2, 1, 5, 5, 4, 5, 5, 5]"
-What was Jessica dubious that Barbara sold?,2.05,1.1169,20,"[2, 2, 2, 1, 1, 1, 2, 1, 2, 4, 2, 2, 3, 1, 1, 2, 4, 5, 2, 1]"
-What was John amused that Christopher took?,3.15,1.5256,20,"[2, 2, 3, 5, 1, 3, 3, 1, 1, 4, 4, 5, 1, 2, 5, 5, 5, 2, 5, 4]"
-What was John grateful that James wanted?,3.0,1.5166,20,"[1, 2, 1, 2, 1, 2, 4, 4, 2, 5, 2, 2, 3, 4, 5, 5, 4, 5, 5, 1]"
-What was John sad that Michael required?,2.5,1.2042,20,"[3, 2, 2, 2, 1, 3, 1, 1, 3, 4, 1, 2, 3, 2, 2, 5, 2, 4, 5, 2]"
-What was Joseph flustered that John desired?,3.0,1.4142,20,"[3, 2, 3, 4, 1, 2, 4, 1, 3, 5, 1, 2, 3, 4, 5, 4, 5, 1, 5, 2]"
-What was Karen aware that Thomas needed?,3.25,1.26,20,"[1, 3, 2, 4, 1, 2, 4, 2, 5, 4, 2, 4, 3, 2, 4, 5, 4, 4, 5, 4]"
-What was Karen content that Susan required?,2.65,1.3143,20,"[3, 2, 3, 1, 2, 3, 3, 1, 4, 4, 1, 4, 2, 1, 1, 5, 2, 4, 5, 2]"
-What was Karen ecstatic that Patricia understood?,3.25,1.337,20,"[3, 2, 4, 4, 4, 2, 4, 1, 5, 4, 2, 2, 2, 1, 4, 5, 2, 5, 5, 4]"
-What was Karen furious that Barbara desired?,2.9444,1.5082,18,"[3, 5, 1, 4, 2, 1, 4, 5, 2, 2, 2, 1, 4, 5, 4, 2, 5, 1]"
-What was Karen irate that Jessica preferred?,2.75,1.4448,20,"[2, 2, 3, 4, 1, 1, 2, 1, 4, 2, 2, 5, 2, 2, 5, 5, 4, 2, 5, 1]"
-What was Karen livid that Richard preferred?,2.9,1.546,20,"[2, 2, 1, 2, 1, 2, 3, 1, 5, 4, 2, 4, 3, 1, 5, 5, 5, 4, 5, 1]"
-What was Karen mad that Joseph preferred?,2.95,1.4654,20,"[2, 2, 4, 2, 1, 2, 4, 1, 5, 4, 1, 4, 3, 1, 5, 5, 2, 2, 5, 4]"
-What was Linda annoyed that Daniel made?,2.85,1.4586,20,"[2, 2, 3, 4, 1, 5, 3, 2, 1, 2, 1, 5, 3, 3, 5, 4, 4, 1, 5, 1]"
-What was Linda anxious that Mary broke?,3.1053,1.4831,19,"[2, 2, 5, 2, 4, 4, 1, 5, 4, 2, 4, 3, 1, 4, 5, 4, 1, 5, 1]"
-What was Linda ashamed that Patricia took?,3.05,1.4992,20,"[1, 3, 3, 5, 1, 3, 2, 4, 3, 4, 1, 4, 3, 1, 5, 5, 2, 5, 5, 1]"
-What was Linda distraught that Elizabeth desired?,2.7,1.4526,20,"[4, 2, 2, 2, 1, 4, 4, 1, 3, 3, 1, 2, 3, 1, 5, 5, 4, 1, 5, 1]"
-What was Linda happy that Robert made?,3.15,1.4239,20,"[2, 2, 3, 5, 1, 3, 3, 1, 5, 3, 1, 4, 3, 1, 4, 5, 3, 5, 5, 4]"
-What was Lisa amused that Mary bought?,3.3,1.4866,20,"[4, 2, 2, 5, 1, 3, 4, 2, 4, 4, 1, 5, 1, 1, 4, 5, 5, 4, 5, 4]"
-What was Lisa concerned that Nancy made?,2.75,1.479,20,"[1, 2, 3, 4, 1, 1, 3, 2, 2, 4, 1, 4, 2, 2, 5, 5, 5, 2, 5, 1]"
-What was Mary furious that Sarah stole?,3.6,1.4283,20,"[4, 2, 2, 4, 2, 2, 4, 1, 5, 3, 5, 5, 3, 1, 4, 5, 5, 5, 5, 5]"
-What was Mary irritated that Karen desired?,3.15,1.4925,20,"[4, 2, 3, 4, 1, 4, 1, 1, 4, 4, 1, 4, 3, 1, 5, 5, 5, 4, 5, 2]"
-What was Mary mad that Barbara desired?,2.85,1.4239,20,"[1, 2, 3, 2, 1, 3, 3, 1, 4, 3, 2, 4, 3, 3, 5, 5, 5, 1, 5, 1]"
-What was Mary sore that Christopher took?,2.75,1.1779,20,"[2, 2, 3, 2, 1, 3, 4, 1, 5, 4, 2, 2, 2, 3, 4, 4, 4, 2, 4, 1]"
-What was Michael elated that William broke?,2.7,1.5524,20,"[1, 2, 4, 2, 1, 4, 2, 1, 1, 2, 2, 2, 1, 1, 4, 5, 4, 5, 5, 5]"
-What was Michael excited that Daniel bought?,3.15,1.3883,20,"[2, 2, 2, 4, 1, 2, 4, 1, 5, 4, 2, 4, 3, 1, 4, 5, 3, 5, 5, 4]"
-What was Michael hopeful that Jessica preferred?,3.1,1.3379,20,"[2, 2, 2, 2, 1, 4, 4, 1, 5, 4, 2, 4, 3, 2, 5, 5, 3, 2, 5, 4]"
-What was Michael optimistic that Lisa needed?,3.2,1.4,20,"[2, 2, 3, 4, 2, 2, 4, 1, 2, 5, 2, 5, 2, 1, 4, 5, 4, 5, 5, 4]"
-What was Nancy glad that Sarah made?,3.5,1.2845,20,"[4, 2, 2, 5, 4, 4, 3, 2, 5, 2, 1, 4, 3, 3, 4, 5, 2, 5, 5, 5]"
-What was Nancy impressed that Jennifer required?,3.0,1.4832,20,"[2, 2, 3, 4, 1, 2, 4, 1, 3, 4, 1, 4, 3, 1, 4, 5, 5, 5, 5, 1]"
-What was Nancy positive that Barbara made?,3.0,1.556,19,"[2, 2, 3, 2, 1, 4, 3, 1, 5, 4, 1, 5, 3, 1, 5, 1, 4, 5, 5]"
-What was Nancy sad that William needed?,2.5,1.3964,20,"[1, 2, 3, 1, 1, 2, 1, 1, 3, 4, 2, 4, 3, 1, 4, 5, 2, 1, 5, 4]"
-What was Patricia happy that Barbara required?,2.85,1.4925,20,"[2, 2, 3, 2, 1, 5, 4, 1, 1, 2, 1, 1, 3, 2, 5, 5, 4, 4, 5, 4]"
-What was Patricia impressed that David preferred?,3.05,1.3219,20,"[3, 2, 2, 1, 1, 4, 4, 1, 4, 4, 1, 4, 3, 2, 4, 4, 3, 5, 5, 4]"
-What was Patricia relieved that Charles understood?,3.55,1.4654,20,"[3, 2, 3, 4, 1, 3, 5, 1, 5, 4, 2, 5, 3, 1, 5, 5, 5, 5, 5, 4]"
-What was Patricia sorry that Daniel sold?,3.15,1.3519,20,"[1, 2, 2, 4, 1, 3, 4, 2, 4, 4, 2, 4, 2, 1, 4, 5, 4, 5, 5, 4]"
-What was Richard certain that Nancy desired?,3.35,1.3883,20,"[1, 2, 4, 4, 1, 4, 4, 2, 5, 4, 2, 4, 2, 1, 4, 5, 4, 5, 5, 4]"
-What was Richard confident that Daniel understood?,3.4,1.3565,20,"[4, 2, 3, 4, 1, 5, 3, 1, 5, 4, 2, 4, 3, 1, 4, 5, 3, 5, 5, 4]"
-What was Richard distraught that Daniel broke?,3.2,1.3266,20,"[2, 2, 3, 4, 1, 3, 3, 1, 5, 1, 2, 4, 3, 3, 4, 5, 4, 5, 5, 4]"
-What was Richard excited that Barbara needed?,2.8947,1.5524,19,"[3, 3, 4, 1, 1, 3, 1, 1, 4, 2, 5, 2, 1, 4, 5, 1, 5, 5, 4]"
-What was Richard hopeful that Lisa understood?,3.5,1.4318,20,"[2, 2, 2, 4, 5, 2, 1, 2, 5, 4, 5, 5, 3, 1, 4, 5, 5, 4, 5, 4]"
-What was Robert annoyed that Elizabeth needed?,3.1,1.4107,20,"[1, 2, 3, 5, 1, 3, 4, 2, 5, 3, 1, 4, 3, 1, 4, 5, 2, 4, 5, 4]"
-What was Robert confident that Mary required?,3.3,1.4177,20,"[1, 2, 2, 4, 1, 4, 4, 1, 4, 3, 2, 5, 3, 2, 5, 5, 5, 4, 5, 4]"
-What was Robert disappointed that Elizabeth understood?,2.65,1.3883,20,"[1, 2, 3, 2, 2, 3, 2, 1, 1, 4, 2, 5, 3, 1, 5, 4, 2, 4, 5, 1]"
-What was Robert enraged that Barbara bought?,3.65,1.2359,20,"[4, 2, 4, 5, 1, 4, 3, 2, 5, 4, 2, 5, 3, 2, 5, 5, 4, 4, 5, 4]"
-What was Robert grateful that Charles required?,2.7,1.3077,20,"[2, 2, 2, 2, 1, 4, 3, 1, 2, 2, 2, 2, 3, 1, 4, 5, 5, 2, 5, 4]"
-What was Robert jealous that David required?,2.1,1.2207,20,"[2, 2, 2, 2, 1, 2, 3, 1, 1, 2, 1, 2, 1, 2, 2, 5, 1, 4, 5, 1]"
-What was Robert jubilant that Jessica sold?,2.85,1.2757,20,"[2, 2, 3, 2, 1, 2, 3, 2, 4, 4, 2, 5, 1, 1, 5, 4, 4, 4, 2, 4]"
-What was Robert optimistic that Richard made?,3.1,1.3379,20,"[1, 2, 3, 4, 2, 2, 3, 1, 3, 3, 2, 4, 3, 1, 5, 5, 4, 4, 5, 5]"
-What was Robert proud that Christopher took?,2.9,1.5133,20,"[1, 2, 3, 5, 1, 3, 1, 2, 1, 3, 2, 4, 3, 1, 5, 5, 4, 2, 5, 5]"
-What was Robert surprised that Lisa understood?,3.45,1.5644,20,"[4, 2, 3, 5, 5, 2, 1, 1, 5, 3, 1, 5, 3, 1, 5, 5, 5, 4, 5, 4]"
-What was Sarah flabbergasted that Susan sold?,3.5789,1.4979,19,"[2, 2, 2, 5, 1, 4, 4, 1, 4, 4, 5, 5, 1, 5, 5, 5, 4, 5, 4]"
-What was Sarah indignant that Susan sold?,2.8,1.3266,20,"[4, 2, 2, 2, 1, 2, 3, 2, 1, 4, 4, 4, 3, 2, 5, 5, 2, 2, 5, 1]"
-What was Sarah satisfied that Elizabeth broke?,2.9,1.4457,20,"[3, 2, 2, 1, 2, 4, 4, 1, 1, 4, 2, 5, 3, 1, 4, 5, 2, 5, 5, 2]"
-What was Sarah sure that David bought?,3.4,1.4629,20,"[2, 2, 2, 4, 4, 4, 3, 1, 5, 5, 2, 5, 2, 1, 4, 5, 2, 5, 5, 5]"
-What was Susan angry that Sarah preferred?,2.9,1.578,20,"[3, 2, 3, 1, 1, 2, 4, 1, 1, 4, 1, 5, 3, 1, 5, 5, 5, 2, 5, 4]"
-What was Susan sure that Daniel required?,3.4,1.2,20,"[1, 2, 3, 4, 1, 4, 4, 4, 5, 4, 2, 4, 3, 3, 4, 4, 5, 2, 5, 4]"
-What was Susan worried that David required?,2.9,1.4107,20,"[2, 2, 3, 5, 1, 4, 3, 1, 3, 4, 2, 5, 3, 1, 2, 5, 4, 2, 5, 1]"
-What was Thomas ashamed that Richard wanted?,3.2,1.5684,20,"[4, 2, 3, 5, 2, 3, 4, 1, 1, 2, 2, 5, 3, 1, 5, 5, 5, 5, 5, 1]"
-What was Thomas convinced that Karen needed?,3.5,1.4318,20,"[2, 2, 3, 5, 4, 2, 4, 1, 5, 3, 2, 5, 3, 1, 5, 5, 3, 5, 5, 5]"
-What was Thomas disappointed that Linda needed?,3.15,1.5898,20,"[2, 3, 3, 5, 1, 5, 4, 1, 4, 4, 1, 2, 2, 1, 5, 4, 5, 5, 5, 1]"
-What was Thomas doubtful that Charles wanted?,3.0,1.4832,20,"[2, 2, 4, 5, 1, 3, 1, 1, 3, 4, 4, 4, 3, 1, 4, 5, 1, 2, 5, 5]"
-What was Thomas ecstatic that Robert took?,3.1053,1.4831,19,"[4, 2, 4, 2, 1, 1, 4, 1, 1, 5, 2, 2, 3, 4, 5, 4, 5, 5, 4]"
-What was Thomas fearful that Joseph preferred?,2.9,1.4457,20,"[2, 2, 3, 1, 2, 2, 4, 1, 5, 5, 2, 4, 3, 1, 2, 5, 4, 4, 5, 1]"
-What was William doubtful that Richard desired?,2.75,1.26,20,"[3, 2, 2, 2, 2, 4, 4, 1, 1, 2, 2, 4, 3, 1, 5, 4, 5, 4, 2, 2]"
-What was William dubious that Mary broke?,2.3,1.2288,20,"[2, 2, 4, 1, 2, 4, 1, 4, 1, 2, 2, 5, 3, 1, 1, 2, 2, 4, 2, 1]"
-What was William shocked that Mary took?,3.05,1.4654,20,"[2, 2, 2, 5, 2, 4, 4, 2, 5, 4, 1, 4, 3, 1, 4, 5, 1, 4, 5, 1]"
-William was concerned that Daniel waited.,4.2,0.9274,20,"[4, 5, 3, 5, 4, 5, 4, 4, 4, 4, 4, 5, 4, 5, 5, 5, 5, 2, 5, 2]"
-William was confident that Patricia concurred.,3.6,1.3928,20,"[1, 4, 2, 2, 2, 2, 4, 4, 5, 4, 5, 5, 4, 3, 5, 5, 4, 1, 5, 5]"
-William was doubtful that Richard desired something.,3.55,1.2031,20,"[2, 4, 2, 4, 4, 1, 3, 4, 4, 4, 5, 5, 3, 3, 5, 5, 5, 4, 2, 2]"
-William was dubious that Mary broke something.,3.35,1.4239,20,"[2, 5, 2, 1, 4, 4, 5, 4, 5, 4, 2, 4, 3, 1, 5, 5, 4, 4, 2, 1]"
-William was fearful that Susan bought something.,4.15,0.7263,20,"[4, 4, 3, 5, 4, 3, 4, 4, 3, 4, 5, 5, 4, 3, 4, 5, 5, 5, 5, 4]"
-William was flustered that Susan agreed.,3.45,1.3955,20,"[4, 4, 4, 2, 4, 4, 3, 4, 1, 4, 5, 5, 2, 1, 4, 5, 5, 2, 5, 1]"
-William was jubilant that Susan misunderstood.,2.45,1.2031,20,"[1, 3, 2, 2, 2, 2, 1, 4, 1, 2, 5, 4, 3, 2, 4, 3, 4, 1, 2, 1]"
-William was worried that Joseph disagreed.,4.0,1.3416,20,"[2, 4, 2, 5, 2, 4, 5, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 2, 5, 1]"
+unit,mean,std,n,individual_ratings,item_type
+Barbara was angry that Thomas moved.,4.1,1.2096,20,"[3, 5, 3, 5, 5, 4, 3, 5, 5, 3, 5, 5, 4, 5, 2, 5, 5, 4, 5, 1]",filler
+Barbara was annoyed that Jennifer misunderstood.,4.3,0.9787,20,"[2, 5, 4, 5, 5, 4, 4, 5, 5, 4, 5, 3, 4, 5, 5, 5, 4, 2, 5, 5]",filler
+Barbara was annoyed that Jennifer wanted something.,4.45,0.8256,20,"[3, 4, 2, 5, 5, 4, 4, 5, 5, 4, 5, 5, 4, 5, 5, 5, 4, 5, 5, 5]",test
+Barbara was ashamed that Robert consented.,3.55,1.3563,20,"[1, 3, 4, 5, 2, 4, 3, 4, 1, 4, 3, 5, 4, 2, 4, 5, 5, 2, 5, 5]",filler
+Barbara was aware that Susan misunderstood.,4.4,1.0463,20,"[2, 5, 3, 5, 5, 3, 4, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 2, 5, 5]",filler
+Barbara was aware that Susan stole something.,4.3,1.0809,20,"[5, 5, 3, 5, 5, 1, 3, 5, 5, 5, 5, 4, 3, 5, 4, 5, 4, 5, 5, 4]",test
+Barbara was certain that Mary made something.,4.25,0.7864,20,"[4, 5, 3, 5, 5, 4, 3, 4, 4, 4, 3, 4, 3, 5, 4, 5, 5, 5, 5, 5]",test
+Barbara was content that Jennifer agreed.,4.15,0.7452,20,"[4, 4, 3, 4, 5, 3, 4, 4, 5, 4, 5, 5, 3, 3, 4, 5, 5, 4, 5, 4]",filler
+Barbara was disappointed that David moved.,4.1579,1.3023,19,"[3, 5, 2, 5, 5, 4, 5, 5, 1, 5, 4, 3, 5, 5, 5, 5, 2, 5, 5]",filler
+Barbara was elated that Lisa arrived.,4.35,1.04,20,"[2, 5, 3, 5, 5, 4, 4, 5, 5, 2, 5, 5, 5, 3, 5, 5, 5, 4, 5, 5]",filler
+Barbara was elated that Lisa required something.,3.55,1.2344,20,"[5, 3, 2, 4, 2, 3, 3, 4, 1, 4, 4, 5, 2, 2, 5, 5, 4, 4, 5, 4]",test
+Barbara was flabbergasted that Lisa wanted something.,3.6842,1.455,19,"[4, 4, 1, 5, 4, 2, 5, 4, 3, 4, 5, 4, 3, 1, 5, 5, 5, 5, 1]",test
+Barbara was shocked that Elizabeth consented.,4.05,1.1459,20,"[2, 5, 4, 5, 5, 3, 4, 5, 5, 4, 5, 4, 3, 2, 3, 5, 5, 2, 5, 5]",filler
+Charles was amused that Barbara smiled.,4.4,0.8826,20,"[4, 5, 2, 5, 5, 3, 3, 5, 4, 4, 5, 5, 5, 5, 4, 5, 5, 4, 5, 5]",filler
+Charles was angry that Nancy laughed.,4.45,0.8256,20,"[4, 5, 3, 5, 5, 5, 4, 4, 5, 4, 5, 5, 5, 5, 4, 5, 5, 4, 5, 2]",filler
+Charles was concerned that Karen consented.,4.25,0.5501,20,"[4, 4, 4, 5, 4, 4, 4, 4, 5, 4, 4, 4, 4, 3, 5, 5, 4, 4, 5, 5]",filler
+Charles was dubious that Joseph waited.,2.95,1.4681,20,"[2, 5, 1, 1, 2, 4, 3, 4, 3, 3, 4, 1, 5, 1, 4, 5, 4, 4, 2, 1]",filler
+Charles was ecstatic that Mary wanted something.,3.6842,1.2496,19,"[3, 2, 5, 2, 4, 3, 4, 1, 4, 5, 4, 3, 5, 5, 5, 4, 2, 5, 4]",test
+Charles was impressed that Michael bought something.,4.4211,0.607,19,"[4, 5, 3, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 4, 5, 5, 4, 5, 5]",test
+Charles was indignant that Robert stole something.,3.95,1.3945,20,"[5, 5, 2, 5, 5, 5, 4, 4, 2, 4, 5, 5, 3, 1, 5, 5, 4, 4, 5, 1]",test
+Charles was jealous that Jennifer took something.,3.75,1.4096,20,"[4, 5, 2, 5, 4, 2, 4, 4, 1, 3, 4, 5, 2, 5, 5, 5, 5, 4, 5, 1]",test
+Charles was optimistic that Elizabeth moved.,3.7,1.2607,20,"[3, 5, 3, 2, 4, 3, 4, 5, 1, 5, 4, 2, 3, 5, 5, 5, 4, 2, 5, 4]",filler
+Christopher was aware that Lisa broke something.,4.5,0.8272,20,"[5, 4, 2, 5, 5, 4, 4, 5, 5, 4, 5, 5, 3, 5, 4, 5, 5, 5, 5, 5]",test
+Christopher was certain that James laughed.,4.15,1.0894,20,"[2, 5, 4, 5, 5, 2, 3, 4, 5, 5, 5, 5, 5, 4, 2, 5, 4, 4, 5, 4]",filler
+Christopher was content that John cried.,3.1579,1.2589,19,"[3, 2, 2, 2, 2, 2, 4, 1, 4, 4, 2, 4, 3, 2, 5, 4, 5, 5, 4]",filler
+Christopher was convinced that Nancy made something.,4.35,0.9333,20,"[3, 4, 3, 5, 5, 4, 2, 4, 5, 5, 3, 5, 5, 5, 5, 5, 5, 4, 5, 5]",test
+Christopher was dubious that David smiled.,2.9,1.4105,20,"[4, 3, 4, 1, 4, 1, 4, 2, 1, 3, 4, 5, 3, 2, 5, 2, 5, 2, 2, 1]",filler
+Christopher was irritated that Robert required something.,3.55,1.3169,20,"[3, 4, 2, 4, 1, 3, 4, 4, 5, 4, 4, 5, 2, 2, 4, 5, 5, 4, 5, 1]",test
+Christopher was mad that Robert stole something.,4.4,1.0463,20,"[5, 5, 2, 5, 5, 2, 3, 5, 5, 5, 5, 4, 4, 5, 3, 5, 5, 5, 5, 5]",test
+Daniel was convinced that Robert agreed.,4.25,1.118,20,"[2, 5, 2, 5, 5, 4, 5, 4, 3, 4, 5, 4, 5, 5, 5, 5, 5, 2, 5, 5]",filler
+Daniel was glad that Joseph moved.,4.4,0.9403,20,"[5, 5, 3, 5, 5, 3, 5, 5, 5, 4, 5, 5, 3, 5, 4, 5, 5, 4, 5, 2]",filler
+Daniel was irritated that Charles agreed.,4.1,1.1653,20,"[4, 4, 3, 5, 5, 3, 3, 5, 5, 5, 5, 4, 5, 5, 2, 5, 4, 1, 5, 4]",filler
+Daniel was relieved that Richard consented.,4.45,0.887,20,"[4, 5, 2, 5, 5, 3, 3, 5, 5, 5, 5, 5, 4, 4, 5, 5, 5, 4, 5, 5]",filler
+Daniel was relieved that Richard required something.,4.05,0.9445,20,"[4, 3, 4, 5, 4, 4, 4, 4, 2, 4, 5, 5, 3, 4, 5, 5, 5, 4, 5, 2]",test
+David was anxious that Jessica consented.,3.8,1.1965,20,"[3, 4, 4, 5, 4, 3, 5, 4, 3, 4, 4, 4, 3, 5, 5, 5, 4, 1, 5, 1]",filler
+David was bitter that Jessica stole something.,4.05,1.2763,20,"[5, 5, 1, 5, 4, 3, 3, 4, 5, 4, 5, 5, 3, 5, 5, 4, 4, 5, 5, 1]",test
+David was content that Richard understood something.,4.1,1.1192,20,"[3, 5, 2, 2, 4, 2, 3, 5, 5, 4, 5, 5, 5, 5, 5, 4, 4, 5, 5, 4]",test
+David was flabbergasted that Charles laughed.,3.6,1.5694,20,"[2, 4, 3, 5, 1, 4, 4, 5, 1, 4, 5, 5, 3, 1, 5, 5, 4, 5, 5, 1]",filler
+David was flustered that Lisa needed something.,3.85,1.1821,20,"[4, 4, 4, 5, 2, 3, 3, 4, 5, 5, 5, 4, 3, 5, 4, 5, 4, 2, 5, 1]",test
+David was flustered that Lisa smiled.,3.9,1.4105,20,"[4, 3, 3, 5, 4, 5, 4, 5, 1, 4, 5, 5, 4, 1, 5, 5, 4, 5, 5, 1]",filler
+David was grateful that Thomas arrived.,4.4737,0.9643,19,"[4, 5, 2, 5, 5, 5, 4, 5, 5, 4, 5, 5, 5, 5, 4, 5, 2, 5, 5]",filler
+David was grateful that Thomas needed something.,3.85,1.1367,20,"[4, 4, 4, 5, 2, 3, 4, 5, 1, 4, 3, 4, 2, 5, 4, 4, 5, 4, 5, 5]",test
+David was hopeful that Robert took something.,3.85,1.2258,20,"[4, 3, 4, 5, 4, 1, 4, 2, 1, 5, 5, 4, 4, 5, 5, 4, 4, 4, 5, 4]",test
+David was jubilant that Sarah moved.,3.75,1.118,20,"[2, 5, 3, 4, 2, 4, 4, 4, 4, 5, 5, 5, 4, 2, 5, 3, 5, 3, 2, 4]",filler
+David was mad that William took something.,4.4,0.9947,20,"[5, 5, 2, 5, 5, 3, 4, 5, 5, 4, 5, 5, 4, 5, 5, 5, 5, 2, 5, 4]",test
+Elizabeth was aware that Sarah laughed.,4.4,0.8826,20,"[2, 5, 3, 5, 5, 4, 3, 5, 5, 5, 5, 4, 5, 5, 4, 5, 5, 4, 5, 4]",filler
+Elizabeth was certain that John misunderstood.,4.45,0.887,20,"[4, 5, 2, 5, 5, 3, 5, 5, 5, 5, 5, 5, 3, 4, 4, 5, 5, 4, 5, 5]",filler
+Elizabeth was concerned that Mary preferred something.,3.45,0.9987,20,"[2, 4, 3, 2, 2, 3, 3, 2, 4, 5, 3, 5, 3, 3, 4, 4, 5, 4, 4, 4]",test
+Elizabeth was hopeful that Barbara misunderstood.,3.55,1.4318,20,"[3, 5, 4, 5, 4, 4, 5, 2, 1, 4, 5, 4, 3, 1, 4, 5, 4, 2, 5, 1]",filler
+Elizabeth was irate that Daniel disagreed.,3.95,1.3169,20,"[2, 4, 2, 5, 5, 3, 5, 5, 5, 3, 5, 4, 2, 4, 5, 5, 5, 4, 5, 1]",filler
+Elizabeth was jealous that Barbara preferred something.,3.65,1.268,20,"[2, 4, 3, 4, 4, 1, 4, 2, 4, 5, 5, 4, 5, 5, 4, 4, 4, 3, 5, 1]",test
+Elizabeth was relieved that Susan cried.,4.05,1.099,20,"[3, 5, 2, 5, 5, 1, 4, 5, 4, 5, 4, 3, 4, 4, 5, 5, 4, 5, 4, 4]",filler
+Elizabeth was sorry that Mary made something.,3.6,1.3534,20,"[4, 4, 2, 5, 2, 3, 4, 2, 1, 5, 4, 4, 5, 4, 5, 3, 5, 5, 4, 1]",test
+James was anxious that Daniel required something.,3.65,1.1821,20,"[4, 4, 3, 5, 2, 4, 4, 1, 5, 4, 3, 4, 2, 4, 3, 5, 5, 2, 5, 4]",test
+James was enraged that Sarah misunderstood.,4.0,1.2566,20,"[4, 5, 2, 5, 4, 2, 3, 5, 5, 4, 5, 5, 3, 3, 5, 5, 5, 1, 5, 4]",filler
+James was irate that Jennifer wanted something.,4.2,0.9515,20,"[4, 3, 4, 5, 5, 4, 4, 4, 5, 4, 5, 5, 5, 4, 4, 5, 4, 4, 5, 1]",test
+James was jubilant that Thomas made something.,3.25,1.4096,20,"[2, 4, 2, 4, 2, 3, 4, 2, 5, 4, 2, 5, 3, 1, 5, 4, 5, 5, 2, 1]",test
+James was positive that Karen broke something.,4.45,1.099,20,"[5, 5, 2, 5, 5, 1, 5, 5, 5, 4, 5, 4, 5, 4, 5, 5, 5, 5, 5, 4]",test
+James was shocked that Patricia made something.,3.95,1.099,20,"[4, 5, 2, 5, 5, 3, 4, 4, 4, 4, 3, 4, 3, 5, 5, 5, 4, 4, 5, 1]",test
+James was sorry that Jessica laughed.,3.85,1.3485,20,"[4, 4, 2, 5, 4, 4, 3, 2, 1, 4, 5, 5, 4, 5, 5, 5, 5, 4, 5, 1]",filler
+James was worried that Thomas broke something.,4.7,0.5712,20,"[5, 5, 3, 5, 5, 4, 5, 4, 5, 4, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5]",test
+James was worried that Thomas understood.,3.55,1.3945,20,"[2, 4, 3, 5, 1, 4, 3, 4, 1, 3, 5, 5, 3, 5, 4, 5, 5, 2, 5, 2]",filler
+Jennifer was confident that Michael misunderstood.,4.2,0.9515,20,"[4, 3, 2, 5, 4, 4, 4, 4, 5, 4, 5, 4, 5, 4, 5, 5, 5, 2, 5, 5]",filler
+Jennifer was flabbergasted that Christopher took something.,4.35,0.8751,20,"[5, 5, 3, 5, 5, 2, 4, 5, 5, 4, 5, 5, 3, 4, 5, 5, 4, 4, 5, 4]",test
+Jennifer was furious that Lisa understood.,3.4,1.429,20,"[2, 5, 3, 5, 4, 1, 3, 4, 1, 4, 2, 4, 5, 4, 4, 5, 4, 2, 5, 1]",filler
+Jennifer was glad that William bought something.,4.4,1.0954,20,"[2, 5, 4, 5, 5, 1, 5, 5, 5, 4, 5, 4, 5, 5, 5, 5, 5, 4, 5, 4]",test
+Jennifer was livid that Mary understood.,3.3,1.4179,20,"[4, 3, 2, 4, 4, 2, 4, 5, 1, 4, 2, 4, 2, 1, 5, 5, 4, 4, 5, 1]",filler
+Jennifer was sad that Richard agreed.,3.75,1.1642,20,"[3, 4, 4, 5, 2, 3, 4, 5, 3, 2, 5, 5, 3, 5, 4, 5, 4, 2, 5, 2]",filler
+Jennifer was satisfied that Mary needed something.,3.7,1.2607,20,"[4, 3, 3, 4, 4, 2, 3, 4, 1, 4, 5, 5, 3, 5, 5, 4, 5, 1, 5, 4]",test
+Jessica was amused that Nancy desired something.,4.0,1.2566,20,"[3, 4, 3, 5, 4, 5, 4, 4, 1, 4, 5, 5, 5, 3, 5, 5, 5, 4, 5, 1]",test
+Jessica was ashamed that Lisa understood.,3.0,1.556,20,"[2, 3, 2, 5, 2, 2, 2, 4, 1, 1, 2, 4, 5, 4, 5, 5, 4, 1, 5, 1]",filler
+Jessica was convinced that Barbara preferred something.,4.2,0.8335,20,"[3, 5, 4, 2, 4, 4, 4, 5, 5, 4, 4, 5, 3, 5, 5, 4, 5, 4, 5, 4]",test
+Jessica was flabbergasted that Daniel misunderstood.,3.4,1.6983,20,"[1, 5, 2, 5, 4, 1, 3, 2, 4, 5, 5, 5, 4, 1, 4, 5, 5, 1, 5, 1]",filler
+Jessica was grateful that William waited.,4.2,1.1965,20,"[1, 5, 2, 5, 4, 4, 4, 5, 5, 4, 5, 4, 5, 5, 4, 5, 5, 2, 5, 5]",filler
+Jessica was happy that William moved.,4.45,0.8256,20,"[4, 5, 3, 5, 5, 3, 3, 5, 5, 4, 5, 3, 5, 5, 5, 5, 5, 4, 5, 5]",filler
+Jessica was livid that James disagreed.,3.8,1.4364,20,"[4, 5, 2, 5, 5, 2, 5, 4, 5, 4, 5, 3, 4, 1, 5, 5, 4, 2, 5, 1]",filler
+Jessica was satisfied that David required something.,3.6842,1.2043,19,"[2, 3, 4, 5, 2, 4, 5, 4, 1, 4, 4, 4, 2, 3, 5, 5, 4, 5, 4]",test
+John was doubtful that Linda cried.,4.1,1.1192,20,"[4, 4, 3, 5, 5, 5, 4, 4, 1, 5, 4, 5, 5, 3, 5, 5, 4, 5, 2, 4]",filler
+John was grateful that James wanted something.,4.0,1.1239,20,"[3, 4, 2, 5, 5, 2, 3, 5, 3, 4, 5, 5, 4, 5, 5, 4, 4, 2, 5, 5]",test
+John was irritated that Nancy needed something.,4.15,1.04,20,"[4, 4, 3, 5, 4, 2, 3, 5, 5, 5, 5, 5, 3, 5, 4, 5, 5, 4, 5, 2]",test
+John was optimistic that Patricia concurred.,3.8,1.1965,20,"[3, 5, 3, 2, 2, 2, 4, 4, 5, 4, 5, 5, 3, 3, 4, 5, 5, 2, 5, 5]",filler
+John was sad that Michael required something.,4.0,1.0761,20,"[5, 4, 2, 5, 2, 3, 4, 4, 4, 4, 5, 5, 3, 5, 4, 5, 5, 2, 5, 4]",test
+John was sure that Jennifer cried.,4.4,0.9403,20,"[2, 5, 3, 5, 5, 4, 4, 5, 5, 4, 5, 5, 3, 3, 5, 5, 5, 5, 5, 5]",filler
+Joseph was optimistic that Linda bought something.,4.15,0.8127,20,"[4, 4, 2, 5, 4, 4, 5, 4, 3, 4, 4, 5, 5, 3, 4, 5, 5, 4, 5, 4]",test
+Joseph was positive that Linda waited.,4.2,1.0052,20,"[2, 4, 3, 5, 5, 3, 4, 4, 5, 5, 4, 5, 4, 5, 5, 5, 5, 2, 5, 4]",filler
+Joseph was proud that Jessica broke something.,3.65,1.387,20,"[1, 3, 2, 5, 5, 5, 4, 2, 1, 4, 3, 4, 2, 5, 5, 5, 4, 4, 5, 4]",test
+Joseph was sad that Susan consented.,3.6842,1.0029,19,"[4, 4, 2, 5, 4, 3, 3, 4, 3, 2, 5, 4, 4, 3, 5, 4, 2, 5, 4]",filler
+Joseph was sure that Elizabeth waited.,4.35,1.1367,20,"[2, 5, 2, 5, 5, 3, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 2, 5, 5]",filler
+Karen was amused that Joseph wanted something.,4.3,0.9787,20,"[5, 4, 2, 5, 5, 3, 5, 4, 2, 4, 5, 5, 4, 5, 5, 5, 5, 4, 5, 4]",test
+Karen was content that Susan required something.,3.5,1.2773,20,"[4, 4, 3, 1, 2, 1, 5, 4, 1, 4, 5, 4, 3, 4, 4, 4, 4, 4, 5, 4]",test
+Karen was doubtful that David agreed.,3.95,1.1459,20,"[5, 5, 3, 5, 5, 2, 3, 4, 4, 5, 4, 5, 3, 3, 5, 5, 4, 2, 2, 5]",filler
+Karen was excited that Susan made something.,4.45,0.8256,20,"[5, 5, 2, 5, 5, 3, 4, 4, 5, 4, 5, 4, 5, 5, 4, 5, 4, 5, 5, 5]",test
+Karen was fearful that Elizabeth cried.,3.55,1.5035,20,"[2, 5, 3, 5, 1, 1, 4, 4, 1, 4, 5, 4, 5, 4, 5, 4, 4, 4, 5, 1]",filler
+Karen was fearful that Elizabeth sold something.,3.9,1.0712,20,"[5, 4, 3, 5, 4, 3, 5, 4, 4, 4, 2, 5, 3, 4, 4, 5, 4, 5, 4, 1]",test
+Karen was happy that Christopher sold something.,4.1,1.3727,20,"[5, 5, 2, 5, 5, 1, 4, 4, 5, 3, 5, 5, 3, 5, 4, 5, 5, 5, 5, 1]",test
+Karen was hopeful that John moved.,3.65,1.2258,20,"[4, 4, 2, 5, 2, 3, 4, 4, 1, 2, 4, 4, 4, 5, 4, 5, 4, 2, 5, 5]",filler
+Karen was irate that Jessica preferred something.,3.5,1.3955,20,"[3, 4, 1, 5, 2, 2, 4, 4, 2, 5, 5, 5, 3, 2, 5, 4, 4, 4, 5, 1]",test
+Karen was jealous that Daniel laughed.,3.75,1.4096,20,"[3, 3, 3, 5, 1, 1, 4, 5, 1, 4, 4, 4, 3, 5, 5, 5, 5, 4, 5, 5]",filler
+Karen was mad that Joseph concurred.,4.0,0.9177,20,"[4, 3, 4, 2, 4, 2, 3, 4, 4, 4, 5, 5, 4, 4, 4, 5, 5, 4, 5, 5]",filler
+Karen was proud that Nancy understood something.,4.65,0.5871,20,"[4, 5, 4, 5, 5, 4, 5, 5, 5, 4, 5, 5, 3, 4, 5, 5, 5, 5, 5, 5]",test
+Linda was anxious that Mary broke something.,4.3,0.9787,20,"[3, 4, 2, 5, 5, 4, 4, 4, 5, 2, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4]",test
+Linda was certain that Sarah sold something.,4.45,0.8256,20,"[4, 4, 3, 5, 5, 3, 5, 5, 5, 4, 5, 5, 3, 3, 5, 5, 5, 5, 5, 5]",test
+Linda was distraught that Elizabeth arrived.,3.9,1.3727,20,"[2, 4, 4, 5, 4, 4, 4, 5, 5, 5, 5, 5, 3, 1, 5, 5, 4, 2, 5, 1]",filler
+Linda was distraught that Elizabeth desired something.,3.7,1.1286,20,"[2, 3, 3, 5, 2, 4, 4, 4, 4, 4, 3, 4, 3, 4, 5, 5, 5, 4, 5, 1]",test
+Linda was excited that John understood something.,4.3158,0.8852,19,"[5, 5, 2, 5, 5, 3, 4, 4, 5, 4, 4, 5, 3, 4, 4, 5, 5, 5, 5]",test
+Linda was flustered that Mary stole something.,3.6,1.5355,20,"[3, 4, 2, 4, 5, 1, 5, 4, 2, 2, 5, 5, 4, 1, 5, 5, 4, 5, 5, 1]",test
+Linda was jubilant that Elizabeth required something.,2.8,1.3611,20,"[2, 2, 1, 1, 2, 2, 3, 4, 1, 4, 4, 4, 2, 1, 5, 3, 5, 4, 2, 4]",test
+Linda was satisfied that Susan waited.,4.05,1.191,20,"[2, 4, 2, 5, 4, 3, 4, 4, 5, 1, 5, 4, 5, 5, 5, 5, 4, 4, 5, 5]",filler
+Linda was surprised that Karen arrived.,4.3,1.0311,20,"[2, 5, 3, 5, 5, 3, 4, 5, 5, 4, 5, 4, 5, 5, 5, 5, 5, 2, 5, 4]",filler
+Linda was surprised that Karen required something.,3.75,1.2085,20,"[4, 4, 2, 5, 4, 2, 4, 4, 4, 4, 5, 5, 3, 3, 5, 5, 4, 2, 5, 1]",test
+Lisa was amused that Mary cried.,3.8421,1.5371,19,"[5, 4, 2, 5, 5, 1, 3, 5, 1, 5, 5, 4, 3, 4, 5, 5, 5, 5, 1]",filler
+Lisa was annoyed that William consented.,3.95,1.4318,20,"[2, 5, 2, 5, 2, 4, 3, 5, 5, 1, 5, 5, 5, 3, 5, 5, 5, 2, 5, 5]",filler
+Lisa was impressed that Sarah consented.,4.05,1.0501,20,"[4, 5, 4, 5, 2, 4, 4, 4, 5, 5, 5, 5, 3, 2, 4, 5, 4, 2, 5, 4]",filler
+Lisa was impressed that Sarah sold something.,4.35,1.1367,20,"[4, 5, 2, 5, 5, 1, 4, 5, 5, 4, 5, 5, 3, 5, 5, 5, 5, 5, 5, 4]",test
+Lisa was mad that Thomas moved.,4.55,0.7592,20,"[5, 5, 3, 5, 5, 3, 3, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4]",filler
+Lisa was proud that Daniel consented.,4.2,1.105,20,"[1, 5, 4, 5, 4, 2, 4, 5, 5, 4, 4, 5, 3, 4, 5, 5, 5, 4, 5, 5]",filler
+Lisa was shocked that Nancy understood something.,4.1,0.8522,20,"[5, 4, 2, 5, 5, 5, 3, 4, 4, 4, 3, 5, 3, 4, 5, 4, 4, 5, 4, 4]",test
+Lisa was sorry that Robert disagreed.,4.05,1.5035,20,"[2, 5, 1, 5, 5, 4, 4, 5, 4, 5, 5, 5, 5, 5, 5, 5, 4, 1, 5, 1]",filler
+Mary was annoyed that Susan broke something.,4.35,0.8751,20,"[2, 5, 3, 5, 5, 4, 4, 5, 5, 4, 5, 5, 3, 4, 4, 5, 4, 5, 5, 5]",test
+Mary was disappointed that William required something.,4.15,0.7452,20,"[4, 5, 3, 4, 4, 3, 3, 4, 4, 4, 5, 5, 3, 5, 5, 5, 4, 4, 5, 4]",test
+Mary was furious that Sarah stole something.,4.4211,1.0174,19,"[5, 3, 5, 5, 3, 3, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 2, 5, 5]",test
+Mary was happy that Daniel understood.,4.7,0.4702,20,"[4, 5, 4, 5, 5, 5, 4, 5, 5, 4, 5, 5, 5, 5, 4, 5, 5, 4, 5, 5]",filler
+Mary was irate that Patricia cried.,3.7,1.2183,20,"[2, 3, 2, 5, 5, 2, 4, 4, 3, 4, 5, 4, 3, 4, 4, 5, 4, 5, 5, 1]",filler
+Mary was irritated that Karen smiled.,4.2,1.0563,20,"[3, 5, 1, 5, 5, 3, 3, 4, 4, 4, 4, 5, 5, 5, 4, 5, 5, 4, 5, 5]",filler
+Mary was sore that Christopher moved.,2.8,1.1517,20,"[2, 3, 3, 1, 2, 2, 4, 2, 3, 2, 3, 2, 3, 3, 5, 5, 4, 2, 4, 1]",filler
+Mary was sore that Christopher took something.,3.3,1.4546,20,"[4, 3, 2, 1, 4, 4, 4, 2, 5, 4, 3, 1, 2, 5, 2, 5, 5, 5, 4, 1]",test
+Michael was angry that James made something.,3.8,1.0563,20,"[4, 4, 3, 5, 5, 4, 3, 4, 1, 3, 4, 4, 3, 5, 2, 4, 4, 5, 5, 4]",test
+Michael was elated that William broke something.,3.45,1.3945,20,"[3, 4, 2, 4, 4, 3, 2, 2, 1, 5, 4, 5, 2, 3, 4, 5, 5, 5, 5, 1]",test
+Michael was enraged that Charles needed something.,3.85,1.1821,20,"[4, 4, 2, 5, 2, 4, 4, 4, 4, 4, 4, 4, 5, 1, 5, 5, 5, 4, 5, 2]",test
+Michael was excited that Daniel arrived.,4.3,1.0311,20,"[4, 5, 2, 5, 5, 2, 3, 5, 5, 4, 5, 5, 3, 5, 4, 5, 5, 4, 5, 5]",filler
+Michael was fearful that James arrived.,3.4211,1.3045,19,"[4, 4, 3, 5, 1, 3, 4, 4, 4, 2, 5, 3, 2, 4, 4, 1, 2, 5, 5]",filler
+Michael was indignant that Patricia smiled.,3.0,1.3377,20,"[2, 3, 4, 2, 2, 2, 2, 3, 1, 3, 5, 4, 3, 2, 2, 5, 5, 4, 5, 1]",filler
+Michael was livid that Lisa broke something.,4.35,1.1821,20,"[4, 5, 3, 5, 5, 4, 5, 5, 5, 5, 5, 5, 3, 2, 5, 5, 5, 5, 5, 1]",test
+Michael was relieved that Jennifer desired something.,3.8,1.1517,20,"[3, 3, 2, 4, 4, 4, 4, 5, 1, 3, 5, 5, 2, 4, 4, 5, 5, 4, 5, 4]",test
+Michael was shocked that Susan agreed.,4.35,1.2258,20,"[2, 5, 2, 5, 5, 1, 4, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 4, 5, 5]",filler
+Michael was sure that William desired something.,4.25,0.9105,20,"[3, 4, 3, 5, 5, 2, 4, 5, 4, 5, 5, 4, 3, 5, 5, 5, 4, 5, 5, 4]",test
+Nancy was bitter that Barbara concurred.,3.4,1.1877,20,"[3, 3, 3, 2, 2, 2, 4, 4, 4, 4, 4, 2, 3, 3, 5, 5, 5, 4, 5, 1]",filler
+Nancy was glad that Sarah made something.,4.55,0.6863,20,"[4, 5, 3, 5, 5, 4, 3, 4, 5, 4, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5]",test
+Nancy was positive that Barbara made something.,4.05,0.8256,20,"[4, 4, 3, 5, 5, 2, 4, 4, 5, 4, 3, 4, 3, 5, 4, 4, 4, 5, 5, 4]",test
+Nancy was sad that William needed something.,4.0526,1.1773,19,"[3, 5, 5, 4, 3, 4, 4, 2, 5, 5, 5, 3, 5, 4, 5, 4, 5, 5, 1]",test
+Patricia was elated that Linda disagreed.,3.2,1.3992,20,"[1, 3, 3, 2, 2, 3, 3, 4, 3, 5, 3, 4, 4, 1, 5, 5, 5, 2, 5, 1]",filler
+Patricia was furious that Christopher agreed.,3.9474,1.3112,19,"[2, 3, 2, 5, 5, 2, 4, 5, 5, 5, 5, 5, 2, 4, 5, 5, 2, 5, 4]",filler
+Patricia was happy that Barbara required something.,4.2,0.9515,20,"[4, 4, 2, 5, 2, 4, 4, 4, 3, 5, 5, 4, 5, 5, 5, 5, 5, 4, 5, 4]",test
+Patricia was jealous that Michael arrived.,3.85,1.268,20,"[5, 4, 4, 5, 2, 3, 5, 2, 2, 2, 4, 5, 3, 5, 5, 5, 5, 4, 5, 2]",filler
+Patricia was sorry that Daniel sold something.,3.6,1.1425,20,"[3, 3, 2, 4, 5, 3, 4, 4, 3, 3, 4, 5, 3, 2, 4, 5, 5, 5, 4, 1]",test
+Richard was bitter that Charles desired something.,3.6,1.0954,20,"[3, 3, 3, 4, 2, 2, 4, 5, 3, 3, 4, 4, 5, 4, 4, 5, 4, 4, 5, 1]",test
+Richard was bitter that Charles smiled.,4.25,1.118,20,"[4, 5, 5, 5, 5, 4, 4, 4, 1, 5, 5, 4, 3, 5, 5, 5, 5, 4, 5, 2]",filler
+Richard was concerned that Jennifer took something.,4.2,1.1965,20,"[3, 4, 2, 5, 5, 1, 3, 4, 5, 5, 5, 5, 5, 3, 5, 5, 5, 4, 5, 5]",test
+Richard was confident that Daniel understood something.,4.35,0.8751,20,"[3, 4, 2, 5, 5, 5, 4, 4, 5, 4, 5, 5, 3, 4, 5, 5, 4, 5, 5, 5]",test
+Richard was convinced that Lisa arrived.,4.25,1.0195,20,"[2, 5, 4, 5, 4, 4, 3, 5, 5, 5, 5, 5, 3, 5, 4, 5, 5, 2, 5, 4]",filler
+Richard was distraught that Daniel concurred.,3.7,1.3018,20,"[3, 5, 2, 4, 1, 3, 3, 5, 1, 3, 5, 4, 4, 5, 3, 5, 4, 5, 5, 4]",filler
+Richard was hopeful that Lisa understood something.,4.2632,0.8719,19,"[3, 4, 5, 5, 2, 4, 4, 5, 4, 5, 4, 3, 5, 5, 5, 5, 4, 5, 4]",test
+Robert was angry that John took something.,4.2,1.1517,20,"[2, 5, 2, 5, 5, 3, 5, 5, 5, 4, 5, 4, 3, 5, 5, 5, 5, 4, 5, 2]",test
+Robert was disappointed that Elizabeth understood something.,3.35,1.3089,20,"[4, 4, 3, 5, 2, 1, 4, 2, 1, 5, 3, 5, 2, 3, 5, 4, 4, 4, 4, 2]",test
+Robert was disappointed that Elizabeth waited.,4.3,0.8645,20,"[3, 5, 2, 5, 4, 3, 4, 5, 4, 4, 4, 5, 5, 5, 5, 5, 5, 4, 5, 4]",filler
+Robert was distraught that David made something.,3.4,1.2312,20,"[3, 4, 2, 5, 4, 2, 3, 4, 2, 5, 4, 2, 3, 2, 5, 4, 4, 4, 5, 1]",test
+Robert was dubious that Nancy preferred something.,2.5,1.1921,20,"[2, 5, 2, 1, 4, 1, 3, 4, 1, 3, 3, 2, 3, 1, 4, 3, 3, 2, 2, 1]",test
+Robert was furious that Richard required something.,4.0,1.026,20,"[3, 5, 2, 5, 4, 4, 4, 4, 5, 2, 4, 4, 2, 5, 4, 5, 5, 4, 5, 4]",test
+Robert was positive that Michael laughed.,4.5,0.607,20,"[5, 4, 4, 5, 5, 4, 3, 5, 5, 4, 5, 4, 4, 5, 5, 5, 4, 4, 5, 5]",filler
+Robert was satisfied that Joseph smiled.,4.55,0.5104,20,"[5, 4, 4, 4, 4, 4, 5, 5, 4, 5, 4, 5, 5, 5, 4, 5, 5, 4, 5, 5]",filler
+Robert was sore that Patricia understood.,2.45,1.5035,20,"[1, 3, 2, 1, 1, 1, 4, 1, 1, 2, 4, 5, 2, 4, 2, 5, 4, 1, 4, 1]",filler
+Robert was surprised that Lisa understood something.,4.25,0.8507,20,"[5, 4, 3, 5, 5, 4, 4, 4, 4, 2, 5, 5, 3, 5, 5, 5, 5, 4, 4, 4]",test
+Sarah was ecstatic that David needed something.,3.6316,1.3421,19,"[3, 3, 5, 2, 1, 3, 4, 1, 4, 5, 5, 4, 2, 4, 5, 5, 4, 5, 4]",test
+Sarah was ecstatic that David smiled.,4.2,1.105,20,"[4, 5, 3, 5, 4, 4, 5, 5, 5, 4, 5, 4, 5, 1, 4, 5, 4, 5, 5, 2]",filler
+Sarah was indignant that Susan agreed.,3.2,1.3611,20,"[1, 4, 3, 5, 4, 2, 3, 4, 4, 4, 2, 2, 4, 1, 4, 4, 5, 2, 5, 1]",filler
+Sarah was indignant that Susan sold something.,3.4,1.4654,20,"[3, 4, 3, 4, 1, 4, 4, 2, 1, 5, 3, 4, 4, 1, 5, 5, 4, 5, 5, 1]",test
+Sarah was optimistic that Christopher required something.,3.65,1.268,20,"[3, 4, 4, 2, 2, 4, 4, 4, 1, 5, 5, 2, 3, 5, 4, 5, 5, 2, 5, 4]",test
+Sarah was sure that David bought something.,4.7,0.5712,20,"[4, 5, 3, 5, 5, 4, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4]",test
+Sarah was surprised that John cried.,4.6,0.6806,20,"[4, 5, 3, 5, 5, 4, 4, 5, 4, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5]",filler
+Sarah was worried that Lisa bought something.,4.35,0.9881,20,"[4, 5, 4, 5, 5, 1, 4, 4, 5, 4, 5, 5, 3, 5, 5, 5, 4, 5, 5, 4]",test
+Susan was anxious that Sarah waited.,3.8,1.1517,20,"[5, 5, 3, 5, 2, 4, 4, 2, 3, 4, 4, 4, 2, 3, 5, 5, 5, 2, 5, 4]",filler
+Susan was ashamed that Christopher understood something.,3.25,1.4824,20,"[2, 4, 4, 5, 2, 2, 4, 2, 1, 1, 5, 2, 3, 5, 4, 4, 5, 4, 5, 1]",test
+Susan was enraged that Daniel sold something.,4.3,0.9234,20,"[3, 4, 3, 5, 5, 3, 4, 5, 5, 5, 5, 5, 5, 2, 4, 5, 4, 5, 5, 4]",test
+Susan was proud that Thomas cried.,3.8,1.3611,20,"[3, 3, 3, 5, 4, 4, 3, 5, 1, 4, 3, 2, 5, 5, 5, 5, 5, 5, 5, 1]",filler
+Susan was sore that Joseph stole something.,3.2,1.2814,20,"[4, 4, 3, 1, 2, 3, 4, 4, 5, 4, 2, 4, 4, 3, 2, 4, 5, 1, 4, 1]",test
+Thomas was ashamed that Richard wanted something.,3.8,1.3219,20,"[2, 4, 1, 5, 4, 4, 4, 4, 3, 1, 5, 5, 5, 4, 4, 5, 5, 4, 5, 2]",test
+Thomas was confident that David preferred something.,3.95,1.0501,20,"[2, 4, 2, 2, 4, 5, 4, 4, 4, 4, 3, 5, 3, 5, 4, 5, 5, 5, 4, 5]",test
+Thomas was doubtful that Charles wanted something.,4.15,0.8127,20,"[4, 4, 3, 5, 5, 4, 4, 4, 4, 4, 3, 5, 4, 5, 5, 5, 4, 4, 5, 2]",test
+Thomas was ecstatic that Robert waited.,3.9,1.4832,20,"[2, 5, 1, 5, 1, 3, 2, 4, 5, 4, 5, 4, 5, 5, 5, 5, 5, 2, 5, 5]",filler
+Thomas was enraged that Nancy agreed.,3.8,1.2397,20,"[4, 4, 2, 4, 2, 3, 4, 5, 4, 4, 5, 5, 3, 1, 5, 5, 5, 2, 5, 4]",filler
+Thomas was excited that James agreed.,4.0,1.2566,20,"[2, 5, 2, 5, 4, 1, 4, 5, 5, 4, 5, 5, 4, 5, 4, 5, 4, 2, 5, 4]",filler
+Thomas was glad that Richard misunderstood.,3.9,1.3727,20,"[5, 4, 2, 5, 5, 4, 4, 4, 1, 4, 3, 5, 5, 5, 4, 5, 5, 2, 5, 1]",filler
+Thomas was impressed that William waited.,4.45,0.9445,20,"[4, 5, 2, 5, 2, 5, 4, 5, 5, 5, 5, 4, 5, 5, 5, 5, 4, 4, 5, 5]",filler
+Thomas was livid that Sarah made something.,4.0,1.214,20,"[3, 4, 2, 5, 2, 4, 4, 4, 1, 5, 5, 5, 5, 3, 5, 5, 5, 4, 5, 4]",test
+Was Barbara angry that Thomas moved?,4.3,0.8645,20,"[5, 5, 4, 5, 4, 3, 4, 5, 5, 3, 5, 4, 4, 5, 4, 5, 5, 2, 5, 4]",filler
+Was Barbara annoyed that Jennifer misunderstood?,4.0,1.3377,20,"[2, 5, 4, 5, 4, 5, 4, 5, 5, 3, 5, 5, 3, 5, 4, 5, 4, 1, 5, 1]",filler
+Was Barbara elated that Lisa arrived?,4.05,1.191,20,"[4, 5, 4, 4, 4, 4, 4, 4, 5, 4, 5, 5, 3, 1, 5, 5, 5, 4, 5, 1]",filler
+Was Barbara shocked that Elizabeth consented?,4.05,1.099,20,"[1, 5, 3, 5, 4, 4, 4, 4, 5, 4, 5, 4, 4, 3, 5, 5, 5, 2, 5, 4]",filler
+Was Charles amused that Barbara smiled?,4.1,0.9679,20,"[4, 4, 2, 5, 2, 3, 4, 5, 4, 5, 5, 4, 4, 3, 5, 5, 5, 4, 5, 4]",filler
+Was Charles dubious that Joseph waited?,2.8,1.1965,20,"[2, 3, 2, 1, 2, 5, 4, 4, 2, 4, 4, 4, 2, 2, 4, 2, 2, 4, 2, 1]",filler
+Was Charles flustered that Patricia disagreed?,3.4,1.2732,20,"[2, 4, 2, 4, 1, 4, 3, 4, 4, 4, 5, 4, 4, 1, 4, 5, 4, 2, 5, 2]",filler
+Was Charles indignant that Robert disagreed?,3.5,1.469,20,"[1, 4, 4, 4, 2, 5, 5, 1, 4, 3, 4, 5, 4, 1, 5, 5, 4, 2, 5, 2]",filler
+Was Charles optimistic that Elizabeth moved?,3.85,1.2258,20,"[4, 4, 2, 2, 4, 5, 3, 4, 1, 5, 4, 5, 4, 5, 5, 5, 4, 2, 5, 4]",filler
+Was Christopher dubious that David smiled?,3.0,1.3765,20,"[2, 4, 2, 2, 2, 1, 3, 4, 1, 4, 4, 5, 4, 3, 2, 2, 5, 4, 5, 1]",filler
+Was Christopher irritated that Robert arrived?,3.75,1.118,20,"[3, 4, 3, 5, 2, 2, 4, 4, 4, 4, 5, 5, 3, 4, 4, 5, 4, 4, 5, 1]",filler
+Was Daniel angry that Patricia misunderstood?,4.2,0.9515,20,"[5, 5, 3, 5, 2, 2, 4, 4, 5, 4, 4, 5, 4, 5, 4, 5, 5, 4, 5, 4]",filler
+Was Daniel relieved that Richard consented?,4.1,1.0712,20,"[2, 5, 2, 4, 4, 4, 4, 4, 5, 5, 5, 5, 3, 5, 4, 5, 5, 2, 5, 4]",filler
+Was Daniel worried that Elizabeth smiled?,3.9,1.2524,20,"[5, 4, 4, 5, 2, 4, 5, 4, 1, 4, 5, 5, 3, 5, 4, 5, 4, 2, 5, 2]",filler
+Was David anxious that Jessica consented?,3.7,1.3018,20,"[3, 4, 4, 2, 4, 4, 3, 5, 3, 4, 5, 5, 3, 3, 5, 5, 5, 1, 5, 1]",filler
+Was David bitter that Jessica waited?,3.8,1.2397,20,"[2, 4, 4, 5, 1, 3, 4, 4, 4, 4, 5, 4, 3, 5, 4, 5, 4, 5, 5, 1]",filler
+Was David grateful that Thomas arrived?,4.45,0.887,20,"[3, 5, 2, 5, 5, 3, 4, 4, 5, 5, 5, 4, 4, 5, 5, 5, 5, 5, 5, 5]",filler
+Was David indignant that Daniel arrived?,3.35,1.387,20,"[4, 4, 2, 2, 4, 4, 3, 4, 1, 4, 5, 4, 3, 1, 4, 5, 5, 1, 5, 2]",filler
+Was David jubilant that Sarah moved?,3.7,1.2183,20,"[4, 2, 3, 1, 4, 5, 5, 2, 5, 4, 4, 5, 3, 4, 5, 3, 4, 5, 2, 4]",filler
+Was Elizabeth ashamed that Sarah laughed?,3.95,1.099,20,"[2, 4, 3, 5, 1, 4, 4, 4, 5, 3, 4, 5, 3, 5, 5, 5, 4, 4, 5, 4]",filler
+Was Elizabeth certain that John misunderstood?,4.2632,1.0457,19,"[3, 5, 2, 5, 5, 3, 4, 5, 5, 4, 5, 5, 5, 5, 4, 5, 4, 2, 5]",filler
+Was Elizabeth hopeful that Barbara misunderstood?,2.95,1.3945,20,"[3, 3, 2, 5, 4, 2, 3, 2, 1, 1, 1, 2, 3, 2, 4, 5, 5, 2, 5, 4]",filler
+Was Elizabeth jealous that Barbara disagreed?,3.4,1.429,20,"[3, 4, 1, 5, 1, 3, 5, 4, 1, 3, 3, 5, 3, 4, 5, 5, 4, 2, 5, 2]",filler
+Was Elizabeth relieved that Susan cried?,3.55,1.3945,20,"[4, 4, 2, 5, 4, 1, 4, 4, 2, 1, 2, 5, 5, 3, 4, 5, 2, 5, 5, 4]",filler
+Was Elizabeth sorry that Mary cried?,4.25,1.0699,20,"[3, 5, 3, 5, 4, 4, 3, 4, 5, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 1]",filler
+Was Elizabeth surprised that Michael agreed?,4.4,0.8208,20,"[4, 5, 2, 5, 5, 3, 4, 5, 5, 4, 5, 4, 5, 5, 5, 5, 4, 4, 5, 4]",filler
+Was James annoyed that Charles arrived?,3.85,1.387,20,"[4, 5, 2, 5, 2, 2, 4, 5, 5, 3, 5, 5, 3, 2, 5, 5, 4, 5, 5, 1]",filler
+Was James concerned that David disagreed?,3.85,1.3485,20,"[3, 5, 3, 4, 1, 5, 4, 5, 5, 4, 5, 5, 3, 3, 5, 5, 4, 2, 5, 1]",filler
+Was James enraged that Sarah misunderstood?,3.75,1.3328,20,"[4, 5, 3, 4, 4, 1, 4, 5, 4, 2, 5, 5, 3, 4, 4, 5, 5, 2, 5, 1]",filler
+Was James impressed that Elizabeth misunderstood?,3.5,1.539,20,"[3, 4, 5, 5, 4, 4, 3, 1, 1, 1, 5, 4, 4, 3, 5, 5, 5, 2, 5, 1]",filler
+Was James worried that Thomas understood?,3.25,1.4096,20,"[1, 4, 3, 5, 1, 3, 3, 4, 1, 3, 4, 4, 5, 3, 4, 5, 4, 1, 5, 2]",filler
+Was Jennifer glad that William agreed?,4.0,1.2978,20,"[2, 5, 3, 5, 5, 2, 4, 4, 5, 4, 5, 4, 5, 5, 5, 5, 4, 2, 5, 1]",filler
+Was Jennifer hopeful that James cried?,3.5,1.3572,20,"[4, 4, 3, 5, 4, 4, 4, 4, 1, 1, 2, 2, 2, 5, 5, 5, 4, 4, 5, 2]",filler
+Was Jennifer mad that James waited?,3.9,1.2524,20,"[3, 5, 1, 5, 4, 4, 4, 4, 4, 4, 5, 5, 4, 1, 5, 5, 4, 2, 5, 4]",filler
+Was Jennifer positive that William arrived?,4.15,1.0894,20,"[4, 4, 3, 5, 4, 1, 4, 4, 5, 4, 5, 5, 4, 5, 5, 5, 5, 2, 5, 4]",filler
+Was Jennifer sorry that Nancy concurred?,3.4,1.3139,20,"[2, 4, 3, 2, 2, 4, 4, 5, 1, 5, 5, 4, 3, 1, 4, 4, 4, 4, 5, 2]",filler
+Was Jessica elated that Charles waited?,3.55,1.3945,20,"[4, 5, 1, 2, 2, 2, 4, 4, 5, 4, 5, 5, 3, 1, 4, 5, 4, 2, 5, 4]",filler
+Was Jessica flabbergasted that Daniel misunderstood?,3.55,1.5035,20,"[1, 3, 2, 4, 1, 4, 4, 4, 4, 4, 5, 5, 4, 1, 5, 5, 5, 4, 5, 1]",filler
+Was Jessica livid that James disagreed?,3.65,1.3485,20,"[1, 5, 4, 2, 4, 4, 4, 4, 5, 4, 5, 5, 3, 1, 4, 5, 4, 2, 5, 2]",filler
+Was John amused that Christopher agreed?,3.5,1.5728,20,"[4, 5, 2, 5, 1, 4, 4, 1, 1, 1, 4, 4, 4, 3, 5, 5, 5, 2, 5, 5]",filler
+Was John doubtful that Linda cried?,3.5263,1.0733,19,"[2, 5, 4, 4, 4, 3, 4, 4, 1, 3, 3, 4, 3, 3, 5, 4, 5, 4, 2]",filler
+Was John ecstatic that Jennifer misunderstood?,3.25,1.3328,20,"[3, 5, 2, 2, 2, 4, 3, 4, 1, 4, 5, 2, 4, 3, 4, 4, 5, 2, 5, 1]",filler
+Was John happy that James concurred?,4.0,1.1698,20,"[1, 4, 4, 4, 2, 2, 4, 4, 5, 4, 5, 5, 5, 3, 5, 5, 5, 4, 5, 4]",filler
+Was John jubilant that Joseph consented?,3.3,1.4903,20,"[1, 4, 3, 2, 4, 2, 4, 2, 5, 4, 5, 5, 3, 1, 5, 3, 5, 1, 2, 5]",filler
+Was John sure that Jennifer cried?,4.35,0.8751,20,"[5, 5, 2, 5, 5, 4, 4, 4, 5, 3, 4, 5, 3, 4, 5, 5, 5, 5, 5, 4]",filler
+Was Joseph certain that Jessica disagreed?,4.2,0.9515,20,"[4, 5, 3, 5, 5, 5, 3, 5, 5, 4, 5, 4, 3, 3, 4, 5, 4, 2, 5, 5]",filler
+Was Joseph content that Michael concurred?,3.6,1.3917,20,"[2, 5, 2, 1, 2, 3, 3, 4, 4, 4, 5, 5, 3, 1, 5, 5, 4, 5, 5, 4]",filler
+Was Joseph impressed that Daniel arrived?,3.65,1.387,20,"[4, 4, 3, 5, 2, 3, 4, 5, 5, 4, 5, 5, 2, 1, 4, 5, 4, 2, 5, 1]",filler
+Was Joseph positive that Linda waited?,3.6,1.2312,20,"[2, 3, 2, 5, 5, 2, 4, 4, 4, 4, 5, 4, 3, 1, 4, 5, 4, 2, 5, 4]",filler
+Was Joseph sad that Susan consented?,3.6,1.4654,20,"[4, 4, 2, 5, 1, 4, 4, 4, 5, 1, 5, 3, 4, 3, 5, 5, 5, 2, 5, 1]",filler
+Was Karen anxious that Robert understood?,3.25,1.3717,20,"[2, 4, 4, 4, 1, 4, 4, 4, 1, 4, 4, 1, 4, 3, 4, 5, 4, 1, 5, 2]",filler
+Was Karen content that Susan misunderstood?,3.45,1.4681,20,"[4, 3, 3, 1, 2, 4, 4, 4, 1, 4, 5, 5, 4, 4, 5, 5, 4, 1, 5, 1]",filler
+Was Karen irate that Jessica arrived?,3.95,1.2763,20,"[5, 4, 2, 5, 4, 5, 5, 4, 4, 5, 5, 4, 3, 1, 5, 5, 4, 2, 5, 2]",filler
+Was Karen proud that Nancy smiled?,3.8,1.105,20,"[1, 5, 3, 4, 4, 4, 4, 4, 5, 4, 5, 3, 3, 3, 5, 5, 3, 2, 5, 4]",filler
+Was Linda aware that Jessica understood?,4.55,0.7592,20,"[4, 5, 4, 5, 4, 5, 5, 5, 5, 4, 4, 4, 5, 5, 5, 5, 5, 2, 5, 5]",filler
+Was Linda concerned that Jessica laughed?,3.65,1.4244,20,"[2, 5, 2, 5, 2, 5, 4, 4, 4, 3, 5, 4, 3, 3, 5, 5, 5, 1, 5, 1]",filler
+Was Linda sure that Jessica misunderstood?,3.95,1.2763,20,"[3, 5, 3, 5, 5, 4, 4, 4, 5, 1, 5, 4, 3, 3, 5, 5, 5, 1, 5, 4]",filler
+Was Linda surprised that Karen arrived?,4.35,0.8751,20,"[5, 5, 3, 5, 4, 4, 5, 5, 5, 5, 5, 5, 3, 2, 4, 5, 4, 4, 5, 4]",filler
+Was Lisa sad that Patricia laughed?,4.1579,0.8983,19,"[5, 5, 3, 5, 4, 5, 4, 4, 5, 3, 4, 5, 3, 4, 4, 5, 4, 2, 5]",filler
+Was Lisa satisfied that Michael understood?,4.2,1.0052,20,"[5, 5, 4, 4, 5, 3, 4, 4, 5, 4, 5, 5, 3, 2, 5, 5, 5, 4, 5, 2]",filler
+Was Mary fearful that Daniel consented?,3.3,1.4179,20,"[3, 5, 2, 2, 2, 3, 3, 4, 2, 1, 5, 5, 3, 1, 5, 5, 4, 2, 5, 4]",filler
+Was Mary happy that Daniel understood?,4.3,0.9787,20,"[5, 5, 2, 5, 4, 4, 4, 5, 5, 4, 5, 5, 3, 5, 4, 5, 5, 2, 5, 4]",filler
+Was Mary irritated that Karen smiled?,4.15,1.0894,20,"[4, 4, 2, 5, 1, 5, 4, 5, 4, 3, 4, 4, 5, 5, 5, 5, 5, 4, 5, 4]",filler
+Was Mary sore that Christopher moved?,2.9,1.2524,20,"[2, 3, 3, 1, 2, 4, 4, 2, 5, 3, 4, 2, 3, 1, 2, 5, 5, 2, 3, 2]",filler
+Was Michael excited that Daniel arrived?,4.0,1.3765,20,"[4, 5, 3, 5, 5, 1, 3, 5, 5, 4, 5, 5, 3, 1, 5, 5, 4, 2, 5, 5]",filler
+Was Michael livid that Lisa cried?,4.0,1.0761,20,"[4, 5, 2, 4, 5, 2, 4, 4, 3, 5, 5, 5, 3, 2, 4, 5, 4, 5, 5, 4]",filler
+Was Nancy ashamed that Joseph smiled?,3.65,1.2258,20,"[4, 4, 3, 5, 2, 4, 4, 4, 4, 4, 5, 4, 2, 1, 2, 5, 5, 2, 5, 4]",filler
+Was Nancy confident that Christopher moved?,4.15,1.0894,20,"[2, 2, 4, 5, 5, 3, 5, 4, 4, 5, 5, 5, 4, 4, 5, 5, 5, 4, 5, 2]",filler
+Was Nancy disappointed that Christopher cried?,3.95,1.2344,20,"[4, 5, 2, 5, 4, 2, 3, 5, 5, 4, 4, 5, 3, 3, 4, 5, 5, 5, 5, 1]",filler
+Was Patricia furious that Christopher agreed?,3.65,1.268,20,"[2, 5, 2, 4, 4, 4, 3, 4, 4, 2, 4, 5, 3, 4, 5, 5, 5, 2, 5, 1]",filler
+Was Patricia jealous that Michael arrived?,3.5789,1.4266,19,"[4, 3, 3, 5, 2, 5, 4, 1, 2, 5, 4, 3, 5, 4, 5, 5, 2, 5, 1]",filler
+Was Richard bitter that Charles smiled?,3.7,1.4179,20,"[2, 4, 3, 4, 4, 5, 3, 5, 1, 1, 5, 4, 4, 4, 5, 5, 4, 5, 5, 1]",filler
+Was Richard confident that Daniel cried?,3.8,1.3611,20,"[2, 4, 5, 5, 4, 1, 3, 2, 3, 5, 4, 4, 4, 1, 4, 5, 5, 5, 5, 5]",filler
+Was Richard convinced that Lisa arrived?,3.75,1.3328,20,"[1, 5, 3, 5, 4, 2, 3, 4, 4, 4, 5, 5, 5, 2, 5, 5, 4, 2, 5, 2]",filler
+Was Richard disappointed that John consented?,3.75,1.4464,20,"[1, 4, 2, 5, 4, 4, 3, 5, 5, 2, 5, 5, 3, 5, 4, 5, 5, 2, 5, 1]",filler
+Was Richard distraught that Daniel concurred?,3.0,1.3765,20,"[2, 3, 2, 4, 2, 1, 4, 2, 1, 4, 2, 1, 2, 3, 5, 5, 4, 4, 5, 4]",filler
+Was Richard shocked that Linda concurred?,3.9,1.2096,20,"[2, 5, 3, 4, 2, 1, 4, 4, 5, 4, 4, 4, 3, 3, 5, 5, 5, 5, 5, 5]",filler
+Was Robert aware that William smiled?,4.5,0.9459,20,"[1, 5, 4, 5, 5, 5, 4, 5, 5, 4, 5, 4, 4, 5, 4, 5, 5, 5, 5, 5]",filler
+Was Robert doubtful that Nancy disagreed?,3.9,1.0208,20,"[2, 4, 3, 4, 4, 3, 4, 5, 4, 4, 4, 2, 5, 4, 4, 5, 5, 2, 5, 5]",filler
+Was Robert optimistic that Richard laughed?,3.85,1.2258,20,"[3, 5, 2, 4, 2, 4, 4, 4, 1, 4, 5, 2, 4, 5, 4, 5, 5, 5, 5, 4]",filler
+Was Robert sore that Patricia understood?,3.0,1.4142,20,"[2, 2, 4, 1, 1, 3, 3, 5, 1, 5, 4, 4, 3, 2, 5, 4, 4, 2, 4, 1]",filler
+Was Sarah flabbergasted that Susan smiled?,3.3,1.5594,20,"[2, 3, 2, 2, 1, 5, 3, 4, 1, 4, 5, 4, 4, 1, 4, 5, 5, 5, 5, 1]",filler
+Was Sarah mad that John cried?,4.2,1.3219,20,"[4, 5, 4, 5, 5, 2, 5, 4, 5, 4, 5, 5, 5, 1, 4, 5, 5, 5, 5, 1]",filler
+Was Susan grateful that Michael concurred?,4.2,0.9515,20,"[2, 4, 3, 4, 4, 4, 4, 5, 5, 3, 5, 5, 3, 3, 5, 5, 5, 5, 5, 5]",filler
+Was Susan irate that Lisa concurred?,3.15,1.5313,20,"[1, 3, 2, 1, 1, 3, 3, 5, 1, 4, 5, 4, 3, 3, 1, 5, 4, 5, 5, 4]",filler
+Was Thomas convinced that Karen understood?,4.05,1.191,20,"[2, 5, 2, 5, 5, 4, 4, 4, 5, 4, 5, 4, 3, 5, 5, 5, 5, 2, 5, 2]",filler
+Was Thomas ecstatic that Robert waited?,4.05,0.9445,20,"[3, 5, 2, 5, 4, 2, 4, 4, 5, 4, 5, 4, 3, 4, 5, 5, 4, 4, 5, 4]",filler
+Was Thomas enraged that Nancy agreed?,3.85,1.3485,20,"[2, 5, 1, 4, 4, 4, 4, 4, 3, 4, 5, 5, 2, 4, 5, 5, 5, 1, 5, 5]",filler
+Was Thomas excited that James agreed?,4.45,0.9987,20,"[3, 5, 4, 5, 5, 4, 5, 4, 5, 5, 1, 5, 5, 5, 4, 5, 5, 4, 5, 5]",filler
+Was Thomas fearful that Joseph moved?,3.65,1.04,20,"[3, 4, 3, 5, 4, 4, 3, 4, 4, 4, 3, 5, 3, 3, 4, 5, 4, 2, 5, 1]",filler
+Was Thomas flustered that James moved?,3.6,1.667,20,"[1, 5, 1, 5, 1, 4, 4, 4, 3, 5, 5, 5, 3, 1, 5, 5, 5, 4, 5, 1]",filler
+Was Thomas glad that Richard misunderstood?,3.55,1.5035,20,"[2, 4, 2, 5, 5, 4, 3, 5, 1, 4, 4, 2, 5, 2, 5, 5, 5, 2, 5, 1]",filler
+Was William distraught that Mary smiled?,3.65,1.4244,20,"[4, 5, 3, 5, 1, 4, 3, 4, 1, 4, 5, 5, 3, 2, 5, 5, 4, 4, 5, 1]",filler
+Was William furious that David disagreed?,3.9,1.1192,20,"[3, 5, 4, 5, 2, 2, 4, 5, 5, 3, 4, 5, 3, 3, 4, 5, 5, 2, 5, 4]",filler
+Was William proud that Sarah laughed?,3.5,1.469,20,"[1, 5, 2, 5, 4, 1, 3, 2, 1, 3, 4, 5, 3, 3, 4, 5, 5, 5, 5, 4]",filler
+Was William satisfied that James cried?,3.7,1.2607,20,"[4, 3, 4, 5, 4, 5, 2, 3, 1, 2, 3, 5, 2, 3, 5, 5, 4, 5, 5, 4]",filler
+What was Barbara angry that Thomas bought?,3.2,1.2814,20,"[2, 2, 2, 2, 1, 4, 3, 2, 5, 4, 2, 2, 3, 4, 4, 5, 3, 5, 5, 4]",test
+What was Barbara aware that Susan stole?,3.6,1.2732,20,"[4, 2, 3, 4, 5, 3, 4, 4, 4, 4, 2, 4, 3, 1, 4, 5, 1, 5, 5, 5]",test
+What was Barbara flabbergasted that Lisa wanted?,3.1,1.4832,20,"[2, 2, 2, 1, 1, 3, 4, 2, 5, 4, 1, 2, 3, 2, 5, 5, 5, 4, 5, 4]",test
+What was Charles anxious that Lisa sold?,3.0526,1.3934,19,"[2, 2, 4, 5, 1, 4, 3, 2, 4, 4, 2, 4, 3, 1, 5, 5, 4, 2, 1]",test
+What was Charles jealous that Jennifer took?,3.0526,1.471,19,"[2, 2, 5, 1, 5, 4, 2, 1, 3, 2, 4, 2, 3, 5, 5, 3, 3, 5, 1]",test
+What was Charles livid that Nancy took?,3.2632,1.5218,19,"[1, 2, 3, 4, 4, 4, 1, 1, 5, 3, 2, 5, 3, 1, 5, 5, 4, 5, 4]",test
+What was Charles sore that William understood?,2.85,1.4965,20,"[2, 2, 3, 2, 4, 4, 4, 1, 1, 4, 5, 5, 1, 1, 4, 5, 2, 2, 4, 1]",test
+What was Christopher certain that James stole?,3.65,1.5985,20,"[1, 2, 4, 5, 4, 2, 3, 1, 5, 2, 5, 5, 3, 1, 5, 5, 5, 5, 5, 5]",test
+What was Christopher irritated that Robert required?,3.3,1.5927,20,"[2, 2, 4, 5, 1, 5, 4, 4, 5, 5, 2, 4, 2, 1, 2, 5, 5, 2, 5, 1]",test
+What was David bitter that Jessica stole?,3.15,1.6631,20,"[3, 2, 3, 5, 1, 2, 4, 1, 1, 4, 1, 5, 5, 3, 5, 5, 5, 2, 5, 1]",test
+What was David content that Richard understood?,3.15,1.3089,20,"[3, 2, 3, 1, 1, 4, 3, 1, 4, 3, 4, 4, 3, 2, 2, 5, 4, 4, 5, 5]",test
+What was David fearful that Christopher desired?,3.2,1.4726,20,"[2, 2, 3, 4, 1, 2, 4, 2, 1, 4, 2, 5, 3, 1, 5, 5, 4, 5, 5, 4]",test
+What was David flustered that Lisa needed?,2.6,1.5009,20,"[1, 2, 2, 4, 1, 2, 3, 1, 4, 2, 1, 4, 2, 1, 4, 5, 5, 2, 5, 1]",test
+What was David proud that Patricia required?,2.75,1.3328,20,"[2, 2, 3, 2, 1, 4, 3, 1, 1, 3, 2, 2, 2, 2, 5, 5, 2, 4, 5, 4]",test
+What was Elizabeth bitter that Patricia wanted?,2.7895,1.5484,19,"[2, 2, 2, 1, 5, 5, 1, 3, 2, 1, 2, 3, 1, 4, 5, 2, 5, 5, 2]",test
+What was Elizabeth glad that Michael required?,2.75,1.5517,20,"[3, 2, 2, 5, 1, 3, 2, 1, 1, 4, 1, 4, 3, 1, 5, 5, 4, 2, 5, 1]",test
+What was Elizabeth sorry that Mary made?,3.05,1.6376,20,"[1, 2, 3, 2, 1, 4, 4, 1, 1, 5, 1, 4, 3, 1, 5, 5, 5, 4, 5, 4]",test
+What was Elizabeth surprised that Michael took?,3.3,1.4179,20,"[3, 2, 3, 2, 1, 5, 3, 2, 3, 4, 2, 5, 2, 1, 5, 5, 4, 4, 5, 5]",test
+What was James concerned that David sold?,2.85,1.6944,20,"[1, 2, 2, 5, 1, 2, 2, 1, 5, 1, 2, 5, 3, 1, 4, 5, 4, 1, 5, 5]",test
+What was James elated that Nancy took?,2.9,1.4832,20,"[2, 2, 3, 2, 1, 1, 4, 1, 1, 4, 2, 5, 2, 3, 4, 5, 2, 5, 5, 4]",test
+What was James enraged that Sarah broke?,3.0526,1.615,19,"[2, 2, 3, 5, 1, 2, 1, 1, 5, 2, 2, 5, 3, 1, 5, 5, 4, 5, 4]",test
+What was James irate that Jennifer wanted?,2.6,1.3534,20,"[1, 2, 3, 2, 1, 2, 4, 1, 4, 3, 2, 2, 3, 1, 2, 5, 4, 4, 5, 1]",test
+What was James jubilant that Thomas made?,2.85,1.4609,20,"[1, 2, 2, 4, 1, 3, 4, 1, 4, 4, 1, 5, 3, 2, 5, 3, 4, 5, 2, 1]",test
+What was James positive that Karen broke?,3.55,1.5035,20,"[1, 2, 4, 5, 4, 5, 4, 1, 5, 4, 1, 5, 3, 2, 4, 5, 2, 5, 5, 4]",test
+What was James relieved that Thomas sold?,3.1,1.619,20,"[2, 2, 4, 2, 1, 1, 5, 1, 5, 4, 2, 4, 2, 1, 5, 5, 2, 5, 5, 4]",test
+What was James shocked that Patricia made?,3.35,1.4965,20,"[1, 2, 2, 5, 1, 4, 4, 1, 5, 4, 1, 4, 3, 3, 4, 5, 4, 5, 5, 4]",test
+What was James worried that Thomas broke?,3.55,1.4318,20,"[2, 2, 3, 5, 1, 4, 4, 2, 5, 4, 2, 5, 3, 1, 5, 5, 4, 5, 5, 4]",test
+What was Jennifer indignant that Karen desired?,2.85,1.4244,20,"[3, 2, 3, 1, 1, 4, 3, 1, 1, 4, 1, 4, 3, 2, 5, 5, 3, 4, 5, 2]",test
+What was Jennifer satisfied that Mary needed?,2.8421,1.6077,19,"[3, 2, 2, 2, 1, 2, 3, 1, 1, 5, 2, 5, 1, 4, 5, 5, 1, 5, 4]",test
+What was Jessica convinced that Barbara preferred?,3.5263,1.4286,19,"[4, 2, 3, 4, 2, 2, 4, 2, 5, 2, 5, 2, 1, 5, 5, 4, 5, 5, 5]",test
+What was Jessica dubious that Barbara sold?,2.05,1.1459,20,"[2, 2, 2, 1, 1, 1, 2, 1, 2, 4, 2, 2, 3, 1, 1, 2, 4, 5, 2, 1]",test
+What was John amused that Christopher took?,3.15,1.5652,20,"[2, 2, 3, 5, 1, 3, 3, 1, 1, 4, 4, 5, 1, 2, 5, 5, 5, 2, 5, 4]",test
+What was John grateful that James wanted?,3.0,1.556,20,"[1, 2, 1, 2, 1, 2, 4, 4, 2, 5, 2, 2, 3, 4, 5, 5, 4, 5, 5, 1]",test
+What was John sad that Michael required?,2.5,1.2354,20,"[3, 2, 2, 2, 1, 3, 1, 1, 3, 4, 1, 2, 3, 2, 2, 5, 2, 4, 5, 2]",test
+What was Joseph flustered that John desired?,3.0,1.451,20,"[3, 2, 3, 4, 1, 2, 4, 1, 3, 5, 1, 2, 3, 4, 5, 4, 5, 1, 5, 2]",test
+What was Karen aware that Thomas needed?,3.25,1.2927,20,"[1, 3, 2, 4, 1, 2, 4, 2, 5, 4, 2, 4, 3, 2, 4, 5, 4, 4, 5, 4]",test
+What was Karen content that Susan required?,2.65,1.3485,20,"[3, 2, 3, 1, 2, 3, 3, 1, 4, 4, 1, 4, 2, 1, 1, 5, 2, 4, 5, 2]",test
+What was Karen ecstatic that Patricia understood?,3.25,1.3717,20,"[3, 2, 4, 4, 4, 2, 4, 1, 5, 4, 2, 2, 2, 1, 4, 5, 2, 5, 5, 4]",test
+What was Karen furious that Barbara desired?,2.9444,1.5519,18,"[3, 5, 1, 4, 2, 1, 4, 5, 2, 2, 2, 1, 4, 5, 4, 2, 5, 1]",test
+What was Karen irate that Jessica preferred?,2.75,1.4824,20,"[2, 2, 3, 4, 1, 1, 2, 1, 4, 2, 2, 5, 2, 2, 5, 5, 4, 2, 5, 1]",test
+What was Karen livid that Richard preferred?,2.9,1.5861,20,"[2, 2, 1, 2, 1, 2, 3, 1, 5, 4, 2, 4, 3, 1, 5, 5, 5, 4, 5, 1]",test
+What was Karen mad that Joseph preferred?,2.95,1.5035,20,"[2, 2, 4, 2, 1, 2, 4, 1, 5, 4, 1, 4, 3, 1, 5, 5, 2, 2, 5, 4]",test
+What was Linda annoyed that Daniel made?,2.85,1.4965,20,"[2, 2, 3, 4, 1, 5, 3, 2, 1, 2, 1, 5, 3, 3, 5, 4, 4, 1, 5, 1]",test
+What was Linda anxious that Mary broke?,3.1053,1.5237,19,"[2, 2, 5, 2, 4, 4, 1, 5, 4, 2, 4, 3, 1, 4, 5, 4, 1, 5, 1]",test
+What was Linda ashamed that Patricia took?,3.05,1.5381,20,"[1, 3, 3, 5, 1, 3, 2, 4, 3, 4, 1, 4, 3, 1, 5, 5, 2, 5, 5, 1]",test
+What was Linda distraught that Elizabeth desired?,2.7,1.4903,20,"[4, 2, 2, 2, 1, 4, 4, 1, 3, 3, 1, 2, 3, 1, 5, 5, 4, 1, 5, 1]",test
+What was Linda happy that Robert made?,3.15,1.4609,20,"[2, 2, 3, 5, 1, 3, 3, 1, 5, 3, 1, 4, 3, 1, 4, 5, 3, 5, 5, 4]",test
+What was Lisa amused that Mary bought?,3.3,1.5252,20,"[4, 2, 2, 5, 1, 3, 4, 2, 4, 4, 1, 5, 1, 1, 4, 5, 5, 4, 5, 4]",test
+What was Lisa concerned that Nancy made?,2.75,1.5174,20,"[1, 2, 3, 4, 1, 1, 3, 2, 2, 4, 1, 4, 2, 2, 5, 5, 5, 2, 5, 1]",test
+What was Mary furious that Sarah stole?,3.6,1.4654,20,"[4, 2, 2, 4, 2, 2, 4, 1, 5, 3, 5, 5, 3, 1, 4, 5, 5, 5, 5, 5]",test
+What was Mary irritated that Karen desired?,3.15,1.5313,20,"[4, 2, 3, 4, 1, 4, 1, 1, 4, 4, 1, 4, 3, 1, 5, 5, 5, 4, 5, 2]",test
+What was Mary mad that Barbara desired?,2.85,1.4609,20,"[1, 2, 3, 2, 1, 3, 3, 1, 4, 3, 2, 4, 3, 3, 5, 5, 5, 1, 5, 1]",test
+What was Mary sore that Christopher took?,2.75,1.2085,20,"[2, 2, 3, 2, 1, 3, 4, 1, 5, 4, 2, 2, 2, 3, 4, 4, 4, 2, 4, 1]",test
+What was Michael elated that William broke?,2.7,1.5927,20,"[1, 2, 4, 2, 1, 4, 2, 1, 1, 2, 2, 2, 1, 1, 4, 5, 4, 5, 5, 5]",test
+What was Michael excited that Daniel bought?,3.15,1.4244,20,"[2, 2, 2, 4, 1, 2, 4, 1, 5, 4, 2, 4, 3, 1, 4, 5, 3, 5, 5, 4]",test
+What was Michael hopeful that Jessica preferred?,3.1,1.3727,20,"[2, 2, 2, 2, 1, 4, 4, 1, 5, 4, 2, 4, 3, 2, 5, 5, 3, 2, 5, 4]",test
+What was Michael optimistic that Lisa needed?,3.2,1.4364,20,"[2, 2, 3, 4, 2, 2, 4, 1, 2, 5, 2, 5, 2, 1, 4, 5, 4, 5, 5, 4]",test
+What was Nancy glad that Sarah made?,3.5,1.3179,20,"[4, 2, 2, 5, 4, 4, 3, 2, 5, 2, 1, 4, 3, 3, 4, 5, 2, 5, 5, 5]",test
+What was Nancy impressed that Jennifer required?,3.0,1.5218,20,"[2, 2, 3, 4, 1, 2, 4, 1, 3, 4, 1, 4, 3, 1, 4, 5, 5, 5, 5, 1]",test
+What was Nancy positive that Barbara made?,3.0,1.5986,19,"[2, 2, 3, 2, 1, 4, 3, 1, 5, 4, 1, 5, 3, 1, 5, 1, 4, 5, 5]",test
+What was Nancy sad that William needed?,2.5,1.4327,20,"[1, 2, 3, 1, 1, 2, 1, 1, 3, 4, 2, 4, 3, 1, 4, 5, 2, 1, 5, 4]",test
+What was Patricia happy that Barbara required?,2.85,1.5313,20,"[2, 2, 3, 2, 1, 5, 4, 1, 1, 2, 1, 1, 3, 2, 5, 5, 4, 4, 5, 4]",test
+What was Patricia impressed that David preferred?,3.05,1.3563,20,"[3, 2, 2, 1, 1, 4, 4, 1, 4, 4, 1, 4, 3, 2, 4, 4, 3, 5, 5, 4]",test
+What was Patricia relieved that Charles understood?,3.55,1.5035,20,"[3, 2, 3, 4, 1, 3, 5, 1, 5, 4, 2, 5, 3, 1, 5, 5, 5, 5, 5, 4]",test
+What was Patricia sorry that Daniel sold?,3.15,1.387,20,"[1, 2, 2, 4, 1, 3, 4, 2, 4, 4, 2, 4, 2, 1, 4, 5, 4, 5, 5, 4]",test
+What was Richard certain that Nancy desired?,3.35,1.4244,20,"[1, 2, 4, 4, 1, 4, 4, 2, 5, 4, 2, 4, 2, 1, 4, 5, 4, 5, 5, 4]",test
+What was Richard confident that Daniel understood?,3.4,1.3917,20,"[4, 2, 3, 4, 1, 5, 3, 1, 5, 4, 2, 4, 3, 1, 4, 5, 3, 5, 5, 4]",test
+What was Richard distraught that Daniel broke?,3.2,1.3611,20,"[2, 2, 3, 4, 1, 3, 3, 1, 5, 1, 2, 4, 3, 3, 4, 5, 4, 5, 5, 4]",test
+What was Richard excited that Barbara needed?,2.8947,1.5949,19,"[3, 3, 4, 1, 1, 3, 1, 1, 4, 2, 5, 2, 1, 4, 5, 1, 5, 5, 4]",test
+What was Richard hopeful that Lisa understood?,3.5,1.469,20,"[2, 2, 2, 4, 5, 2, 1, 2, 5, 4, 5, 5, 3, 1, 4, 5, 5, 4, 5, 4]",test
+What was Robert annoyed that Elizabeth needed?,3.1,1.4473,20,"[1, 2, 3, 5, 1, 3, 4, 2, 5, 3, 1, 4, 3, 1, 4, 5, 2, 4, 5, 4]",test
+What was Robert confident that Mary required?,3.3,1.4546,20,"[1, 2, 2, 4, 1, 4, 4, 1, 4, 3, 2, 5, 3, 2, 5, 5, 5, 4, 5, 4]",test
+What was Robert disappointed that Elizabeth understood?,2.65,1.4244,20,"[1, 2, 3, 2, 2, 3, 2, 1, 1, 4, 2, 5, 3, 1, 5, 4, 2, 4, 5, 1]",test
+What was Robert enraged that Barbara bought?,3.65,1.268,20,"[4, 2, 4, 5, 1, 4, 3, 2, 5, 4, 2, 5, 3, 2, 5, 5, 4, 4, 5, 4]",test
+What was Robert grateful that Charles required?,2.7,1.3416,20,"[2, 2, 2, 2, 1, 4, 3, 1, 2, 2, 2, 2, 3, 1, 4, 5, 5, 2, 5, 4]",test
+What was Robert jealous that David required?,2.1,1.2524,20,"[2, 2, 2, 2, 1, 2, 3, 1, 1, 2, 1, 2, 1, 2, 2, 5, 1, 4, 5, 1]",test
+What was Robert jubilant that Jessica sold?,2.85,1.3089,20,"[2, 2, 3, 2, 1, 2, 3, 2, 4, 4, 2, 5, 1, 1, 5, 4, 4, 4, 2, 4]",test
+What was Robert optimistic that Richard made?,3.1,1.3727,20,"[1, 2, 3, 4, 2, 2, 3, 1, 3, 3, 2, 4, 3, 1, 5, 5, 4, 4, 5, 5]",test
+What was Robert proud that Christopher took?,2.9,1.5526,20,"[1, 2, 3, 5, 1, 3, 1, 2, 1, 3, 2, 4, 3, 1, 5, 5, 4, 2, 5, 5]",test
+What was Robert surprised that Lisa understood?,3.45,1.6051,20,"[4, 2, 3, 5, 5, 2, 1, 1, 5, 3, 1, 5, 3, 1, 5, 5, 5, 4, 5, 4]",test
+What was Sarah flabbergasted that Susan sold?,3.5789,1.539,19,"[2, 2, 2, 5, 1, 4, 4, 1, 4, 4, 5, 5, 1, 5, 5, 5, 4, 5, 4]",test
+What was Sarah indignant that Susan sold?,2.8,1.3611,20,"[4, 2, 2, 2, 1, 2, 3, 2, 1, 4, 4, 4, 3, 2, 5, 5, 2, 2, 5, 1]",test
+What was Sarah satisfied that Elizabeth broke?,2.9,1.4832,20,"[3, 2, 2, 1, 2, 4, 4, 1, 1, 4, 2, 5, 3, 1, 4, 5, 2, 5, 5, 2]",test
+What was Sarah sure that David bought?,3.4,1.5009,20,"[2, 2, 2, 4, 4, 4, 3, 1, 5, 5, 2, 5, 2, 1, 4, 5, 2, 5, 5, 5]",test
+What was Susan angry that Sarah preferred?,2.9,1.619,20,"[3, 2, 3, 1, 1, 2, 4, 1, 1, 4, 1, 5, 3, 1, 5, 5, 5, 2, 5, 4]",test
+What was Susan sure that Daniel required?,3.4,1.2312,20,"[1, 2, 3, 4, 1, 4, 4, 4, 5, 4, 2, 4, 3, 3, 4, 4, 5, 2, 5, 4]",test
+What was Susan worried that David required?,2.9,1.4473,20,"[2, 2, 3, 5, 1, 4, 3, 1, 3, 4, 2, 5, 3, 1, 2, 5, 4, 2, 5, 1]",test
+What was Thomas ashamed that Richard wanted?,3.2,1.6092,20,"[4, 2, 3, 5, 2, 3, 4, 1, 1, 2, 2, 5, 3, 1, 5, 5, 5, 5, 5, 1]",test
+What was Thomas convinced that Karen needed?,3.5,1.469,20,"[2, 2, 3, 5, 4, 2, 4, 1, 5, 3, 2, 5, 3, 1, 5, 5, 3, 5, 5, 5]",test
+What was Thomas disappointed that Linda needed?,3.15,1.6311,20,"[2, 3, 3, 5, 1, 5, 4, 1, 4, 4, 1, 2, 2, 1, 5, 4, 5, 5, 5, 1]",test
+What was Thomas doubtful that Charles wanted?,3.0,1.5218,20,"[2, 2, 4, 5, 1, 3, 1, 1, 3, 4, 4, 4, 3, 1, 4, 5, 1, 2, 5, 5]",test
+What was Thomas ecstatic that Robert took?,3.1053,1.5237,19,"[4, 2, 4, 2, 1, 1, 4, 1, 1, 5, 2, 2, 3, 4, 5, 4, 5, 5, 4]",test
+What was Thomas fearful that Joseph preferred?,2.9,1.4832,20,"[2, 2, 3, 1, 2, 2, 4, 1, 5, 5, 2, 4, 3, 1, 2, 5, 4, 4, 5, 1]",test
+What was William doubtful that Richard desired?,2.75,1.2927,20,"[3, 2, 2, 2, 2, 4, 4, 1, 1, 2, 2, 4, 3, 1, 5, 4, 5, 4, 2, 2]",test
+What was William dubious that Mary broke?,2.3,1.2607,20,"[2, 2, 4, 1, 2, 4, 1, 4, 1, 2, 2, 5, 3, 1, 1, 2, 2, 4, 2, 1]",test
+What was William shocked that Mary took?,3.05,1.5035,20,"[2, 2, 2, 5, 2, 4, 4, 2, 5, 4, 1, 4, 3, 1, 4, 5, 1, 4, 5, 1]",test
+William was concerned that Daniel waited.,4.2,0.9515,20,"[4, 5, 3, 5, 4, 5, 4, 4, 4, 4, 4, 5, 4, 5, 5, 5, 5, 2, 5, 2]",filler
+William was confident that Patricia concurred.,3.6,1.429,20,"[1, 4, 2, 2, 2, 2, 4, 4, 5, 4, 5, 5, 4, 3, 5, 5, 4, 1, 5, 5]",filler
+William was doubtful that Richard desired something.,3.55,1.2344,20,"[2, 4, 2, 4, 4, 1, 3, 4, 4, 4, 5, 5, 3, 3, 5, 5, 5, 4, 2, 2]",test
+William was dubious that Mary broke something.,3.35,1.4609,20,"[2, 5, 2, 1, 4, 4, 5, 4, 5, 4, 2, 4, 3, 1, 5, 5, 4, 4, 2, 1]",test
+William was fearful that Susan bought something.,4.15,0.7452,20,"[4, 4, 3, 5, 4, 3, 4, 4, 3, 4, 5, 5, 4, 3, 4, 5, 5, 5, 5, 4]",test
+William was flustered that Susan agreed.,3.45,1.4318,20,"[4, 4, 4, 2, 4, 4, 3, 4, 1, 4, 5, 5, 2, 1, 4, 5, 5, 2, 5, 1]",filler
+William was jubilant that Susan misunderstood.,2.45,1.2344,20,"[1, 3, 2, 2, 2, 2, 1, 4, 1, 2, 5, 4, 3, 2, 4, 3, 4, 1, 2, 1]",filler
+William was worried that Joseph disagreed.,4.0,1.3765,20,"[2, 4, 2, 5, 2, 4, 5, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 2, 5, 1]",filler

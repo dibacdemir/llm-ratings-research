@@ -1,103 +1,101 @@
-unit,mean,std,n,individual_ratings
-A fire drill disrupted the lesson on American history.,3.2667,1.7499,30,"[3, 5, 7, 1, 4, 6, 2, 3, 2, 6, 2, 1, 1, 2, 2, 2, 3, 5, 4, 5, 6, 1, 1, 5, 2, 3, 2, 5, 4, 3]"
-Aaron couldn't get the catchy tune out of his mind.,1.6667,1.3499,30,"[1, 1, 1, 1, 1, 2, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 3, 1, 4, 1, 4, 1, 1, 5, 1, 1, 1, 6, 1, 1]"
-Alan loved the cranberry sauce at dinner.,2.7,1.7729,30,"[5, 2, 7, 1, 2, 4, 1, 3, 1, 4, 1, 3, 1, 2, 1, 1, 1, 3, 4, 1, 6, 1, 2, 4, 2, 2, 2, 7, 3, 4]"
-Alicia stayed up for two days straight to complete the project.,1.8667,1.4545,30,"[2, 2, 1, 1, 1, 4, 1, 3, 1, 3, 1, 2, 1, 2, 1, 1, 2, 2, 1, 2, 2, 1, 1, 6, 1, 1, 1, 7, 1, 1]"
-Books can provide knowledge and act as stylish dcor,2.0333,1.2243,30,"[3, 5, 1, 1, 2, 3, 1, 3, 1, 2, 1, 1, 4, 2, 1, 1, 1, 2, 4, 1, 3, 1, 2, 2, 2, 5, 1, 1, 3, 1]"
-Bright spaces feel more open and welcoming.,4.3667,1.5808,30,"[4, 7, 7, 5, 5, 5, 3, 4, 6, 6, 5, 4, 7, 5, 5, 1, 3, 4, 5, 5, 6, 2, 2, 1, 3, 4, 4, 5, 5, 3]"
-Chris was able to walk away without hesitation.,1.8333,1.098,30,"[1, 2, 1, 3, 1, 3, 2, 3, 1, 2, 1, 2, 1, 2, 1, 1, 3, 2, 2, 1, 2, 1, 2, 5, 1, 1, 1, 5, 1, 1]"
-Communities with fresh water access have fewer heath issues.,3.7667,1.7641,30,"[2, 3, 1, 2, 2, 5, 6, 2, 5, 7, 2, 6, 5, 5, 2, 1, 2, 3, 5, 5, 6, 4, 2, 5, 5, 2, 2, 5, 5, 6]"
-Dinner at the hotel was accompanied by hula dancing.,4.8333,2.1305,30,"[5, 6, 7, 2, 7, 7, 4, 5, 7, 7, 1, 1, 1, 6, 1, 3, 6, 5, 5, 3, 6, 1, 6, 7, 5, 6, 5, 7, 7, 6]"
-Dinner reservations doubled the following week.,2.6333,1.663,30,"[1, 5, 1, 1, 1, 5, 2, 2, 2, 4, 1, 3, 5, 4, 1, 1, 1, 2, 6, 1, 3, 1, 1, 3, 3, 2, 2, 5, 4, 6]"
-Emma acted quickly and confidently.,1.3,0.9363,30,"[1, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 1, 5, 1, 1, 1, 1, 1, 1]"
-Employment rates for local residents went up.,1.5667,0.8825,30,"[1, 3, 1, 1, 1, 2, 1, 2, 2, 3, 1, 1, 1, 1, 1, 1, 3, 2, 3, 1, 4, 1, 1, 1, 1, 1, 1, 3, 1, 1]"
-Everyone needs their daily caffeine hit.,1.5517,1.2481,29,"[2, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 2, 1, 1, 1, 4, 1, 2, 1, 3, 1, 1, 1, 1, 1, 1, 7, 1, 1]"
-Fans were left disappointed and searching for resales.,1.5667,0.9894,30,"[1, 2, 1, 1, 2, 2, 2, 2, 1, 2, 1, 1, 1, 2, 1, 1, 2, 2, 3, 1, 1, 1, 1, 1, 1, 1, 1, 6, 1, 2]"
-Flowers add beauty to a windowsill.,6.1,1.1358,30,"[7, 7, 7, 6, 6, 7, 6, 4, 6, 5, 7, 7, 7, 5, 7, 5, 7, 7, 7, 7, 6, 5, 3, 7, 5, 5, 4, 7, 7, 7]"
-Food banks offer meals to those in need.,4.1333,1.9788,30,"[5, 3, 7, 3, 5, 6, 3, 2, 7, 7, 2, 2, 1, 6, 1, 5, 4, 4, 6, 5, 5, 1, 6, 7, 3, 2, 1, 6, 4, 5]"
-Grace greeted everyone and made lively conversation.,2.0,1.5055,30,"[2, 3, 1, 1, 2, 1, 1, 4, 1, 1, 1, 3, 1, 3, 1, 1, 2, 2, 1, 1, 4, 1, 1, 2, 1, 2, 1, 7, 6, 2]"
-Helmets guard heads during sporting events.,2.9,1.7195,30,"[6, 5, 1, 4, 3, 5, 4, 3, 2, 4, 1, 1, 1, 2, 3, 3, 1, 2, 4, 1, 3, 1, 1, 6, 2, 2, 2, 7, 5, 2]"
-Inside the house everything was calm and peaceful.,4.7,1.9689,30,"[3, 6, 7, 2, 7, 5, 3, 6, 6, 7, 6, 2, 1, 7, 1, 6, 2, 3, 7, 7, 5, 2, 6, 7, 4, 5, 5, 5, 5, 3]"
-It started raining in the middle of the kickball game.,5.0333,1.5808,30,"[4, 6, 7, 7, 6, 7, 5, 6, 2, 7, 4, 5, 3, 5, 5, 2, 6, 7, 5, 5, 4, 3, 3, 2, 5, 5, 5, 7, 7, 6]"
-Jane solved the equation in a few minutes.,1.4333,0.9195,30,"[1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 4, 2, 2, 1, 1, 1, 1, 1, 1, 5, 1, 1]"
-John discovered that his bag had been lost in transit.,2.4667,1.668,30,"[4, 6, 1, 1, 3, 5, 2, 4, 1, 3, 1, 2, 1, 2, 1, 3, 1, 2, 5, 1, 4, 1, 2, 1, 2, 2, 1, 7, 4, 1]"
-John was late to pick up his daughter from school.,3.9333,2.1437,30,"[2, 5, 1, 1, 4, 6, 2, 5, 6, 7, 1, 1, 1, 6, 1, 4, 5, 3, 6, 5, 5, 1, 6, 7, 2, 3, 3, 7, 6, 6]"
-Lumberjacks struggled to sustain their livelihoods.,2.9333,1.6918,30,"[2, 3, 1, 1, 1, 5, 4, 2, 2, 5, 1, 5, 5, 1, 4, 1, 3, 2, 5, 3, 4, 5, 1, 1, 5, 4, 1, 6, 4, 1]"
-Many stores ran out of popular items.,3.0,1.7512,30,"[5, 7, 1, 2, 4, 6, 2, 2, 6, 4, 2, 2, 1, 6, 1, 2, 4, 3, 6, 3, 3, 1, 2, 2, 2, 2, 2, 1, 4, 2]"
-Marching bands and floats glided down the street.,4.9,1.8321,30,"[6, 7, 7, 1, 4, 6, 3, 5, 6, 7, 4, 2, 7, 6, 4, 4, 2, 6, 6, 6, 5, 1, 6, 3, 4, 6, 3, 7, 7, 6]"
-Marcia could feel the boards wobble during the show.,3.0333,1.8345,30,"[3, 6, 1, 2, 5, 5, 4, 3, 2, 6, 1, 1, 1, 4, 1, 1, 5, 4, 5, 6, 5, 1, 2, 2, 2, 3, 2, 1, 6, 1]"
-Mark thought the speaker was boring and repetitive.,1.931,1.3879,29,"[2, 2, 1, 1, 2, 4, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 2, 5, 2, 5, 1, 1, 3, 1, 1, 2, 6, 1]"
-Moving through the security line took longer than usual.,3.7333,1.8962,30,"[5, 5, 1, 6, 7, 6, 2, 4, 4, 2, 1, 1, 1, 5, 2, 3, 2, 5, 6, 5, 4, 1, 4, 4, 2, 5, 2, 7, 6, 4]"
-Passengers crowded the gate waiting for further updates.,4.2,2.0067,30,"[6, 5, 1, 4, 6, 7, 3, 5, 5, 5, 2, 1, 1, 5, 1, 3, 2, 4, 5, 7, 5, 1, 5, 7, 4, 5, 5, 7, 7, 2]"
-Practical tips help readers adopt eco-friendly practices.,2.2333,1.5424,30,"[1, 1, 1, 2, 1, 2, 5, 2, 1, 3, 1, 3, 1, 1, 4, 1, 4, 1, 1, 1, 3, 4, 1, 2, 3, 3, 1, 6, 1, 6]"
-Rebecca thinks that breaking up is the only option.,1.3667,0.875,30,"[1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 3, 2, 1, 1, 3, 1, 1, 2, 1, 1, 1, 5, 1, 1]"
-Routes pass through historic towns and lush countryside.,6.6,0.7572,30,"[6, 7, 7, 7, 7, 7, 6, 6, 7, 7, 6, 7, 7, 7, 7, 7, 4, 7, 7, 6, 5, 7, 7, 7, 7, 7, 7, 5, 7, 7]"
-Stars illuminate the night sky.,6.3667,1.1968,30,"[7, 6, 7, 5, 7, 7, 7, 7, 6, 7, 7, 7, 7, 6, 7, 5, 7, 7, 7, 5, 6, 7, 6, 1, 6, 6, 7, 7, 7, 7]"
-Steve's roasted chicken was charred and bitter.,2.6333,2.0572,30,"[6, 2, 7, 1, 1, 3, 2, 3, 1, 1, 1, 5, 1, 1, 1, 1, 1, 6, 5, 3, 4, 1, 1, 2, 1, 1, 1, 7, 3, 6]"
-Stop signs in the small coastal town were knocked over.,5.8333,1.3187,30,"[6, 7, 7, 6, 7, 7, 5, 6, 6, 7, 3, 5, 7, 7, 6, 7, 4, 6, 5, 6, 5, 3, 6, 6, 6, 6, 2, 7, 7, 7]"
-Student engagement and participation levels increased.,1.8,1.376,30,"[1, 2, 1, 1, 1, 1, 1, 2, 1, 3, 1, 2, 1, 1, 1, 1, 1, 2, 4, 1, 3, 1, 2, 6, 1, 1, 1, 6, 3, 1]"
-Student grades improved across the board.,1.7333,1.3646,30,"[1, 3, 1, 1, 1, 3, 2, 1, 1, 3, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 6, 1, 1, 1, 6, 3, 1]"
-The abstract piece uses vibrant colors to explore love.,2.2333,1.5206,30,"[5, 1, 1, 1, 1, 2, 3, 2, 1, 3, 1, 4, 1, 1, 1, 2, 1, 4, 6, 2, 3, 1, 2, 3, 2, 1, 1, 6, 1, 4]"
-The airplane ride was smooth and calm.,4.0,1.7811,29,"[5, 6, 1, 2, 5, 7, 3, 4, 6, 7, 1, 3, 1, 5, 4, 5, 3, 5, 5, 2, 4, 3, 2, 4, 4, 2, 7, 6, 4]"
-The alleyway behind the shop reeked of garbage.,5.3,1.7349,30,"[6, 7, 7, 6, 7, 7, 5, 4, 6, 7, 4, 3, 1, 6, 2, 6, 2, 6, 7, 7, 6, 3, 6, 3, 5, 7, 6, 5, 7, 5]"
-The appliances in the kitchen short-circuited.,3.6667,2.241,30,"[2, 7, 1, 1, 6, 6, 1, 4, 6, 7, 1, 1, 1, 6, 1, 6, 2, 4, 6, 6, 5, 1, 6, 2, 2, 3, 4, 7, 3, 2]"
-The arts create a shared experience that connects people.,2.6333,1.8163,30,"[4, 3, 1, 1, 1, 2, 4, 3, 1, 4, 5, 3, 7, 1, 1, 1, 3, 1, 3, 5, 4, 1, 1, 2, 1, 2, 1, 7, 5, 1]"
-The ascent of the mountain was deathly cold.,6.2333,0.8035,30,"[5, 7, 7, 6, 5, 6, 7, 6, 7, 7, 5, 5, 7, 4, 7, 7, 7, 6, 6, 6, 6, 7, 6, 6, 7, 6, 6, 7, 7, 6]"
-The astronaut embarked on a mission with resolve.,3.6,1.9596,30,"[2, 6, 1, 1, 5, 5, 6, 5, 4, 4, 2, 6, 1, 4, 6, 1, 2, 4, 6, 5, 4, 1, 2, 4, 4, 2, 1, 1, 7, 6]"
-The audience slowly filed into their seats.,3.4667,1.7269,30,"[5, 5, 1, 1, 6, 5, 3, 2, 2, 6, 2, 1, 1, 4, 2, 4, 2, 6, 5, 5, 4, 1, 3, 4, 2, 4, 3, 6, 6, 3]"
-The audience went silent and the spotlight came on.,3.6667,1.9889,30,"[2, 6, 1, 1, 2, 6, 3, 5, 2, 5, 1, 2, 5, 4, 1, 4, 2, 6, 6, 5, 5, 1, 3, 7, 3, 5, 3, 6, 7, 1]"
-The baby giggled with delight when she saw her mom.,2.8,1.8511,30,"[6, 4, 7, 1, 2, 2, 2, 3, 1, 3, 2, 4, 1, 2, 1, 2, 4, 4, 4, 1, 4, 1, 2, 1, 1, 1, 1, 6, 7, 4]"
-The badminton tournament took place on a wooden floor.,4.6667,2.1499,30,"[6, 7, 7, 1, 7, 6, 4, 4, 5, 7, 3, 2, 1, 6, 2, 4, 2, 7, 7, 7, 4, 1, 3, 6, 2, 6, 3, 7, 7, 6]"
-The baker crafted a delicate pastry with care.,3.2069,2.0236,29,"[5, 7, 7, 1, 5, 5, 2, 2, 2, 5, 1, 2, 1, 3, 1, 1, 2, 4, 6, 5, 5, 1, 1, 5, 1, 2, 1, 5, 5]"
-The book it was based on had thrilling moments.,1.5333,0.9911,30,"[2, 2, 1, 1, 1, 2, 2, 2, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 3, 1, 1, 2, 1, 1, 1, 6, 1, 1]"
-The bookstore carries a great variety of fantasy novels.,4.8,2.0396,30,"[2, 6, 7, 5, 7, 7, 3, 5, 6, 7, 1, 2, 7, 7, 1, 5, 6, 4, 6, 5, 5, 1, 6, 7, 3, 5, 6, 5, 6, 1]"
-The cabin was rustic and filled with character.,6.1,1.2741,30,"[4, 7, 7, 6, 7, 7, 5, 6, 7, 7, 5, 5, 7, 7, 6, 7, 7, 7, 7, 6, 6, 5, 6, 1, 6, 7, 6, 5, 7, 7]"
-The calm atmosphere helps reduce stress levels.,3.2333,1.6869,30,"[1, 4, 7, 1, 1, 2, 5, 4, 2, 4, 5, 6, 4, 3, 4, 1, 2, 3, 3, 3, 2, 4, 1, 6, 3, 1, 2, 6, 4, 3]"
-The colorful creature has blue feathers and a pretty call.,4.7333,2.0966,30,"[6, 7, 7, 1, 5, 2, 7, 5, 2, 3, 6, 6, 6, 1, 5, 1, 6, 6, 5, 6, 3, 5, 1, 7, 5, 5, 2, 7, 7, 7]"
-The conductor raised her baton to begin the piece.,3.8,2.242,30,"[5, 7, 7, 1, 5, 6, 3, 5, 1, 4, 1, 2, 1, 3, 1, 5, 1, 5, 5, 6, 7, 1, 1, 5, 1, 5, 2, 7, 7, 4]"
-The construction team questioned the window placement.,3.5,1.6882,30,"[5, 5, 1, 1, 4, 5, 2, 2, 2, 7, 3, 5, 1, 4, 4, 1, 3, 3, 5, 5, 5, 1, 2, 5, 3, 3, 2, 6, 5, 5]"
-The couple was forced to end their relationship.,1.3,0.6904,30,"[1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 4, 1, 1, 2, 1, 1, 1, 1, 2, 1]"
-The desert was silent and desolate.,6.5,1.0247,30,"[5, 7, 7, 6, 7, 7, 7, 6, 2, 7, 7, 6, 7, 7, 7, 7, 5, 6, 7, 7, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7]"
-The development will include new high-rises and parks.,5.0333,1.6017,30,"[1, 7, 1, 5, 7, 6, 5, 5, 7, 7, 4, 6, 5, 6, 3, 6, 5, 4, 5, 5, 4, 4, 6, 2, 6, 5, 5, 7, 6, 6]"
-The device features advanced AI capabilities.,1.4667,1.3098,30,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 3, 1, 1, 1, 1, 1, 1, 7, 1, 4]"
-The diner piled plates high with hearty comfort food.,4.0667,2.2794,30,"[6, 7, 7, 1, 7, 7, 3, 4, 6, 7, 1, 1, 1, 6, 1, 3, 2, 5, 5, 2, 6, 1, 6, 3, 4, 5, 1, 7, 5, 2]"
-The driver filled the tank with gas on the way home.,3.8966,1.9181,29,"[6, 5, 7, 3, 2, 5, 4, 3, 4, 3, 1, 1, 7, 4, 3, 2, 7, 7, 4, 1, 4, 1, 5, 5, 2, 3, 4, 7, 3]"
-The electric bill increased noticeably that month.,1.4,0.8794,30,"[1, 2, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 2, 1, 1, 3, 1, 5, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
-The family van was designed for comfort and safety.,3.2,1.869,30,"[4, 5, 1, 4, 6, 6, 2, 2, 6, 3, 1, 3, 1, 3, 1, 3, 6, 3, 6, 3, 4, 1, 2, 1, 2, 2, 2, 7, 5, 1]"
-The film's plot evolved into a Western crime drama.,3.1667,1.8812,30,"[5, 6, 7, 1, 1, 5, 5, 2, 1, 7, 1, 4, 1, 2, 2, 3, 1, 3, 3, 5, 4, 3, 2, 3, 2, 4, 1, 6, 4, 1]"
-The findings yield insights into cultural trade of the time.,1.8333,1.2134,30,"[1, 1, 1, 1, 1, 3, 5, 2, 2, 5, 1, 4, 1, 2, 1, 1, 1, 1, 2, 4, 3, 1, 1, 2, 2, 2, 1, 1, 1, 1]"
-The firm specializes in software for small businesses.,2.1333,1.6479,30,"[1, 2, 1, 1, 4, 4, 2, 2, 5, 5, 1, 1, 1, 3, 1, 2, 4, 1, 5, 1, 2, 1, 1, 1, 1, 1, 1, 7, 1, 1]"
-The firm's new laptop is cutting-edge and stylish.,2.0,1.4856,29,"[4, 1, 1, 1, 1, 3, 1, 2, 1, 3, 1, 1, 1, 3, 1, 1, 2, 3, 5, 1, 3, 1, 1, 1, 1, 1, 7, 4, 2]"
-The food critic tipped handsomely for her meal.,2.8333,1.8454,30,"[3, 5, 7, 1, 4, 4, 1, 2, 2, 1, 1, 1, 1, 4, 1, 2, 1, 5, 5, 1, 5, 1, 1, 4, 3, 2, 2, 7, 4, 4]"
-The gallery opened its doors to the public.,4.8667,1.875,30,"[3, 6, 1, 1, 7, 7, 3, 3, 6, 7, 5, 3, 7, 6, 4, 6, 6, 3, 7, 5, 4, 1, 7, 5, 4, 5, 7, 6, 5, 6]"
-The gardener nurtured the flowers with patience.,5.6333,1.6829,30,"[4, 7, 7, 1, 7, 6, 6, 6, 6, 7, 7, 6, 7, 5, 7, 5, 7, 5, 7, 5, 6, 7, 2, 7, 5, 6, 5, 1, 7, 5]"
-The guests arrived just as the meal was ready.,3.2,1.99,30,"[6, 5, 7, 1, 1, 3, 1, 3, 2, 4, 1, 1, 1, 5, 1, 1, 5, 4, 6, 4, 4, 1, 2, 7, 2, 2, 3, 6, 5, 2]"
-The hand-held tablet worked flawlessly.,1.4667,0.9911,30,"[4, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 5, 1, 3, 1, 2, 1, 1, 1, 1, 1, 1, 1]"
-The historian uncovered evidence to find the truth.,1.9667,1.4941,30,"[1, 6, 1, 1, 1, 2, 3, 2, 1, 4, 1, 1, 1, 2, 1, 1, 2, 2, 4, 2, 3, 1, 1, 2, 2, 1, 1, 7, 1, 1]"
-The hunter aimed his bow into the forest.,6.1333,1.1757,30,"[6, 7, 7, 5, 7, 7, 6, 6, 7, 7, 7, 6, 7, 6, 7, 5, 6, 7, 6, 6, 6, 5, 6, 7, 6, 7, 5, 1, 6, 7]"
-The judge assigned a disappointingly late court date.,2.3667,1.5808,30,"[1, 5, 1, 1, 2, 5, 1, 3, 3, 3, 1, 1, 1, 4, 1, 1, 2, 2, 2, 3, 2, 1, 3, 6, 1, 2, 2, 7, 2, 2]"
-The local river was finally clean enough to swim in.,6.3333,0.83,30,"[6, 7, 7, 4, 7, 7, 7, 6, 7, 7, 5, 7, 7, 6, 7, 6, 7, 6, 7, 7, 5, 5, 6, 7, 6, 6, 7, 5, 7, 6]"
-The locals found the ruins ordinary and unremarkable.,5.2,1.6613,30,"[5, 6, 7, 7, 7, 5, 6, 6, 6, 7, 7, 4, 5, 6, 6, 4, 2, 4, 6, 5, 4, 1, 6, 1, 6, 6, 3, 7, 6, 5]"
-The manager understood how to outdo the competitor.,1.5,1.0878,30,"[1, 2, 1, 1, 2, 4, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 3, 1, 2, 1, 1, 1, 1, 6, 1, 1, 1, 1, 1, 1]"
-The photographer took a photo that seemed to breathe.,3.4333,1.8741,30,"[2, 1, 1, 2, 2, 3, 5, 5, 2, 5, 7, 6, 7, 2, 4, 1, 4, 2, 4, 3, 6, 2, 2, 6, 3, 5, 1, 5, 4, 1]"
-The photos raise awareness of conservation efforts.,3.6333,1.9914,30,"[4, 6, 1, 3, 1, 2, 6, 3, 2, 6, 5, 6, 7, 2, 4, 1, 1, 5, 2, 4, 5, 4, 1, 2, 5, 5, 2, 7, 6, 1]"
-The pilot announced the descent over the intercom.,3.7,1.8824,30,"[5, 7, 1, 1, 5, 5, 4, 5, 3, 6, 1, 3, 1, 5, 4, 2, 2, 4, 1, 6, 5, 2, 2, 7, 4, 4, 2, 4, 7, 3]"
-The production will be a modern take on the original show.,2.0667,1.4126,30,"[2, 1, 1, 1, 4, 4, 2, 3, 2, 4, 1, 1, 1, 3, 1, 1, 2, 1, 4, 3, 3, 1, 2, 2, 1, 1, 1, 7, 1, 1]"
-The puppy snuggled into a warm blanket.,3.7931,2.2951,29,"[7, 7, 7, 1, 4, 5, 2, 3, 5, 2, 4, 7, 1, 5, 1, 2, 2, 7, 5, 4, 2, 1, 1, 2, 2, 1, 7, 7, 6]"
-The red wine was tannic and sweet.,2.5667,1.8562,30,"[6, 2, 7, 1, 3, 4, 2, 3, 1, 1, 1, 5, 1, 1, 1, 1, 5, 1, 5, 2, 4, 2, 1, 4, 1, 1, 1, 6, 3, 1]"
-The restaurant opened for dinner in the early evening.,4.7586,1.9592,29,"[6, 6, 7, 5, 5, 7, 2, 3, 6, 7, 2, 1, 5, 7, 1, 3, 5, 3, 7, 5, 1, 7, 7, 4, 5, 6, 6, 5, 4]"
-The runner completed the race in a new personal best time.,3.3448,1.8621,29,"[2, 6, 1, 2, 2, 5, 5, 4, 1, 6, 3, 1, 5, 5, 3, 1, 4, 2, 2, 4, 5, 2, 2, 2, 2, 1, 7, 6, 6]"
-The singer's lyrics conveyed profound feelings.,1.7667,1.3337,30,"[1, 2, 1, 1, 1, 3, 1, 4, 1, 1, 2, 5, 1, 1, 1, 1, 1, 1, 2, 2, 4, 1, 1, 3, 1, 1, 1, 6, 1, 1]"
-The species is notable for its vibrant colors.,3.5333,1.9619,30,"[6, 6, 1, 1, 5, 2, 6, 4, 1, 2, 5, 7, 6, 1, 3, 1, 4, 3, 5, 1, 5, 6, 2, 2, 4, 4, 2, 1, 6, 4]"
-The storm brought fear and destruction.,4.7586,1.8129,29,"[4, 6, 7, 3, 7, 5, 5, 6, 2, 6, 2, 7, 7, 2, 7, 3, 7, 6, 5, 1, 4, 5, 2, 3, 5, 6, 5, 4, 6]"
-The stylish centerpiece will impress many dinner guests.,2.8667,2.0122,30,"[6, 6, 1, 1, 2, 4, 2, 4, 2, 7, 1, 1, 1, 2, 1, 2, 2, 4, 6, 2, 2, 1, 2, 1, 2, 2, 2, 7, 7, 3]"
-The sweet mango cooled Sara's mouth with each bite.,2.9667,2.1053,30,"[6, 3, 7, 1, 1, 4, 5, 2, 3, 2, 2, 6, 1, 2, 1, 1, 1, 4, 1, 1, 7, 5, 1, 2, 2, 2, 1, 7, 6, 2]"
-The tremor registered a magnitude of 7.5.,4.0,1.8797,30,"[2, 3, 7, 3, 3, 3, 6, 6, 2, 6, 2, 6, 4, 2, 6, 1, 7, 4, 2, 2, 5, 5, 2, 1, 5, 6, 5, 7, 4, 3]"
-The tulips are vibrant and healthy.,5.5667,1.7452,30,"[7, 7, 7, 1, 5, 5, 6, 6, 4, 7, 7, 6, 7, 3, 6, 3, 7, 6, 5, 3, 6, 7, 2, 7, 6, 7, 3, 7, 7, 7]"
-The whistleblower uncovered things that upset the public.,1.6333,1.3287,30,"[1, 1, 1, 1, 2, 2, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 3, 1, 5, 1, 1, 3, 1, 1, 1, 7, 1, 1]"
-The yoga studio focuses on meditation and stretching.,4.5,1.9621,30,"[3, 7, 1, 2, 7, 7, 3, 5, 6, 7, 3, 4, 1, 6, 3, 6, 2, 4, 6, 6, 4, 1, 6, 6, 4, 5, 5, 7, 6, 2]"
-There are several tall trees in the backyard.,6.6552,0.6032,29,"[7, 7, 7, 7, 7, 7, 6, 7, 7, 5, 7, 7, 7, 7, 6, 7, 7, 7, 6, 5, 6, 7, 7, 7, 6, 7, 7, 6, 7]"
-Timmy shook with fear under the covers in his bed.,3.8333,2.1461,30,"[5, 7, 1, 1, 6, 7, 3, 3, 6, 4, 3, 3, 1, 5, 1, 1, 2, 6, 6, 6, 7, 1, 2, 6, 2, 2, 3, 5, 7, 3]"
-Users felt more secure about their personal information.,1.4,0.9522,30,"[2, 1, 1, 2, 1, 2, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 6, 1, 1]"
-Writers transform empty pages into captivating stories.,1.8667,1.335,30,"[4, 1, 1, 1, 2, 2, 4, 2, 1, 4, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 5, 1, 1, 2, 1, 2, 1, 6, 2, 1]"
-You are very attentive and curious.,1.4138,1.0345,29,"[1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 5, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 5, 1, 1, 1, 1, 1, 2]"
+unit,mean,std,n,individual_ratings,item_type
+A fire drill disrupted the lesson on American history.,3.2667,1.7798,30,"[3, 5, 7, 1, 4, 6, 2, 3, 2, 6, 2, 1, 1, 2, 2, 2, 3, 5, 4, 5, 6, 1, 1, 5, 2, 3, 2, 5, 4, 3]",test
+Aaron couldn't get the catchy tune out of his mind.,1.6667,1.373,30,"[1, 1, 1, 1, 1, 2, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 3, 1, 4, 1, 4, 1, 1, 5, 1, 1, 1, 6, 1, 1]",test
+Alan loved the cranberry sauce at dinner.,2.7,1.8033,30,"[5, 2, 7, 1, 2, 4, 1, 3, 1, 4, 1, 3, 1, 2, 1, 1, 1, 3, 4, 1, 6, 1, 2, 4, 2, 2, 2, 7, 3, 4]",test
+Alicia stayed up for two days straight to complete the project.,1.8667,1.4794,30,"[2, 2, 1, 1, 1, 4, 1, 3, 1, 3, 1, 2, 1, 2, 1, 1, 2, 2, 1, 2, 2, 1, 1, 6, 1, 1, 1, 7, 1, 1]",test
+Books can provide knowledge and act as stylish décor,2.0333,1.2452,30,"[3, 5, 1, 1, 2, 3, 1, 3, 1, 2, 1, 1, 4, 2, 1, 1, 1, 2, 4, 1, 3, 1, 2, 2, 2, 5, 1, 1, 3, 1]",test
+Bright spaces feel more open and welcoming.,4.3667,1.6078,30,"[4, 7, 7, 5, 5, 5, 3, 4, 6, 6, 5, 4, 7, 5, 5, 1, 3, 4, 5, 5, 6, 2, 2, 1, 3, 4, 4, 5, 5, 3]",test
+Chris was able to walk away without hesitation.,1.8333,1.1167,30,"[1, 2, 1, 3, 1, 3, 2, 3, 1, 2, 1, 2, 1, 2, 1, 1, 3, 2, 2, 1, 2, 1, 2, 5, 1, 1, 1, 5, 1, 1]",test
+Communities with fresh water access have fewer heath issues.,3.7667,1.7943,30,"[2, 3, 1, 2, 2, 5, 6, 2, 5, 7, 2, 6, 5, 5, 2, 1, 2, 3, 5, 5, 6, 4, 2, 5, 5, 2, 2, 5, 5, 6]",test
+Dinner at the hotel was accompanied by hula dancing.,4.8333,2.1669,30,"[5, 6, 7, 2, 7, 7, 4, 5, 7, 7, 1, 1, 1, 6, 1, 3, 6, 5, 5, 3, 6, 1, 6, 7, 5, 6, 5, 7, 7, 6]",test
+Dinner reservations doubled the following week.,2.6333,1.6914,30,"[1, 5, 1, 1, 1, 5, 2, 2, 2, 4, 1, 3, 5, 4, 1, 1, 1, 2, 6, 1, 3, 1, 1, 3, 3, 2, 2, 5, 4, 6]",test
+Emma acted quickly and confidently.,1.3,0.9523,30,"[1, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 1, 5, 1, 1, 1, 1, 1, 1]",test
+Employment rates for local residents went up.,1.5667,0.8976,30,"[1, 3, 1, 1, 1, 2, 1, 2, 2, 3, 1, 1, 1, 1, 1, 1, 3, 2, 3, 1, 4, 1, 1, 1, 1, 1, 1, 3, 1, 1]",test
+Everyone needs their daily caffeine hit.,1.5517,1.2702,29,"[2, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 2, 1, 1, 1, 4, 1, 2, 1, 3, 1, 1, 1, 1, 1, 1, 7, 1, 1]",test
+Fans were left disappointed and searching for resales.,1.5667,1.0063,30,"[1, 2, 1, 1, 2, 2, 2, 2, 1, 2, 1, 1, 1, 2, 1, 1, 2, 2, 3, 1, 1, 1, 1, 1, 1, 1, 1, 6, 1, 2]",test
+Flowers add beauty to a windowsill.,6.1,1.1552,30,"[7, 7, 7, 6, 6, 7, 6, 4, 6, 5, 7, 7, 7, 5, 7, 5, 7, 7, 7, 7, 6, 5, 3, 7, 5, 5, 4, 7, 7, 7]",test
+Food banks offer meals to those in need.,4.1333,2.0126,30,"[5, 3, 7, 3, 5, 6, 3, 2, 7, 7, 2, 2, 1, 6, 1, 5, 4, 4, 6, 5, 5, 1, 6, 7, 3, 2, 1, 6, 4, 5]",test
+Grace greeted everyone and made lively conversation.,2.0,1.5313,30,"[2, 3, 1, 1, 2, 1, 1, 4, 1, 1, 1, 3, 1, 3, 1, 1, 2, 2, 1, 1, 4, 1, 1, 2, 1, 2, 1, 7, 6, 2]",test
+Helmets guard heads during sporting events.,2.9,1.7489,30,"[6, 5, 1, 4, 3, 5, 4, 3, 2, 4, 1, 1, 1, 2, 3, 3, 1, 2, 4, 1, 3, 1, 1, 6, 2, 2, 2, 7, 5, 2]",test
+Inside the house everything was calm and peaceful.,4.7,2.0026,30,"[3, 6, 7, 2, 7, 5, 3, 6, 6, 7, 6, 2, 1, 7, 1, 6, 2, 3, 7, 7, 5, 2, 6, 7, 4, 5, 5, 5, 5, 3]",test
+It started raining in the middle of the kickball game.,5.0333,1.6078,30,"[4, 6, 7, 7, 6, 7, 5, 6, 2, 7, 4, 5, 3, 5, 5, 2, 6, 7, 5, 5, 4, 3, 3, 2, 5, 5, 5, 7, 7, 6]",test
+Jane solved the equation in a few minutes.,1.4333,0.9353,30,"[1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 4, 2, 2, 1, 1, 1, 1, 1, 1, 5, 1, 1]",test
+John discovered that his bag had been lost in transit.,2.4667,1.6965,30,"[4, 6, 1, 1, 3, 5, 2, 4, 1, 3, 1, 2, 1, 2, 1, 3, 1, 2, 5, 1, 4, 1, 2, 1, 2, 2, 1, 7, 4, 1]",test
+John was late to pick up his daughter from school.,3.9333,2.1804,30,"[2, 5, 1, 1, 4, 6, 2, 5, 6, 7, 1, 1, 1, 6, 1, 4, 5, 3, 6, 5, 5, 1, 6, 7, 2, 3, 3, 7, 6, 6]",test
+Lumberjacks struggled to sustain their livelihoods.,2.9333,1.7207,30,"[2, 3, 1, 1, 1, 5, 4, 2, 2, 5, 1, 5, 5, 1, 4, 1, 3, 2, 5, 3, 4, 5, 1, 1, 5, 4, 1, 6, 4, 1]",test
+Many stores ran out of popular items.,3.0,1.7811,30,"[5, 7, 1, 2, 4, 6, 2, 2, 6, 4, 2, 2, 1, 6, 1, 2, 4, 3, 6, 3, 3, 1, 2, 2, 2, 2, 2, 1, 4, 2]",test
+Marching bands and floats glided down the street.,4.9,1.8634,30,"[6, 7, 7, 1, 4, 6, 3, 5, 6, 7, 4, 2, 7, 6, 4, 4, 2, 6, 6, 6, 5, 1, 6, 3, 4, 6, 3, 7, 7, 6]",test
+Marcia could feel the boards wobble during the show.,3.0333,1.8659,30,"[3, 6, 1, 2, 5, 5, 4, 3, 2, 6, 1, 1, 1, 4, 1, 1, 5, 4, 5, 6, 5, 1, 2, 2, 2, 3, 2, 1, 6, 1]",test
+Mark thought the speaker was boring and repetitive.,1.931,1.4125,29,"[2, 2, 1, 1, 2, 4, 1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 2, 5, 2, 5, 1, 1, 3, 1, 1, 2, 6, 1]",test
+Moving through the security line took longer than usual.,3.7333,1.9286,30,"[5, 5, 1, 6, 7, 6, 2, 4, 4, 2, 1, 1, 1, 5, 2, 3, 2, 5, 6, 5, 4, 1, 4, 4, 2, 5, 2, 7, 6, 4]",test
+Passengers crowded the gate waiting for further updates.,4.2,2.041,30,"[6, 5, 1, 4, 6, 7, 3, 5, 5, 5, 2, 1, 1, 5, 1, 3, 2, 4, 5, 7, 5, 1, 5, 7, 4, 5, 5, 7, 7, 2]",test
+Practical tips help readers adopt eco-friendly practices.,2.2333,1.5687,30,"[1, 1, 1, 2, 1, 2, 5, 2, 1, 3, 1, 3, 1, 1, 4, 1, 4, 1, 1, 1, 3, 4, 1, 2, 3, 3, 1, 6, 1, 6]",test
+Rebecca thinks that breaking up is the only option.,1.3667,0.8899,30,"[1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 3, 2, 1, 1, 3, 1, 1, 2, 1, 1, 1, 5, 1, 1]",test
+Routes pass through historic towns and lush countryside.,6.6,0.7701,30,"[6, 7, 7, 7, 7, 7, 6, 6, 7, 7, 6, 7, 7, 7, 7, 7, 4, 7, 7, 6, 5, 7, 7, 7, 7, 7, 7, 5, 7, 7]",test
+Stars illuminate the night sky.,6.3667,1.2172,30,"[7, 6, 7, 5, 7, 7, 7, 7, 6, 7, 7, 7, 7, 6, 7, 5, 7, 7, 7, 5, 6, 7, 6, 1, 6, 6, 7, 7, 7, 7]",test
+Steve's roasted chicken was charred and bitter.,2.6333,2.0924,30,"[6, 2, 7, 1, 1, 3, 2, 3, 1, 1, 1, 5, 1, 1, 1, 1, 1, 6, 5, 3, 4, 1, 1, 2, 1, 1, 1, 7, 3, 6]",test
+Stop signs in the small coastal town were knocked over.,5.8333,1.3412,30,"[6, 7, 7, 6, 7, 7, 5, 6, 6, 7, 3, 5, 7, 7, 6, 7, 4, 6, 5, 6, 5, 3, 6, 6, 6, 6, 2, 7, 7, 7]",test
+Student engagement and participation levels increased.,1.8,1.3995,30,"[1, 2, 1, 1, 1, 1, 1, 2, 1, 3, 1, 2, 1, 1, 1, 1, 1, 2, 4, 1, 3, 1, 2, 6, 1, 1, 1, 6, 3, 1]",test
+Student grades improved across the board.,1.7333,1.388,30,"[1, 3, 1, 1, 1, 3, 2, 1, 1, 3, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 6, 1, 1, 1, 6, 3, 1]",test
+The abstract piece uses vibrant colors to explore love.,2.2333,1.5466,30,"[5, 1, 1, 1, 1, 2, 3, 2, 1, 3, 1, 4, 1, 1, 1, 2, 1, 4, 6, 2, 3, 1, 2, 3, 2, 1, 1, 6, 1, 4]",test
+The airplane ride was smooth and calm.,4.0,1.8127,29,"[5, 6, 1, 2, 5, 7, 3, 4, 6, 7, 1, 3, 1, 5, 4, 5, 3, 5, 5, 2, 4, 3, 2, 4, 4, 2, 7, 6, 4]",test
+The alleyway behind the shop reeked of garbage.,5.3,1.7646,30,"[6, 7, 7, 6, 7, 7, 5, 4, 6, 7, 4, 3, 1, 6, 2, 6, 2, 6, 7, 7, 6, 3, 6, 3, 5, 7, 6, 5, 7, 5]",test
+The appliances in the kitchen short-circuited.,3.6667,2.2793,30,"[2, 7, 1, 1, 6, 6, 1, 4, 6, 7, 1, 1, 1, 6, 1, 6, 2, 4, 6, 6, 5, 1, 6, 2, 2, 3, 4, 7, 3, 2]",test
+The arts create a shared experience that connects people.,2.6333,1.8473,30,"[4, 3, 1, 1, 1, 2, 4, 3, 1, 4, 5, 3, 7, 1, 1, 1, 3, 1, 3, 5, 4, 1, 1, 2, 1, 2, 1, 7, 5, 1]",test
+The ascent of the mountain was deathly cold.,6.2333,0.8172,30,"[5, 7, 7, 6, 5, 6, 7, 6, 7, 7, 5, 5, 7, 4, 7, 7, 7, 6, 6, 6, 6, 7, 6, 6, 7, 6, 6, 7, 7, 6]",test
+The astronaut embarked on a mission with resolve.,3.6,1.9931,30,"[2, 6, 1, 1, 5, 5, 6, 5, 4, 4, 2, 6, 1, 4, 6, 1, 2, 4, 6, 5, 4, 1, 2, 4, 4, 2, 1, 1, 7, 6]",test
+The audience slowly filed into their seats.,3.4667,1.7564,30,"[5, 5, 1, 1, 6, 5, 3, 2, 2, 6, 2, 1, 1, 4, 2, 4, 2, 6, 5, 5, 4, 1, 3, 4, 2, 4, 3, 6, 6, 3]",test
+The audience went silent and the spotlight came on.,3.6667,2.0229,30,"[2, 6, 1, 1, 2, 6, 3, 5, 2, 5, 1, 2, 5, 4, 1, 4, 2, 6, 6, 5, 5, 1, 3, 7, 3, 5, 3, 6, 7, 1]",test
+The baby giggled with delight when she saw her mom.,2.8,1.8828,30,"[6, 4, 7, 1, 2, 2, 2, 3, 1, 3, 2, 4, 1, 2, 1, 2, 4, 4, 4, 1, 4, 1, 2, 1, 1, 1, 1, 6, 7, 4]",test
+The badminton tournament took place on a wooden floor.,4.6667,2.1867,30,"[6, 7, 7, 1, 7, 6, 4, 4, 5, 7, 3, 2, 1, 6, 2, 4, 2, 7, 7, 7, 4, 1, 3, 6, 2, 6, 3, 7, 7, 6]",test
+The baker crafted a delicate pastry with care.,3.2069,2.0595,29,"[5, 7, 7, 1, 5, 5, 2, 2, 2, 5, 1, 2, 1, 3, 1, 1, 2, 4, 6, 5, 5, 1, 1, 5, 1, 2, 1, 5, 5]",test
+The book it was based on had thrilling moments.,1.5333,1.008,30,"[2, 2, 1, 1, 1, 2, 2, 2, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 3, 1, 1, 2, 1, 1, 1, 6, 1, 1]",test
+The bookstore carries a great variety of fantasy novels.,4.8,2.0745,30,"[2, 6, 7, 5, 7, 7, 3, 5, 6, 7, 1, 2, 7, 7, 1, 5, 6, 4, 6, 5, 5, 1, 6, 7, 3, 5, 6, 5, 6, 1]",test
+The cabin was rustic and filled with character.,6.1,1.2959,30,"[4, 7, 7, 6, 7, 7, 5, 6, 7, 7, 5, 5, 7, 7, 6, 7, 7, 7, 7, 6, 6, 5, 6, 1, 6, 7, 6, 5, 7, 7]",test
+The calm atmosphere helps reduce stress levels.,3.2333,1.7157,30,"[1, 4, 7, 1, 1, 2, 5, 4, 2, 4, 5, 6, 4, 3, 4, 1, 2, 3, 3, 3, 2, 4, 1, 6, 3, 1, 2, 6, 4, 3]",test
+The colorful creature has blue feathers and a pretty call.,4.7333,2.1324,30,"[6, 7, 7, 1, 5, 2, 7, 5, 2, 3, 6, 6, 6, 1, 5, 1, 6, 6, 5, 6, 3, 5, 1, 7, 5, 5, 2, 7, 7, 7]",test
+The conductor raised her baton to begin the piece.,3.8,2.2804,30,"[5, 7, 7, 1, 5, 6, 3, 5, 1, 4, 1, 2, 1, 3, 1, 5, 1, 5, 5, 6, 7, 1, 1, 5, 1, 5, 2, 7, 7, 4]",test
+The construction team questioned the window placement.,3.5,1.7171,30,"[5, 5, 1, 1, 4, 5, 2, 2, 2, 7, 3, 5, 1, 4, 4, 1, 3, 3, 5, 5, 5, 1, 2, 5, 3, 3, 2, 6, 5, 5]",test
+The couple was forced to end their relationship.,1.3,0.7022,30,"[1, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 4, 1, 1, 2, 1, 1, 1, 1, 2, 1]",test
+The desert was silent and desolate.,6.5,1.0422,30,"[5, 7, 7, 6, 7, 7, 7, 6, 2, 7, 7, 6, 7, 7, 7, 7, 5, 6, 7, 7, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7]",test
+The development will include new high-rises and parks.,5.0333,1.6291,30,"[1, 7, 1, 5, 7, 6, 5, 5, 7, 7, 4, 6, 5, 6, 3, 6, 5, 4, 5, 5, 4, 4, 6, 2, 6, 5, 5, 7, 6, 6]",test
+The device features advanced AI capabilities.,1.4667,1.3322,30,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 3, 1, 1, 1, 1, 1, 1, 7, 1, 4]",test
+The diner piled plates high with hearty comfort food.,4.0667,2.3183,30,"[6, 7, 7, 1, 7, 7, 3, 4, 6, 7, 1, 1, 1, 6, 1, 3, 2, 5, 5, 2, 6, 1, 6, 3, 4, 5, 1, 7, 5, 2]",test
+The driver filled the tank with gas on the way home.,3.8966,1.952,29,"[6, 5, 7, 3, 2, 5, 4, 3, 4, 3, 1, 1, 7, 4, 3, 2, 7, 7, 4, 1, 4, 1, 5, 5, 2, 3, 4, 7, 3]",test
+The electric bill increased noticeably that month.,1.4,0.8944,30,"[1, 2, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 2, 1, 1, 3, 1, 5, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",test
+The family van was designed for comfort and safety.,3.2,1.901,30,"[4, 5, 1, 4, 6, 6, 2, 2, 6, 3, 1, 3, 1, 3, 1, 3, 6, 3, 6, 3, 4, 1, 2, 1, 2, 2, 2, 7, 5, 1]",test
+The film's plot evolved into a Western crime drama.,3.1667,1.9134,30,"[5, 6, 7, 1, 1, 5, 5, 2, 1, 7, 1, 4, 1, 2, 2, 3, 1, 3, 3, 5, 4, 3, 2, 3, 2, 4, 1, 6, 4, 1]",test
+The findings yield insights into cultural trade of the time.,1.8333,1.2341,30,"[1, 1, 1, 1, 1, 3, 5, 2, 2, 5, 1, 4, 1, 2, 1, 1, 1, 1, 2, 4, 3, 1, 1, 2, 2, 2, 1, 1, 1, 1]",test
+The firm specializes in software for small businesses.,2.1333,1.6761,30,"[1, 2, 1, 1, 4, 4, 2, 2, 5, 5, 1, 1, 1, 3, 1, 2, 4, 1, 5, 1, 2, 1, 1, 1, 1, 1, 1, 7, 1, 1]",test
+The firm's new laptop is cutting-edge and stylish.,2.0,1.5119,29,"[4, 1, 1, 1, 1, 3, 1, 2, 1, 3, 1, 1, 1, 3, 1, 1, 2, 3, 5, 1, 3, 1, 1, 1, 1, 1, 7, 4, 2]",test
+The food critic tipped handsomely for her meal.,2.8333,1.877,30,"[3, 5, 7, 1, 4, 4, 1, 2, 2, 1, 1, 1, 1, 4, 1, 2, 1, 5, 5, 1, 5, 1, 1, 4, 3, 2, 2, 7, 4, 4]",test
+The gallery opened its doors to the public.,4.8667,1.907,30,"[3, 6, 1, 1, 7, 7, 3, 3, 6, 7, 5, 3, 7, 6, 4, 6, 6, 3, 7, 5, 4, 1, 7, 5, 4, 5, 7, 6, 5, 6]",test
+The gardener nurtured the flowers with patience.,5.6333,1.7117,30,"[4, 7, 7, 1, 7, 6, 6, 6, 6, 7, 7, 6, 7, 5, 7, 5, 7, 5, 7, 5, 6, 7, 2, 7, 5, 6, 5, 1, 7, 5]",test
+The guests arrived just as the meal was ready.,3.2,2.024,30,"[6, 5, 7, 1, 1, 3, 1, 3, 2, 4, 1, 1, 1, 5, 1, 1, 5, 4, 6, 4, 4, 1, 2, 7, 2, 2, 3, 6, 5, 2]",test
+The hand-held tablet worked flawlessly.,1.4667,1.008,30,"[4, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 5, 1, 3, 1, 2, 1, 1, 1, 1, 1, 1, 1]",test
+The historian uncovered evidence to find the truth.,1.9667,1.5196,30,"[1, 6, 1, 1, 1, 2, 3, 2, 1, 4, 1, 1, 1, 2, 1, 1, 2, 2, 4, 2, 3, 1, 1, 2, 2, 1, 1, 7, 1, 1]",test
+The hunter aimed his bow into the forest.,6.1333,1.1958,30,"[6, 7, 7, 5, 7, 7, 6, 6, 7, 7, 7, 6, 7, 6, 7, 5, 6, 7, 6, 6, 6, 5, 6, 7, 6, 7, 5, 1, 6, 7]",test
+The judge assigned a disappointingly late court date.,2.3667,1.6078,30,"[1, 5, 1, 1, 2, 5, 1, 3, 3, 3, 1, 1, 1, 4, 1, 1, 2, 2, 2, 3, 2, 1, 3, 6, 1, 2, 2, 7, 2, 2]",test
+The local river was finally clean enough to swim in.,6.3333,0.8442,30,"[6, 7, 7, 4, 7, 7, 7, 6, 7, 7, 5, 7, 7, 6, 7, 6, 7, 6, 7, 7, 5, 5, 6, 7, 6, 6, 7, 5, 7, 6]",test
+The locals found the ruins ordinary and unremarkable.,5.2,1.6897,30,"[5, 6, 7, 7, 7, 5, 6, 6, 6, 7, 7, 4, 5, 6, 6, 4, 2, 4, 6, 5, 4, 1, 6, 1, 6, 6, 3, 7, 6, 5]",test
+The manager understood how to outdo the competitor.,1.5,1.1064,30,"[1, 2, 1, 1, 2, 4, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 3, 1, 2, 1, 1, 1, 1, 6, 1, 1, 1, 1, 1, 1]",test
+The photographer took a photo that seemed to breathe.,3.4333,1.9061,30,"[2, 1, 1, 2, 2, 3, 5, 5, 2, 5, 7, 6, 7, 2, 4, 1, 4, 2, 4, 3, 6, 2, 2, 6, 3, 5, 1, 5, 4, 1]",test
+The photos raise awareness of conservation efforts.,3.6333,2.0254,30,"[4, 6, 1, 3, 1, 2, 6, 3, 2, 6, 5, 6, 7, 2, 4, 1, 1, 5, 2, 4, 5, 4, 1, 2, 5, 5, 2, 7, 6, 1]",test
+The pilot announced the descent over the intercom.,3.7,1.9146,30,"[5, 7, 1, 1, 5, 5, 4, 5, 3, 6, 1, 3, 1, 5, 4, 2, 2, 4, 1, 6, 5, 2, 2, 7, 4, 4, 2, 4, 7, 3]",test
+The production will be a modern take on the original show.,2.0667,1.4368,30,"[2, 1, 1, 1, 4, 4, 2, 3, 2, 4, 1, 1, 1, 3, 1, 1, 2, 1, 4, 3, 3, 1, 2, 2, 1, 1, 1, 7, 1, 1]",test
+The puppy snuggled into a warm blanket.,3.7931,2.3357,29,"[7, 7, 7, 1, 4, 5, 2, 3, 5, 2, 4, 7, 1, 5, 1, 2, 2, 7, 5, 4, 2, 1, 1, 2, 2, 1, 7, 7, 6]",test
+The red wine was tannic and sweet.,2.5667,1.888,30,"[6, 2, 7, 1, 3, 4, 2, 3, 1, 1, 1, 5, 1, 1, 1, 1, 5, 1, 5, 2, 4, 2, 1, 4, 1, 1, 1, 6, 3, 1]",test
+The restaurant opened for dinner in the early evening.,4.7586,1.9938,29,"[6, 6, 7, 5, 5, 7, 2, 3, 6, 7, 2, 1, 5, 7, 1, 3, 5, 3, 7, 5, 1, 7, 7, 4, 5, 6, 6, 5, 4]",test
+The runner completed the race in a new personal best time.,3.3448,1.895,29,"[2, 6, 1, 2, 2, 5, 5, 4, 1, 6, 3, 1, 5, 5, 3, 1, 4, 2, 2, 4, 5, 2, 2, 2, 2, 1, 7, 6, 6]",test
+The singer's lyrics conveyed profound feelings.,1.7667,1.3566,30,"[1, 2, 1, 1, 1, 3, 1, 4, 1, 1, 2, 5, 1, 1, 1, 1, 1, 1, 2, 2, 4, 1, 1, 3, 1, 1, 1, 6, 1, 1]",test
+The species is notable for its vibrant colors.,3.5333,1.9954,30,"[6, 6, 1, 1, 5, 2, 6, 4, 1, 2, 5, 7, 6, 1, 3, 1, 4, 3, 5, 1, 5, 6, 2, 2, 4, 4, 2, 1, 6, 4]",test
+The storm brought fear and destruction.,4.7586,1.845,29,"[4, 6, 7, 3, 7, 5, 5, 6, 2, 6, 2, 7, 7, 2, 7, 3, 7, 6, 5, 1, 4, 5, 2, 3, 5, 6, 5, 4, 6]",test
+The stylish centerpiece will impress many dinner guests.,2.8667,2.0466,30,"[6, 6, 1, 1, 2, 4, 2, 4, 2, 7, 1, 1, 1, 2, 1, 2, 2, 4, 6, 2, 2, 1, 2, 1, 2, 2, 2, 7, 7, 3]",test
+The sweet mango cooled Sara's mouth with each bite.,2.9667,2.1413,30,"[6, 3, 7, 1, 1, 4, 5, 2, 3, 2, 2, 6, 1, 2, 1, 1, 1, 4, 1, 1, 7, 5, 1, 2, 2, 2, 1, 7, 6, 2]",test
+The tremor registered a magnitude of 7.5.,4.0,1.9119,30,"[2, 3, 7, 3, 3, 3, 6, 6, 2, 6, 2, 6, 4, 2, 6, 1, 7, 4, 2, 2, 5, 5, 2, 1, 5, 6, 5, 7, 4, 3]",test
+The tulips are vibrant and healthy.,5.5667,1.775,30,"[7, 7, 7, 1, 5, 5, 6, 6, 4, 7, 7, 6, 7, 3, 6, 3, 7, 6, 5, 3, 6, 7, 2, 7, 6, 7, 3, 7, 7, 7]",test
+The whistleblower uncovered things that upset the public.,1.6333,1.3515,30,"[1, 1, 1, 1, 2, 2, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 3, 1, 5, 1, 1, 3, 1, 1, 1, 7, 1, 1]",test
+The yoga studio focuses on meditation and stretching.,4.5,1.9957,30,"[3, 7, 1, 2, 7, 7, 3, 5, 6, 7, 3, 4, 1, 6, 3, 6, 2, 4, 6, 6, 4, 1, 6, 6, 4, 5, 5, 7, 6, 2]",test
+Timmy shook with fear under the covers in his bed.,3.8333,2.1827,30,"[5, 7, 1, 1, 6, 7, 3, 3, 6, 4, 3, 3, 1, 5, 1, 1, 2, 6, 6, 6, 7, 1, 2, 6, 2, 2, 3, 5, 7, 3]",test
+Users felt more secure about their personal information.,1.4,0.9685,30,"[2, 1, 1, 2, 1, 2, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 6, 1, 1]",test
+Writers transform empty pages into captivating stories.,1.8667,1.3578,30,"[4, 1, 1, 1, 2, 2, 4, 2, 1, 4, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 5, 1, 1, 2, 1, 2, 1, 6, 2, 1]",test

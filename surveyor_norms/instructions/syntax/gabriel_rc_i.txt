@@ -1,6 +1,0 @@
-Instruções: Por favor, leia cada frase e, em seguida, responda à pergunta imediatamente posterior.
-Esta frase é uma frase bem formada em português?
-Rate on a scale from 1 - Muito mal formada to 7 - Muito bem formada.
-Answer with one number.
-
-<<{sentence}>>
