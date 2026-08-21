@@ -83,7 +83,7 @@ still blocked or flagged after round 1:
 1. **Question wording is largely reconstructed** (scale labels are not — they are
    verbatim dashboard recoveries, collaborator-confirmed 2026-08-21 where they had
    been inferred). Per-dataset provenance is in `a_index.csv`; residual notes in
-   [`../audit/REMAINING_FIXES.md`](../audit/REMAINING_FIXES.md).
+   [`../audit/README.md`](../audit/README.md).
 2. **No participant exclusions / attention-check filtering** applied, with one
    exception: the 10 button-catch trial units ("Choose the leftmost button." etc.)
    were removed from `mk_grammaticality_study_7_20` on 2026-08-20 (their means

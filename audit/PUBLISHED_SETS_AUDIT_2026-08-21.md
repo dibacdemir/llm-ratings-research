@@ -4,7 +4,9 @@ Full audit of `norm_datasets/` + `instructions/` (the published norms, excluding
 `mturk_norms/` and `surveyor_norms/`). Method: three parallel auditors, each doing a
 **100%-of-rows** numeric pass (not samples), instruction checks, and
 pipeline-registry cross-checks; the one high-severity finding was re-verified by
-hand. Report-only — no files were changed.
+hand. The audit itself changed no files; the approved fixes were applied the same
+day — see "Fixes applied" at the end. Current state and open items:
+[`README.md`](README.md).
 
 ## Headline
 
