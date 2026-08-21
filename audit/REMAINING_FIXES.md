@@ -80,7 +80,20 @@ the surveys.)
   Reasonably strong / Strong" — strength of *what*, likely the pronoun–verb
   association) is inferred from the scale; on-page framing unrecovered.
 
-## 6. Housekeeping
+## 6. Published reference sets (audited 2026-08-21)
+
+Full audit in [`PUBLISHED_SETS_AUDIT_2026-08-21.md`](PUBLISHED_SETS_AUDIT_2026-08-21.md):
+13/20 families clean, zero numeric errors, ddof=1 throughout. Approved fixes were
+applied 2026-08-21 (tuckute row repair + README, troche renames, muraki row drop +
+instruction alignment, warriner duplicate deletion, README refreshes). Still open:
+the 4 repaired tuckute sentences' quote placement should be cross-checked against
+the published materials if those items matter; gatti2024 resolved 2026-08-21:
+instructions rewritten as single-item 1-9 valence ratings ({word}, intuitive vs
+meaning-based per experiment) with the human best-worst paradigm difference
+documented in README_gatti2024.txt; remember edwards2024's direction
+(high = harder to decode, i.e. LESS transparent) when interpreting results.
+
+## 7. Housekeeping
 
 - `mturk_norms/_remaining_classification.csv` is stale legacy bookkeeping (its
   converted-folder tallies never matched); regenerate or annotate before relying on it.

@@ -7,7 +7,9 @@
 “You will see that there are various types of expressions on the following pages, ranging from two-word expressions to longer phrases. Always think of how concrete (experience based) the meaning of the full expression is to you, rather than basing your rating on the meaning of an individual word within the expression.”
 
 “Abstract (language based) Concrete (experience based)
-1 2 3 4 5
-I don’t know the meaning of this expression.”
+1 2 3 4 5”
 
-Please rate the expression <<{expression}>> on a scale from 1 (very abstract) to 5 (very concrete), or answer “I don’t know the meaning of this expression”.
+Please rate the expression on a scale from 1 (very abstract) to 5 (very concrete).
+Answer with one digit.
+
+<<{expression}>>
