@@ -12,9 +12,9 @@ them to humans — at the level of both means and full response distributions.
 | `norm_datasets/` | 20 published norm sources, one CSV per task: `unit, mean, std, n, individual_ratings`. |
 | `instructions/` | One prompt template per dataset, with a `{word}` / `{sentence}` / `{expression}` placeholder. |
 | `surveyor_norms/` | TedLab Prolific norms, 2023–2026. 100 datasets, same schema plus an `item_type` (test/filler) column. |
-| `mturk_norms/` | TedLab MTurk norms, 2011–2021. 169 datasets (153 usable, 16 blocked on missing wording), same schema. |
+| `mturk_norms/` | TedLab MTurk norms, 2011–2021. 167 datasets, all usable, same schema. |
 | `presentation/` | Dataset catalog and figures. |
-| `audit/` | Deep audit of the TedLab conversions (2026-08-19), the 2026-08-20 repair, blocked datasets, and remaining fixes. |
+| `audit/` | Deep audit of the TedLab conversions (2026-08-19), the 2026-08-20/21 repairs, and remaining fixes. |
 
 Run everything from the repo root:
 
@@ -62,9 +62,8 @@ responses rather than just published averages.
 Working: 17 datasets in `norm_datasets/` with trial-level responses, scored
 end-to-end on MIT Engaging.
 
-Not yet wired up: the 269 TedLab datasets in `surveyor_norms/` and
-`mturk_norms/` (audited and repaired 2026-08-20, see `audit/`; 16 mturk sets
-remain blocked on missing wording). Same schema (surveyor adds an `item_type`
+Not yet wired up: the 267 TedLab datasets in `surveyor_norms/` and
+`mturk_norms/` (audited and repaired 2026-08-20/21, see `audit/`; nothing blocked). Same schema (surveyor adds an `item_type`
 column), and each ships an `a_index.csv` carrying the rating scale and
 instruction provenance, so the hardcoded registry in `pipeline/experiments.py`
 could be replaced with auto-discovery. Note `std` in these two trees is sample

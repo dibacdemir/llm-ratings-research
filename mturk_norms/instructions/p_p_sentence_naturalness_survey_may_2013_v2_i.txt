@@ -1,10 +1,10 @@
-How likely is it that you would hear or read this sentence in English?
+How natural does the sentence sound?
 Rate on a scale from 1 to 5:
-1 = Extremely unlikely
-2 = Somewhat unlikely
+1 = Extremely unnatural
+2 = Somewhat unnatural
 3 = Possible
-4 = Somewhat likely
-5 = Extremely likely
+4 = Somewhat natural
+5 = Extremely natural
 Answer with one digit.
 
 <<{sentence}>>

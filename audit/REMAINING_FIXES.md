@@ -5,34 +5,29 @@ audit ([`DATA_AUDIT_2026-08-19.md`](DATA_AUDIT_2026-08-19.md), `audit_findings.c
 and the repair agents' flagged judgment calls (full provenance per dataset in the two
 `a_index.csv` files).
 
-## 1. Blocked: 16 MTurk datasets with no recovered wording
+## 1. ~~Blocked: 16 MTurk datasets~~ — RESOLVED 2026-08-21
 
-See [`BLOCKED_MISSING_WORDING.md`](BLOCKED_MISSING_WORDING.md). Untouched, still
-carry every pre-audit defect (meta-leak, unknown dimension, ddof=0 std, and for
-`acd_context_polly` / `cul_jack_60` / `mk_alive|goals|thought` also the §2 unit
-defects). Waiting on collaborators.
+All resolved via the collaborator's `raw-data/RESOLVED_QUERIES.md`: 12 repaired
+(incl. `chomsky_items` split into `_1`/`_2`, `agreement_norming_nov` split into
+`_nov_17`/`_nov_18`), 4 dropped by decision (`mk_alive/goals/thought` — the ratings
+were confidence about a Yes/No judgment; `melissa_transitivity_semantics` — rating
+question unidentifiable). Zero blocked datasets remain. See
+[`BLOCKED_MISSING_WORDING.md`](BLOCKED_MISSING_WORDING.md).
 
-## 2. Scale/wording assignments to confirm with collaborators (usable but inferred)
+## 2. ~~Scales to confirm~~ — RESOLVED 2026-08-21
 
-For these datasets the scale/question was not recovered for that exact study; the
-most likely one was taken from sibling studies in the same series. **Andrea decided
-on 2026-08-20 to keep them all usable as-is** (rather than block them), pending
-collaborator confirmation. They carry `quality_flag=scale_unconfirmed` in
-`mturk_norms/a_index.csv` (17 datasets) so they can be filtered in analyses:
+The collaborator's dashboard extraction confirmed 13 of the 17 flagged guesses
+verbatim (incl. the reasoning/social 'Neutral' midpoint) and corrected the rest:
+`p_p_..._may_2013` and `_may_2013_v2` are 5-pt NATURALNESS (not likelihood —
+instructions fixed); `agreement_norming_nov` was two pooled projects (split, see §1);
+`acd_project_expt_45` naturalness confirmed. `quality_flag=scale_unconfirmed` is
+cleared everywhere; provenance columns now say `dashboard_confirmed
+(RESOLVED_QUERIES.md, 2026-08-20)`.
 
-- `acd_project_expt_45_hkv_expt_2_plaus_...` — folder says "plaus", but no
-  plausibility scale is recoverable for the ACD family; naturalness used. Confirm.
-- `p_p_sentence_naturalness_survey_{june_2013_v3,may_2013,may_2013_v2}` — the only
-  recovered in-family scale is a *likelihood* scale despite "naturalness" folder
-  names. Confirm which was on the page.
-- `noisy_channel_acceptability_{1,2}_sept_2013` — no reliable recovered scale
-  (template match incompatible with observed 1–5); 5-pt naturalness used as fallback.
-- `isac_..._giant_c{,obra}` (the two 1–7 sets), `reasoning_and_language...` /
-  `social_interaction...` (7th label reconstructed), the Denise/Feb-16 7-pt sets,
-  `sentence_naturalness_survey_laura_mar_17_...` (7-pt inferred from siblings),
-  `quant_syn_april_14_...` (scale via april_13/16 siblings).
-- `agreement_norming_nov` — two candidate catalog rows ("Nov 17" naturalness vs
-  "Nov 18" likelihood); own dashboard row (naturalness) was used. Confirm.
+A folder-merge sweep of all 165 source folders (prompted by the agreement case)
+found one further pooled folder: `p_p_sentence_naturalness_survey_feb` combines a
+Feb-2010 and a Feb-2011 wave — but both used the identical 5-pt naturalness scale,
+so pooling is harmless; splitting is optional provenance polish.
 
 ## 3. Data-cleaning decisions still open
 
@@ -47,10 +42,17 @@ collaborator confirmation. They carry `quality_flag=scale_unconfirmed` in
   Input columns; fine as passages, but the instruction asks about the passage as a
   whole — split like the re-keyed sets if a target-sentence reading is preferred.
 - `verb_causality_study_syntax`: recovered batches give ~460/653 units n≤4 —
-  consider a minimum-n filter at analysis time.
-- Placeholder boundary calls: `neal_norming_1` and `agreement_norming_nov` have bare
-  NP units currently under `{sentence}` (questions phrased as "phrase") — switch to
-  `{word}` if preferred.
+  consider a minimum-n filter at analysis time. Same for `chomsky_items_2` (only 3
+  units — the raw study had 3 items; usable but tiny).
+- `mturk_norms/_convert.py` (legacy converter) was NOT updated for the repairs:
+  re-running it would reintroduce ddof=0 std and the old unit keying. Do not re-run;
+  the repair scripts live in the session scratchpad reports.
+- `quantitative_syntax_survey` and `chomsky_items_1` share some passage items
+  (same source materials, separate MTurk projects) — mind de-duplication in pooled
+  analyses.
+- Placeholder boundary calls: `neal_norming_1` and the new `agreement_norming_nov_17`
+  / `_nov_18` have bare noun-phrase units currently under `{sentence}` (questions
+  phrased as "phrase") — switch to `{word}` if preferred.
 
 ## 4. Language checks
 

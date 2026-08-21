@@ -30,13 +30,13 @@ templates), since the batch-CSV export itself never contained them.
 
 ## Yield (post-repair)
 
-**169 datasets** (2011–2021): **153 usable** + **16 blocked** awaiting wording from
-collaborators (`status=blocked_missing_wording`; list and repair recipe in
-[`../audit/BLOCKED_MISSING_WORDING.md`](../audit/BLOCKED_MISSING_WORDING.md) — the
-blocked files are untouched and still carry every pre-audit defect).
-Totals: **55,365 units, 1,711,901 individual ratings**. Scales: 1–5 (136), 1–7 (24),
-1–3 (9). Two audio-stimulus datasets (`..._marie_expt3*`) were dropped entirely
-(units were `.aiff` filenames).
+**167 datasets** (2011–2021), **all usable — nothing blocked** (166 English + 1
+French in `non_english/`). Totals: **54,757 units, 1,705,009 individual ratings**.
+Scales: 1–5 (134), 1–7 (24), 1–3 (9). Dropped along the way: the 2 audio-stimulus
+`..._marie_expt3*` sets (units were `.aiff` filenames), the 3 `mk_*_corpus`
+questionnaires (their 1–5 data was confidence about a separate Yes/No judgment),
+`melissa_transitivity_semantics` (rating question unidentifiable), and the 10
+button-catch units inside `mk_grammaticality_study_7_20`.
 
 ## 2026-08-20 repair (summary)
 
@@ -57,12 +57,32 @@ Totals: **55,365 units, 1,711,901 individual ratings**. Scales: 1–5 (136), 1�
    repair in `orange_camel...`.
 3. **`std` recomputed as sample SD (ddof=1)** everywhere (was undocumented ddof=0).
 
+## 2026-08-21 repair round 2 (collaborator response)
+
+`raw-data/RESOLVED_QUERIES.md` supplied verbatim dashboard scales for every dataset
+still blocked or flagged after round 1:
+
+1. The 12 remaining blocked sets were repaired (9 islands/richard/acd/cul_jack sets,
+   `quantitative_syntax_survey`, `melissa_short_naturalness_test`, plus the
+   context re-keying for `acd_context_polly` 225→310 units and `cul_jack_..._60`
+   60→210 units).
+2. Two silently pooled folders were **split**: `chomsky_items` →
+   `chomsky_items_1` (37-item study) + `chomsky_items_2` (3-item study);
+   `agreement_norming_nov` → `agreement_norming_nov_17` (Extremely unlikely …
+   Extremely likely) + `agreement_norming_nov_18` (Least likely … Most likely) —
+   it was never a naturalness study.
+3. Two round-1 scale guesses were corrected (`p_p_..._may_2013`, `_may_2013_v2`:
+   naturalness, not likelihood); the other 13 flagged guesses were confirmed
+   verbatim and unflagged.
+4. A sweep of all 165 source folders for more silent project merges found only one
+   further case (`p_p_sentence_naturalness_survey_feb`, two waves with the
+   identical scale — harmless).
+
 ## Caveats
 
 1. **Question wording is largely reconstructed** (scale labels are not — they are
-   verbatim dashboard recoveries). `a_index.csv` flags the datasets where the
-   dimension itself rests on folder-name convention or sibling inference; a further
-   list of scale assignments awaiting collaborator confirmation is in
+   verbatim dashboard recoveries, collaborator-confirmed 2026-08-21 where they had
+   been inferred). Per-dataset provenance is in `a_index.csv`; residual notes in
    [`../audit/REMAINING_FIXES.md`](../audit/REMAINING_FIXES.md).
 2. **No participant exclusions / attention-check filtering** applied, with one
    exception: the 10 button-catch trial units ("Choose the leftmost button." etc.)
