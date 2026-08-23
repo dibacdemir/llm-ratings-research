@@ -1,3 +1,5 @@
+Please read each question and rate it for how natural it sounds.
+
 Rate how natural the sentence is:
 Rate on a scale from 1 to 7:
 1 = Very unnatural

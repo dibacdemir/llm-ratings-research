@@ -1,3 +1,5 @@
+When rating, please read the sentences once and then rate them on the basis of your first impression. You will have to rate each sentence based on how natural it sounds on a scale from 1 to 5, where 1 is very unnatural and 5 is very natural.
+
 How natural is the second sentence in the context of the first sentence?
 Rate on a scale from 1 to 5:
 1 = Very Unnatural

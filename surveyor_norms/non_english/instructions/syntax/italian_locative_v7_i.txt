@@ -1,3 +1,5 @@
+Per favore, leggi ciascuna frase e valuta quanto suona naturale.
+
 Per favore, leggi l’intero testo seguente e valuta quanto è naturale l’ultima frase.
 Valuta su una scala da 1 a 5:
 1 = Completamente innaturale

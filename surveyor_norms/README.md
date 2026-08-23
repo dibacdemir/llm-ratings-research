@@ -10,12 +10,16 @@ Converted from `raw-data/surveyor_export.zip` (2026-07-15), then **repaired on
   columns `unit, mean, std, n, individual_ratings, item_type`
   (`std` = **sample SD, ddof=1**; `item_type` ∈ `test` / `filler`, derived from the
   raw stimuli metadata — **fillers are included, marked, and left to the analyst**).
-- `instructions/{syntax,sentence_semantics}/<survey>_i.txt` — the survey's own
-  per-item question (verbatim from the raw `_stimuli.csv` `prompt` column) + the
-  survey's own option labels on every scale point, **preserving the original digit
-  mapping and direction** (e.g. `1 = Easy to understand … 5 = Hard to understand`
-  stays reversed if the survey ran that way), "Answer with one digit.",
-  `<<{sentence}>>`. Non-English surveys keep their own language.
+- `instructions/{syntax,sentence_semantics}/<survey>_i.txt` — assembled entirely
+  from what participants saw: the survey's **pre-trial instructions preamble**
+  (verbatim from `_demographics.csv`, procedural sentences removed — see
+  `../audit/surveyor_instruction_provenance.csv` for the exact per-survey split;
+  present in 60/100 files, `preamble_included` in `a_index.csv`), then the
+  per-item question (verbatim from `_stimuli.csv` `prompt`) + the survey's own
+  option labels on every scale point, **preserving the original digit mapping and
+  direction**, "Answer with one digit.", `<<{sentence}>>`. Non-English surveys
+  keep their own language throughout. Nine files carry minimal documented
+  layout rewords ("above"→"below", bold→target-label wording).
 - `a_index.csv` — one row per survey incl. `n_test`, `n_filler`, `anchors_dropped`,
   the scale labels, the prompt, and `language`.
 - `non_english/` — the 10 non-English surveys, same layout
@@ -52,15 +56,30 @@ All kept units' rating multisets are byte-verified identical to the pre-repair
 conversion (which itself was verified exact against raw); only the changes above
 were applied.
 
+## 2026-08-21 instruction preamble rebuild
+
+A collaborator flagged that the participant preamble in `_demographics.csv` was
+unused (diagnosis: `../audit/SURVEYOR_INSTRUCTION_DIAGNOSIS_2026-08-21.md`). All
+100 instructions were rebuilt to include it verbatim minus procedural sentences
+(comprehension-question mentions, attention-check warnings, payment/ID and pacing
+lines — logged per survey in `../audit/surveyor_instruction_provenance.csv`).
+60 files gained substantive preambles (dimension definitions with worked examples
+for the discourse sets, "first impression" guidance, target identification); 40
+had procedural-only preambles and kept their prompt unchanged.
+
 ## Caveats
 
 1. **Per-sentence n is often small** (Latin-square designs) — check
    `median_n_per_unit`.
-2. **No participant exclusions applied**; notably `class_demo`, `demo_9_59_2025`,
+2. **`missing_vp` sibling polarity flip**: `missing_vp_extension`/`_rereplication`
+   run 1 = easy … 5 = hard to understand, but `missing_vp_extension_0501_final`
+   runs 1 = hard … 5 = easy. Each file is internally consistent — align polarity
+   before pooling or comparing them.
+3. **No participant exclusions applied**; notably `class_demo`, `demo_9_59_2025`,
    `demo_9_59_2026` retain 30–45% self-reported non-native English speakers —
    consider a sensitivity analysis.
-3. **Fillers are included** (marked in `item_type`) — filter as your analysis
+4. **Fillers are included** (marked in `item_type`) — filter as your analysis
    requires.
-4. **Not de-identified**: `a_index.csv` retains creator emails. Scrub before release.
-5. Some 9.59 replications may overlap conceptually with the 20 published datasets in
+5. **Not de-identified**: `a_index.csv` retains creator emails. Scrub before release.
+6. Some 9.59 replications may overlap conceptually with the 20 published datasets in
    the repo root — check before pooling.

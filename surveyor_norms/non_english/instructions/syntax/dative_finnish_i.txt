@@ -1,4 +1,6 @@
-Arvioi, kuinka luonnollinen lihavoitu kohdelause on.
+Lue kukin lausepari ja arvioi sitten, kuinka luonnolliselta jälkimmäinen lause (kohdelause) kuulostaa asiayhteydessä.
+
+Arvioi, kuinka luonnollinen viimeinen lause (kohdelause) on.
 Arvioi asteikolla 1–5:
 1 = Epäluonnollinen
 2 = Melko epäluonnollinen
