@@ -97,3 +97,18 @@ All three trees are audited, repaired, and verified; **nothing is blocked**:
   pipeline registry (aggregate-only and continuous-scale norms are valid rating
   data for means-level comparison — "excluded" refers only to the trial-level
   distribution pipeline).
+
+## Surveyor instruction preambles (diagnosed 2026-08-21, implementation pending)
+
+A collaborator flagged that the surveyor instructions ignore the participant
+preamble in `_demographics.csv`. Verdict: current instructions are verbatim from
+stimuli prompt+options (verified 100/100), NOT made up, but the preamble is a real
+omission for 48/100 surveys (esp. the 41 discourse sets, whose preambles define
+the dimension with examples). Full diagnosis:
+`SURVEYOR_INSTRUCTION_DIAGNOSIS_2026-08-21.md`; per-survey table:
+`surveyor_instruction_provenance.csv`. **Approved next step (not yet executed):**
+rebuild all 100 instructions with the verbatim preamble minus procedural lines
+(trims logged). Bonus caveat found: `missing_vp` sibling surveys have OPPOSITE
+scale polarity (extension/rereplication 1=easy..5=hard; 0501_final 1=hard..5=easy)
+— align before pooling. 7 layout rewords ("above"->"below", bold->positional)
+applied 2026-08-21.
