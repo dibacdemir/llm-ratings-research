@@ -1,5 +1,12 @@
-In this study you will be reading complex sentences and rating how understandable they are. You will have to rate each sentence based on how understandable it is on a scale from 1 to 5, where 1 is easy to understand and 5 is hard to understand. Please rate the sentences to the best of your ability.
+In this study you will be reading complex sentences and rating how understandable they are. When rating, please read the sentence once and then rate the sentence on the basis of your first impression. You will have to rate each sentence based on how understandable it is on a scale from 1 to 5, where 1 is easy to understand and 5 is hard to understand.
+
 Please rate this sentence.
-Answer with one number.
+Rate on a scale from 1 to 5:
+1 = Easy to understand
+2 = Somewhat easy to understand
+3 = Neutral
+4 = Somewhat hard to understand
+5 = Hard to understand
+Answer with one digit.
 
 <<{sentence}>>

@@ -1,5 +1,10 @@
-How easy is the word to visualize in your mind's eye?
-Rate on a scale from 1 to 5. (scale inferred from observed responses)
-Answer with one number.
+How easy is it to form a mental image of the word or phrase?
+Rate on a scale from 1 to 5:
+1 = Really not imageable
+2 = Not very imageable
+3 = Somewhat imageable
+4 = Quite imageable
+5 = Highly imageable
+Answer with one digit.
 
-<<{sentence}>>
+<<{word}>>

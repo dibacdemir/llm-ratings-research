@@ -1,5 +1,10 @@
-Rate the sentence.
-Rate on a scale from 1 to 5. (scale inferred from observed responses)
-Answer with one number.
+The item below presents a sentence you might have misheard, a question about what the speaker intended, and two answer options. How confident are you in your answer to that question?
+Rate on a scale from 1 to 5:
+1 = Extremely unconfident
+2 = Somewhat unconfident
+3 = Neutral
+4 = Somewhat confident
+5 = Extremely confident
+Answer with one digit.
 
 <<{sentence}>>

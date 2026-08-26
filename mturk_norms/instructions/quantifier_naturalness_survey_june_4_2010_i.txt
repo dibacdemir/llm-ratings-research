@@ -1,5 +1,10 @@
 How natural does the sentence sound?
-Rate on a scale from 1 to 5. (scale inferred from observed responses)
-Answer with one number.
+Rate on a scale from 1 to 5:
+1 = Extremely unnatural
+2 = Somewhat unnatural
+3 = Possible
+4 = Somewhat natural
+5 = Extremely natural
+Answer with one digit.
 
 <<{sentence}>>

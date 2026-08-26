@@ -11,10 +11,10 @@ them to humans — at the level of both means and full response distributions.
 | `pipeline/` | **The code.** Scoring, analysis, Slurm runner. See [`pipeline/README.md`](pipeline/README.md). |
 | `norm_datasets/` | 20 published norm sources, one CSV per task: `unit, mean, std, n, individual_ratings`. |
 | `instructions/` | One prompt template per dataset, with a `{word}` / `{sentence}` / `{expression}` placeholder. |
-| `surveyor_norms/` | TedLab Prolific norms, 2023–2026. 100 datasets, same schema. |
-| `mturk_norms/` | TedLab MTurk norms, 2011–2021. 171 datasets, same schema. |
+| `surveyor_norms/` | TedLab Prolific norms, 2023–2026. 100 datasets, same schema plus an `item_type` (test/filler) column. |
+| `mturk_norms/` | TedLab MTurk norms, 2011–2021. 167 datasets, all usable, same schema. |
 | `presentation/` | Dataset catalog and figures. |
-| `AUDIT_REPORT.md` | Verification of the TedLab conversions. |
+| `audit/` | Deep audit of the TedLab conversions (2026-08-19), the 2026-08-20/21 repairs, and remaining fixes. |
 
 Run everything from the repo root:
 
@@ -62,7 +62,9 @@ responses rather than just published averages.
 Working: 17 datasets in `norm_datasets/` with trial-level responses, scored
 end-to-end on MIT Engaging.
 
-Not yet wired up: the ~271 TedLab datasets in `surveyor_norms/` and
-`mturk_norms/`. Same schema, and each ships an `a_index.csv` carrying the rating
-scale, so the hardcoded registry in `pipeline/experiments.py` could be replaced
-with auto-discovery.
+Not yet wired up: the 267 TedLab datasets in `surveyor_norms/` and
+`mturk_norms/` (audited and repaired 2026-08-20/21, see `audit/`; nothing blocked). Same schema (surveyor adds an `item_type`
+column), and each ships an `a_index.csv` carrying the rating scale and
+instruction provenance, so the hardcoded registry in `pipeline/experiments.py`
+could be replaced with auto-discovery. Note `std` in these two trees is sample
+SD (ddof=1).

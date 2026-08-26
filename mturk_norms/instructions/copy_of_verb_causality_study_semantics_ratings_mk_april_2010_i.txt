@@ -1,5 +1,10 @@
-Rate the word on causality.
-Rate on a scale from 1 to 5. (scale inferred from observed responses)
-Answer with one number.
+Does the event named by the word happen on its own, or does somebody or something make it happen?
+Rate on a scale from 1 to 5:
+1 = Always happens on its own
+2 = Probably happens on its own
+3 = Either is possible
+4 = Somebody/something probably makes it
+5 = Somebody/something always makes it
+Answer with one digit.
 
-<<{sentence}>>
+<<{word}>>

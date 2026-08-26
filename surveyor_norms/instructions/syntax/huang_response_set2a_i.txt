@@ -1,6 +1,10 @@
-You will be presented with 288 different questions. Please read each question and rate it for how natural it sounds.
+Please read each question and rate it for how natural it sounds.
+
 Rate how natural the sentence is:
-Rate on a scale from 1 - Very unnatural to 7 - Very natural.
-Answer with one number.
+Rate on a scale from 1 to 7:
+1 = Very unnatural
+4 = Neutral
+7 = Very natural
+Answer with one digit.
 
 <<{sentence}>>

@@ -1,5 +1,12 @@
-Rate the passage.
-Rate on a scale from 1 to 7. (scale inferred from observed responses)
-Answer with one number.
+Read the passage. It ends with a causal statement introduced by "How likely is the following causal statement:". How likely is that causal statement to be true, given the passage?
+Rate on a scale from 1 to 7:
+1 = Extremely unlikely
+2 = Unlikely
+3 = Somewhat unlikely
+4 = Possible
+5 = Somewhat likely
+6 = Likely
+7 = Extremely likely
+Answer with one digit.
 
 <<{sentence}>>

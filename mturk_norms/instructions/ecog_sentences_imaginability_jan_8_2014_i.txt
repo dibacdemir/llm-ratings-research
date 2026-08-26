@@ -1,5 +1,10 @@
-How easy is the sentence to visualize in your mind's eye?
-Rate on a scale from 1 to 5. (scale inferred from observed responses)
-Answer with one number.
+How easy is it to imagine the situation the sentence describes?
+Rate on a scale from 1 to 5:
+1 = Extremely unimaginable
+2 = Somewhat unimaginable
+3 = Possible
+4 = Somewhat imaginable
+5 = Extremely imaginable
+Answer with one digit.
 
 <<{sentence}>>

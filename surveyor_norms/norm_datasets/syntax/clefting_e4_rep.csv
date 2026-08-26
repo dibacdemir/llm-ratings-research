@@ -1,49 +1,49 @@
-unit,mean,std,n,individual_ratings
-It was a clever solution that the student thought of.,3.4,0.9695,20,"[5, 4, 3, 3, 2, 4, 3, 2, 3, 4, 2, 5, 2, 4, 3, 4, 3, 5, 4, 3]"
-It was a perfect wedding that the couple dreamed of.,3.6429,0.895,28,"[4, 4, 4, 5, 2, 5, 4, 3, 5, 3, 2, 4, 5, 2, 3, 4, 3, 3, 3, 3, 4, 4, 4, 3, 5, 3, 4, 4]"
-It was a thunderstorm that the weather service warned of.,3.0455,1.1862,22,"[4, 4, 5, 3, 4, 1, 2, 2, 4, 3, 5, 2, 4, 2, 1, 2, 4, 2, 3, 4, 2, 4]"
-It was clues that the detective looked for.,3.3182,1.1827,22,"[4, 4, 4, 4, 4, 1, 2, 2, 4, 2, 5, 3, 5, 2, 2, 2, 4, 4, 2, 4, 5, 4]"
-It was elegant dresses that her wardrobe consisted of.,2.2963,0.8081,27,"[2, 1, 2, 4, 4, 2, 1, 2, 2, 2, 2, 3, 2, 2, 3, 2, 3, 2, 3, 3, 4, 1, 2, 2, 2, 2, 2]"
-It was experienced professionals that the team consisted of.,2.7826,1.0197,23,"[5, 2, 3, 4, 3, 2, 4, 1, 4, 2, 2, 1, 2, 2, 4, 3, 3, 4, 3, 3, 2, 2, 3]"
-It was for clues that the detective looked.,2.4643,1.0171,28,"[1, 4, 2, 2, 5, 2, 2, 2, 2, 3, 1, 3, 2, 2, 2, 3, 3, 1, 1, 3, 2, 2, 3, 2, 4, 2, 4, 4]"
-It was for repairs that the customer paid.,2.4783,1.0579,23,"[2, 2, 5, 2, 2, 2, 2, 3, 1, 2, 4, 2, 1, 1, 2, 3, 4, 2, 4, 3, 2, 2, 4]"
-It was for the bus that the nurse waited.,2.1,0.8307,30,"[1, 2, 2, 3, 1, 3, 2, 2, 2, 1, 3, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 1, 3, 4, 2, 3, 3, 2, 4, 1]"
-It was for the exam that the student studied.,2.84,1.0072,25,"[4, 3, 4, 4, 5, 3, 2, 2, 3, 1, 2, 2, 3, 3, 2, 2, 2, 2, 3, 5, 2, 2, 3, 4, 3]"
-It was for the fellowship that the student applied.,2.3158,0.9207,19,"[1, 4, 3, 3, 1, 1, 2, 4, 2, 2, 2, 1, 3, 3, 2, 2, 2, 3, 3]"
-It was for the patients that the nurse cared.,2.5517,0.8939,29,"[4, 2, 4, 2, 3, 2, 4, 2, 1, 3, 1, 3, 3, 2, 1, 3, 2, 3, 3, 4, 2, 2, 2, 2, 2, 3, 3, 2, 4]"
-It was his dribbling skills that the player boasted of.,3.1481,0.8478,27,"[3, 4, 2, 4, 3, 3, 4, 3, 4, 4, 2, 3, 4, 2, 4, 2, 3, 3, 2, 4, 3, 2, 5, 3, 2, 3, 4]"
-It was of a clever solution that the student thought.,2.2069,1.0299,29,"[2, 1, 5, 2, 3, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 5, 1, 3, 2, 2, 3, 1, 2, 2, 2, 3, 1, 2, 4]"
-It was of a perfect wedding that the couple dreamed.,2.3182,1.1436,22,"[3, 2, 3, 2, 4, 3, 1, 2, 2, 2, 1, 1, 5, 1, 1, 4, 2, 1, 2, 3, 2, 4]"
-It was of a thunderstorm that the weather service warned.,2.1429,1.1562,28,"[1, 2, 1, 4, 2, 1, 3, 1, 2, 3, 1, 2, 2, 1, 1, 2, 2, 5, 1, 3, 1, 3, 2, 1, 2, 3, 5, 3]"
-It was of elegant dresses that her wardrobe consisted.,1.7391,0.9426,23,"[2, 2, 3, 1, 2, 3, 2, 1, 1, 2, 1, 2, 1, 1, 5, 1, 2, 1, 1, 2, 1, 1, 2]"
-It was of experienced professionals that the team consisted.,2.037,0.8811,27,"[2, 2, 4, 1, 3, 2, 1, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 3, 4, 2, 2, 1, 4]"
-It was of his dribbling skills that the player boasted.,1.9565,0.8586,23,"[4, 1, 2, 2, 2, 2, 3, 1, 2, 2, 3, 2, 1, 1, 1, 2, 2, 2, 4, 2, 1, 1, 2]"
-It was of severe pain that the patient complained.,2.4667,0.9568,30,"[2, 2, 4, 3, 1, 4, 3, 2, 2, 3, 2, 2, 2, 1, 1, 1, 2, 3, 2, 2, 1, 3, 4, 4, 2, 3, 4, 3, 3, 3]"
-It was of the cool band that the hipsters heard.,1.875,0.927,24,"[3, 1, 3, 2, 1, 2, 2, 2, 1, 2, 2, 1, 2, 2, 1, 1, 1, 3, 5, 2, 1, 2, 2, 1]"
-It was of the hazardous waste that the company disposed.,2.0526,0.9444,19,"[1, 4, 2, 3, 1, 2, 2, 2, 2, 1, 3, 1, 1, 2, 1, 3, 4, 2, 2]"
-It was of the large language model that the teacher disapproved.,2.52,0.8998,25,"[3, 2, 2, 3, 4, 3, 2, 3, 2, 2, 2, 1, 2, 4, 2, 2, 2, 3, 4, 2, 2, 4, 2, 1, 4]"
-It was of the proposed budget changes that the committee approved.,2.4783,1.1371,23,"[5, 2, 2, 2, 3, 4, 2, 1, 2, 2, 2, 2, 2, 5, 1, 2, 4, 1, 3, 2, 2, 2, 4]"
-It was of the strike that the labor union approved.,2.1538,0.8177,26,"[1, 3, 3, 4, 2, 2, 4, 2, 2, 1, 1, 3, 2, 1, 2, 1, 3, 2, 2, 2, 3, 2, 2, 2, 2, 2]"
-It was repairs that the customer paid for.,3.4074,0.8717,27,"[5, 4, 2, 4, 4, 4, 4, 3, 4, 4, 2, 2, 3, 2, 4, 4, 3, 4, 2, 4, 4, 4, 4, 4, 2, 3, 3]"
-It was severe pain that the patient complained of.,3.5,0.9747,20,"[2, 5, 4, 5, 4, 2, 4, 2, 2, 3, 5, 3, 3, 4, 4, 4, 4, 3, 3, 4]"
-It was the birds that the cat listened to.,3.037,0.9222,27,"[4, 3, 4, 3, 3, 3, 1, 4, 3, 1, 2, 4, 2, 4, 2, 4, 2, 4, 3, 3, 4, 3, 4, 2, 4, 3, 3]"
-It was the bus that the nurse waited for.,3.05,1.0712,20,"[5, 5, 2, 3, 3, 2, 4, 2, 2, 2, 3, 4, 4, 2, 5, 3, 2, 3, 2, 3]"
-It was the cool band that the hipsters heard of.,2.84,1.1552,25,"[5, 3, 4, 2, 4, 3, 2, 2, 2, 1, 4, 2, 1, 4, 1, 4, 2, 4, 4, 4, 2, 4, 2, 2, 3]"
-It was the customer that the company responded to.,3.3333,1.1547,27,"[2, 3, 4, 5, 1, 4, 2, 4, 4, 1, 5, 2, 4, 5, 2, 3, 3, 3, 4, 5, 4, 4, 3, 4, 2, 4, 3]"
-It was the editor that the journalist wrote to.,3.0,1.1339,28,"[2, 2, 4, 4, 2, 2, 5, 3, 4, 2, 3, 2, 5, 2, 1, 2, 4, 2, 3, 3, 3, 3, 4, 2, 5, 2, 5, 3]"
-It was the exam that the student studied for.,3.1667,1.1055,24,"[5, 4, 4, 1, 4, 4, 3, 2, 2, 2, 3, 2, 1, 3, 2, 3, 3, 4, 3, 5, 4, 4, 4, 4]"
-It was the fellowship that the student applied for.,3.5161,1.1034,31,"[5, 1, 2, 5, 3, 4, 2, 5, 3, 4, 1, 2, 3, 4, 2, 4, 4, 3, 4, 4, 5, 4, 4, 4, 4, 4, 3, 4, 5, 3, 4]"
-It was the girls that the boy waved to.,3.1739,0.9624,23,"[5, 4, 4, 2, 3, 2, 3, 2, 4, 2, 2, 3, 4, 3, 3, 5, 3, 4, 3, 4, 2, 2, 4]"
-It was the hazardous waste that the company disposed of.,3.4839,0.9795,31,"[5, 5, 4, 4, 3, 4, 2, 3, 2, 4, 2, 2, 2, 4, 2, 4, 4, 2, 5, 4, 5, 4, 4, 3, 4, 4, 3, 4, 3, 3, 4]"
-It was the large language model that the teacher disapproved of.,3.32,1.3182,25,"[5, 4, 3, 3, 1, 4, 1, 3, 1, 4, 4, 1, 2, 4, 5, 3, 4, 4, 5, 5, 5, 3, 3, 2, 4]"
-It was the patient that the doctor talked to.,3.4583,1.1173,24,"[4, 4, 4, 4, 2, 2, 4, 5, 2, 4, 2, 2, 4, 2, 2, 5, 5, 5, 4, 4, 3, 4, 2, 4]"
-It was the patients that the nurse cared for.,3.2857,1.2009,21,"[5, 5, 2, 4, 2, 3, 4, 2, 2, 2, 4, 1, 4, 3, 4, 4, 3, 3, 5, 5, 2]"
-It was the proposed budget changes that the committee approved of.,3.6296,1.0593,27,"[4, 4, 4, 4, 1, 4, 2, 4, 3, 3, 4, 2, 4, 5, 2, 3, 4, 5, 5, 4, 3, 4, 4, 4, 5, 2, 5]"
-It was the strike that the labor union approved of.,3.2917,1.2069,24,"[4, 4, 4, 4, 2, 2, 4, 5, 1, 4, 1, 2, 2, 2, 2, 5, 4, 4, 4, 5, 3, 4, 4, 3]"
-It was the teacher that the child apologized to.,3.36,1.0538,25,"[4, 4, 4, 4, 1, 5, 2, 3, 4, 2, 4, 4, 2, 4, 3, 3, 4, 2, 5, 5, 3, 3, 3, 4, 2]"
-It was to the birds that the cat listened.,1.8696,0.8995,23,"[3, 2, 3, 2, 2, 2, 1, 1, 1, 2, 1, 2, 1, 1, 2, 2, 2, 1, 2, 2, 1, 2, 5]"
-It was to the customer that the company responded.,2.4348,1.0561,23,"[1, 4, 1, 4, 3, 3, 1, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 5, 3, 3, 3, 2, 4]"
-It was to the editor that the journalist wrote.,2.4545,1.0325,22,"[2, 3, 2, 4, 4, 2, 1, 2, 1, 2, 1, 2, 4, 2, 3, 2, 3, 1, 4, 3, 4, 2]"
-It was to the girls that the boy waved.,2.1481,0.8904,27,"[4, 2, 3, 2, 3, 3, 1, 1, 1, 2, 2, 1, 2, 1, 2, 2, 1, 2, 2, 2, 1, 3, 4, 3, 2, 3, 3]"
-It was to the patient that the doctor talked.,2.0,0.6794,26,"[1, 3, 3, 2, 2, 1, 2, 2, 2, 1, 2, 3, 2, 1, 2, 2, 2, 2, 2, 2, 4, 2, 2, 2, 2, 1]"
-It was to the teacher that the child apologized.,2.68,0.9261,25,"[4, 4, 2, 3, 2, 2, 2, 4, 2, 2, 2, 2, 1, 2, 2, 2, 3, 3, 4, 2, 4, 4, 3, 2, 4]"
+unit,mean,std,n,individual_ratings,item_type
+It was a clever solution that the student thought of.,3.4,0.9947,20,"[5, 4, 3, 3, 2, 4, 3, 2, 3, 4, 2, 5, 2, 4, 3, 4, 3, 5, 4, 3]",test
+It was a perfect wedding that the couple dreamed of.,3.6429,0.9114,28,"[4, 4, 4, 5, 2, 5, 4, 3, 5, 3, 2, 4, 5, 2, 3, 4, 3, 3, 3, 3, 4, 4, 4, 3, 5, 3, 4, 4]",test
+It was a thunderstorm that the weather service warned of.,3.0455,1.2141,22,"[4, 4, 5, 3, 4, 1, 2, 2, 4, 3, 5, 2, 4, 2, 1, 2, 4, 2, 3, 4, 2, 4]",test
+It was clues that the detective looked for.,3.3182,1.2105,22,"[4, 4, 4, 4, 4, 1, 2, 2, 4, 2, 5, 3, 5, 2, 2, 2, 4, 4, 2, 4, 5, 4]",test
+It was elegant dresses that her wardrobe consisted of.,2.2963,0.8234,27,"[2, 1, 2, 4, 4, 2, 1, 2, 2, 2, 2, 3, 2, 2, 3, 2, 3, 2, 3, 3, 4, 1, 2, 2, 2, 2, 2]",test
+It was experienced professionals that the team consisted of.,2.7826,1.0426,23,"[5, 2, 3, 4, 3, 2, 4, 1, 4, 2, 2, 1, 2, 2, 4, 3, 3, 4, 3, 3, 2, 2, 3]",test
+It was for clues that the detective looked.,2.4643,1.0357,28,"[1, 4, 2, 2, 5, 2, 2, 2, 2, 3, 1, 3, 2, 2, 2, 3, 3, 1, 1, 3, 2, 2, 3, 2, 4, 2, 4, 4]",test
+It was for repairs that the customer paid.,2.4783,1.0816,23,"[2, 2, 5, 2, 2, 2, 2, 3, 1, 2, 4, 2, 1, 1, 2, 3, 4, 2, 4, 3, 2, 2, 4]",test
+It was for the bus that the nurse waited.,2.1,0.8449,30,"[1, 2, 2, 3, 1, 3, 2, 2, 2, 1, 3, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 1, 3, 4, 2, 3, 3, 2, 4, 1]",test
+It was for the exam that the student studied.,2.84,1.0279,25,"[4, 3, 4, 4, 5, 3, 2, 2, 3, 1, 2, 2, 3, 3, 2, 2, 2, 2, 3, 5, 2, 2, 3, 4, 3]",test
+It was for the fellowship that the student applied.,2.3158,0.9459,19,"[1, 4, 3, 3, 1, 1, 2, 4, 2, 2, 2, 1, 3, 3, 2, 2, 2, 3, 3]",test
+It was for the patients that the nurse cared.,2.5517,0.9097,29,"[4, 2, 4, 2, 3, 2, 4, 2, 1, 3, 1, 3, 3, 2, 1, 3, 2, 3, 3, 4, 2, 2, 2, 2, 2, 3, 3, 2, 4]",test
+It was his dribbling skills that the player boasted of.,3.1481,0.864,27,"[3, 4, 2, 4, 3, 3, 4, 3, 4, 4, 2, 3, 4, 2, 4, 2, 3, 3, 2, 4, 3, 2, 5, 3, 2, 3, 4]",test
+It was of a clever solution that the student thought.,2.2069,1.0481,29,"[2, 1, 5, 2, 3, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 5, 1, 3, 2, 2, 3, 1, 2, 2, 2, 3, 1, 2, 4]",test
+It was of a perfect wedding that the couple dreamed.,2.3182,1.1705,22,"[3, 2, 3, 2, 4, 3, 1, 2, 2, 2, 1, 1, 5, 1, 1, 4, 2, 1, 2, 3, 2, 4]",test
+It was of a thunderstorm that the weather service warned.,2.1429,1.1774,28,"[1, 2, 1, 4, 2, 1, 3, 1, 2, 3, 1, 2, 2, 1, 1, 2, 2, 5, 1, 3, 1, 3, 2, 1, 2, 3, 5, 3]",test
+It was of elegant dresses that her wardrobe consisted.,1.7391,0.9638,23,"[2, 2, 3, 1, 2, 3, 2, 1, 1, 2, 1, 2, 1, 1, 5, 1, 2, 1, 1, 2, 1, 1, 2]",test
+It was of experienced professionals that the team consisted.,2.037,0.8979,27,"[2, 2, 4, 1, 3, 2, 1, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 3, 4, 2, 2, 1, 4]",test
+It was of his dribbling skills that the player boasted.,1.9565,0.8779,23,"[4, 1, 2, 2, 2, 2, 3, 1, 2, 2, 3, 2, 1, 1, 1, 2, 2, 2, 4, 2, 1, 1, 2]",test
+It was of severe pain that the patient complained.,2.4667,0.9732,30,"[2, 2, 4, 3, 1, 4, 3, 2, 2, 3, 2, 2, 2, 1, 1, 1, 2, 3, 2, 2, 1, 3, 4, 4, 2, 3, 4, 3, 3, 3]",test
+It was of the cool band that the hipsters heard.,1.875,0.947,24,"[3, 1, 3, 2, 1, 2, 2, 2, 1, 2, 2, 1, 2, 2, 1, 1, 1, 3, 5, 2, 1, 2, 2, 1]",test
+It was of the hazardous waste that the company disposed.,2.0526,0.9703,19,"[1, 4, 2, 3, 1, 2, 2, 2, 2, 1, 3, 1, 1, 2, 1, 3, 4, 2, 2]",test
+It was of the large language model that the teacher disapproved.,2.52,0.9183,25,"[3, 2, 2, 3, 4, 3, 2, 3, 2, 2, 2, 1, 2, 4, 2, 2, 2, 3, 4, 2, 2, 4, 2, 1, 4]",test
+It was of the proposed budget changes that the committee approved.,2.4783,1.1627,23,"[5, 2, 2, 2, 3, 4, 2, 1, 2, 2, 2, 2, 2, 5, 1, 2, 4, 1, 3, 2, 2, 2, 4]",test
+It was of the strike that the labor union approved.,2.1538,0.8339,26,"[1, 3, 3, 4, 2, 2, 4, 2, 2, 1, 1, 3, 2, 1, 2, 1, 3, 2, 2, 2, 3, 2, 2, 2, 2, 2]",test
+It was repairs that the customer paid for.,3.4074,0.8884,27,"[5, 4, 2, 4, 4, 4, 4, 3, 4, 4, 2, 2, 3, 2, 4, 4, 3, 4, 2, 4, 4, 4, 4, 4, 2, 3, 3]",test
+It was severe pain that the patient complained of.,3.5,1.0,20,"[2, 5, 4, 5, 4, 2, 4, 2, 2, 3, 5, 3, 3, 4, 4, 4, 4, 3, 3, 4]",test
+It was the birds that the cat listened to.,3.037,0.9398,27,"[4, 3, 4, 3, 3, 3, 1, 4, 3, 1, 2, 4, 2, 4, 2, 4, 2, 4, 3, 3, 4, 3, 4, 2, 4, 3, 3]",test
+It was the bus that the nurse waited for.,3.05,1.099,20,"[5, 5, 2, 3, 3, 2, 4, 2, 2, 2, 3, 4, 4, 2, 5, 3, 2, 3, 2, 3]",test
+It was the cool band that the hipsters heard of.,2.84,1.179,25,"[5, 3, 4, 2, 4, 3, 2, 2, 2, 1, 4, 2, 1, 4, 1, 4, 2, 4, 4, 4, 2, 4, 2, 2, 3]",test
+It was the customer that the company responded to.,3.3333,1.1767,27,"[2, 3, 4, 5, 1, 4, 2, 4, 4, 1, 5, 2, 4, 5, 2, 3, 3, 3, 4, 5, 4, 4, 3, 4, 2, 4, 3]",test
+It was the editor that the journalist wrote to.,3.0,1.1547,28,"[2, 2, 4, 4, 2, 2, 5, 3, 4, 2, 3, 2, 5, 2, 1, 2, 4, 2, 3, 3, 3, 3, 4, 2, 5, 2, 5, 3]",test
+It was the exam that the student studied for.,3.1667,1.1293,24,"[5, 4, 4, 1, 4, 4, 3, 2, 2, 2, 3, 2, 1, 3, 2, 3, 3, 4, 3, 5, 4, 4, 4, 4]",test
+It was the fellowship that the student applied for.,3.5161,1.1216,31,"[5, 1, 2, 5, 3, 4, 2, 5, 3, 4, 1, 2, 3, 4, 2, 4, 4, 3, 4, 4, 5, 4, 4, 4, 4, 4, 3, 4, 5, 3, 4]",test
+It was the girls that the boy waved to.,3.1739,0.9841,23,"[5, 4, 4, 2, 3, 2, 3, 2, 4, 2, 2, 3, 4, 3, 3, 5, 3, 4, 3, 4, 2, 2, 4]",test
+It was the hazardous waste that the company disposed of.,3.4839,0.9957,31,"[5, 5, 4, 4, 3, 4, 2, 3, 2, 4, 2, 2, 2, 4, 2, 4, 4, 2, 5, 4, 5, 4, 4, 3, 4, 4, 3, 4, 3, 3, 4]",test
+It was the large language model that the teacher disapproved of.,3.32,1.3454,25,"[5, 4, 3, 3, 1, 4, 1, 3, 1, 4, 4, 1, 2, 4, 5, 3, 4, 4, 5, 5, 5, 3, 3, 2, 4]",test
+It was the patient that the doctor talked to.,3.4583,1.1413,24,"[4, 4, 4, 4, 2, 2, 4, 5, 2, 4, 2, 2, 4, 2, 2, 5, 5, 5, 4, 4, 3, 4, 2, 4]",test
+It was the patients that the nurse cared for.,3.2857,1.2306,21,"[5, 5, 2, 4, 2, 3, 4, 2, 2, 2, 4, 1, 4, 3, 4, 4, 3, 3, 5, 5, 2]",test
+It was the proposed budget changes that the committee approved of.,3.6296,1.0795,27,"[4, 4, 4, 4, 1, 4, 2, 4, 3, 3, 4, 2, 4, 5, 2, 3, 4, 5, 5, 4, 3, 4, 4, 4, 5, 2, 5]",test
+It was the strike that the labor union approved of.,3.2917,1.2329,24,"[4, 4, 4, 4, 2, 2, 4, 5, 1, 4, 1, 2, 2, 2, 2, 5, 4, 4, 4, 5, 3, 4, 4, 3]",test
+It was the teacher that the child apologized to.,3.36,1.0755,25,"[4, 4, 4, 4, 1, 5, 2, 3, 4, 2, 4, 4, 2, 4, 3, 3, 4, 2, 5, 5, 3, 3, 3, 4, 2]",test
+It was to the birds that the cat listened.,1.8696,0.9197,23,"[3, 2, 3, 2, 2, 2, 1, 1, 1, 2, 1, 2, 1, 1, 2, 2, 2, 1, 2, 2, 1, 2, 5]",test
+It was to the customer that the company responded.,2.4348,1.0798,23,"[1, 4, 1, 4, 3, 3, 1, 2, 2, 2, 2, 2, 2, 2, 1, 2, 2, 5, 3, 3, 3, 2, 4]",test
+It was to the editor that the journalist wrote.,2.4545,1.0568,22,"[2, 3, 2, 4, 4, 2, 1, 2, 1, 2, 1, 2, 4, 2, 3, 2, 3, 1, 4, 3, 4, 2]",test
+It was to the girls that the boy waved.,2.1481,0.9074,27,"[4, 2, 3, 2, 3, 3, 1, 1, 1, 2, 2, 1, 2, 1, 2, 2, 1, 2, 2, 2, 1, 3, 4, 3, 2, 3, 3]",test
+It was to the patient that the doctor talked.,2.0,0.6928,26,"[1, 3, 3, 2, 2, 1, 2, 2, 2, 1, 2, 3, 2, 1, 2, 2, 2, 2, 2, 2, 4, 2, 2, 2, 2, 1]",test
+It was to the teacher that the child apologized.,2.68,0.9452,25,"[4, 4, 2, 3, 2, 2, 2, 4, 2, 2, 2, 2, 1, 2, 2, 2, 3, 3, 4, 2, 4, 4, 3, 2, 4]",test

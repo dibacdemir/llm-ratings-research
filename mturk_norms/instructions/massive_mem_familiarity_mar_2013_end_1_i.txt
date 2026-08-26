@@ -1,5 +1,10 @@
-How familiar is the word?
-Rate on a scale from 1 to 5. (scale inferred from observed responses)
-Answer with one number.
+How familiar is the word or phrase?
+Rate on a scale from 1 to 5:
+1 = don't know what this word/phrase means
+2 = Quite unfamiliar
+3 = Somewhat familiar
+4 = Quite familiar
+5 = Very familiar
+Answer with one digit.
 
-<<{sentence}>>
+<<{word}>>

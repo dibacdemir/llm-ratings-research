@@ -1,5 +1,12 @@
-How acceptable is the sentence?
-Rate on a scale from 1 to 7. (scale inferred from observed responses)
-Answer with one number.
+How natural does the sentence sound?
+Rate on a scale from 1 to 7:
+1 = Extremely unnatural
+2 = Unnatural
+3 = Somewhat unnatural
+4 = Neutral
+5 = Somewhat natural
+6 = Natural
+7 = Extremely natural
+Answer with one digit.
 
 <<{sentence}>>

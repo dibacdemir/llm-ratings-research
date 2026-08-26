@@ -1,103 +1,101 @@
-unit,mean,std,n,individual_ratings
-A backpack carries all the essentials on a hike. A suitcase holds everything needed for a trip.,3.8,0.6,20,"[4, 4, 4, 5, 3, 3, 3, 4, 5, 3, 4, 4, 4, 4, 4, 3, 4, 3, 4, 4]"
-A car accident blocked off one lane of the highway. John was late to pick up his daughter from school.,3.8947,1.165,19,"[5, 4, 4, 4, 1, 4, 4, 5, 3, 4, 5, 5, 4, 5, 5, 4, 3, 1, 4]"
-A garden brings color to a backyard. Flowers add beauty to a windowsill.,4.1,0.8888,20,"[5, 4, 3, 5, 3, 5, 4, 5, 5, 5, 5, 5, 3, 3, 4, 3, 5, 3, 4, 3]"
-A lighthouse guides ships to safety. A compass helps hikers find their way.,3.85,0.9631,20,"[4, 3, 5, 5, 4, 1, 4, 4, 3, 2, 4, 4, 5, 4, 4, 4, 4, 4, 4, 5]"
-A melody was stuck in Jim's head all day. Aaron couldn't get the smell of pastries out of his mind.,2.15,0.9097,20,"[3, 2, 3, 4, 3, 1, 2, 3, 1, 2, 2, 3, 2, 1, 2, 1, 1, 3, 1, 3]"
-A menacing storm rolled across the horizon. Sailors hurried to secure their boats at the dock.,4.55,0.9206,20,"[5, 5, 5, 5, 1, 4, 5, 5, 5, 4, 5, 5, 4, 5, 5, 4, 5, 5, 4, 5]"
-A new restaurant opened downtown last week. Fluency enables deeper cultural understanding.,1.55,0.8047,20,"[1, 1, 2, 1, 4, 2, 2, 1, 1, 2, 1, 2, 1, 2, 3, 1, 1, 1, 1, 1]"
-A new tech startup opened its doors last month. The photos raise awareness of conservation efforts.,1.65,0.9631,20,"[1, 1, 1, 1, 3, 1, 1, 1, 3, 3, 1, 4, 2, 1, 3, 1, 1, 2, 1, 1]"
-A tree provides a home for birds. A coral reef shelters fish.,3.5,1.2042,20,"[4, 4, 5, 4, 2, 1, 3, 4, 3, 2, 4, 4, 5, 4, 5, 5, 4, 3, 1, 3]"
-An intense heat wave swept across the city. People flocked to the beach to cool off in the water.,4.85,0.477,20,"[5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5]"
-Anna was reluctant to say goodbye and lingered at the door. Chris was able to walk away without hesitation.,4.65,0.6538,20,"[4, 5, 5, 5, 5, 5, 3, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 3]"
-Consuming alcohol is dangerous for your health. People who drink in excess are more likely to develop cancer.,4.65,0.6538,20,"[5, 4, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 4, 5, 3]"
-Emily started a new yoga class last week. The peaceful atmosphere helps reduce daily stress levels.,4.45,1.0235,20,"[5, 4, 5, 5, 3, 5, 5, 5, 5, 4, 5, 4, 5, 3, 5, 5, 5, 5, 1, 5]"
-Jack started a blog about sustainable living. Practical tips inspire readers to adopt eco-friendly practices.,4.2,1.249,20,"[5, 5, 5, 5, 3, 5, 5, 4, 3, 5, 5, 5, 1, 4, 5, 5, 4, 4, 1, 5]"
-James sat silently and avoided eye contact. Grace greeted everyone and made lively conversation.,3.95,1.1169,20,"[5, 4, 5, 5, 3, 3, 3, 4, 5, 2, 4, 5, 4, 3, 5, 5, 5, 4, 1, 4]"
-Jeremy stopped at a diner for lunch. The roadside coffee was warm and refreshing.,3.8,1.2083,20,"[5, 5, 4, 5, 3, 4, 3, 5, 3, 4, 4, 3, 1, 5, 5, 4, 5, 1, 4, 3]"
-John forgot his umbrella and got soaked. Mark thought the speaker was boring and repetitive.,1.35,0.6538,20,"[1, 1, 1, 3, 3, 1, 1, 1, 1, 1, 2, 1, 2, 1, 2, 1, 1, 1, 1, 1]"
-Judy shut off the lights and locked the door. There was hardly any traffic on the way to the supermarket.,1.9,1.2207,20,"[3, 1, 4, 4, 1, 1, 1, 1, 1, 4, 2, 1, 1, 1, 3, 1, 1, 2, 1, 4]"
-Lamps light up a dark room. Stars illuminate the night sky.,3.65,0.8529,20,"[3, 1, 4, 5, 5, 3, 4, 4, 3, 3, 3, 4, 3, 4, 4, 4, 4, 4, 4, 4]"
-Libraries offer knowledge to eager learners. Museums display history for curious minds.,3.85,0.7921,20,"[4, 4, 4, 5, 3, 2, 3, 5, 5, 3, 3, 4, 5, 3, 4, 4, 4, 4, 4, 4]"
-Lily kept her thoughts to herself during the meeting. Sam was never afraid to speak up.,4.45,0.4975,20,"[5, 4, 5, 5, 4, 5, 4, 4, 5, 4, 5, 4, 4, 4, 5, 5, 5, 4, 4, 4]"
-Mark hesitated to make a decision. The locals found the ruins ordinary and unremarkable.,1.4,0.7348,20,"[3, 1, 2, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1]"
-Music has the power to bring people together. The arts create a shared experience that fosters community.,3.9,0.995,20,"[5, 4, 4, 5, 4, 2, 5, 4, 5, 3, 5, 4, 1, 4, 4, 3, 4, 4, 4, 4]"
-Robert recently bought an expensive new dining table. The stylish centerpiece will impress many dinner guests.,4.55,0.7399,20,"[5, 4, 4, 5, 2, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 4, 4, 5, 4, 5]"
-Sarah loves reading mystery novels. The photographer captured an image that seemed to breathe.,1.7,1.005,20,"[1, 1, 2, 2, 4, 2, 3, 1, 1, 1, 1, 4, 1, 1, 1, 2, 1, 1, 1, 3]"
-Shelters provide homeless people with a place to sleep. Food banks offer meals to those in need.,4.55,0.5895,20,"[4, 4, 5, 5, 5, 5, 4, 5, 5, 5, 5, 3, 5, 4, 5, 4, 5, 4, 4, 5]"
-Shoes protect feet from rough terrain. Helmets guard heads during sporting events.,3.8,0.9274,20,"[4, 3, 4, 5, 5, 3, 3, 4, 5, 3, 4, 4, 5, 1, 4, 4, 4, 4, 4, 3]"
-The British Museum displayed impressive ancient artifacts. Writers transform an empty pages into captivating stories.,1.9,0.995,20,"[2, 1, 3, 2, 2, 1, 4, 1, 1, 2, 2, 3, 1, 1, 2, 3, 1, 1, 4, 1]"
-The TV was left on all night by mistake. Passengers crowded the gate waiting for further updates.,1.1053,0.3069,19,"[1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1]"
-The actor rehearsed his lines for the final time. The audience went silent and the spotlight came on.,4.1,0.8888,20,"[5, 4, 5, 5, 3, 4, 5, 3, 3, 4, 4, 4, 3, 2, 4, 5, 5, 5, 4, 5]"
-The airline announced a significant flight delay. Student grades improved and they performed better in classes.,1.15,0.477,20,"[1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1]"
-The antique clock ticked heavily with each passing second. The digital watch displayed time silently and seamlessly.,3.9,0.8307,20,"[4, 3, 5, 5, 3, 2, 4, 4, 5, 4, 3, 4, 3, 5, 5, 4, 4, 3, 4, 4]"
-The architect finished the new building design. The construction team questioned the window placement.,4.6,0.5831,20,"[5, 5, 5, 5, 5, 5, 4, 4, 5, 5, 4, 4, 4, 5, 5, 5, 5, 4, 3, 5]"
-The architect revealed plans for a modern skyscraper. People who drink in excess are more likely to develop cancer.,1.0,0.0,20,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
-The assignment deadline was quickly approaching. Alicia stayed up for two days straight to complete the project.,4.9,0.3,20,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 4, 5]"
-The astronaut strapped into the shuttle. The massive spacecraft launched into the sky.,4.55,0.5895,20,"[5, 5, 5, 5, 3, 5, 4, 5, 5, 5, 5, 4, 4, 5, 4, 4, 5, 4, 4, 5]"
-The busy holiday season increased sales dramatically. Timmy shook with fear under the covers in his bed.,1.1,0.3,20,"[2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1]"
-The chef accidentally added too much salt to the soup. Many stores ran out of popular items.,1.45,0.9734,20,"[1, 1, 2, 1, 2, 1, 2, 5, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1]"
-The chef prepared a gourmet meal with precision. The gymnast performed with elegance on the balance beam.,1.65,0.7921,20,"[1, 1, 2, 3, 3, 1, 2, 1, 1, 1, 1, 3, 2, 1, 3, 2, 1, 2, 1, 1]"
-The city council approved a new housing project. The species is notable for its vibrant colors.,1.0,0.0,20,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
-The climber fastened the harness to the rope. The ascent of the mountain was deathly cold.,4.55,0.5895,20,"[5, 4, 4, 4, 3, 5, 4, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 4, 4]"
-The company's latest smartphone is sleek and innovative. The hunter aimed his bow with exactness in the forest.,1.05,0.2179,20,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1]"
-The concert tickets sold out in less than an hour. Local climate patterns began to change.,1.1,0.3,20,"[1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1]"
-The cooking class was practicing dicing onions. Everyone's eyes were watering profusely.,4.6,1.2,20,"[5, 5, 5, 5, 5, 5, 1, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 1, 5]"
-The crew assembled the concert stage hurridly. Marcia could feel the platforms wobbling during the performance.,4.75,0.5362,20,"[5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 4, 4, 5]"
-The daughter angrily left the dinner table. The mother finished cleaning up the ktichen.,3.95,1.0712,20,"[5, 4, 4, 5, 2, 5, 4, 5, 5, 4, 3, 3, 4, 4, 4, 5, 5, 3, 1, 4]"
-The doctor updated the patient's chart. The restaurant opened its doors to customers in the early evening.,1.15,0.6538,20,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1]"
-The early morning train was packed with commuters. The digital watch displayed time silently and seamlessly.,1.75,1.0897,20,"[1, 1, 2, 3, 3, 1, 1, 1, 1, 1, 3, 2, 1, 1, 5, 1, 3, 2, 1, 1]"
-The family arrived at the resort after a long day of travel. Dinner at the hotel was accompanied by hula dancing.,3.8,1.0296,20,"[4, 4, 3, 5, 2, 3, 4, 5, 5, 4, 5, 3, 2, 2, 4, 4, 5, 3, 4, 5]"
-"The fancy restaurant served tiny, artfully plated dishes. The diner piled plates high with hearty comfort food.",3.5,1.1619,20,"[3, 4, 4, 5, 2, 5, 4, 1, 5, 5, 4, 4, 3, 3, 3, 3, 4, 3, 4, 1]"
-The festival will feature local musicians and artists. The ascent marked the fastest recorded climb of the peak.,1.2,0.6782,20,"[1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1]"
-The filmmaker spent years monitoring the effects of climate change. The documentary offers a powerful visual account of rising sea levels.,4.2,0.9798,20,"[5, 5, 4, 5, 2, 4, 5, 5, 5, 3, 4, 4, 3, 5, 5, 4, 5, 2, 4, 5]"
-The first flight to Frankfurt this morning was delayed. The rainforest was dark and mysterious.,1.3158,0.7293,19,"[1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 1, 4, 1]"
-"The girl has been asking for a puppy for a a few months. Finally, Aunt Kylie caved in and bought a poodle.",4.7368,0.9086,19,"[5, 5, 5, 5, 5, 5, 5, 5, 1, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5]"
-The gym offers high-intensity workouts for fitness enthusiasts. The alleyway behind the shop reeked of garbage.,1.6,0.8,20,"[1, 1, 1, 3, 3, 2, 1, 1, 1, 3, 1, 2, 1, 3, 2, 2, 1, 1, 1, 1]"
-The hike was exhausting for the beginners. The funeral was somber and still.,1.45,0.7399,20,"[1, 1, 1, 2, 3, 1, 1, 3, 1, 1, 1, 2, 1, 1, 1, 2, 3, 1, 1, 1]"
-The horror movie kept movie-goers on edge with each scene. The comedy film filled the audience with laughter and lightheartedness.,3.3,1.1,20,"[4, 4, 5, 4, 2, 1, 3, 3, 3, 2, 4, 4, 3, 3, 4, 4, 5, 4, 1, 3]"
-The hurricane was accompanied by extremely high winds. Reservations at the new hot spot doubled the following week.,1.85,0.9097,20,"[1, 1, 1, 2, 2, 2, 4, 3, 1, 2, 2, 3, 1, 1, 1, 3, 1, 2, 1, 3]"
-The invasive species took over the lake. The old companions arranged a reunion to reconnect.,1.35,0.7921,20,"[1, 1, 1, 2, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 4, 1]"
-The journalist covered breaking news from a conflict zone. On-the-ground reporting offered firsthand insights.,4.45,0.7399,20,"[5, 5, 3, 5, 3, 5, 4, 5, 5, 5, 5, 4, 5, 4, 5, 5, 5, 3, 4, 4]"
-The kids put on their coats to go outside for recess. The conductor raised her baton to begin the piece.,1.3,0.4583,20,"[1, 1, 1, 2, 2, 1, 1, 1, 1, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1]"
-The kitchen spent the afternoon preparing ingredients for service. The children's mother arrived at the school to pick them up.,1.35,0.477,20,"[1, 1, 2, 1, 2, 2, 2, 1, 1, 2, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1]"
-The laptop crashed in the middle of the presentation. The badminton tournament took place on a wooden floor.,1.0,0.0,20,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
-The library has a wide selection of science fiction books. The diner piled plates high with hearty comfort food.,1.25,0.6982,20,"[1, 1, 2, 2, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
-The local theater company is putting on a broadway classic. The new building will incorporate eco-friendly materials.,2.3,1.4177,20,"[1, 1, 2, 4, 5, 5, 4, 1, 3, 4, 3, 2, 1, 1, 3, 2, 1, 1, 1, 1]"
-The mailman delivered the package at the end of the day. The audience slowly filed into their seats.,1.2,0.6,20,"[1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1]"
-The mountain climber reached the summit after weeks of preparation. The ascent required mental resilience and careful planning.,4.15,1.2359,20,"[5, 5, 5, 5, 3, 4, 5, 5, 1, 5, 5, 4, 5, 3, 5, 2, 5, 2, 4, 5]"
-The movie crew set up a table of food for the shoot. The gallery opened its doors to the public.,1.95,0.8047,20,"[1, 2, 3, 3, 3, 2, 3, 1, 1, 2, 2, 2, 3, 1, 3, 2, 2, 1, 1, 1]"
-The movie opened with a beautiful desert scene. The film's plot evolved into a Western crime drama.,4.4,0.6633,20,"[5, 4, 4, 5, 5, 5, 5, 4, 5, 5, 4, 4, 3, 5, 4, 5, 3, 4, 4, 5]"
-The movie was filled with exciting action scenes. Umbrellas shield us from the pouring rain.,1.25,0.6982,20,"[1, 1, 1, 2, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1]"
-The musician tuned his guitar before the show. The mac-n-cheese came out piping hot.,1.25,0.5362,20,"[2, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1]"
-The new law reduced funding for public transportation. Derek had trouble concentrating on his work.,1.55,0.8646,20,"[2, 1, 1, 2, 3, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 4, 3, 1, 1, 1]"
-The northern forest had been all but depleted. Lumberjacks struggled to sustain their livelihoods.,4.45,1.0712,20,"[5, 5, 4, 5, 2, 5, 4, 5, 5, 4, 5, 4, 5, 5, 5, 5, 5, 5, 1, 5]"
-The novelist released a highly anticipated sequel. Fans praised the intricate plot twists and rich character development.,4.3,1.0536,20,"[5, 5, 4, 5, 1, 3, 5, 3, 5, 5, 5, 3, 5, 5, 5, 4, 5, 5, 4, 4]"
-The old bicycle had squeaky brakes. Sarah brought her umbrella and stayed dry.,1.5,0.8062,20,"[1, 1, 2, 2, 2, 1, 4, 1, 1, 3, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1]"
-The open water bottle fell from the table. The shag carpet was completely soaked.,4.65,0.477,20,"[5, 5, 4, 5, 4, 5, 4, 5, 5, 5, 5, 4, 4, 5, 5, 5, 5, 5, 4, 4]"
-The oven temperature was set too high. Steve's roasted chicken was charred and bitter.,4.75,0.6982,20,"[5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 4, 5]"
-The painter mixed the perfect shade of blue. The artist transformed the canvas into a serene landscape.,4.2,0.6782,20,"[5, 4, 4, 5, 4, 5, 5, 4, 5, 5, 4, 4, 3, 3, 4, 5, 3, 4, 4, 4]"
-The pilot navigated the plane through turbulent skies. The gardener nurtured the flowers with patience.,1.5,0.866,20,"[1, 1, 3, 3, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 4, 1, 2, 1, 1]"
-The poet's verses were filled with deep emotion. The cafe had mouth-watering pastries.,1.45,0.8047,20,"[1, 1, 1, 2, 4, 1, 1, 1, 1, 2, 1, 2, 1, 1, 3, 1, 1, 2, 1, 1]"
-The professor distributed the final assesment. The guests arrived just as the meal was ready.,1.1053,0.3069,19,"[1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
-The research team discovered a new type of butterfly. The trains are capable of speeds of up to 300 kilometers per hour,1.15,0.477,20,"[1, 1, 1, 1, 1, 2, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
-The restaurant served delicious food. The gymnast performed with elegance on the balance beam.,1.2,0.5099,20,"[1, 1, 1, 2, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1]"
-The rose bushes in the garden are in full bloom. The national gallery showcased stunning historical paintings.,1.8421,1.0889,19,"[1, 1, 3, 3, 1, 1, 1, 1, 3, 1, 4, 1, 1, 3, 2, 1, 2, 4, 1]"
-The short flight arrived on time at the airport. The nurse opened the cabinet to prepare the next treatment.,1.05,0.2179,20,"[1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
-"The snowstorm blanketed the roads with thick, icy snow. Attendees felt motivated to begin pursuing new personal goals.",1.65,1.0618,20,"[2, 1, 1, 2, 4, 2, 5, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1]"
-The speaker received a round of polite applause. It started raining in the middle of the kickball game.,1.55,0.8047,20,"[1, 1, 1, 3, 3, 2, 1, 1, 1, 3, 1, 1, 2, 1, 2, 3, 1, 1, 1, 1]"
-The spicy peppers brought tears to Derek's eyes. The sweet mango cooled Sara's mouth with each bite.,3.5,0.9747,20,"[4, 4, 4, 4, 2, 3, 5, 3, 2, 4, 4, 4, 4, 5, 4, 3, 3, 4, 1, 3]"
-The storm outside was wild and chaotic. Inside the house everything was calm and peaceful.,4.35,0.5723,20,"[5, 4, 4, 4, 4, 5, 5, 4, 5, 4, 4, 3, 4, 5, 5, 5, 5, 4, 4, 4]"
-The sun rose over the city skyline. The artist transformed the canvas into a serene landscape.,3.05,1.2031,20,"[3, 1, 3, 4, 5, 2, 3, 5, 2, 4, 3, 3, 3, 3, 5, 3, 3, 4, 1, 1]"
-The teacher assigned extra homework. Employment rates for local residents improved significantly.,1.2,0.4,20,"[1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
-The team secured a major sponsorship deal. Communities with access to fresh water have fewer health problems.,1.4,0.7348,20,"[1, 1, 1, 2, 4, 1, 1, 1, 1, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1]"
-The tech company launched a groundbreaking smartphone. The enclosure was designed to resemble tropical rainforests.,1.3,0.7141,20,"[1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1]"
-The tennis match was held on a clay court. Jane solved the equation in a few minutes.,1.2105,0.6138,19,"[1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1]"
-The toddler took his first steps with excitement. The young bird spread its wings to fly for the first time.,2.75,1.299,20,"[3, 3, 3, 5, 5, 1, 3, 4, 1, 1, 2, 2, 1, 1, 3, 3, 2, 4, 4, 4]"
-The toddler's laughter was loud and uninhibited. The old man's chuckle was soft and restrained.,3.7,0.9,20,"[4, 3, 4, 5, 3, 1, 4, 5, 5, 3, 4, 4, 4, 4, 3, 3, 4, 3, 4, 4]"
-The train arrived right on schedule. The baker crafted a delicate pastry with care.,1.15,0.3571,20,"[1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1]"
-The weatherman predicted record-high temperatures. Susan dressed in a tank-top and breathable shorts.,3.85,1.1522,20,"[5, 4, 5, 5, 2, 4, 4, 5, 3, 2, 4, 3, 3, 4, 5, 5, 5, 4, 1, 4]"
-The wildlife photographer captured rare images of endangered species. The photos raise awareness of conservation efforts.,4.55,1.0235,20,"[5, 5, 5, 5, 5, 5, 1, 5, 5, 5, 5, 5, 5, 5, 3, 4, 5, 5, 3, 5]"
-The winter wind whipped through the bare branches. The summer breeze gently rustled the green leaves.,3.45,0.9206,20,"[4, 3, 4, 4, 4, 2, 3, 4, 5, 1, 2, 4, 4, 3, 4, 4, 4, 3, 4, 3]"
-The woman was finishing knitting a scarf. Mars is the fourth planet in order from the Sun.,1.0,0.0,19,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
-There's a farmer's market every Sunday downtown. Books can provide knowledge and act as stylish décor,1.3,0.5568,20,"[1, 1, 1, 2, 3, 1, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1]"
+unit,mean,std,n,individual_ratings,item_type
+A backpack carries all the essentials on a hike. A suitcase holds everything needed for a trip.,3.8,0.6156,20,"[4, 4, 4, 5, 3, 3, 3, 4, 5, 3, 4, 4, 4, 4, 4, 3, 4, 3, 4, 4]",test
+A car accident blocked off one lane of the highway. John was late to pick up his daughter from school.,3.8947,1.197,19,"[5, 4, 4, 4, 1, 4, 4, 5, 3, 4, 5, 5, 4, 5, 5, 4, 3, 1, 4]",test
+A garden brings color to a backyard. Flowers add beauty to a windowsill.,4.1,0.9119,20,"[5, 4, 3, 5, 3, 5, 4, 5, 5, 5, 5, 5, 3, 3, 4, 3, 5, 3, 4, 3]",test
+A lighthouse guides ships to safety. A compass helps hikers find their way.,3.85,0.9881,20,"[4, 3, 5, 5, 4, 1, 4, 4, 3, 2, 4, 4, 5, 4, 4, 4, 4, 4, 4, 5]",test
+A melody was stuck in Jim's head all day. Aaron couldn't get the smell of pastries out of his mind.,2.15,0.9333,20,"[3, 2, 3, 4, 3, 1, 2, 3, 1, 2, 2, 3, 2, 1, 2, 1, 1, 3, 1, 3]",test
+A menacing storm rolled across the horizon. Sailors hurried to secure their boats at the dock.,4.55,0.9445,20,"[5, 5, 5, 5, 1, 4, 5, 5, 5, 4, 5, 5, 4, 5, 5, 4, 5, 5, 4, 5]",test
+A new restaurant opened downtown last week. Fluency enables deeper cultural understanding.,1.55,0.8256,20,"[1, 1, 2, 1, 4, 2, 2, 1, 1, 2, 1, 2, 1, 2, 3, 1, 1, 1, 1, 1]",test
+A new tech startup opened its doors last month. The photos raise awareness of conservation efforts.,1.65,0.9881,20,"[1, 1, 1, 1, 3, 1, 1, 1, 3, 3, 1, 4, 2, 1, 3, 1, 1, 2, 1, 1]",test
+A tree provides a home for birds. A coral reef shelters fish.,3.5,1.2354,20,"[4, 4, 5, 4, 2, 1, 3, 4, 3, 2, 4, 4, 5, 4, 5, 5, 4, 3, 1, 3]",test
+An intense heat wave swept across the city. People flocked to the beach to cool off in the water.,4.85,0.4894,20,"[5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5]",test
+Anna was reluctant to say goodbye and lingered at the door. Chris was able to walk away without hesitation.,4.65,0.6708,20,"[4, 5, 5, 5, 5, 5, 3, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 3]",test
+Consuming alcohol is dangerous for your health. People who drink in excess are more likely to develop cancer.,4.65,0.6708,20,"[5, 4, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 4, 5, 3]",test
+Emily started a new yoga class last week. The peaceful atmosphere helps reduce daily stress levels.,4.45,1.0501,20,"[5, 4, 5, 5, 3, 5, 5, 5, 5, 4, 5, 4, 5, 3, 5, 5, 5, 5, 1, 5]",test
+Jack started a blog about sustainable living. Practical tips inspire readers to adopt eco-friendly practices.,4.2,1.2814,20,"[5, 5, 5, 5, 3, 5, 5, 4, 3, 5, 5, 5, 1, 4, 5, 5, 4, 4, 1, 5]",test
+James sat silently and avoided eye contact. Grace greeted everyone and made lively conversation.,3.95,1.1459,20,"[5, 4, 5, 5, 3, 3, 3, 4, 5, 2, 4, 5, 4, 3, 5, 5, 5, 4, 1, 4]",test
+Jeremy stopped at a diner for lunch. The roadside coffee was warm and refreshing.,3.8,1.2397,20,"[5, 5, 4, 5, 3, 4, 3, 5, 3, 4, 4, 3, 1, 5, 5, 4, 5, 1, 4, 3]",test
+John forgot his umbrella and got soaked. Mark thought the speaker was boring and repetitive.,1.35,0.6708,20,"[1, 1, 1, 3, 3, 1, 1, 1, 1, 1, 2, 1, 2, 1, 2, 1, 1, 1, 1, 1]",test
+Judy shut off the lights and locked the door. There was hardly any traffic on the way to the supermarket.,1.9,1.2524,20,"[3, 1, 4, 4, 1, 1, 1, 1, 1, 4, 2, 1, 1, 1, 3, 1, 1, 2, 1, 4]",test
+Lamps light up a dark room. Stars illuminate the night sky.,3.65,0.8751,20,"[3, 1, 4, 5, 5, 3, 4, 4, 3, 3, 3, 4, 3, 4, 4, 4, 4, 4, 4, 4]",test
+Libraries offer knowledge to eager learners. Museums display history for curious minds.,3.85,0.8127,20,"[4, 4, 4, 5, 3, 2, 3, 5, 5, 3, 3, 4, 5, 3, 4, 4, 4, 4, 4, 4]",test
+Lily kept her thoughts to herself during the meeting. Sam was never afraid to speak up.,4.45,0.5104,20,"[5, 4, 5, 5, 4, 5, 4, 4, 5, 4, 5, 4, 4, 4, 5, 5, 5, 4, 4, 4]",test
+Mark hesitated to make a decision. The locals found the ruins ordinary and unremarkable.,1.4,0.7539,20,"[3, 1, 2, 2, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1]",test
+Music has the power to bring people together. The arts create a shared experience that fosters community.,3.9,1.0208,20,"[5, 4, 4, 5, 4, 2, 5, 4, 5, 3, 5, 4, 1, 4, 4, 3, 4, 4, 4, 4]",test
+Robert recently bought an expensive new dining table. The stylish centerpiece will impress many dinner guests.,4.55,0.7592,20,"[5, 4, 4, 5, 2, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 4, 4, 5, 4, 5]",test
+Sarah loves reading mystery novels. The photographer captured an image that seemed to breathe.,1.7,1.0311,20,"[1, 1, 2, 2, 4, 2, 3, 1, 1, 1, 1, 4, 1, 1, 1, 2, 1, 1, 1, 3]",test
+Shelters provide homeless people with a place to sleep. Food banks offer meals to those in need.,4.55,0.6048,20,"[4, 4, 5, 5, 5, 5, 4, 5, 5, 5, 5, 3, 5, 4, 5, 4, 5, 4, 4, 5]",test
+Shoes protect feet from rough terrain. Helmets guard heads during sporting events.,3.8,0.9515,20,"[4, 3, 4, 5, 5, 3, 3, 4, 5, 3, 4, 4, 5, 1, 4, 4, 4, 4, 4, 3]",test
+The British Museum displayed impressive ancient artifacts. Writers transform an empty pages into captivating stories.,1.9,1.0208,20,"[2, 1, 3, 2, 2, 1, 4, 1, 1, 2, 2, 3, 1, 1, 2, 3, 1, 1, 4, 1]",test
+The TV was left on all night by mistake. Passengers crowded the gate waiting for further updates.,1.1053,0.3153,19,"[1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1]",test
+The actor rehearsed his lines for the final time. The audience went silent and the spotlight came on.,4.1,0.9119,20,"[5, 4, 5, 5, 3, 4, 5, 3, 3, 4, 4, 4, 3, 2, 4, 5, 5, 5, 4, 5]",test
+The airline announced a significant flight delay. Student grades improved and they performed better in classes.,1.15,0.4894,20,"[1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1]",test
+The antique clock ticked heavily with each passing second. The digital watch displayed time silently and seamlessly.,3.9,0.8522,20,"[4, 3, 5, 5, 3, 2, 4, 4, 5, 4, 3, 4, 3, 5, 5, 4, 4, 3, 4, 4]",test
+The architect finished the new building design. The construction team questioned the window placement.,4.6,0.5982,20,"[5, 5, 5, 5, 5, 5, 4, 4, 5, 5, 4, 4, 4, 5, 5, 5, 5, 4, 3, 5]",test
+The architect revealed plans for a modern skyscraper. People who drink in excess are more likely to develop cancer.,1.0,0.0,20,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",test
+The assignment deadline was quickly approaching. Alicia stayed up for two days straight to complete the project.,4.9,0.3078,20,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 4, 5]",test
+The astronaut strapped into the shuttle. The massive spacecraft launched into the sky.,4.55,0.6048,20,"[5, 5, 5, 5, 3, 5, 4, 5, 5, 5, 5, 4, 4, 5, 4, 4, 5, 4, 4, 5]",test
+The busy holiday season increased sales dramatically. Timmy shook with fear under the covers in his bed.,1.1,0.3078,20,"[2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1]",test
+The chef accidentally added too much salt to the soup. Many stores ran out of popular items.,1.45,0.9987,20,"[1, 1, 2, 1, 2, 1, 2, 5, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1]",test
+The chef prepared a gourmet meal with precision. The gymnast performed with elegance on the balance beam.,1.65,0.8127,20,"[1, 1, 2, 3, 3, 1, 2, 1, 1, 1, 1, 3, 2, 1, 3, 2, 1, 2, 1, 1]",test
+The city council approved a new housing project. The species is notable for its vibrant colors.,1.0,0.0,20,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",test
+The climber fastened the harness to the rope. The ascent of the mountain was deathly cold.,4.55,0.6048,20,"[5, 4, 4, 4, 3, 5, 4, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 4, 4]",test
+The company's latest smartphone is sleek and innovative. The hunter aimed his bow with exactness in the forest.,1.05,0.2236,20,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1]",test
+The concert tickets sold out in less than an hour. Local climate patterns began to change.,1.1,0.3078,20,"[1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1]",test
+The cooking class was practicing dicing onions. Everyone's eyes were watering profusely.,4.6,1.2312,20,"[5, 5, 5, 5, 5, 5, 1, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 1, 5]",test
+The crew assembled the concert stage hurridly. Marcia could feel the platforms wobbling during the performance.,4.75,0.5501,20,"[5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 4, 4, 5]",test
+The daughter angrily left the dinner table. The mother finished cleaning up the ktichen.,3.95,1.099,20,"[5, 4, 4, 5, 2, 5, 4, 5, 5, 4, 3, 3, 4, 4, 4, 5, 5, 3, 1, 4]",test
+The doctor updated the patient's chart. The restaurant opened its doors to customers in the early evening.,1.15,0.6708,20,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1]",test
+The early morning train was packed with commuters. The digital watch displayed time silently and seamlessly.,1.75,1.118,20,"[1, 1, 2, 3, 3, 1, 1, 1, 1, 1, 3, 2, 1, 1, 5, 1, 3, 2, 1, 1]",test
+The family arrived at the resort after a long day of travel. Dinner at the hotel was accompanied by hula dancing.,3.8,1.0563,20,"[4, 4, 3, 5, 2, 3, 4, 5, 5, 4, 5, 3, 2, 2, 4, 4, 5, 3, 4, 5]",test
+"The fancy restaurant served tiny, artfully plated dishes. The diner piled plates high with hearty comfort food.",3.5,1.1921,20,"[3, 4, 4, 5, 2, 5, 4, 1, 5, 5, 4, 4, 3, 3, 3, 3, 4, 3, 4, 1]",test
+The festival will feature local musicians and artists. The ascent marked the fastest recorded climb of the peak.,1.2,0.6959,20,"[1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1]",test
+The filmmaker spent years monitoring the effects of climate change. The documentary offers a powerful visual account of rising sea levels.,4.2,1.0052,20,"[5, 5, 4, 5, 2, 4, 5, 5, 5, 3, 4, 4, 3, 5, 5, 4, 5, 2, 4, 5]",test
+The first flight to Frankfurt this morning was delayed. The rainforest was dark and mysterious.,1.3158,0.7493,19,"[1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 1, 4, 1]",test
+The gym offers high-intensity workouts for fitness enthusiasts. The alleyway behind the shop reeked of garbage.,1.6,0.8208,20,"[1, 1, 1, 3, 3, 2, 1, 1, 1, 3, 1, 2, 1, 3, 2, 2, 1, 1, 1, 1]",test
+The hike was exhausting for the beginners. The funeral was somber and still.,1.45,0.7592,20,"[1, 1, 1, 2, 3, 1, 1, 3, 1, 1, 1, 2, 1, 1, 1, 2, 3, 1, 1, 1]",test
+The horror movie kept movie-goers on edge with each scene. The comedy film filled the audience with laughter and lightheartedness.,3.3,1.1286,20,"[4, 4, 5, 4, 2, 1, 3, 3, 3, 2, 4, 4, 3, 3, 4, 4, 5, 4, 1, 3]",test
+The hurricane was accompanied by extremely high winds. Reservations at the new hot spot doubled the following week.,1.85,0.9333,20,"[1, 1, 1, 2, 2, 2, 4, 3, 1, 2, 2, 3, 1, 1, 1, 3, 1, 2, 1, 3]",test
+The invasive species took over the lake. The old companions arranged a reunion to reconnect.,1.35,0.8127,20,"[1, 1, 1, 2, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 4, 1]",test
+The journalist covered breaking news from a conflict zone. On-the-ground reporting offered firsthand insights.,4.45,0.7592,20,"[5, 5, 3, 5, 3, 5, 4, 5, 5, 5, 5, 4, 5, 4, 5, 5, 5, 3, 4, 4]",test
+The kids put on their coats to go outside for recess. The conductor raised her baton to begin the piece.,1.3,0.4702,20,"[1, 1, 1, 2, 2, 1, 1, 1, 1, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1]",test
+The kitchen spent the afternoon preparing ingredients for service. The children's mother arrived at the school to pick them up.,1.35,0.4894,20,"[1, 1, 2, 1, 2, 2, 2, 1, 1, 2, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1]",test
+The laptop crashed in the middle of the presentation. The badminton tournament took place on a wooden floor.,1.0,0.0,20,"[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",test
+The library has a wide selection of science fiction books. The diner piled plates high with hearty comfort food.,1.25,0.7164,20,"[1, 1, 2, 2, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",test
+The local theater company is putting on a broadway classic. The new building will incorporate eco-friendly materials.,2.3,1.4546,20,"[1, 1, 2, 4, 5, 5, 4, 1, 3, 4, 3, 2, 1, 1, 3, 2, 1, 1, 1, 1]",test
+The mailman delivered the package at the end of the day. The audience slowly filed into their seats.,1.2,0.6156,20,"[1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1]",test
+The mountain climber reached the summit after weeks of preparation. The ascent required mental resilience and careful planning.,4.15,1.268,20,"[5, 5, 5, 5, 3, 4, 5, 5, 1, 5, 5, 4, 5, 3, 5, 2, 5, 2, 4, 5]",test
+The movie crew set up a table of food for the shoot. The gallery opened its doors to the public.,1.95,0.8256,20,"[1, 2, 3, 3, 3, 2, 3, 1, 1, 2, 2, 2, 3, 1, 3, 2, 2, 1, 1, 1]",test
+The movie opened with a beautiful desert scene. The film's plot evolved into a Western crime drama.,4.4,0.6806,20,"[5, 4, 4, 5, 5, 5, 5, 4, 5, 5, 4, 4, 3, 5, 4, 5, 3, 4, 4, 5]",test
+The movie was filled with exciting action scenes. Umbrellas shield us from the pouring rain.,1.25,0.7164,20,"[1, 1, 1, 2, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1]",test
+The musician tuned his guitar before the show. The mac-n-cheese came out piping hot.,1.25,0.5501,20,"[2, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1]",test
+The new law reduced funding for public transportation. Derek had trouble concentrating on his work.,1.55,0.887,20,"[2, 1, 1, 2, 3, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 4, 3, 1, 1, 1]",test
+The northern forest had been all but depleted. Lumberjacks struggled to sustain their livelihoods.,4.45,1.099,20,"[5, 5, 4, 5, 2, 5, 4, 5, 5, 4, 5, 4, 5, 5, 5, 5, 5, 5, 1, 5]",test
+The novelist released a highly anticipated sequel. Fans praised the intricate plot twists and rich character development.,4.3,1.0809,20,"[5, 5, 4, 5, 1, 3, 5, 3, 5, 5, 5, 3, 5, 5, 5, 4, 5, 5, 4, 4]",test
+The old bicycle had squeaky brakes. Sarah brought her umbrella and stayed dry.,1.5,0.8272,20,"[1, 1, 2, 2, 2, 1, 4, 1, 1, 3, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1]",test
+The open water bottle fell from the table. The shag carpet was completely soaked.,4.65,0.4894,20,"[5, 5, 4, 5, 4, 5, 4, 5, 5, 5, 5, 4, 4, 5, 5, 5, 5, 5, 4, 4]",test
+The oven temperature was set too high. Steve's roasted chicken was charred and bitter.,4.75,0.7164,20,"[5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 4, 5]",test
+The painter mixed the perfect shade of blue. The artist transformed the canvas into a serene landscape.,4.2,0.6959,20,"[5, 4, 4, 5, 4, 5, 5, 4, 5, 5, 4, 4, 3, 3, 4, 5, 3, 4, 4, 4]",test
+The pilot navigated the plane through turbulent skies. The gardener nurtured the flowers with patience.,1.5,0.8885,20,"[1, 1, 3, 3, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 4, 1, 2, 1, 1]",test
+The poet's verses were filled with deep emotion. The cafe had mouth-watering pastries.,1.45,0.8256,20,"[1, 1, 1, 2, 4, 1, 1, 1, 1, 2, 1, 2, 1, 1, 3, 1, 1, 2, 1, 1]",test
+The professor distributed the final assesment. The guests arrived just as the meal was ready.,1.1053,0.3153,19,"[1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",test
+The research team discovered a new type of butterfly. The trains are capable of speeds of up to 300 kilometers per hour,1.15,0.4894,20,"[1, 1, 1, 1, 1, 2, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",test
+The restaurant served delicious food. The gymnast performed with elegance on the balance beam.,1.2,0.5231,20,"[1, 1, 1, 2, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1]",test
+The rose bushes in the garden are in full bloom. The national gallery showcased stunning historical paintings.,1.8421,1.1187,19,"[1, 1, 3, 3, 1, 1, 1, 1, 3, 1, 4, 1, 1, 3, 2, 1, 2, 4, 1]",test
+The short flight arrived on time at the airport. The nurse opened the cabinet to prepare the next treatment.,1.05,0.2236,20,"[1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",test
+"The snowstorm blanketed the roads with thick, icy snow. Attendees felt motivated to begin pursuing new personal goals.",1.65,1.0894,20,"[2, 1, 1, 2, 4, 2, 5, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1]",test
+The speaker received a round of polite applause. It started raining in the middle of the kickball game.,1.55,0.8256,20,"[1, 1, 1, 3, 3, 2, 1, 1, 1, 3, 1, 1, 2, 1, 2, 3, 1, 1, 1, 1]",test
+The spicy peppers brought tears to Derek's eyes. The sweet mango cooled Sara's mouth with each bite.,3.5,1.0,20,"[4, 4, 4, 4, 2, 3, 5, 3, 2, 4, 4, 4, 4, 5, 4, 3, 3, 4, 1, 3]",test
+The storm outside was wild and chaotic. Inside the house everything was calm and peaceful.,4.35,0.5871,20,"[5, 4, 4, 4, 4, 5, 5, 4, 5, 4, 4, 3, 4, 5, 5, 5, 5, 4, 4, 4]",test
+The sun rose over the city skyline. The artist transformed the canvas into a serene landscape.,3.05,1.2344,20,"[3, 1, 3, 4, 5, 2, 3, 5, 2, 4, 3, 3, 3, 3, 5, 3, 3, 4, 1, 1]",test
+The teacher assigned extra homework. Employment rates for local residents improved significantly.,1.2,0.4104,20,"[1, 1, 2, 2, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]",test
+The team secured a major sponsorship deal. Communities with access to fresh water have fewer health problems.,1.4,0.7539,20,"[1, 1, 1, 2, 4, 1, 1, 1, 1, 2, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1]",test
+The tech company launched a groundbreaking smartphone. The enclosure was designed to resemble tropical rainforests.,1.3,0.7327,20,"[1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1, 1]",test
+The tennis match was held on a clay court. Jane solved the equation in a few minutes.,1.2105,0.6306,19,"[1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1]",test
+The toddler took his first steps with excitement. The young bird spread its wings to fly for the first time.,2.75,1.3328,20,"[3, 3, 3, 5, 5, 1, 3, 4, 1, 1, 2, 2, 1, 1, 3, 3, 2, 4, 4, 4]",test
+The toddler's laughter was loud and uninhibited. The old man's chuckle was soft and restrained.,3.7,0.9234,20,"[4, 3, 4, 5, 3, 1, 4, 5, 5, 3, 4, 4, 4, 4, 3, 3, 4, 3, 4, 4]",test
+The train arrived right on schedule. The baker crafted a delicate pastry with care.,1.15,0.3663,20,"[1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1]",test
+The weatherman predicted record-high temperatures. Susan dressed in a tank-top and breathable shorts.,3.85,1.1821,20,"[5, 4, 5, 5, 2, 4, 4, 5, 3, 2, 4, 3, 3, 4, 5, 5, 5, 4, 1, 4]",test
+The wildlife photographer captured rare images of endangered species. The photos raise awareness of conservation efforts.,4.55,1.0501,20,"[5, 5, 5, 5, 5, 5, 1, 5, 5, 5, 5, 5, 5, 5, 3, 4, 5, 5, 3, 5]",test
+The winter wind whipped through the bare branches. The summer breeze gently rustled the green leaves.,3.45,0.9445,20,"[4, 3, 4, 4, 4, 2, 3, 4, 5, 1, 2, 4, 4, 3, 4, 4, 4, 3, 4, 3]",test
+There's a farmer's market every Sunday downtown. Books can provide knowledge and act as stylish décor,1.3,0.5712,20,"[1, 1, 1, 2, 3, 1, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1]",test

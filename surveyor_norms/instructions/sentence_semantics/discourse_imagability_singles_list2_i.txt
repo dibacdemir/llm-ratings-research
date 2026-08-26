@@ -1,5 +1,9 @@
-You will read 100 sentences. We would like you to rate each sentence according to how easy the content is to visualize (to form an image of what the sentences describe in your mind's eye) on a scale from 1 (very hard to visualize) to 7 (very easy to visualize). For example, sentences like The cup is filled with fresh black coffee. or The girl looked up at the cloud-filled sky. have meanings that easily bring to mind an image, so you might rate them as a 6 or a 7. In contrast, sentences like It seems unlikely to happen. or I did not get the gist of the idea. may not, so you might rate them as a 1 or a 2.
+We would like you to rate each sentence according to how easy the content is to visualize (to form an image of what the sentences describe in your mind's eye) on a scale from 1 (very hard to visualize) to 7 (very easy to visualize). For example, sentences like The cup is filled with fresh black coffee. or The girl looked up at the cloud-filled sky. have meanings that easily bring to mind an image, so you might rate them as a 6 or a 7. In contrast, sentences like It seems unlikely to happen. or I did not get the gist of the idea. may not, so you might rate them as a 1 or a 2.
+
 How easy is the content of the sentence to visualize in your mind's eye?
-Answer with one number.
+Rate on a scale from 1 to 7:
+1 = Very hard to visualize
+7 = Very easy to visualize
+Answer with one digit.
 
 <<{sentence}>>

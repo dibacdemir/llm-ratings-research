@@ -19,3 +19,5 @@ __MACOSX/
 
 # local-only: published datasets organized by domain (not for the repo)
 published_by_domain/
+
+raw-data/*

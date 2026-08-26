@@ -1,0 +1,7 @@
+Esta frase é uma frase bem formada em português?
+Avalie numa escala de 1 a 7:
+1 = Muito mal formada
+7 = Muito bem formada
+Responda com um único dígito.
+
+<<{sentence}>>

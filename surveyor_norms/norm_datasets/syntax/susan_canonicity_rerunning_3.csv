@@ -1,49 +1,49 @@
-unit,mean,std,n,individual_ratings
-It is in the church choir that he sings.,2.6923,1.3234,39,"[4, 4, 2, 1, 1, 2, 2, 5, 1, 4, 3, 2, 1, 4, 5, 3, 2, 2, 1, 3, 4, 4, 3, 4, 3, 2, 1, 1, 5, 4, 2, 3, 2, 1, 5, 2, 1, 4, 2]"
-It is the church choir that he sings in.,3.6,0.9165,20,"[4, 2, 2, 4, 3, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 5, 5, 3, 4, 2]"
-It was a better world that he dreamed about.,4.0,1.0142,35,"[5, 5, 4, 4, 4, 5, 4, 4, 5, 3, 5, 4, 5, 2, 5, 2, 3, 5, 4, 5, 5, 3, 3, 4, 5, 4, 4, 3, 3, 4, 4, 5, 1, 4, 5]"
-It was a compromise that the angry discussions resulted in.,2.7586,1.1935,29,"[4, 3, 2, 4, 4, 2, 2, 2, 1, 5, 4, 1, 2, 4, 3, 2, 2, 2, 2, 2, 5, 4, 2, 4, 4, 1, 1, 3, 3]"
-It was a guitar that he traded in.,3.7895,1.0553,19,"[4, 3, 3, 4, 4, 5, 5, 2, 2, 4, 5, 5, 3, 4, 5, 2, 3, 4, 5]"
-It was a heated debate that her speech brought about.,2.5758,0.9857,33,"[4, 2, 1, 1, 3, 2, 4, 4, 2, 3, 2, 4, 2, 3, 2, 2, 2, 3, 2, 2, 2, 3, 1, 3, 4, 2, 2, 2, 3, 2, 2, 4, 5]"
-It was a new idea that she toyed with.,3.8929,0.9761,28,"[4, 4, 4, 3, 4, 2, 3, 5, 2, 4, 5, 5, 4, 5, 4, 4, 4, 5, 5, 2, 5, 3, 4, 5, 2, 4, 4, 4]"
-It was a peaceful town that they settled in.,4.1667,0.969,30,"[5, 4, 2, 5, 5, 3, 4, 5, 5, 3, 5, 3, 5, 5, 5, 2, 5, 4, 4, 4, 5, 4, 4, 5, 4, 2, 4, 5, 5, 4]"
-It was a small village that they resided in.,3.7222,1.0701,36,"[4, 3, 4, 5, 3, 4, 4, 5, 5, 3, 4, 4, 5, 4, 2, 2, 5, 3, 4, 1, 4, 4, 5, 4, 4, 2, 5, 4, 2, 4, 2, 3, 3, 5, 5, 4]"
-It was about a better world that he dreamed.,2.6957,1.1204,23,"[2, 3, 1, 3, 2, 2, 2, 3, 1, 2, 4, 1, 3, 5, 2, 3, 2, 2, 3, 4, 5, 4, 3]"
-It was about a heated debate that her speech brought.,2.0741,1.1197,27,"[3, 4, 1, 2, 1, 1, 1, 1, 2, 1, 1, 2, 1, 3, 3, 2, 4, 2, 1, 1, 2, 4, 4, 2, 2, 1, 4]"
-It was about her sister that she worried.,2.6667,1.2472,27,"[4, 2, 2, 2, 2, 3, 1, 4, 5, 1, 2, 4, 1, 3, 4, 4, 1, 3, 1, 1, 2, 4, 4, 2, 4, 2, 4]"
-It was about the hospital's new routine that the doctors went.,1.5667,0.6675,30,"[1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 2, 2, 1, 1, 2, 2, 2, 1, 2, 1, 2, 2, 1, 1, 1, 2, 2, 2, 4, 2]"
-It was an excellent strategy that she came up with.,4.3846,0.7882,26,"[5, 5, 4, 3, 4, 4, 5, 4, 5, 5, 5, 3, 5, 4, 2, 5, 4, 4, 4, 5, 5, 4, 5, 5, 5, 5]"
-It was her coworker that she talked with.,3.8529,1.0328,34,"[4, 4, 4, 2, 4, 4, 5, 3, 5, 3, 4, 2, 5, 2, 2, 5, 4, 4, 1, 5, 4, 4, 4, 4, 3, 4, 4, 4, 4, 5, 4, 5, 5, 5]"
-It was her sister that she worried about.,4.0606,0.8856,33,"[5, 4, 4, 3, 5, 3, 5, 4, 5, 3, 5, 5, 3, 5, 4, 2, 4, 5, 4, 4, 4, 5, 3, 5, 4, 4, 4, 4, 5, 4, 3, 2, 5]"
-It was her teammates that she collaborated with.,3.5769,1.0441,26,"[4, 4, 4, 5, 2, 5, 3, 3, 5, 2, 3, 2, 4, 4, 2, 5, 4, 4, 2, 4, 3, 4, 4, 4, 5, 2]"
-It was his investments that he cashed in.,3.5172,1.3293,29,"[5, 2, 3, 2, 2, 2, 4, 3, 4, 2, 2, 5, 4, 1, 5, 4, 5, 5, 1, 2, 5, 5, 4, 4, 5, 3, 4, 5, 4]"
-It was in a compromise that the angry discussions resulted.,1.9667,0.9481,30,"[3, 1, 1, 2, 2, 2, 1, 2, 2, 1, 2, 1, 3, 2, 1, 2, 2, 2, 1, 3, 1, 1, 1, 5, 1, 3, 2, 3, 3, 3]"
-It was in a guitar that he traded.,2.35,1.3702,40,"[4, 5, 3, 3, 2, 2, 3, 1, 1, 4, 1, 2, 1, 4, 2, 1, 2, 2, 1, 4, 1, 1, 1, 4, 2, 3, 4, 1, 1, 5, 1, 1, 5, 1, 1, 4, 3, 1, 2, 4]"
-It was in a peaceful town that they settled.,3.3333,1.0435,30,"[3, 2, 2, 5, 4, 3, 2, 2, 4, 4, 5, 3, 2, 2, 4, 5, 4, 3, 3, 4, 5, 4, 2, 4, 2, 4, 4, 3, 4, 2]"
-It was in a small village that they resided.,3.5,0.866,24,"[2, 2, 4, 2, 4, 3, 4, 4, 3, 2, 3, 3, 5, 4, 4, 4, 3, 5, 4, 4, 4, 3, 4, 4]"
-It was in his investments that he cashed.,2.7097,1.4412,31,"[2, 2, 1, 1, 1, 5, 1, 3, 4, 1, 2, 2, 2, 1, 5, 5, 2, 2, 1, 2, 4, 1, 4, 4, 3, 4, 3, 2, 5, 4, 5]"
-It was in the 1836 peace treaty that the negotiations culminated.,3.2121,1.0662,33,"[3, 4, 2, 4, 4, 4, 5, 3, 3, 2, 2, 2, 3, 4, 5, 3, 2, 3, 3, 1, 2, 3, 5, 4, 3, 5, 3, 2, 4, 5, 3, 2, 3]"
-It was in the competitive scholastic program that she enrolled.,2.8966,0.9593,29,"[4, 2, 3, 3, 2, 4, 3, 2, 1, 4, 1, 3, 4, 3, 3, 4, 4, 3, 2, 4, 2, 2, 3, 3, 3, 1, 4, 3, 4]"
-It was in the local festival that we participated.,2.8,1.1075,30,"[1, 4, 2, 3, 2, 4, 4, 2, 2, 2, 1, 3, 2, 4, 4, 1, 2, 4, 2, 2, 4, 2, 2, 3, 5, 4, 4, 4, 3, 2]"
-It was in the shipping costs that they factored.,2.4138,1.0345,29,"[3, 2, 2, 1, 4, 4, 4, 4, 2, 1, 1, 1, 3, 2, 1, 2, 4, 2, 1, 3, 1, 3, 3, 3, 2, 3, 3, 2, 3]"
-It was the 1836 peace treaty that the negotiations culminated in.,2.8148,1.0197,27,"[1, 2, 1, 2, 3, 4, 3, 4, 1, 3, 2, 2, 4, 3, 4, 2, 3, 3, 3, 3, 5, 3, 2, 4, 4, 2, 3]"
-It was the broken engine that she tinkered with.,3.3824,1.1118,34,"[4, 4, 4, 2, 2, 4, 4, 3, 5, 5, 4, 1, 4, 3, 2, 4, 4, 3, 2, 4, 4, 5, 3, 3, 2, 4, 2, 4, 5, 4, 4, 2, 4, 1]"
-It was the competitive scholastic program that she enrolled in.,3.5517,1.003,29,"[2, 4, 3, 2, 4, 5, 5, 5, 4, 4, 4, 3, 3, 2, 3, 4, 4, 4, 1, 4, 4, 4, 4, 4, 2, 4, 3, 5, 3]"
-It was the computer setting that she messed with.,3.4722,1.0926,36,"[4, 4, 2, 4, 2, 4, 3, 5, 4, 2, 2, 4, 3, 4, 2, 2, 4, 4, 4, 1, 4, 2, 4, 4, 4, 1, 5, 4, 4, 3, 5, 4, 4, 5, 4, 4]"
-It was the design team that she worked with.,3.6897,1.1775,29,"[2, 4, 2, 2, 4, 5, 4, 3, 4, 3, 2, 4, 4, 1, 4, 5, 5, 5, 5, 2, 5, 5, 4, 4, 4, 5, 2, 4, 4]"
-It was the hospital's new routine that the doctors went about.,2.5333,1.2311,30,"[3, 1, 1, 4, 2, 1, 5, 4, 3, 2, 3, 1, 3, 2, 3, 1, 3, 1, 3, 2, 5, 2, 1, 3, 2, 4, 4, 4, 1, 2]"
-It was the labor union that the company negotiated with.,4.1111,0.737,27,"[4, 4, 3, 5, 4, 3, 5, 4, 4, 5, 3, 4, 5, 5, 5, 4, 5, 4, 2, 5, 4, 4, 4, 4, 4, 4, 4]"
-It was the local festival that we participated in.,3.5333,1.2311,30,"[4, 2, 4, 4, 2, 4, 3, 2, 2, 2, 4, 4, 5, 2, 4, 5, 5, 4, 4, 3, 3, 2, 5, 1, 4, 5, 5, 5, 5, 2]"
-It was the protestors that he sided with.,3.6154,1.0406,26,"[4, 2, 3, 5, 4, 4, 4, 2, 3, 3, 5, 4, 2, 5, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 1, 5]"
-It was the security system that he tampered with.,3.9167,0.9242,36,"[3, 4, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 4, 5, 2, 5, 3, 4, 2, 4, 5, 5, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 5, 2, 4, 5]"
-It was the shipping costs that they factored in.,3.5,1.3102,30,"[4, 2, 5, 3, 2, 3, 3, 2, 3, 4, 4, 5, 5, 2, 4, 5, 5, 5, 4, 4, 1, 2, 4, 1, 4, 5, 5, 1, 4, 4]"
-It was with a new idea that she toyed.,2.3438,1.0785,32,"[2, 4, 3, 1, 2, 1, 3, 2, 2, 3, 2, 1, 3, 1, 1, 2, 2, 4, 1, 2, 2, 4, 2, 4, 4, 2, 2, 3, 2, 1, 5, 2]"
-It was with an excellent strategy that she came up.,2.5882,1.4167,34,"[3, 2, 2, 1, 1, 2, 1, 2, 5, 4, 3, 1, 5, 1, 2, 2, 2, 3, 1, 1, 4, 5, 1, 3, 5, 3, 1, 4, 2, 2, 5, 5, 2, 2]"
-It was with her coworker that she talked.,2.3462,0.9175,26,"[1, 2, 2, 2, 2, 4, 3, 1, 2, 2, 5, 3, 2, 4, 2, 1, 2, 2, 2, 3, 2, 2, 2, 2, 3, 3]"
-It was with her teammates that she collaborated.,2.8824,0.9931,34,"[2, 2, 2, 3, 2, 2, 2, 3, 2, 4, 4, 3, 2, 2, 2, 4, 4, 3, 2, 4, 4, 4, 3, 3, 5, 2, 1, 5, 3, 3, 2, 2, 4, 3]"
-It was with the broken engine that she tinkered.,2.1923,0.9615,26,"[1, 2, 2, 3, 2, 4, 1, 2, 2, 2, 4, 3, 2, 4, 1, 1, 1, 3, 3, 2, 2, 1, 3, 1, 3, 2]"
-It was with the computer setting that she messed.,2.1667,1.2472,24,"[2, 1, 1, 1, 1, 5, 2, 2, 2, 1, 2, 2, 2, 2, 1, 1, 2, 5, 2, 2, 1, 4, 4, 4]"
-It was with the design team that she worked.,2.7419,1.135,31,"[4, 3, 2, 2, 2, 5, 2, 2, 4, 2, 1, 4, 4, 1, 3, 4, 2, 2, 3, 2, 4, 2, 2, 2, 2, 2, 2, 5, 5, 3, 2]"
-It was with the labor union that the company negotiated.,2.9032,1.0272,31,"[4, 4, 4, 2, 3, 3, 2, 2, 3, 3, 2, 1, 4, 2, 2, 5, 2, 4, 1, 3, 2, 4, 2, 3, 4, 4, 4, 2, 2, 3, 4]"
-It was with the protestors that he sided.,2.8485,0.9573,33,"[4, 4, 2, 4, 3, 3, 5, 3, 3, 3, 3, 3, 3, 4, 2, 2, 2, 3, 2, 3, 4, 3, 1, 2, 2, 4, 2, 2, 4, 2, 4, 2, 1]"
-It was with the security system that he tampered.,2.2609,0.9876,23,"[2, 2, 2, 4, 1, 1, 3, 2, 2, 3, 2, 1, 3, 2, 3, 2, 1, 1, 3, 5, 2, 2, 3]"
+unit,mean,std,n,individual_ratings,item_type
+It is in the church choir that he sings.,2.6923,1.3407,39,"[4, 4, 2, 1, 1, 2, 2, 5, 1, 4, 3, 2, 1, 4, 5, 3, 2, 2, 1, 3, 4, 4, 3, 4, 3, 2, 1, 1, 5, 4, 2, 3, 2, 1, 5, 2, 1, 4, 2]",test
+It is the church choir that he sings in.,3.6,0.9403,20,"[4, 2, 2, 4, 3, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 5, 5, 3, 4, 2]",test
+It was a better world that he dreamed about.,4.0,1.029,35,"[5, 5, 4, 4, 4, 5, 4, 4, 5, 3, 5, 4, 5, 2, 5, 2, 3, 5, 4, 5, 5, 3, 3, 4, 5, 4, 4, 3, 3, 4, 4, 5, 1, 4, 5]",test
+It was a compromise that the angry discussions resulted in.,2.7586,1.2146,29,"[4, 3, 2, 4, 4, 2, 2, 2, 1, 5, 4, 1, 2, 4, 3, 2, 2, 2, 2, 2, 5, 4, 2, 4, 4, 1, 1, 3, 3]",test
+It was a guitar that he traded in.,3.7895,1.0842,19,"[4, 3, 3, 4, 4, 5, 5, 2, 2, 4, 5, 5, 3, 4, 5, 2, 3, 4, 5]",test
+It was a heated debate that her speech brought about.,2.5758,1.0009,33,"[4, 2, 1, 1, 3, 2, 4, 4, 2, 3, 2, 4, 2, 3, 2, 2, 2, 3, 2, 2, 2, 3, 1, 3, 4, 2, 2, 2, 3, 2, 2, 4, 5]",test
+It was a new idea that she toyed with.,3.8929,0.994,28,"[4, 4, 4, 3, 4, 2, 3, 5, 2, 4, 5, 5, 4, 5, 4, 4, 4, 5, 5, 2, 5, 3, 4, 5, 2, 4, 4, 4]",test
+It was a peaceful town that they settled in.,4.1667,0.9855,30,"[5, 4, 2, 5, 5, 3, 4, 5, 5, 3, 5, 3, 5, 5, 5, 2, 5, 4, 4, 4, 5, 4, 4, 5, 4, 2, 4, 5, 5, 4]",test
+It was a small village that they resided in.,3.7222,1.0853,36,"[4, 3, 4, 5, 3, 4, 4, 5, 5, 3, 4, 4, 5, 4, 2, 2, 5, 3, 4, 1, 4, 4, 5, 4, 4, 2, 5, 4, 2, 4, 2, 3, 3, 5, 5, 4]",test
+It was about a better world that he dreamed.,2.6957,1.1455,23,"[2, 3, 1, 3, 2, 2, 2, 3, 1, 2, 4, 1, 3, 5, 2, 3, 2, 2, 3, 4, 5, 4, 3]",test
+It was about a heated debate that her speech brought.,2.0741,1.141,27,"[3, 4, 1, 2, 1, 1, 1, 1, 2, 1, 1, 2, 1, 3, 3, 2, 4, 2, 1, 1, 2, 4, 4, 2, 2, 1, 4]",test
+It was about her sister that she worried.,2.6667,1.271,27,"[4, 2, 2, 2, 2, 3, 1, 4, 5, 1, 2, 4, 1, 3, 4, 4, 1, 3, 1, 1, 2, 4, 4, 2, 4, 2, 4]",test
+It was about the hospital's new routine that the doctors went.,1.5667,0.6789,30,"[1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 2, 2, 1, 1, 2, 2, 2, 1, 2, 1, 2, 2, 1, 1, 1, 2, 2, 2, 4, 2]",test
+It was an excellent strategy that she came up with.,4.3846,0.8038,26,"[5, 5, 4, 3, 4, 4, 5, 4, 5, 5, 5, 3, 5, 4, 2, 5, 4, 4, 4, 5, 5, 4, 5, 5, 5, 5]",test
+It was her coworker that she talked with.,3.8529,1.0483,34,"[4, 4, 4, 2, 4, 4, 5, 3, 5, 3, 4, 2, 5, 2, 2, 5, 4, 4, 1, 5, 4, 4, 4, 4, 3, 4, 4, 4, 4, 5, 4, 5, 5, 5]",test
+It was her sister that she worried about.,4.0606,0.8993,33,"[5, 4, 4, 3, 5, 3, 5, 4, 5, 3, 5, 5, 3, 5, 4, 2, 4, 5, 4, 4, 4, 5, 3, 5, 4, 4, 4, 4, 5, 4, 3, 2, 5]",test
+It was her teammates that she collaborated with.,3.5769,1.0648,26,"[4, 4, 4, 5, 2, 5, 3, 3, 5, 2, 3, 2, 4, 4, 2, 5, 4, 4, 2, 4, 3, 4, 4, 4, 5, 2]",test
+It was his investments that he cashed in.,3.5172,1.3528,29,"[5, 2, 3, 2, 2, 2, 4, 3, 4, 2, 2, 5, 4, 1, 5, 4, 5, 5, 1, 2, 5, 5, 4, 4, 5, 3, 4, 5, 4]",test
+It was in a compromise that the angry discussions resulted.,1.9667,0.9643,30,"[3, 1, 1, 2, 2, 2, 1, 2, 2, 1, 2, 1, 3, 2, 1, 2, 2, 2, 1, 3, 1, 1, 1, 5, 1, 3, 2, 3, 3, 3]",test
+It was in a guitar that he traded.,2.35,1.3877,40,"[4, 5, 3, 3, 2, 2, 3, 1, 1, 4, 1, 2, 1, 4, 2, 1, 2, 2, 1, 4, 1, 1, 1, 4, 2, 3, 4, 1, 1, 5, 1, 1, 5, 1, 1, 4, 3, 1, 2, 4]",test
+It was in a peaceful town that they settled.,3.3333,1.0613,30,"[3, 2, 2, 5, 4, 3, 2, 2, 4, 4, 5, 3, 2, 2, 4, 5, 4, 3, 3, 4, 5, 4, 2, 4, 2, 4, 4, 3, 4, 2]",test
+It was in a small village that they resided.,3.5,0.8847,24,"[2, 2, 4, 2, 4, 3, 4, 4, 3, 2, 3, 3, 5, 4, 4, 4, 3, 5, 4, 4, 4, 3, 4, 4]",test
+It was in his investments that he cashed.,2.7097,1.465,31,"[2, 2, 1, 1, 1, 5, 1, 3, 4, 1, 2, 2, 2, 1, 5, 5, 2, 2, 1, 2, 4, 1, 4, 4, 3, 4, 3, 2, 5, 4, 5]",test
+It was in the 1836 peace treaty that the negotiations culminated.,3.2121,1.0828,33,"[3, 4, 2, 4, 4, 4, 5, 3, 3, 2, 2, 2, 3, 4, 5, 3, 2, 3, 3, 1, 2, 3, 5, 4, 3, 5, 3, 2, 4, 5, 3, 2, 3]",test
+It was in the competitive scholastic program that she enrolled.,2.8966,0.9763,29,"[4, 2, 3, 3, 2, 4, 3, 2, 1, 4, 1, 3, 4, 3, 3, 4, 4, 3, 2, 4, 2, 2, 3, 3, 3, 1, 4, 3, 4]",test
+It was in the local festival that we participated.,2.8,1.1265,30,"[1, 4, 2, 3, 2, 4, 4, 2, 2, 2, 1, 3, 2, 4, 4, 1, 2, 4, 2, 2, 4, 2, 2, 3, 5, 4, 4, 4, 3, 2]",test
+It was in the shipping costs that they factored.,2.4138,1.0528,29,"[3, 2, 2, 1, 4, 4, 4, 4, 2, 1, 1, 1, 3, 2, 1, 2, 4, 2, 1, 3, 1, 3, 3, 3, 2, 3, 3, 2, 3]",test
+It was the 1836 peace treaty that the negotiations culminated in.,2.8148,1.0391,27,"[1, 2, 1, 2, 3, 4, 3, 4, 1, 3, 2, 2, 4, 3, 4, 2, 3, 3, 3, 3, 5, 3, 2, 4, 4, 2, 3]",test
+It was the broken engine that she tinkered with.,3.3824,1.1285,34,"[4, 4, 4, 2, 2, 4, 4, 3, 5, 5, 4, 1, 4, 3, 2, 4, 4, 3, 2, 4, 4, 5, 3, 3, 2, 4, 2, 4, 5, 4, 4, 2, 4, 1]",test
+It was the competitive scholastic program that she enrolled in.,3.5517,1.0207,29,"[2, 4, 3, 2, 4, 5, 5, 5, 4, 4, 4, 3, 3, 2, 3, 4, 4, 4, 1, 4, 4, 4, 4, 4, 2, 4, 3, 5, 3]",test
+It was the computer setting that she messed with.,3.4722,1.1081,36,"[4, 4, 2, 4, 2, 4, 3, 5, 4, 2, 2, 4, 3, 4, 2, 2, 4, 4, 4, 1, 4, 2, 4, 4, 4, 1, 5, 4, 4, 3, 5, 4, 4, 5, 4, 4]",test
+It was the design team that she worked with.,3.6897,1.1983,29,"[2, 4, 2, 2, 4, 5, 4, 3, 4, 3, 2, 4, 4, 1, 4, 5, 5, 5, 5, 2, 5, 5, 4, 4, 4, 5, 2, 4, 4]",test
+It was the hospital's new routine that the doctors went about.,2.5333,1.2521,30,"[3, 1, 1, 4, 2, 1, 5, 4, 3, 2, 3, 1, 3, 2, 3, 1, 3, 1, 3, 2, 5, 2, 1, 3, 2, 4, 4, 4, 1, 2]",test
+It was the labor union that the company negotiated with.,4.1111,0.7511,27,"[4, 4, 3, 5, 4, 3, 5, 4, 4, 5, 3, 4, 5, 5, 5, 4, 5, 4, 2, 5, 4, 4, 4, 4, 4, 4, 4]",test
+It was the local festival that we participated in.,3.5333,1.2521,30,"[4, 2, 4, 4, 2, 4, 3, 2, 2, 2, 4, 4, 5, 2, 4, 5, 5, 4, 4, 3, 3, 2, 5, 1, 4, 5, 5, 5, 5, 2]",test
+It was the protestors that he sided with.,3.6154,1.0612,26,"[4, 2, 3, 5, 4, 4, 4, 2, 3, 3, 5, 4, 2, 5, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 1, 5]",test
+It was the security system that he tampered with.,3.9167,0.9373,36,"[3, 4, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 4, 5, 2, 5, 3, 4, 2, 4, 5, 5, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 5, 2, 4, 5]",test
+It was the shipping costs that they factored in.,3.5,1.3326,30,"[4, 2, 5, 3, 2, 3, 3, 2, 3, 4, 4, 5, 5, 2, 4, 5, 5, 5, 4, 4, 1, 2, 4, 1, 4, 5, 5, 1, 4, 4]",test
+It was with a new idea that she toyed.,2.3438,1.0957,32,"[2, 4, 3, 1, 2, 1, 3, 2, 2, 3, 2, 1, 3, 1, 1, 2, 2, 4, 1, 2, 2, 4, 2, 4, 4, 2, 2, 3, 2, 1, 5, 2]",test
+It was with an excellent strategy that she came up.,2.5882,1.438,34,"[3, 2, 2, 1, 1, 2, 1, 2, 5, 4, 3, 1, 5, 1, 2, 2, 2, 3, 1, 1, 4, 5, 1, 3, 5, 3, 1, 4, 2, 2, 5, 5, 2, 2]",test
+It was with her coworker that she talked.,2.3462,0.9356,26,"[1, 2, 2, 2, 2, 4, 3, 1, 2, 2, 5, 3, 2, 4, 2, 1, 2, 2, 2, 3, 2, 2, 2, 2, 3, 3]",test
+It was with her teammates that she collaborated.,2.8824,1.008,34,"[2, 2, 2, 3, 2, 2, 2, 3, 2, 4, 4, 3, 2, 2, 2, 4, 4, 3, 2, 4, 4, 4, 3, 3, 5, 2, 1, 5, 3, 3, 2, 2, 4, 3]",test
+It was with the broken engine that she tinkered.,2.1923,0.9806,26,"[1, 2, 2, 3, 2, 4, 1, 2, 2, 2, 4, 3, 2, 4, 1, 1, 1, 3, 3, 2, 2, 1, 3, 1, 3, 2]",test
+It was with the computer setting that she messed.,2.1667,1.274,24,"[2, 1, 1, 1, 1, 5, 2, 2, 2, 1, 2, 2, 2, 2, 1, 1, 2, 5, 2, 2, 1, 4, 4, 4]",test
+It was with the design team that she worked.,2.7419,1.1538,31,"[4, 3, 2, 2, 2, 5, 2, 2, 4, 2, 1, 4, 4, 1, 3, 4, 2, 2, 3, 2, 4, 2, 2, 2, 2, 2, 2, 5, 5, 3, 2]",test
+It was with the labor union that the company negotiated.,2.9032,1.0442,31,"[4, 4, 4, 2, 3, 3, 2, 2, 3, 3, 2, 1, 4, 2, 2, 5, 2, 4, 1, 3, 2, 4, 2, 3, 4, 4, 4, 2, 2, 3, 4]",test
+It was with the protestors that he sided.,2.8485,0.9722,33,"[4, 4, 2, 4, 3, 3, 5, 3, 3, 3, 3, 3, 3, 4, 2, 2, 2, 3, 2, 3, 4, 3, 1, 2, 2, 4, 2, 2, 4, 2, 4, 2, 1]",test
+It was with the security system that he tampered.,2.2609,1.0098,23,"[2, 2, 2, 4, 1, 1, 3, 2, 2, 3, 2, 1, 3, 2, 3, 2, 1, 1, 3, 5, 2, 2, 3]",test

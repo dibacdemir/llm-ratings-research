@@ -1,5 +1,12 @@
-Rate the passage.
-Rate on a scale from 1 to 7. (scale inferred from observed responses)
-Answer with one number.
+Read the short text. How natural does the final sentence sound in the context that precedes it?
+Rate on a scale from 1 to 7:
+1 = Extremely unnatural
+2 = Somewhat unnatural
+3 = Slightly unnatural
+4 = Possible
+5 = Slightly natural
+6 = Somewhat natural
+7 = Extremely natural
+Answer with one digit.
 
 <<{sentence}>>

@@ -1,5 +1,9 @@
-You will read 100 sentence pairs. We would like you to rate each pair of sentences according to how much it made you think of physical objects and/or physical interactions on a scale from 1 (not at all) to 7 (very much). For example, a pair like Sam knocked the glass off of the table. The glass shattered on the hardwood floor. has a meaning that is related to physical objects and/or physical interactions, so you might rate it as a 6 or a 7. In contrast, a pair like Steve called Jenny to tell her how much he valued their friendship. Jenny smiled warmly upon hearing these kind words. does not, so you might rate it as a 1 or a 2.
+We would like you to rate each pair of sentences according to how much it made you think of physical objects and/or physical interactions on a scale from 1 (not at all) to 7 (very much). For example, a pair like Sam knocked the glass off of the table. The glass shattered on the hardwood floor. has a meaning that is related to physical objects and/or physical interactions, so you might rate it as a 6 or a 7. In contrast, a pair like Steve called Jenny to tell her how much he valued their friendship. Jenny smiled warmly upon hearing these kind words. does not, so you might rate it as a 1 or a 2.
+
 How much do these sentences make you think of physical objects and/or physical interactions?
-Answer with one number.
+Rate on a scale from 1 to 7:
+1 = Not at all
+7 = Very much
+Answer with one digit.
 
 <<{sentence}>>

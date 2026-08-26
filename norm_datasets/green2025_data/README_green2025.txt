@@ -1,9 +1,9 @@
 Green et al. (2025) age-of-acquisition (AoA) data for reading and writing.
 
 Files:
-- green2025_age_of_acquisition_reading.csv: estimated age at which the
+- green2025_aoa_reading.csv: estimated age at which the
   participant could first read (understand in print) the word.
-- green2025_age_of_acquisition_writing.csv: estimated age at which the
+- green2025_aoa_writing.csv: estimated age at which the
   participant could first spell the word correctly.
 
 Scale: NOT a Likert rating. Values are ages in years, collected via a 0-20
