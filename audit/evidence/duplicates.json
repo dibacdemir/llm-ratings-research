@@ -1,0 +1,4286 @@
+{
+ "exact": [
+  {
+   "a": "clefting_e4_rep2",
+   "b": "clefting_e4",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 48,
+   "nb": 48
+  },
+  {
+   "a": "clefting_e4_rep2",
+   "b": "clefting_e4_rep",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 48,
+   "nb": 48
+  },
+  {
+   "a": "constituency_tests",
+   "b": "topicalization_e2",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 48,
+   "nb": 48
+  },
+  {
+   "a": "clefting_e4",
+   "b": "clefting_e4_rep",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 48,
+   "nb": 48
+  },
+  {
+   "a": "acceptability_replication_959",
+   "b": "montemayor_replication_acceptability_in_syntax",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.01,
+   "na": 288,
+   "nb": 288
+  },
+  {
+   "a": "acceptability_replication_959",
+   "b": "replication_v6",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 288,
+   "nb": 288
+  },
+  {
+   "a": "montemayor_replication_acceptability_in_syntax",
+   "b": "replication_v6",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.02,
+   "na": 288,
+   "nb": 288
+  },
+  {
+   "a": "class_demo",
+   "b": "demo_9_59_2026",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.02,
+   "na": 44,
+   "nb": 44
+  },
+  {
+   "a": "class_demo",
+   "b": "demo_9_59_2025",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.02,
+   "na": 44,
+   "nb": 44
+  },
+  {
+   "a": "demo_9_59_2026",
+   "b": "demo_9_59_2025",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 44,
+   "nb": 44
+  },
+  {
+   "a": "copy_of_verb_causality_study_semantics_ratings_mk_april_2010",
+   "b": "copy_of_verb_causality_study_semantics_ratings_v3o1_mk_april_2010",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 62,
+   "nb": 62
+  },
+  {
+   "a": "copy_of_verb_causality_study_semantics_ratings_mk_april_2010",
+   "b": "copy_of_verb_causality_study_semantics_ratings_v3o2_mk_april_2010",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 62,
+   "nb": 62
+  },
+  {
+   "a": "copy_of_verb_causality_study_semantics_ratings_mk_april_2010",
+   "b": "copy_of_verb_causality_study_semantics_ratings_v3o4_mk_april_2010",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 62,
+   "nb": 62
+  },
+  {
+   "a": "copy_of_verb_causality_study_semantics_ratings_v3o1_mk_april_2010",
+   "b": "copy_of_verb_causality_study_semantics_ratings_v3o2_mk_april_2010",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 62,
+   "nb": 62
+  },
+  {
+   "a": "copy_of_verb_causality_study_semantics_ratings_v3o1_mk_april_2010",
+   "b": "copy_of_verb_causality_study_semantics_ratings_v3o4_mk_april_2010",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 62,
+   "nb": 62
+  },
+  {
+   "a": "copy_of_verb_causality_study_semantics_ratings_v3o2_mk_april_2010",
+   "b": "copy_of_verb_causality_study_semantics_ratings_v3o4_mk_april_2010",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 62,
+   "nb": 62
+  },
+  {
+   "a": "cul_jack_april_12_2012_54_short_texts_with_two_comprehension_questions",
+   "b": "cul_jack_april_2012_60_short_texts_with_two_comprehension_questions_an",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 210,
+   "nb": 210
+  },
+  {
+   "a": "cul_jack_sentence_naturalness_survey_2_sept_2011",
+   "b": "cul_jack_sentence_naturalness_survey_april_2010",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 220,
+   "nb": 220
+  },
+  {
+   "a": "isac_sentence_naturalness_survey_feb_2011_64_items_survey_code_giant_c",
+   "b": "isac_sentence_naturalness_survey_feb_2011_survey_code_giant_cobra",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 256,
+   "nb": 256
+  },
+  {
+   "a": "presup_survey_1_acd_july_2012",
+   "b": "presup_survey_3_acd_july_2012",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 240,
+   "nb": 240
+  },
+  {
+   "a": "pronouns_following_verbs_an",
+   "b": "pronouns_following_verbs_an_2",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 44,
+   "nb": 44
+  },
+  {
+   "a": "pronouns_following_verbs_ce",
+   "b": "pronouns_following_verbs_ce_2",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 44,
+   "nb": 44
+  },
+  {
+   "a": "pronouns_following_verbs_so",
+   "b": "pronouns_following_verbs_so_2",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 44,
+   "nb": 44
+  },
+  {
+   "a": "reasoning_and_language_tasks_survey_code_talkative_pigeon",
+   "b": "social_interaction_and_language_tasks_survey_code_talkative_pigeon",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 72,
+   "nb": 72
+  },
+  {
+   "a": "sentence_naturalness_survey_for_lb_prelim_oct_2010",
+   "b": "sentence_naturalness_survey_for_lb_v2_oct_2010",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 402,
+   "nb": 402
+  }
+ ],
+ "near": [
+  {
+   "a": "brysbaert2014_concreteness",
+   "b": "kuperman2012_age_of_acquisition",
+   "jaccard": 0.51,
+   "containment": 0.77,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 39954,
+   "nb": 31124
+  },
+  {
+   "a": "brysbaert2014_concreteness",
+   "b": "lancaster2020_auditory",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "brysbaert2014_concreteness",
+   "b": "lancaster2020_foot_leg",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "brysbaert2014_concreteness",
+   "b": "lancaster2020_gustatory",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "brysbaert2014_concreteness",
+   "b": "lancaster2020_hand_arm",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "brysbaert2014_concreteness",
+   "b": "lancaster2020_haptic",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "brysbaert2014_concreteness",
+   "b": "lancaster2020_head",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "brysbaert2014_concreteness",
+   "b": "lancaster2020_interoceptive",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "brysbaert2014_concreteness",
+   "b": "lancaster2020_mouth",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "brysbaert2014_concreteness",
+   "b": "lancaster2020_olfactory",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "brysbaert2014_concreteness",
+   "b": "lancaster2020_torso",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "brysbaert2014_concreteness",
+   "b": "lancaster2020_visual",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "corenblum2025_cognition",
+   "b": "diveica2023_socialness",
+   "jaccard": 0.86,
+   "containment": 0.96,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 8367,
+   "nb": 8948
+  },
+  {
+   "a": "corenblum2025_cognition",
+   "b": "giurgea2025_motivation",
+   "jaccard": 0.95,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 8367,
+   "nb": 8765
+  },
+  {
+   "a": "corenblum2025_cognition",
+   "b": "warriner2013_arousal",
+   "jaccard": 0.59,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 8367,
+   "nb": 13905
+  },
+  {
+   "a": "corenblum2025_cognition",
+   "b": "warriner2013_dominance",
+   "jaccard": 0.59,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 8367,
+   "nb": 13905
+  },
+  {
+   "a": "corenblum2025_cognition",
+   "b": "warriner2013_valence",
+   "jaccard": 0.59,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 8367,
+   "nb": 13905
+  },
+  {
+   "a": "diveica2023_socialness",
+   "b": "giurgea2025_motivation",
+   "jaccard": 0.9,
+   "containment": 0.96,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 8948,
+   "nb": 8765
+  },
+  {
+   "a": "diveica2023_socialness",
+   "b": "warriner2013_arousal",
+   "jaccard": 0.64,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 8948,
+   "nb": 13905
+  },
+  {
+   "a": "diveica2023_socialness",
+   "b": "warriner2013_dominance",
+   "jaccard": 0.64,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 8948,
+   "nb": 13905
+  },
+  {
+   "a": "diveica2023_socialness",
+   "b": "warriner2013_valence",
+   "jaccard": 0.64,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 8948,
+   "nb": 13905
+  },
+  {
+   "a": "giurgea2025_motivation",
+   "b": "warriner2013_arousal",
+   "jaccard": 0.62,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 8765,
+   "nb": 13905
+  },
+  {
+   "a": "giurgea2025_motivation",
+   "b": "warriner2013_dominance",
+   "jaccard": 0.62,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 8765,
+   "nb": 13905
+  },
+  {
+   "a": "giurgea2025_motivation",
+   "b": "warriner2013_valence",
+   "jaccard": 0.62,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 8765,
+   "nb": 13905
+  },
+  {
+   "a": "green2025_aoa_reading",
+   "b": "green2025_aoa_writing",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 11074,
+   "nb": 11074
+  },
+  {
+   "a": "kuperman2012_age_of_acquisition",
+   "b": "lancaster2020_auditory",
+   "jaccard": 0.51,
+   "containment": 0.77,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 31124,
+   "nb": 39954
+  },
+  {
+   "a": "kuperman2012_age_of_acquisition",
+   "b": "lancaster2020_foot_leg",
+   "jaccard": 0.51,
+   "containment": 0.77,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 31124,
+   "nb": 39954
+  },
+  {
+   "a": "kuperman2012_age_of_acquisition",
+   "b": "lancaster2020_gustatory",
+   "jaccard": 0.51,
+   "containment": 0.77,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 31124,
+   "nb": 39954
+  },
+  {
+   "a": "kuperman2012_age_of_acquisition",
+   "b": "lancaster2020_hand_arm",
+   "jaccard": 0.51,
+   "containment": 0.77,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 31124,
+   "nb": 39954
+  },
+  {
+   "a": "kuperman2012_age_of_acquisition",
+   "b": "lancaster2020_haptic",
+   "jaccard": 0.51,
+   "containment": 0.77,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 31124,
+   "nb": 39954
+  },
+  {
+   "a": "kuperman2012_age_of_acquisition",
+   "b": "lancaster2020_head",
+   "jaccard": 0.51,
+   "containment": 0.77,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 31124,
+   "nb": 39954
+  },
+  {
+   "a": "kuperman2012_age_of_acquisition",
+   "b": "lancaster2020_interoceptive",
+   "jaccard": 0.51,
+   "containment": 0.77,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 31124,
+   "nb": 39954
+  },
+  {
+   "a": "kuperman2012_age_of_acquisition",
+   "b": "lancaster2020_mouth",
+   "jaccard": 0.51,
+   "containment": 0.77,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 31124,
+   "nb": 39954
+  },
+  {
+   "a": "kuperman2012_age_of_acquisition",
+   "b": "lancaster2020_olfactory",
+   "jaccard": 0.51,
+   "containment": 0.77,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 31124,
+   "nb": 39954
+  },
+  {
+   "a": "kuperman2012_age_of_acquisition",
+   "b": "lancaster2020_torso",
+   "jaccard": 0.51,
+   "containment": 0.77,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 31124,
+   "nb": 39954
+  },
+  {
+   "a": "kuperman2012_age_of_acquisition",
+   "b": "lancaster2020_visual",
+   "jaccard": 0.51,
+   "containment": 0.77,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 31124,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_auditory",
+   "b": "lancaster2020_foot_leg",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_auditory",
+   "b": "lancaster2020_gustatory",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.01,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_auditory",
+   "b": "lancaster2020_hand_arm",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_auditory",
+   "b": "lancaster2020_haptic",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_auditory",
+   "b": "lancaster2020_head",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_auditory",
+   "b": "lancaster2020_interoceptive",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_auditory",
+   "b": "lancaster2020_mouth",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_auditory",
+   "b": "lancaster2020_olfactory",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.01,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_auditory",
+   "b": "lancaster2020_torso",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_auditory",
+   "b": "lancaster2020_visual",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_foot_leg",
+   "b": "lancaster2020_gustatory",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_foot_leg",
+   "b": "lancaster2020_hand_arm",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.02,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_foot_leg",
+   "b": "lancaster2020_haptic",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_foot_leg",
+   "b": "lancaster2020_head",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_foot_leg",
+   "b": "lancaster2020_interoceptive",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_foot_leg",
+   "b": "lancaster2020_mouth",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.01,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_foot_leg",
+   "b": "lancaster2020_olfactory",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_foot_leg",
+   "b": "lancaster2020_torso",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.07,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_foot_leg",
+   "b": "lancaster2020_visual",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_gustatory",
+   "b": "lancaster2020_hand_arm",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_gustatory",
+   "b": "lancaster2020_haptic",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.04,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_gustatory",
+   "b": "lancaster2020_head",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_gustatory",
+   "b": "lancaster2020_interoceptive",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.03,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_gustatory",
+   "b": "lancaster2020_mouth",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_gustatory",
+   "b": "lancaster2020_olfactory",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.31,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_gustatory",
+   "b": "lancaster2020_torso",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_gustatory",
+   "b": "lancaster2020_visual",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_hand_arm",
+   "b": "lancaster2020_haptic",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_hand_arm",
+   "b": "lancaster2020_head",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_hand_arm",
+   "b": "lancaster2020_interoceptive",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_hand_arm",
+   "b": "lancaster2020_mouth",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_hand_arm",
+   "b": "lancaster2020_olfactory",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_hand_arm",
+   "b": "lancaster2020_torso",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.01,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_hand_arm",
+   "b": "lancaster2020_visual",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_haptic",
+   "b": "lancaster2020_head",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_haptic",
+   "b": "lancaster2020_interoceptive",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_haptic",
+   "b": "lancaster2020_mouth",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_haptic",
+   "b": "lancaster2020_olfactory",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.04,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_haptic",
+   "b": "lancaster2020_torso",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_haptic",
+   "b": "lancaster2020_visual",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_head",
+   "b": "lancaster2020_interoceptive",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_head",
+   "b": "lancaster2020_mouth",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_head",
+   "b": "lancaster2020_olfactory",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_head",
+   "b": "lancaster2020_torso",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_head",
+   "b": "lancaster2020_visual",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_interoceptive",
+   "b": "lancaster2020_mouth",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_interoceptive",
+   "b": "lancaster2020_olfactory",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.02,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_interoceptive",
+   "b": "lancaster2020_torso",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_interoceptive",
+   "b": "lancaster2020_visual",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_mouth",
+   "b": "lancaster2020_olfactory",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_mouth",
+   "b": "lancaster2020_torso",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.01,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_mouth",
+   "b": "lancaster2020_visual",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_olfactory",
+   "b": "lancaster2020_torso",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_olfactory",
+   "b": "lancaster2020_visual",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "lancaster2020_torso",
+   "b": "lancaster2020_visual",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 39954,
+   "nb": 39954
+  },
+  {
+   "a": "scott2018_age_of_acquisition",
+   "b": "scott2018_arousal",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_age_of_acquisition",
+   "b": "scott2018_concreteness",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_age_of_acquisition",
+   "b": "scott2018_dominance",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_age_of_acquisition",
+   "b": "scott2018_familiarity",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_age_of_acquisition",
+   "b": "scott2018_gender",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_age_of_acquisition",
+   "b": "scott2018_imageability",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_age_of_acquisition",
+   "b": "scott2018_size",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_age_of_acquisition",
+   "b": "scott2018_valence",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_arousal",
+   "b": "scott2018_concreteness",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_arousal",
+   "b": "scott2018_dominance",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_arousal",
+   "b": "scott2018_familiarity",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_arousal",
+   "b": "scott2018_gender",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_arousal",
+   "b": "scott2018_imageability",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_arousal",
+   "b": "scott2018_size",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_arousal",
+   "b": "scott2018_valence",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_concreteness",
+   "b": "scott2018_dominance",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_concreteness",
+   "b": "scott2018_familiarity",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_concreteness",
+   "b": "scott2018_gender",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_concreteness",
+   "b": "scott2018_imageability",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_concreteness",
+   "b": "scott2018_size",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_concreteness",
+   "b": "scott2018_valence",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_dominance",
+   "b": "scott2018_familiarity",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_dominance",
+   "b": "scott2018_gender",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_dominance",
+   "b": "scott2018_imageability",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_dominance",
+   "b": "scott2018_size",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_dominance",
+   "b": "scott2018_valence",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_familiarity",
+   "b": "scott2018_gender",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_familiarity",
+   "b": "scott2018_imageability",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_familiarity",
+   "b": "scott2018_size",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_familiarity",
+   "b": "scott2018_valence",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_gender",
+   "b": "scott2018_imageability",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_gender",
+   "b": "scott2018_size",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_gender",
+   "b": "scott2018_valence",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_imageability",
+   "b": "scott2018_size",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_imageability",
+   "b": "scott2018_valence",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "scott2018_size",
+   "b": "scott2018_valence",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 5553,
+   "nb": 5553
+  },
+  {
+   "a": "troche2014_auditory",
+   "b": "troche2014_color",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_auditory",
+   "b": "troche2014_emotion",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_auditory",
+   "b": "troche2014_morality",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_auditory",
+   "b": "troche2014_motion_self",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_auditory",
+   "b": "troche2014_polarity",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_auditory",
+   "b": "troche2014_quantity",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_auditory",
+   "b": "troche2014_social_interaction",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_auditory",
+   "b": "troche2014_space",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_auditory",
+   "b": "troche2014_tactile",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_auditory",
+   "b": "troche2014_taste_smell",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_auditory",
+   "b": "troche2014_thought",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_auditory",
+   "b": "troche2014_time",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_auditory",
+   "b": "troche2014_visual_form",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_color",
+   "b": "troche2014_emotion",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_color",
+   "b": "troche2014_morality",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_color",
+   "b": "troche2014_motion_self",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_color",
+   "b": "troche2014_polarity",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_color",
+   "b": "troche2014_quantity",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_color",
+   "b": "troche2014_social_interaction",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_color",
+   "b": "troche2014_space",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_color",
+   "b": "troche2014_tactile",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_color",
+   "b": "troche2014_taste_smell",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_color",
+   "b": "troche2014_thought",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_color",
+   "b": "troche2014_time",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_color",
+   "b": "troche2014_visual_form",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_emotion",
+   "b": "troche2014_morality",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_emotion",
+   "b": "troche2014_motion_self",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_emotion",
+   "b": "troche2014_polarity",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_emotion",
+   "b": "troche2014_quantity",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_emotion",
+   "b": "troche2014_social_interaction",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_emotion",
+   "b": "troche2014_space",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_emotion",
+   "b": "troche2014_tactile",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_emotion",
+   "b": "troche2014_taste_smell",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_emotion",
+   "b": "troche2014_thought",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_emotion",
+   "b": "troche2014_time",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_emotion",
+   "b": "troche2014_visual_form",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_morality",
+   "b": "troche2014_motion_self",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_morality",
+   "b": "troche2014_polarity",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_morality",
+   "b": "troche2014_quantity",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_morality",
+   "b": "troche2014_social_interaction",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_morality",
+   "b": "troche2014_space",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_morality",
+   "b": "troche2014_tactile",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_morality",
+   "b": "troche2014_taste_smell",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_morality",
+   "b": "troche2014_thought",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_morality",
+   "b": "troche2014_time",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_morality",
+   "b": "troche2014_visual_form",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_motion_self",
+   "b": "troche2014_polarity",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_motion_self",
+   "b": "troche2014_quantity",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_motion_self",
+   "b": "troche2014_social_interaction",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_motion_self",
+   "b": "troche2014_space",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_motion_self",
+   "b": "troche2014_tactile",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_motion_self",
+   "b": "troche2014_taste_smell",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_motion_self",
+   "b": "troche2014_thought",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_motion_self",
+   "b": "troche2014_time",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_motion_self",
+   "b": "troche2014_visual_form",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_polarity",
+   "b": "troche2014_quantity",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_polarity",
+   "b": "troche2014_social_interaction",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_polarity",
+   "b": "troche2014_space",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_polarity",
+   "b": "troche2014_tactile",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_polarity",
+   "b": "troche2014_taste_smell",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_polarity",
+   "b": "troche2014_thought",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_polarity",
+   "b": "troche2014_time",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_polarity",
+   "b": "troche2014_visual_form",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_quantity",
+   "b": "troche2014_social_interaction",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_quantity",
+   "b": "troche2014_space",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_quantity",
+   "b": "troche2014_tactile",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_quantity",
+   "b": "troche2014_taste_smell",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_quantity",
+   "b": "troche2014_thought",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_quantity",
+   "b": "troche2014_time",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_quantity",
+   "b": "troche2014_visual_form",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_social_interaction",
+   "b": "troche2014_space",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_social_interaction",
+   "b": "troche2014_tactile",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_social_interaction",
+   "b": "troche2014_taste_smell",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_social_interaction",
+   "b": "troche2014_thought",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_social_interaction",
+   "b": "troche2014_time",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_social_interaction",
+   "b": "troche2014_visual_form",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_space",
+   "b": "troche2014_tactile",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_space",
+   "b": "troche2014_taste_smell",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_space",
+   "b": "troche2014_thought",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_space",
+   "b": "troche2014_time",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_space",
+   "b": "troche2014_visual_form",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_tactile",
+   "b": "troche2014_taste_smell",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_tactile",
+   "b": "troche2014_thought",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_tactile",
+   "b": "troche2014_time",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_tactile",
+   "b": "troche2014_visual_form",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_taste_smell",
+   "b": "troche2014_thought",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_taste_smell",
+   "b": "troche2014_time",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_taste_smell",
+   "b": "troche2014_visual_form",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_thought",
+   "b": "troche2014_time",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_thought",
+   "b": "troche2014_visual_form",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "troche2014_time",
+   "b": "troche2014_visual_form",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 751,
+   "nb": 751
+  },
+  {
+   "a": "tuckute2024_arousal",
+   "b": "tuckute2024_conversational_frequency",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_arousal",
+   "b": "tuckute2024_general_frequency",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_arousal",
+   "b": "tuckute2024_grammatical_well_formedness",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_arousal",
+   "b": "tuckute2024_imageability",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_arousal",
+   "b": "tuckute2024_mental_states",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_arousal",
+   "b": "tuckute2024_physical_objects",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_arousal",
+   "b": "tuckute2024_places",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_arousal",
+   "b": "tuckute2024_plausibility",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_arousal",
+   "b": "tuckute2024_valence",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_conversational_frequency",
+   "b": "tuckute2024_general_frequency",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_conversational_frequency",
+   "b": "tuckute2024_grammatical_well_formedness",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_conversational_frequency",
+   "b": "tuckute2024_imageability",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_conversational_frequency",
+   "b": "tuckute2024_mental_states",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_conversational_frequency",
+   "b": "tuckute2024_physical_objects",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_conversational_frequency",
+   "b": "tuckute2024_places",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_conversational_frequency",
+   "b": "tuckute2024_plausibility",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_conversational_frequency",
+   "b": "tuckute2024_valence",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_general_frequency",
+   "b": "tuckute2024_grammatical_well_formedness",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_general_frequency",
+   "b": "tuckute2024_imageability",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_general_frequency",
+   "b": "tuckute2024_mental_states",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_general_frequency",
+   "b": "tuckute2024_physical_objects",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_general_frequency",
+   "b": "tuckute2024_places",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_general_frequency",
+   "b": "tuckute2024_plausibility",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_general_frequency",
+   "b": "tuckute2024_valence",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_grammatical_well_formedness",
+   "b": "tuckute2024_imageability",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_grammatical_well_formedness",
+   "b": "tuckute2024_mental_states",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_grammatical_well_formedness",
+   "b": "tuckute2024_physical_objects",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_grammatical_well_formedness",
+   "b": "tuckute2024_places",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_grammatical_well_formedness",
+   "b": "tuckute2024_plausibility",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_grammatical_well_formedness",
+   "b": "tuckute2024_valence",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_imageability",
+   "b": "tuckute2024_mental_states",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_imageability",
+   "b": "tuckute2024_physical_objects",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_imageability",
+   "b": "tuckute2024_places",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_imageability",
+   "b": "tuckute2024_plausibility",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_imageability",
+   "b": "tuckute2024_valence",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_mental_states",
+   "b": "tuckute2024_physical_objects",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_mental_states",
+   "b": "tuckute2024_places",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_mental_states",
+   "b": "tuckute2024_plausibility",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_mental_states",
+   "b": "tuckute2024_valence",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_physical_objects",
+   "b": "tuckute2024_places",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_physical_objects",
+   "b": "tuckute2024_plausibility",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_physical_objects",
+   "b": "tuckute2024_valence",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_places",
+   "b": "tuckute2024_plausibility",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_places",
+   "b": "tuckute2024_valence",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "tuckute2024_plausibility",
+   "b": "tuckute2024_valence",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 2000,
+   "nb": 2000
+  },
+  {
+   "a": "warriner2013_arousal",
+   "b": "warriner2013_dominance",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 13905,
+   "nb": 13905
+  },
+  {
+   "a": "warriner2013_arousal",
+   "b": "warriner2013_valence",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 13905,
+   "nb": 13905
+  },
+  {
+   "a": "warriner2013_arousal",
+   "b": "winter2024_iconicity",
+   "jaccard": 0.59,
+   "containment": 0.77,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 13905,
+   "nb": 14775
+  },
+  {
+   "a": "warriner2013_dominance",
+   "b": "warriner2013_valence",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 13905,
+   "nb": 13905
+  },
+  {
+   "a": "warriner2013_dominance",
+   "b": "winter2024_iconicity",
+   "jaccard": 0.59,
+   "containment": 0.77,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 13905,
+   "nb": 14775
+  },
+  {
+   "a": "warriner2013_valence",
+   "b": "winter2024_iconicity",
+   "jaccard": 0.59,
+   "containment": 0.77,
+   "same_instruction": false,
+   "identical_ratings_share": 1.0,
+   "na": 13905,
+   "nb": 14775
+  },
+  {
+   "a": "can_noncan_acceptability_2",
+   "b": "can_noncan_acceptability_0924",
+   "jaccard": 0.6,
+   "containment": 0.75,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 88,
+   "nb": 88
+  },
+  {
+   "a": "can_noncan_acceptability_0924",
+   "b": "susan_canonicity_rerunning",
+   "jaccard": 0.55,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 88,
+   "nb": 48
+  },
+  {
+   "a": "susan_canonicity_rerunning",
+   "b": "susan_canonicity_rerunning_2",
+   "jaccard": 0.71,
+   "containment": 0.83,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 48,
+   "nb": 48
+  },
+  {
+   "a": "susan_canonicity_rerunning",
+   "b": "susan_canonicity_rerunning_3",
+   "jaccard": 0.71,
+   "containment": 0.83,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 48,
+   "nb": 48
+  },
+  {
+   "a": "susan_canonicity_rerunning_2",
+   "b": "susan_canonicity_rerunning_3",
+   "jaccard": 0.85,
+   "containment": 0.92,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 48,
+   "nb": 48
+  },
+  {
+   "a": "crossed_dependencies",
+   "b": "crossed_dependencies_long",
+   "jaccard": 0.67,
+   "containment": 0.94,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 144,
+   "nb": 192
+  },
+  {
+   "a": "topicalization_e1_v2",
+   "b": "topicalization_e1",
+   "jaccard": 0.61,
+   "containment": 0.98,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 48,
+   "nb": 76
+  },
+  {
+   "a": "depth_charge_survey",
+   "b": "depth_charge_with_noise",
+   "jaccard": 0.72,
+   "containment": 0.84,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 188,
+   "nb": 188
+  },
+  {
+   "a": "discourse_30subjs_list4",
+   "b": "coherence_survey_list4_main",
+   "jaccard": 0.68,
+   "containment": 0.81,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "base_acceptability_0911",
+   "b": "base_acceptability_0908",
+   "jaccard": 0.92,
+   "containment": 0.96,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 70,
+   "nb": 70
+  },
+  {
+   "a": "discourse_30subjs_list1",
+   "b": "coherence_survey_list1_main",
+   "jaccard": 0.75,
+   "containment": 0.86,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_imagability_singles_list4",
+   "b": "discourse_mentalizing_singles_list4",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_imagability_singles_list4",
+   "b": "discourse_physics_singles_list4",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_imagability_singles_list4",
+   "b": "discourse_scenes_singles_list4",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_mentalizing_singles_list4",
+   "b": "discourse_physics_singles_list4",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_mentalizing_singles_list4",
+   "b": "discourse_scenes_singles_list4",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_30subjs_list3",
+   "b": "coherence_survey_list3_main",
+   "jaccard": 0.68,
+   "containment": 0.81,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_causality_list1",
+   "b": "discourse_coherence_list1",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_causality_list4",
+   "b": "discourse_coherence_list4",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_coherence_list2",
+   "b": "discourse_causality_list2",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_coherence_list3",
+   "b": "discourse_causality_list3",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_imagability_pairs_list1",
+   "b": "discourse_mentalizing_pairs_list1",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_imagability_pairs_list1",
+   "b": "discourse_physics_pairs_list1",
+   "jaccard": 0.98,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_imagability_pairs_list1",
+   "b": "discourse_scenes_pairs_list1",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_imagability_pairs_list2",
+   "b": "discourse_mentalizing_pairs_list2",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_imagability_pairs_list2",
+   "b": "discourse_physics_pairs_list2",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_imagability_pairs_list2",
+   "b": "discourse_scenes_pairs_list2",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_imagability_singles_list1",
+   "b": "discourse_mentalizing_singles_list1",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_imagability_singles_list1",
+   "b": "discourse_physics_singles_list1",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_imagability_singles_list1",
+   "b": "discourse_scenes_singles_list1",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_imagability_singles_list2",
+   "b": "discourse_mentalizing_singles_list2",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_imagability_singles_list2",
+   "b": "discourse_physics_singles_list2",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_imagability_singles_list2",
+   "b": "discourse_scenes_singles_list2",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_imagability_singles_list3",
+   "b": "discourse_mentalizing_singles_list3",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_imagability_singles_list3",
+   "b": "discourse_physics_singles_list3",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_imagability_singles_list3",
+   "b": "discourse_scenes_singles_list3",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_mentalizing_singles_list1",
+   "b": "discourse_physics_singles_list1",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_mentalizing_singles_list1",
+   "b": "discourse_scenes_singles_list1",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_mentalizing_singles_list2",
+   "b": "discourse_physics_singles_list2",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_mentalizing_singles_list2",
+   "b": "discourse_scenes_singles_list2",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_mentalizing_singles_list3",
+   "b": "discourse_physics_singles_list3",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_mentalizing_singles_list3",
+   "b": "discourse_scenes_singles_list3",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_mentalizing_pairs_list1",
+   "b": "discourse_physics_pairs_list1",
+   "jaccard": 0.98,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_mentalizing_pairs_list1",
+   "b": "discourse_scenes_pairs_list1",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_mentalizing_pairs_list2",
+   "b": "discourse_physics_pairs_list2",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_mentalizing_pairs_list2",
+   "b": "discourse_scenes_pairs_list2",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_physics_pairs_list1",
+   "b": "discourse_scenes_pairs_list1",
+   "jaccard": 0.98,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_physics_pairs_list2",
+   "b": "discourse_scenes_pairs_list2",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_physics_singles_list1",
+   "b": "discourse_scenes_singles_list1",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_physics_singles_list2",
+   "b": "discourse_scenes_singles_list2",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_physics_singles_list3",
+   "b": "discourse_scenes_singles_list3",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_physics_singles_list4",
+   "b": "discourse_scenes_singles_list4",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "discourse_30subjs_list2",
+   "b": "coherence_survey_list2_main",
+   "jaccard": 0.74,
+   "containment": 0.85,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 100
+  },
+  {
+   "a": "2wh_3wh_sentence_naturalness_survey_april_2011",
+   "b": "cul_jack_sentence_naturalness_survey_2_sept_2011",
+   "jaccard": 0.69,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 152,
+   "nb": 220
+  },
+  {
+   "a": "2wh_3wh_sentence_naturalness_survey_april_2011",
+   "b": "cul_jack_sentence_naturalness_survey_april_2010",
+   "jaccard": 0.69,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 152,
+   "nb": 220
+  },
+  {
+   "a": "acd_project_also_2_nov_22_2012_1",
+   "b": "acd_project_expt_23_also_nov_16_2012",
+   "jaccard": 0.75,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 448,
+   "nb": 600
+  },
+  {
+   "a": "acd_project_expt_23_also_nov_16_2012",
+   "b": "acd_project_expt_24_same_diff_verbs_nov_16_2012",
+   "jaccard": 0.51,
+   "containment": 0.76,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 600,
+   "nb": 472
+  },
+  {
+   "a": "agreement_norming_nov_17",
+   "b": "agreement_norming_nov_18",
+   "jaccard": 0.8,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 159,
+   "nb": 127
+  },
+  {
+   "a": "chomsky_items_1",
+   "b": "quantitative_syntax_survey",
+   "jaccard": 0.64,
+   "containment": 0.91,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 91,
+   "nb": 121
+  },
+  {
+   "a": "copy_cat_polly_dec_2013_1",
+   "b": "copy_cat_polly_june_2014",
+   "jaccard": 0.57,
+   "containment": 0.97,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 60,
+   "nb": 100
+  },
+  {
+   "a": "copy_cat_polly_june_2014",
+   "b": "copy_cat_polly_june_2014_v2_1",
+   "jaccard": 0.9,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 100,
+   "nb": 90
+  },
+  {
+   "a": "cul_jack_sentence_naturalness_survey_2_sept_2011",
+   "b": "quant_syn_april_13_2012_90_sentences_with_a_question_and_a_rating_code",
+   "jaccard": 0.51,
+   "containment": 0.74,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 220,
+   "nb": 184
+  },
+  {
+   "a": "cul_jack_sentence_naturalness_survey_april_2010",
+   "b": "quant_syn_april_13_2012_90_sentences_with_a_question_and_a_rating_code",
+   "jaccard": 0.51,
+   "containment": 0.74,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 220,
+   "nb": 184
+  },
+  {
+   "a": "disfluencies_sentence_naturalness_survey_april_2011",
+   "b": "eunice_disfluency_2_nov_17_2011",
+   "jaccard": 0.71,
+   "containment": 0.93,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 144,
+   "nb": 180
+  },
+  {
+   "a": "ecog_sentences_imaginability_jan_8_2014",
+   "b": "ecog_sentences_naturalness_jan_8_2014_2",
+   "jaccard": 1.0,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 120,
+   "nb": 120
+  },
+  {
+   "a": "erp_norming_error_detection_june_2013_4",
+   "b": "erp_sentence_naturalness_survey_june_2013_2",
+   "jaccard": 0.67,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 323,
+   "nb": 483
+  },
+  {
+   "a": "isac_sentence_naturalness_survey_feb_2011_64_items_survey_code_giant_c",
+   "b": "sentence_naturalness_isac_survey_feb_2011",
+   "jaccard": 0.84,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 256,
+   "nb": 304
+  },
+  {
+   "a": "isac_sentence_naturalness_survey_feb_2011_survey_code_giant_cobra",
+   "b": "sentence_naturalness_isac_survey_feb_2011",
+   "jaccard": 0.84,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 256,
+   "nb": 304
+  },
+  {
+   "a": "massive_mem_arousal_mar_2013",
+   "b": "massive_mem_concreteness_mar_2013",
+   "jaccard": 0.98,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 2020,
+   "nb": 2020
+  },
+  {
+   "a": "massive_mem_arousal_mar_2013",
+   "b": "massive_mem_familiarity_mar_2013",
+   "jaccard": 0.98,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 2020,
+   "nb": 2020
+  },
+  {
+   "a": "massive_mem_arousal_mar_2013",
+   "b": "massive_mem_imageability_mar_2013",
+   "jaccard": 0.98,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 2020,
+   "nb": 2020
+  },
+  {
+   "a": "massive_mem_arousal_mar_2013",
+   "b": "massive_mem_valence_mar_2013",
+   "jaccard": 0.98,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 2020,
+   "nb": 2020
+  },
+  {
+   "a": "massive_mem_arousal_mar_2013_end_2",
+   "b": "massive_mem_concreteness_mar_2013_end_1",
+   "jaccard": 0.85,
+   "containment": 0.92,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 242,
+   "nb": 242
+  },
+  {
+   "a": "massive_mem_arousal_mar_2013_end_2",
+   "b": "massive_mem_familiarity_mar_2013_end_1",
+   "jaccard": 0.85,
+   "containment": 0.92,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 242,
+   "nb": 242
+  },
+  {
+   "a": "massive_mem_arousal_mar_2013_end_2",
+   "b": "massive_mem_imageability_mar_2013_end_1",
+   "jaccard": 0.85,
+   "containment": 0.92,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 242,
+   "nb": 242
+  },
+  {
+   "a": "massive_mem_arousal_mar_2013_end_2",
+   "b": "massive_mem_valence_mar_2013_end_1",
+   "jaccard": 0.85,
+   "containment": 0.92,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 242,
+   "nb": 242
+  },
+  {
+   "a": "massive_mem_arousal_mar_2014",
+   "b": "massive_mem_concreteness_mar_2014",
+   "jaccard": 0.98,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 2015,
+   "nb": 2019
+  },
+  {
+   "a": "massive_mem_arousal_mar_2014",
+   "b": "massive_mem_familiarity_mar_2014",
+   "jaccard": 0.98,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 2015,
+   "nb": 2020
+  },
+  {
+   "a": "massive_mem_arousal_mar_2014",
+   "b": "massive_mem_imageability_mar_2014",
+   "jaccard": 0.98,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 2015,
+   "nb": 2019
+  },
+  {
+   "a": "massive_mem_arousal_mar_2014",
+   "b": "massive_mem_valence_mar_2014",
+   "jaccard": 0.98,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 2015,
+   "nb": 2018
+  },
+  {
+   "a": "massive_mem_arousal_mar_2014_end_1",
+   "b": "massive_mem_concreteness_mar_2014_end_1",
+   "jaccard": 0.85,
+   "containment": 0.92,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 242,
+   "nb": 242
+  },
+  {
+   "a": "massive_mem_arousal_mar_2014_end_1",
+   "b": "massive_mem_familiarity_mar_2014_end_1",
+   "jaccard": 0.85,
+   "containment": 0.92,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 242,
+   "nb": 242
+  },
+  {
+   "a": "massive_mem_arousal_mar_2014_end_1",
+   "b": "massive_mem_imageability_mar_2014_end_1",
+   "jaccard": 0.85,
+   "containment": 0.92,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 242,
+   "nb": 242
+  },
+  {
+   "a": "massive_mem_arousal_mar_2014_end_1",
+   "b": "massive_mem_valence_mar_2014_end_1",
+   "jaccard": 0.85,
+   "containment": 0.92,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 242,
+   "nb": 242
+  },
+  {
+   "a": "massive_mem_concreteness_mar_2013",
+   "b": "massive_mem_familiarity_mar_2013",
+   "jaccard": 0.99,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 2020,
+   "nb": 2020
+  },
+  {
+   "a": "massive_mem_concreteness_mar_2013",
+   "b": "massive_mem_imageability_mar_2013",
+   "jaccard": 0.98,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 2020,
+   "nb": 2020
+  },
+  {
+   "a": "massive_mem_concreteness_mar_2013",
+   "b": "massive_mem_valence_mar_2013",
+   "jaccard": 0.98,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 2020,
+   "nb": 2020
+  },
+  {
+   "a": "massive_mem_concreteness_mar_2013_end_1",
+   "b": "massive_mem_familiarity_mar_2013_end_1",
+   "jaccard": 0.92,
+   "containment": 0.96,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 242,
+   "nb": 242
+  },
+  {
+   "a": "massive_mem_concreteness_mar_2013_end_1",
+   "b": "massive_mem_imageability_mar_2013_end_1",
+   "jaccard": 0.85,
+   "containment": 0.92,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 242,
+   "nb": 242
+  },
+  {
+   "a": "massive_mem_concreteness_mar_2013_end_1",
+   "b": "massive_mem_valence_mar_2013_end_1",
+   "jaccard": 0.85,
+   "containment": 0.92,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 242,
+   "nb": 242
+  },
+  {
+   "a": "massive_mem_concreteness_mar_2014",
+   "b": "massive_mem_familiarity_mar_2014",
+   "jaccard": 0.99,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 2019,
+   "nb": 2020
+  },
+  {
+   "a": "massive_mem_concreteness_mar_2014",
+   "b": "massive_mem_imageability_mar_2014",
+   "jaccard": 0.98,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 2019,
+   "nb": 2019
+  },
+  {
+   "a": "massive_mem_concreteness_mar_2014",
+   "b": "massive_mem_valence_mar_2014",
+   "jaccard": 0.98,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 2019,
+   "nb": 2018
+  },
+  {
+   "a": "massive_mem_concreteness_mar_2014_end_1",
+   "b": "massive_mem_familiarity_mar_2014_end_1",
+   "jaccard": 0.91,
+   "containment": 0.95,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 242,
+   "nb": 242
+  },
+  {
+   "a": "massive_mem_concreteness_mar_2014_end_1",
+   "b": "massive_mem_imageability_mar_2014_end_1",
+   "jaccard": 0.85,
+   "containment": 0.92,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 242,
+   "nb": 242
+  },
+  {
+   "a": "massive_mem_concreteness_mar_2014_end_1",
+   "b": "massive_mem_valence_mar_2014_end_1",
+   "jaccard": 0.85,
+   "containment": 0.92,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 242,
+   "nb": 242
+  },
+  {
+   "a": "massive_mem_familiarity_mar_2013",
+   "b": "massive_mem_imageability_mar_2013",
+   "jaccard": 0.98,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 2020,
+   "nb": 2020
+  },
+  {
+   "a": "massive_mem_familiarity_mar_2013",
+   "b": "massive_mem_valence_mar_2013",
+   "jaccard": 0.98,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 2020,
+   "nb": 2020
+  },
+  {
+   "a": "massive_mem_familiarity_mar_2013_end_1",
+   "b": "massive_mem_imageability_mar_2013_end_1",
+   "jaccard": 0.85,
+   "containment": 0.92,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 242,
+   "nb": 242
+  },
+  {
+   "a": "massive_mem_familiarity_mar_2013_end_1",
+   "b": "massive_mem_valence_mar_2013_end_1",
+   "jaccard": 0.85,
+   "containment": 0.92,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 242,
+   "nb": 242
+  },
+  {
+   "a": "massive_mem_familiarity_mar_2014",
+   "b": "massive_mem_imageability_mar_2014",
+   "jaccard": 0.98,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 2020,
+   "nb": 2019
+  },
+  {
+   "a": "massive_mem_familiarity_mar_2014",
+   "b": "massive_mem_valence_mar_2014",
+   "jaccard": 0.98,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 2020,
+   "nb": 2018
+  },
+  {
+   "a": "massive_mem_familiarity_mar_2014_end_1",
+   "b": "massive_mem_imageability_mar_2014_end_1",
+   "jaccard": 0.85,
+   "containment": 0.92,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 242,
+   "nb": 242
+  },
+  {
+   "a": "massive_mem_familiarity_mar_2014_end_1",
+   "b": "massive_mem_valence_mar_2014_end_1",
+   "jaccard": 0.85,
+   "containment": 0.92,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 242,
+   "nb": 242
+  },
+  {
+   "a": "massive_mem_imageability_mar_2013",
+   "b": "massive_mem_valence_mar_2013",
+   "jaccard": 0.98,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 2020,
+   "nb": 2020
+  },
+  {
+   "a": "massive_mem_imageability_mar_2013_end_1",
+   "b": "massive_mem_valence_mar_2013_end_1",
+   "jaccard": 0.85,
+   "containment": 0.92,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 242,
+   "nb": 242
+  },
+  {
+   "a": "massive_mem_imageability_mar_2014",
+   "b": "massive_mem_valence_mar_2014",
+   "jaccard": 0.98,
+   "containment": 0.99,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 2019,
+   "nb": 2018
+  },
+  {
+   "a": "massive_mem_imageability_mar_2014_end_1",
+   "b": "massive_mem_valence_mar_2014_end_1",
+   "jaccard": 0.86,
+   "containment": 0.93,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 242,
+   "nb": 242
+  },
+  {
+   "a": "p_p_sentence_naturalness_survey_dec_2009",
+   "b": "p_p_sentence_naturalness_survey_jan_2010",
+   "jaccard": 0.73,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 252,
+   "nb": 184
+  },
+  {
+   "a": "p_p_sentence_naturalness_survey_dec_2009",
+   "b": "p_p_sentence_naturalness_survey_june_2013_v3",
+   "jaccard": 0.59,
+   "containment": 0.76,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 252,
+   "nb": 242
+  },
+  {
+   "a": "p_p_sentence_naturalness_survey_dec_2009",
+   "b": "p_p_sentence_naturalness_survey_may_2013",
+   "jaccard": 0.97,
+   "containment": 0.98,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 252,
+   "nb": 252
+  },
+  {
+   "a": "p_p_sentence_naturalness_survey_dec_2009",
+   "b": "p_p_sentence_naturalness_survey_may_2013_v2",
+   "jaccard": 0.6,
+   "containment": 0.75,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 252,
+   "nb": 252
+  },
+  {
+   "a": "p_p_sentence_naturalness_survey_dec_2009",
+   "b": "sentence_naturalness_survey_for_formal_link",
+   "jaccard": 0.57,
+   "containment": 0.73,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 252,
+   "nb": 252
+  },
+  {
+   "a": "p_p_sentence_naturalness_survey_jan_2010",
+   "b": "p_p_sentence_naturalness_survey_june_2013_v3",
+   "jaccard": 0.72,
+   "containment": 0.97,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 184,
+   "nb": 242
+  },
+  {
+   "a": "p_p_sentence_naturalness_survey_jan_2010",
+   "b": "p_p_sentence_naturalness_survey_may_2013",
+   "jaccard": 0.7,
+   "containment": 0.98,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 184,
+   "nb": 252
+  },
+  {
+   "a": "p_p_sentence_naturalness_survey_jan_2010",
+   "b": "p_p_sentence_naturalness_survey_may_2013_v2",
+   "jaccard": 0.71,
+   "containment": 0.98,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 184,
+   "nb": 252
+  },
+  {
+   "a": "p_p_sentence_naturalness_survey_jan_2010",
+   "b": "sentence_naturalness_survey_for_formal_link",
+   "jaccard": 0.68,
+   "containment": 0.96,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 184,
+   "nb": 252
+  },
+  {
+   "a": "p_p_sentence_naturalness_survey_june_2013_v3",
+   "b": "p_p_sentence_naturalness_survey_may_2013",
+   "jaccard": 0.59,
+   "containment": 0.76,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 242,
+   "nb": 252
+  },
+  {
+   "a": "p_p_sentence_naturalness_survey_june_2013_v3",
+   "b": "p_p_sentence_naturalness_survey_may_2013_v2",
+   "jaccard": 0.95,
+   "containment": 1.0,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 242,
+   "nb": 252
+  },
+  {
+   "a": "p_p_sentence_naturalness_survey_june_2013_v3",
+   "b": "sentence_naturalness_survey_for_formal_link",
+   "jaccard": 0.88,
+   "containment": 0.95,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 242,
+   "nb": 252
+  },
+  {
+   "a": "p_p_sentence_naturalness_survey_may_2013",
+   "b": "p_p_sentence_naturalness_survey_may_2013_v2",
+   "jaccard": 0.61,
+   "containment": 0.75,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 252,
+   "nb": 252
+  },
+  {
+   "a": "p_p_sentence_naturalness_survey_may_2013",
+   "b": "sentence_naturalness_survey_for_formal_link",
+   "jaccard": 0.58,
+   "containment": 0.74,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 252,
+   "nb": 252
+  },
+  {
+   "a": "p_p_sentence_naturalness_survey_may_2013_v2",
+   "b": "sentence_naturalness_survey_for_formal_link",
+   "jaccard": 0.92,
+   "containment": 0.96,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 252,
+   "nb": 252
+  },
+  {
+   "a": "paris_judgments_2_dec_2012_1",
+   "b": "paris_judgments_dec_2012_1",
+   "jaccard": 0.52,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 256,
+   "nb": 488
+  },
+  {
+   "a": "paris_judgments_3_dec_2012",
+   "b": "paris_judgments_dec_2012_1",
+   "jaccard": 0.51,
+   "containment": 0.69,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 477,
+   "nb": 488
+  },
+  {
+   "a": "quant_syn_april_13_2012_90_sentences_with_a_question_and_a_rating_code",
+   "b": "quant_syn_april_14_2012_48_sentences_with_a_question_and_a_rating_code",
+   "jaccard": 0.68,
+   "containment": 0.85,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 184,
+   "nb": 168
+  },
+  {
+   "a": "sentence_naturalness_survey_acd_ratings_hackl_expt_5_oct_25_2012_1",
+   "b": "sentence_naturalness_survey_acd_ratings_hackl_expt_7_oct_25_2012_1",
+   "jaccard": 0.73,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 128,
+   "nb": 176
+  },
+  {
+   "a": "sentence_naturalness_survey_acd_ratings_v2_jan_2012",
+   "b": "sentence_naturalness_survey_acd_ratings_v4_july_13_2012",
+   "jaccard": 0.73,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 128,
+   "nb": 176
+  },
+  {
+   "a": "sentence_naturalness_survey_feb_16_1_2012_60_items_code_shy_armadillo",
+   "b": "verb_particle_ratings",
+   "jaccard": 0.82,
+   "containment": 0.96,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 120,
+   "nb": 136
+  },
+  {
+   "a": "sentence_naturalness_survey_for_gs_apr_4_2010",
+   "b": "sentence_naturalness_survey_for_gs_jan_23_2010",
+   "jaccard": 0.61,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 132,
+   "nb": 216
+  },
+  {
+   "a": "sentence_naturalness_survey_for_lb_feb_2010",
+   "b": "sentence_naturalness_survey_for_lb_feb_20_2010_v2",
+   "jaccard": 0.58,
+   "containment": 1.0,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 45,
+   "nb": 77
+  },
+  {
+   "a": "sentence_naturalness_survey_for_lb_feb_20_2010",
+   "b": "sentence_naturalness_survey_for_lb_feb_20_2010_v2",
+   "jaccard": 0.78,
+   "containment": 0.97,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 64,
+   "nb": 77
+  },
+  {
+   "a": "sentence_naturalness_survey_for_lb_jan_2011",
+   "b": "sentence_naturalness_survey_for_lb_jan_2011_v3",
+   "jaccard": 0.66,
+   "containment": 0.8,
+   "same_instruction": true,
+   "identical_ratings_share": 0.0,
+   "na": 519,
+   "nb": 519
+  },
+  {
+   "a": "sentence_naturalness_survey_may_1_2011_64_items_code_shy_armadillo",
+   "b": "verb_particle_ratings",
+   "jaccard": 0.54,
+   "containment": 0.95,
+   "same_instruction": false,
+   "identical_ratings_share": 0.0,
+   "na": 232,
+   "nb": 136
+  }
+ ]
+}

@@ -1,7 +1,7 @@
 # mturk_norms — sentence/word-rating data converted from the TedLab MTurk export
 
 Converted from `raw-data/MTURK_export_2026-07-15.zip`, then **repaired on 2026-08-20**
-following the audit in [`../audit/DATA_AUDIT_2026-08-19.md`](../audit/DATA_AUDIT_2026-08-19.md).
+following the audit in [`../audit/reports/2026-08-19_data_audit.md`](../audit/reports/2026-08-19_data_audit.md).
 Question wording and response-scale labels come from `raw-data/_WORDING.zip`
 (a reconstruction from the live MTurk Requester dashboard + recovered local HIT
 templates), since the batch-CSV export itself never contained them.

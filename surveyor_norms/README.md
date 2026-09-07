@@ -2,7 +2,7 @@
 
 Converted from `raw-data/surveyor_export.zip` (2026-07-15), then **repaired on
 2026-08-20** following the audit in
-[`../audit/DATA_AUDIT_2026-08-19.md`](../audit/DATA_AUDIT_2026-08-19.md).
+[`../audit/reports/2026-08-19_data_audit.md`](../audit/reports/2026-08-19_data_audit.md).
 
 ## What's here
 
@@ -59,7 +59,7 @@ were applied.
 ## 2026-08-21 instruction preamble rebuild
 
 A collaborator flagged that the participant preamble in `_demographics.csv` was
-unused (diagnosis: `../audit/SURVEYOR_INSTRUCTION_DIAGNOSIS_2026-08-21.md`). All
+unused (diagnosis: `../audit/reports/2026-08-21_surveyor_instructions.md`). All
 100 instructions were rebuilt to include it verbatim minus procedural sentences
 (comprehension-question mentions, attention-check warnings, payment/ID and pacing
 lines — logged per survey in `../audit/surveyor_instruction_provenance.csv`).

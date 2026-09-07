@@ -1,0 +1,305 @@
+[
+ {
+  "keep": "can_noncan_acceptability_0924",
+  "absorbed": [
+   "susan_canonicity_rerunning"
+  ],
+  "units": 88,
+  "ratings": 5276,
+  "pair_evidence": [
+   [
+    "can_noncan_acceptability_0924",
+    "susan_canonicity_rerunning",
+    1.0,
+    0.55
+   ]
+  ]
+ },
+ {
+  "keep": "susan_canonicity_rerunning_2",
+  "absorbed": [
+   "susan_canonicity_rerunning_3"
+  ],
+  "units": 52,
+  "ratings": 2864,
+  "pair_evidence": [
+   [
+    "susan_canonicity_rerunning_2",
+    "susan_canonicity_rerunning_3",
+    0.92,
+    0.85
+   ]
+  ]
+ },
+ {
+  "keep": "crossed_dependencies_long",
+  "absorbed": [
+   "crossed_dependencies"
+  ],
+  "units": 201,
+  "ratings": 7258,
+  "pair_evidence": [
+   [
+    "crossed_dependencies",
+    "crossed_dependencies_long",
+    0.94,
+    0.67
+   ]
+  ]
+ },
+ {
+  "keep": "topicalization_e1",
+  "absorbed": [
+   "topicalization_e1_v2"
+  ],
+  "units": 77,
+  "ratings": 3733,
+  "pair_evidence": [
+   [
+    "topicalization_e1_v2",
+    "topicalization_e1",
+    0.98,
+    0.61
+   ]
+  ]
+ },
+ {
+  "keep": "base_acceptability_0908",
+  "absorbed": [
+   "base_acceptability_0911"
+  ],
+  "units": 73,
+  "ratings": 4247,
+  "pair_evidence": [
+   [
+    "base_acceptability_0911",
+    "base_acceptability_0908",
+    0.96,
+    0.92
+   ]
+  ]
+ },
+ {
+  "keep": "cul_jack_sentence_naturalness_survey_april_2010",
+  "absorbed": [
+   "2wh_3wh_sentence_naturalness_survey_april_2011"
+  ],
+  "units": 220,
+  "ratings": 24336,
+  "pair_evidence": [
+   [
+    "2wh_3wh_sentence_naturalness_survey_april_2011",
+    "cul_jack_sentence_naturalness_survey_april_2010",
+    1.0,
+    0.69
+   ]
+  ]
+ },
+ {
+  "keep": "acd_project_expt_23_also_nov_16_2012",
+  "absorbed": [
+   "acd_project_also_2_nov_22_2012_1"
+  ],
+  "units": 600,
+  "ratings": 10695,
+  "pair_evidence": [
+   [
+    "acd_project_also_2_nov_22_2012_1",
+    "acd_project_expt_23_also_nov_16_2012",
+    1.0,
+    0.75
+   ]
+  ]
+ },
+ {
+  "keep": "quantitative_syntax_survey",
+  "absorbed": [
+   "chomsky_items_1"
+  ],
+  "units": 129,
+  "ratings": 5803,
+  "pair_evidence": [
+   [
+    "chomsky_items_1",
+    "quantitative_syntax_survey",
+    0.91,
+    0.64
+   ]
+  ]
+ },
+ {
+  "keep": "copy_cat_polly_june_2014",
+  "absorbed": [
+   "copy_cat_polly_dec_2013_1",
+   "copy_cat_polly_june_2014_v2_1"
+  ],
+  "units": 102,
+  "ratings": 7574,
+  "pair_evidence": [
+   [
+    "copy_cat_polly_dec_2013_1",
+    "copy_cat_polly_june_2014",
+    0.97,
+    0.57
+   ],
+   [
+    "copy_cat_polly_june_2014",
+    "copy_cat_polly_june_2014_v2_1",
+    1.0,
+    0.9
+   ]
+  ]
+ },
+ {
+  "keep": "eunice_disfluency_2_nov_17_2011",
+  "absorbed": [
+   "disfluencies_sentence_naturalness_survey_april_2011"
+  ],
+  "units": 190,
+  "ratings": 7414,
+  "pair_evidence": [
+   [
+    "disfluencies_sentence_naturalness_survey_april_2011",
+    "eunice_disfluency_2_nov_17_2011",
+    0.93,
+    0.71
+   ]
+  ]
+ },
+ {
+  "keep": "p_p_sentence_naturalness_survey_dec_2009",
+  "absorbed": [
+   "p_p_sentence_naturalness_survey_jan_2010",
+   "p_p_sentence_naturalness_survey_may_2013",
+   "p_p_sentence_naturalness_survey_may_2013_v2",
+   "sentence_naturalness_survey_for_formal_link"
+  ],
+  "units": 324,
+  "ratings": 60653,
+  "pair_evidence": [
+   [
+    "p_p_sentence_naturalness_survey_dec_2009",
+    "p_p_sentence_naturalness_survey_jan_2010",
+    1.0,
+    0.73
+   ],
+   [
+    "p_p_sentence_naturalness_survey_dec_2009",
+    "p_p_sentence_naturalness_survey_may_2013",
+    0.98,
+    0.97
+   ],
+   [
+    "p_p_sentence_naturalness_survey_jan_2010",
+    "p_p_sentence_naturalness_survey_may_2013",
+    0.98,
+    0.7
+   ],
+   [
+    "p_p_sentence_naturalness_survey_jan_2010",
+    "p_p_sentence_naturalness_survey_may_2013_v2",
+    0.98,
+    0.71
+   ],
+   [
+    "p_p_sentence_naturalness_survey_jan_2010",
+    "sentence_naturalness_survey_for_formal_link",
+    0.96,
+    0.68
+   ],
+   [
+    "p_p_sentence_naturalness_survey_may_2013_v2",
+    "sentence_naturalness_survey_for_formal_link",
+    0.96,
+    0.92
+   ]
+  ]
+ },
+ {
+  "keep": "paris_judgments_dec_2012_1",
+  "absorbed": [
+   "paris_judgments_2_dec_2012_1"
+  ],
+  "units": 488,
+  "ratings": 5085,
+  "pair_evidence": [
+   [
+    "paris_judgments_2_dec_2012_1",
+    "paris_judgments_dec_2012_1",
+    1.0,
+    0.52
+   ]
+  ]
+ },
+ {
+  "keep": "sentence_naturalness_survey_acd_ratings_hackl_expt_7_oct_25_2012_1",
+  "absorbed": [
+   "sentence_naturalness_survey_acd_ratings_hackl_expt_5_oct_25_2012_1"
+  ],
+  "units": 176,
+  "ratings": 6614,
+  "pair_evidence": [
+   [
+    "sentence_naturalness_survey_acd_ratings_hackl_expt_5_oct_25_2012_1",
+    "sentence_naturalness_survey_acd_ratings_hackl_expt_7_oct_25_2012_1",
+    1.0,
+    0.73
+   ]
+  ]
+ },
+ {
+  "keep": "sentence_naturalness_survey_acd_ratings_v4_july_13_2012",
+  "absorbed": [
+   "sentence_naturalness_survey_acd_ratings_v2_jan_2012"
+  ],
+  "units": 176,
+  "ratings": 8915,
+  "pair_evidence": [
+   [
+    "sentence_naturalness_survey_acd_ratings_v2_jan_2012",
+    "sentence_naturalness_survey_acd_ratings_v4_july_13_2012",
+    1.0,
+    0.73
+   ]
+  ]
+ },
+ {
+  "keep": "sentence_naturalness_survey_for_gs_jan_23_2010",
+  "absorbed": [
+   "sentence_naturalness_survey_for_gs_apr_4_2010"
+  ],
+  "units": 216,
+  "ratings": 12549,
+  "pair_evidence": [
+   [
+    "sentence_naturalness_survey_for_gs_apr_4_2010",
+    "sentence_naturalness_survey_for_gs_jan_23_2010",
+    1.0,
+    0.61
+   ]
+  ]
+ },
+ {
+  "keep": "sentence_naturalness_survey_for_lb_feb_20_2010_v2",
+  "absorbed": [
+   "sentence_naturalness_survey_for_lb_feb_2010",
+   "sentence_naturalness_survey_for_lb_feb_20_2010"
+  ],
+  "units": 79,
+  "ratings": 5424,
+  "pair_evidence": [
+   [
+    "sentence_naturalness_survey_for_lb_feb_2010",
+    "sentence_naturalness_survey_for_lb_feb_20_2010_v2",
+    1.0,
+    0.58
+   ],
+   [
+    "sentence_naturalness_survey_for_lb_feb_20_2010",
+    "sentence_naturalness_survey_for_lb_feb_20_2010_v2",
+    0.97,
+    0.78
+   ]
+  ]
+ }
+]

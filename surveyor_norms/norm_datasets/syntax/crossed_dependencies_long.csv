@@ -1,193 +1,202 @@
 unit,mean,std,n,individual_ratings,item_type
-A bracelet turned up which I had searched for.,3.4444,0.7265,9,"[4, 2, 3, 4, 3, 4, 4, 4, 3]",test
-A bracelet turned up which would have matched my yellow prom dress perfectly if only I had found it before the prom.,2.75,1.5448,12,"[4, 2, 3, 5, 1, 1, 3, 1, 5, 3, 1, 4]",test
-A bracelet turned up which would have matched my yellow prom dress perfectly.,3.25,0.5,4,"[4, 3, 3, 3]",test
-A bracelet which I had searched for turned up.,3.0,1.291,13,"[2, 2, 5, 3, 5, 2, 2, 4, 2, 3, 2, 2, 5]",test
-A bracelet which would have matched my yellow prom dress perfectly if only I had found it before the prom turned up.,1.75,0.5,4,"[2, 2, 2, 1]",test
-A bracelet which would have matched my yellow prom dress perfectly turned up.,2.5,1.1952,8,"[2, 3, 2, 1, 4, 3, 1, 4]",test
+A bracelet turned up which I had searched for.,3.0000,0.9798,26,"[4, 2, 3, 4, 3, 4, 4, 4, 3, 3, 2, 4, 2, 5, 3, 1, 3, 3, 2, 2, 4, 2, 2, 3, 4, 2]",test
+A bracelet turned up which would have matched my yellow prom dress perfectly if only I had found it before the prom.,2.7500,1.5448,12,"[4, 2, 3, 5, 1, 1, 3, 1, 5, 3, 1, 4]",test
+A bracelet turned up which would have matched my yellow prom dress perfectly.,3.5882,1.0037,17,"[4, 3, 3, 3, 5, 5, 5, 3, 2, 3, 4, 2, 4, 3, 5, 3, 4]",test
+A bracelet which I had searched for turned up.,3.1111,1.1209,27,"[2, 2, 5, 3, 5, 2, 2, 4, 2, 3, 2, 2, 5, 4, 2, 4, 3, 2, 5, 4, 3, 4, 3, 4, 2, 3, 2]",test
+A bracelet which would have matched my yellow prom dress perfectly if only I had found it before the prom turned up.,1.7500,0.5000,4,"[2, 2, 2, 1]",test
+A bracelet which would have matched my yellow prom dress perfectly turned up.,2.2667,1.1629,15,"[2, 3, 2, 1, 4, 3, 1, 4, 4, 1, 3, 1, 1, 2, 2]",test
 A chef came in who did too much complaining about the weather and his lack of friends when he should have been cooking.,1.7143,0.7559,7,"[3, 2, 1, 1, 2, 2, 1]",test
-A chef came in who did too much complaining about the weather and his lack of friends.,2.75,0.9574,4,"[2, 2, 3, 4]",test
+A chef came in who did too much complaining about the weather and his lack of friends.,2.7500,0.9574,4,"[2, 2, 3, 4]",test
 A chef came in who did too much complaining.,4.1818,0.7508,11,"[5, 5, 4, 3, 4, 4, 4, 5, 3, 4, 5]",test
 A chef who did too much complaining about the weather and his lack of friends came in.,2.0769,1.1152,13,"[3, 2, 1, 2, 1, 4, 1, 1, 2, 4, 3, 2, 1]",test
-A chef who did too much complaining about the weather and his lack of friends when he should have been cooking came in.,2.0,1.1547,7,"[2, 4, 3, 1, 1, 2, 1]",test
+A chef who did too much complaining about the weather and his lack of friends when he should have been cooking came in.,2.0000,1.1547,7,"[2, 4, 3, 1, 1, 2, 1]",test
 A chef who did too much complaining came in.,3.2857,1.1127,7,"[3, 2, 4, 5, 3, 2, 4]",test
-A child came in who was nicely tucked in a couple of hours earlier before a lot of loud trucks drove by the open window.,1.4,0.9661,10,"[4, 2, 1, 1, 1, 1, 1, 1, 1, 1]",test
-A child came in who was nicely tucked in a couple of hours earlier.,2.0,1.1547,10,"[2, 1, 1, 2, 2, 4, 2, 1, 4, 1]",test
-A child came in who was tucked in earlier.,2.0,0.8944,11,"[3, 1, 1, 1, 3, 2, 1, 3, 3, 2, 2]",test
-A child who was nicely tucked in a couple of hours earlier before a lot of loud trucks drove by the open window came in.,1.0,0.0,4,"[1, 1, 1, 1]",test
-A child who was nicely tucked in a couple of hours earlier came in.,2.875,1.6421,8,"[4, 5, 1, 2, 3, 2, 1, 5]",test
-A child who was tucked in earlier came in.,2.5714,1.1339,7,"[1, 1, 4, 3, 3, 3, 3]",test
-A crowd of screaming teenagers awaited the singer near the hotel entrance.,4.44,0.8843,50,"[2, 5, 2, 5, 4, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 4, 3, 5, 4, 5, 5, 5, 4, 5, 4, 5, 5, 5, 5, 4, 3, 5, 5, 2, 5, 3, 4, 5, 5, 3, 4, 5, 4, 5, 5, 5, 5, 4, 5, 5]",filler
-A famous comedian came on who had offensive jokes.,2.5,1.1952,8,"[3, 4, 2, 1, 3, 1, 2, 4]",test
+A child came in who was nicely tucked in a couple of hours earlier before a lot of loud trucks drove by the open window.,1.4000,0.9661,10,"[4, 2, 1, 1, 1, 1, 1, 1, 1, 1]",test
+A child came in who was nicely tucked in a couple of hours earlier.,1.9500,0.9987,20,"[2, 1, 1, 2, 2, 4, 2, 1, 4, 1, 2, 2, 1, 1, 1, 3, 3, 1, 3, 2]",test
+A child came in who was tucked in earlier.,2.0000,0.8847,24,"[3, 1, 1, 1, 3, 2, 1, 3, 3, 2, 2, 1, 2, 4, 2, 1, 2, 3, 1, 3, 2, 2, 2, 1]",test
+A child who was nicely tucked in a couple of hours earlier before a lot of loud trucks drove by the open window came in.,1.0000,0.0000,4,"[1, 1, 1, 1]",test
+A child who was nicely tucked in a couple of hours earlier came in.,2.3000,1.3018,20,"[4, 5, 1, 2, 3, 2, 1, 5, 3, 2, 3, 1, 3, 1, 1, 1, 2, 3, 1, 2]",test
+A child who was tucked in earlier came in.,2.2609,1.0098,23,"[1, 1, 4, 3, 3, 3, 3, 3, 1, 2, 1, 2, 3, 2, 1, 3, 4, 1, 3, 2, 3, 2, 1]",test
+A crowd of screaming teenagers awaited the singer near the hotel entrance.,4.3366,0.9621,101,"[2, 5, 2, 5, 4, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 4, 3, 5, 4, 5, 5, 5, 4, 5, 4, 5, 5, 5, 5, 4, 3, 5, 5, 2, 5, 3, 4, 5, 5, 3, 4, 5, 4, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 4, 4, 4, 2, 5, 2, 5, 3, 5, 5, 5, 1, 4, 3, 4, 5, 3, 5, 5, 5, 3, 5, 5, 5, 3, 5, 3, 5, 3, 5, 5, 5, 5, 4, 3, 5, 5, 4, 5, 4, 3, 3, 5, 4, 5, 5]",filler
+A famous comedian came on who had offensive jokes.,2.7059,1.3117,17,"[3, 4, 2, 1, 3, 1, 2, 4, 3, 4, 2, 2, 2, 5, 1, 5, 2]",test
 A famous comedian came on who was known for his offensive jokes and bad impersonations of old-time politicians and some dead celebrities.,2.9167,1.2401,12,"[5, 1, 3, 4, 2, 2, 3, 4, 3, 1, 3, 4]",test
-A famous comedian came on who was known for his offensive jokes and bad impersonations.,4.0,1.0,7,"[3, 4, 5, 5, 3, 3, 5]",test
-A famous comedian who had offensive jokes came on.,3.2857,1.496,7,"[4, 5, 2, 1, 3, 3, 5]",test
-A famous comedian who was known for his offensive jokes and bad impersonations came on.,3.6,1.1402,5,"[5, 2, 4, 3, 4]",test
+A famous comedian came on who was known for his offensive jokes and bad impersonations.,3.6087,1.1962,23,"[3, 4, 5, 5, 3, 3, 5, 3, 3, 5, 1, 5, 3, 1, 3, 3, 3, 4, 4, 5, 5, 4, 3]",test
+A famous comedian who had offensive jokes came on.,3.0000,1.1882,18,"[4, 5, 2, 1, 3, 3, 5, 2, 3, 3, 2, 5, 3, 3, 1, 3, 3, 3]",test
+A famous comedian who was known for his offensive jokes and bad impersonations came on.,3.6000,1.0463,20,"[5, 2, 4, 3, 4, 4, 4, 5, 3, 5, 4, 4, 2, 5, 3, 4, 3, 2, 4, 2]",test
 A famous comedian who was known for his offensive jokes and bad impersonations of old-time politicians and some dead celebrities came on.,1.8182,0.9816,11,"[3, 2, 1, 1, 1, 1, 2, 2, 2, 1, 4]",test
 A friend came over who I had loved since middle school and only recently confessed my feelings for after a night with a few drinks.,2.4444,1.1304,9,"[2, 2, 1, 2, 1, 4, 4, 3, 3]",test
-A friend came over who I had loved since middle school and only recently confessed my feelings for.,2.5,1.3093,8,"[1, 1, 4, 4, 3, 3, 1, 3]",test
-A friend came over who I loved.,2.9286,1.1411,14,"[3, 4, 4, 2, 1, 2, 3, 1, 3, 4, 3, 3, 5, 3]",test
+A friend came over who I had loved since middle school and only recently confessed my feelings for.,2.6429,1.0818,14,"[1, 1, 4, 4, 3, 3, 1, 3, 3, 3, 2, 4, 2, 3]",test
+A friend came over who I loved.,2.6333,1.1290,30,"[3, 4, 4, 2, 1, 2, 3, 1, 3, 4, 3, 3, 5, 3, 1, 3, 2, 3, 3, 2, 1, 3, 1, 4, 4, 3, 1, 3, 1, 3]",test
 A friend who I had loved since middle school and only recently confessed my feelings for after a night with a few drinks came over.,1.3333,0.8165,6,"[1, 1, 3, 1, 1, 1]",test
-A friend who I had loved since middle school and only recently confessed my feelings for came over.,2.5556,1.424,9,"[3, 2, 3, 1, 1, 5, 3, 1, 4]",test
-A friend who I loved came over.,3.5,1.291,4,"[3, 5, 2, 4]",test
-A man showed up who always wore colorful clothes.,3.6667,0.8165,6,"[4, 3, 3, 4, 5, 3]",test
+A friend who I had loved since middle school and only recently confessed my feelings for came over.,2.6087,1.3731,23,"[3, 2, 3, 1, 1, 5, 3, 1, 4, 5, 3, 1, 2, 1, 3, 1, 3, 3, 2, 3, 1, 5, 4]",test
+A friend who I loved came over.,3.5263,1.0203,19,"[3, 5, 2, 4, 4, 4, 4, 3, 1, 3, 4, 3, 5, 4, 4, 2, 4, 4, 4]",test
+A man showed up who always wore colorful clothes.,3.1905,1.0779,21,"[4, 3, 3, 4, 5, 3, 3, 3, 4, 1, 4, 2, 5, 3, 1, 4, 3, 3, 4, 3, 2]",test
 A man showed up who now wore colorful clothes to school events to draw attention to himself after years of wearing only black and white.,1.3333,0.5164,6,"[2, 2, 1, 1, 1, 1]",test
-A man showed up who wore colorful clothes to school events to draw attention to himself.,2.625,0.7188,16,"[3, 2, 3, 2, 3, 4, 2, 3, 2, 4, 3, 2, 3, 2, 2, 2]",test
-A man who always wore colorful clothes showed up.,3.2857,0.9512,7,"[2, 4, 4, 4, 2, 3, 4]",test
-A man who now wore colorful clothes to school events to draw attention to himself after years of wearing only black and white showed up.,2.125,1.126,8,"[1, 1, 2, 3, 1, 4, 2, 3]",test
+A man showed up who wore colorful clothes to school events to draw attention to himself.,2.6250,0.7188,16,"[3, 2, 3, 2, 3, 4, 2, 3, 2, 4, 3, 2, 3, 2, 2, 2]",test
+A man who always wore colorful clothes showed up.,3.4545,1.1843,22,"[2, 4, 4, 4, 2, 3, 4, 4, 5, 1, 2, 5, 4, 2, 3, 5, 2, 4, 3, 4, 4, 5]",test
+A man who now wore colorful clothes to school events to draw attention to himself after years of wearing only black and white showed up.,2.1250,1.1260,8,"[1, 1, 2, 3, 1, 4, 2, 3]",test
 A man who wore colorful clothes to school events to draw attention to himself showed up.,2.1429,1.5736,7,"[3, 1, 5, 1, 3, 1, 1]",test
-A neighbor dropped by who had a concerning obsession with me ever since high school over 20 years ago.,1.9,0.5676,10,"[2, 1, 2, 2, 3, 1, 2, 2, 2, 2]",test
-A neighbor dropped by who had a concerning obsession with me.,3.375,1.598,8,"[4, 2, 3, 5, 1, 2, 5, 5]",test
-A neighbor dropped by who hated me.,2.3333,1.4142,9,"[1, 3, 1, 1, 1, 3, 3, 3, 5]",test
-A neighbor stopped by who hates coffee.,3.3636,1.3618,11,"[5, 5, 3, 3, 1, 4, 5, 2, 2, 3, 4]",test
-A neighbor stopped by who hates starting her day without a big cup of coffee and a toasted bagel with cream cheese.,2.1667,1.472,6,"[4, 1, 1, 4, 1, 2]",test
-A neighbor stopped by who hates starting her day without a big cup of coffee.,3.6,1.1402,5,"[2, 4, 5, 3, 4]",test
-A neighbor who had a concerning obsession with me dropped by.,3.1667,1.8348,6,"[5, 4, 1, 3, 5, 1]",test
-A neighbor who had a concerning obsession with me ever since high school over 20 years ago dropped by.,2.1,1.1005,10,"[2, 4, 4, 2, 2, 2, 1, 1, 1, 2]",test
-A neighbor who hated me dropped by.,3.2857,0.9512,7,"[4, 4, 4, 4, 2, 3, 2]",test
-A neighbor who hates coffee stopped by.,3.5,1.0871,12,"[5, 4, 2, 3, 3, 2, 4, 3, 5, 5, 3, 3]",test
+A neighbor dropped by who had a concerning obsession with me ever since high school over 20 years ago.,1.9000,0.5676,10,"[2, 1, 2, 2, 3, 1, 2, 2, 2, 2]",test
+A neighbor dropped by who had a concerning obsession with me.,3.0556,1.3492,18,"[4, 2, 3, 5, 1, 2, 5, 5, 4, 1, 2, 3, 1, 4, 4, 3, 3, 3]",test
+A neighbor dropped by who hated me.,2.3043,1.2946,23,"[1, 3, 1, 1, 1, 3, 3, 3, 5, 2, 2, 1, 4, 1, 4, 2, 1, 5, 2, 3, 2, 1, 2]",test
+A neighbor stopped by who hates coffee.,2.9167,1.4116,24,"[5, 5, 3, 3, 1, 4, 5, 2, 2, 3, 4, 1, 1, 3, 4, 1, 4, 2, 2, 4, 2, 1, 3, 5]",test
+A neighbor stopped by who hates starting her day without a big cup of coffee and a toasted bagel with cream cheese.,2.1667,1.4720,6,"[4, 1, 1, 4, 1, 2]",test
+A neighbor stopped by who hates starting her day without a big cup of coffee.,3.0000,1.3744,19,"[2, 4, 5, 3, 4, 1, 2, 4, 3, 2, 1, 3, 2, 5, 4, 5, 2, 1, 4]",test
+A neighbor who had a concerning obsession with me dropped by.,3.1364,1.2458,22,"[5, 4, 1, 3, 5, 1, 1, 2, 4, 1, 4, 3, 3, 3, 4, 3, 4, 4, 3, 4, 4, 3]",test
+A neighbor who had a concerning obsession with me ever since high school over 20 years ago dropped by.,2.1000,1.1005,10,"[2, 4, 4, 2, 2, 2, 1, 1, 1, 2]",test
+A neighbor who hated me dropped by.,3.1176,0.9275,17,"[4, 4, 4, 4, 2, 3, 2, 3, 2, 4, 2, 2, 3, 4, 4, 4, 2]",test
+A neighbor who hates coffee stopped by.,3.4167,1.2129,24,"[5, 4, 2, 3, 3, 2, 4, 3, 5, 5, 3, 3, 4, 5, 1, 3, 2, 4, 4, 4, 1, 4, 3, 5]",test
 A neighbor who hates starting her day without a big cup of coffee and a toasted bagel with cream cheese stopped by.,3.1667,1.6021,6,"[3, 5, 3, 1, 5, 2]",test
-A neighbor who hates starting her day without a big cup of coffee stopped by.,2.6667,0.7071,9,"[2, 3, 3, 2, 2, 3, 2, 4, 3]",test
-A parent entered who was a troublemaker.,3.25,2.0616,4,"[5, 1, 5, 2]",test
+A neighbor who hates starting her day without a big cup of coffee stopped by.,2.4762,0.9284,21,"[2, 3, 3, 2, 2, 3, 2, 4, 3, 2, 3, 2, 2, 2, 1, 3, 4, 3, 1, 4, 1]",test
+A parent entered who was a troublemaker.,2.8750,1.3601,16,"[5, 1, 5, 2, 2, 3, 5, 1, 3, 1, 3, 2, 3, 4, 3, 3]",test
 A parent entered who was rumored to have a history of creating petty drama between the teachers by bringing up old relationship rumors.,2.7778,1.3017,9,"[4, 4, 1, 1, 2, 4, 3, 4, 2]",test
-A parent entered who was rumored to have a history of creating petty drama between the teachers.,2.6667,1.1547,12,"[3, 2, 2, 2, 4, 1, 2, 2, 2, 4, 3, 5]",test
-A parent who was a troublemaker entered.,2.4286,1.6183,7,"[3, 1, 4, 1, 1, 2, 5]",test
-A parent who was rumored to have a history of creating petty drama between the teachers by bringing up old relationship rumors entered.,1.75,1.2154,12,"[1, 1, 1, 1, 2, 1, 3, 1, 5, 2, 2, 1]",test
-A parent who was rumored to have a history of creating petty drama between the teachers entered.,2.8333,0.9832,6,"[3, 2, 4, 4, 2, 2]",test
-A relative came over who was celebrating her birthday.,3.6667,1.5055,6,"[4, 3, 5, 5, 1, 4]",test
+A parent entered who was rumored to have a history of creating petty drama between the teachers.,2.5200,1.0456,25,"[3, 2, 2, 2, 4, 1, 2, 2, 2, 4, 3, 5, 2, 3, 3, 3, 1, 3, 1, 4, 1, 2, 3, 3, 2]",test
+A parent who was a troublemaker entered.,2.7368,1.3680,19,"[3, 1, 4, 1, 1, 2, 5, 2, 5, 3, 3, 3, 4, 4, 4, 1, 1, 2, 3]",test
+A parent who was rumored to have a history of creating petty drama between the teachers by bringing up old relationship rumors entered.,1.7500,1.2154,12,"[1, 1, 1, 1, 2, 1, 3, 1, 5, 2, 2, 1]",test
+A parent who was rumored to have a history of creating petty drama between the teachers entered.,2.9000,0.9119,20,"[3, 2, 4, 4, 2, 2, 4, 3, 4, 4, 4, 2, 3, 3, 3, 2, 3, 2, 1, 3]",test
+A relative came over who was celebrating her birthday.,3.6522,1.2288,23,"[4, 3, 5, 5, 1, 4, 5, 4, 3, 5, 3, 3, 3, 1, 3, 4, 4, 2, 5, 5, 4, 5, 3]",test
 A relative came over who was celebrating her first birthday without her husband who was overseas with the military.,2.7778,1.3017,9,"[2, 2, 4, 2, 4, 1, 3, 2, 5]",test
-A relative came over who was celebrating her first birthday without her husband.,3.125,1.6421,8,"[2, 5, 2, 1, 5, 3, 2, 5]",test
-A relative who was celebrating her birthday came over.,3.625,1.0878,16,"[4, 3, 5, 4, 3, 4, 5, 4, 3, 4, 5, 2, 1, 3, 4, 4]",test
-A relative who was celebrating her first birthday without her husband came over.,2.5,1.3093,8,"[3, 3, 2, 2, 5, 1, 3, 1]",test
+A relative came over who was celebrating her first birthday without her husband.,3.1875,1.3276,16,"[2, 5, 2, 1, 5, 3, 2, 5, 3, 3, 2, 2, 4, 3, 4, 5]",test
+A relative who was celebrating her birthday came over.,3.4643,1.2013,28,"[4, 3, 5, 4, 3, 4, 5, 4, 3, 4, 5, 2, 1, 3, 4, 4, 5, 1, 1, 3, 4, 3, 4, 3, 4, 2, 5, 4]",test
+A relative who was celebrating her first birthday without her husband came over.,2.6087,1.1176,23,"[3, 3, 2, 2, 5, 1, 3, 1, 4, 2, 2, 4, 3, 2, 2, 4, 4, 3, 3, 2, 1, 1, 3]",test
 A relative who was celebrating her first birthday without her husband who was overseas with the military came over.,3.3333,1.5275,3,"[5, 2, 3]",test
-A skin rash appeared which probably surfaced because I am nervous about my piano recital which is coming up tomorrow.,2.625,1.7678,8,"[1, 2, 2, 1, 1, 5, 5, 4]",test
-A skin rash appeared which probably surfaced because I am nervous about my piano recital.,3.0,1.3333,10,"[3, 3, 3, 4, 5, 4, 1, 2, 4, 1]",test
-A skin rash appeared which surfaces when I am nervous.,1.25,0.5,4,"[1, 1, 1, 2]",test
-A skin rash which probably surfaced because I am nervous about my piano recital appeared.,2.6,1.2649,10,"[2, 4, 1, 2, 3, 5, 3, 1, 2, 3]",test
-A skin rash which probably surfaced because I am nervous about my piano recital which is coming up tomorrow appeared.,2.0,1.1952,8,"[1, 4, 1, 1, 1, 3, 3, 2]",test
-A skin rash which surfaces when I am nervous appeared.,2.5556,1.3333,9,"[2, 4, 1, 3, 2, 5, 1, 3, 2]",test
-A student showed up who had a bad habit of skipping class whenever possible because he just wasn't interested.,2.6667,1.0,9,"[2, 3, 3, 4, 4, 3, 2, 2, 1]",test
-A student showed up who had a bad habit of skipping class whenever possible.,4.1667,0.9832,6,"[3, 5, 5, 5, 4, 3]",test
-A student showed up who had terrible attendance.,3.7778,1.4814,9,"[4, 5, 1, 5, 3, 2, 5, 5, 4]",test
-A student who had a bad habit of skipping class whenever possible because he just wasn't interested showed up.,2.5,1.3093,8,"[3, 2, 2, 1, 1, 5, 3, 3]",test
-A student who had a bad habit of skipping class whenever possible showed up.,2.1538,1.1435,13,"[4, 4, 3, 1, 1, 2, 3, 1, 1, 3, 2, 1, 2]",test
-A student who had terrible attendance showed up.,4.25,0.9574,4,"[5, 4, 5, 3]",test
-A toddler arose who had been fast asleep before his mother yelled his name from the kitchen so that everyone in the house could hear.,2.0,1.3416,11,"[2, 1, 1, 4, 1, 2, 2, 1, 1, 5, 2]",test
-A toddler arose who had been fast asleep before his mother yelled his name.,2.2,1.3038,5,"[1, 1, 4, 2, 3]",test
-A toddler arose who had been fast asleep.,3.7143,0.7559,7,"[3, 4, 3, 4, 4, 5, 3]",test
-A toddler who had been fast asleep arose.,2.7143,1.3801,7,"[2, 1, 3, 2, 4, 2, 5]",test
-A toddler who had been fast asleep before his mother yelled his name arose.,1.9,0.8756,10,"[1, 3, 3, 3, 1, 2, 2, 1, 2, 1]",test
-A toddler who had been fast asleep before his mother yelled his name from the kitchen so that everyone in the house could hear arose.,1.375,0.5175,8,"[1, 1, 1, 2, 1, 2, 1, 2]",test
-"After the panelist answered a very difficult question, the audience started applauding.",4.34,0.8234,50,"[3, 5, 3, 4, 5, 5, 5, 5, 4, 5, 3, 5, 3, 4, 5, 4, 3, 5, 4, 5, 5, 5, 3, 5, 3, 4, 5, 5, 5, 4, 4, 5, 5, 3, 5, 4, 4, 5, 5, 3, 4, 5, 5, 3, 5, 5, 5, 3, 5, 5]",filler
-"After the writer finished the novel, he wanted to go on vacation.",4.32,0.8676,50,"[5, 5, 4, 5, 5, 5, 5, 5, 4, 5, 4, 5, 3, 2, 5, 5, 3, 4, 5, 3, 5, 5, 3, 4, 2, 5, 5, 4, 5, 4, 4, 5, 5, 3, 5, 4, 5, 5, 5, 3, 4, 5, 5, 3, 5, 4, 5, 4, 4, 4]",filler
-Amanda suspected that Denise was having an affair with someone at work.,4.7,0.7354,50,"[3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 4, 5, 4, 1, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4, 5, 5]",filler
-Ann and David were arguing for three hours and felt exhausted afterwards.,4.2,0.9476,50,"[3, 5, 4, 4, 5, 5, 4, 4, 3, 5, 3, 5, 4, 4, 5, 4, 2, 4, 5, 4, 5, 5, 3, 4, 4, 4, 5, 5, 5, 3, 5, 5, 5, 5, 5, 3, 4, 5, 5, 4, 5, 5, 3, 4, 3, 5, 5, 1, 5, 3]",filler
-"As part of the project, the fieldworker took a trip to Australia.",4.3673,0.9507,49,"[3, 5, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 3, 4, 5, 1, 4, 5, 4, 5, 5, 4, 3, 4, 5, 5, 5, 5, 4, 5, 4, 5, 4, 5, 4, 4, 1, 5, 4, 4, 5, 4, 5, 5, 5, 5, 5, 5, 3]",filler
-"At the bus-stop, Jason was approached by a stranger with an accent.",4.32,1.0774,50,"[2, 3, 5, 5, 5, 5, 3, 5, 4, 5, 3, 5, 5, 5, 5, 5, 4, 4, 5, 1, 5, 5, 5, 5, 4, 4, 5, 5, 5, 4, 5, 5, 5, 4, 5, 4, 4, 5, 5, 3, 4, 1, 5, 5, 2, 5, 5, 5, 5, 3]",filler
-"At the party, the guests admitted that the wine was truly exceptional.",4.42,0.7025,50,"[4, 3, 5, 5, 4, 5, 5, 5, 4, 4, 3, 5, 4, 4, 4, 5, 3, 4, 5, 3, 5, 5, 4, 3, 4, 4, 5, 5, 5, 4, 5, 5, 5, 4, 5, 4, 3, 5, 5, 4, 4, 5, 4, 5, 5, 5, 5, 5, 5, 5]",filler
-Barbara was concerned about the surgery which the dentist had recommended.,3.6735,1.2313,49,"[2, 5, 3, 5, 5, 5, 4, 4, 5, 4, 3, 5, 4, 4, 5, 4, 5, 3, 2, 4, 5, 2, 2, 3, 3, 5, 4, 4, 2, 5, 4, 5, 2, 5, 3, 4, 1, 5, 3, 3, 1, 5, 3, 3, 2, 5, 5, 3, 2]",filler
-"Because Sarah was upset by the news, she forgot about the appointment.",4.42,0.8827,50,"[2, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 4, 4, 4, 5, 4, 5, 5, 4, 5, 4, 4, 5, 5, 5, 5, 4, 5, 5, 4, 5, 3, 5, 5, 5, 3, 4, 4, 3, 5, 3, 5, 5, 5, 5, 2]",filler
-"Before James found a solution, he spent many nights in his office.",4.24,0.9806,50,"[4, 5, 5, 5, 4, 5, 5, 5, 1, 5, 3, 5, 4, 2, 5, 5, 2, 3, 4, 4, 4, 5, 4, 5, 3, 5, 5, 5, 4, 4, 4, 5, 5, 3, 5, 3, 4, 4, 5, 3, 4, 5, 5, 5, 5, 5, 5, 4, 5, 3]",filler
-"Before starting the experiment, the scientist wanted to double-check everything very carefully.",4.54,0.7343,50,"[4, 4, 4, 5, 5, 5, 4, 4, 5, 5, 4, 5, 5, 5, 5, 4, 2, 5, 4, 2, 4, 5, 4, 5, 4, 5, 5, 4, 5, 5, 5, 4, 5, 5, 5, 3, 5, 5, 5, 4, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5]",filler
-"Before the meeting, Anthony evaluated the proposal and called Donald for advice.",4.52,0.7351,50,"[5, 5, 5, 5, 4, 5, 5, 5, 4, 5, 4, 5, 5, 5, 4, 4, 4, 4, 3, 5, 4, 5, 3, 5, 4, 2, 5, 5, 5, 5, 5, 5, 5, 3, 5, 4, 4, 5, 5, 4, 5, 5, 4, 5, 5, 5, 5, 3, 5, 5]",filler
-Diane visited her mother in Europe but could not stay for long.,4.16,1.0947,50,"[3, 5, 4, 5, 2, 5, 5, 5, 4, 5, 3, 5, 4, 3, 5, 5, 2, 5, 4, 3, 4, 5, 3, 4, 5, 5, 3, 5, 5, 4, 4, 5, 5, 4, 5, 3, 3, 5, 5, 4, 5, 1, 5, 5, 2, 5, 5, 2, 5, 5]",filler
-"During the storm, the road-sign turned sideways and was misleading the drivers.",3.98,1.0593,50,"[4, 4, 3, 5, 5, 5, 4, 5, 3, 5, 3, 5, 5, 3, 5, 5, 3, 2, 3, 4, 5, 5, 4, 2, 3, 5, 5, 5, 5, 4, 3, 3, 5, 4, 4, 3, 3, 4, 5, 4, 3, 1, 3, 5, 4, 4, 5, 2, 5, 5]",filler
-Every sound echoed in the big house and Laura was feeling scared.,3.84,1.0947,50,"[4, 5, 3, 5, 4, 5, 4, 4, 4, 4, 1, 5, 5, 3, 3, 3, 4, 5, 4, 5, 3, 5, 3, 3, 4, 3, 4, 5, 2, 5, 5, 4, 5, 3, 5, 3, 5, 4, 5, 3, 3, 4, 4, 4, 3, 4, 1, 4, 1, 5]",filler
-"If Robin finishes her dissertation soon, she can defend in the fall.",3.64,1.3365,50,"[4, 5, 5, 5, 2, 1, 5, 3, 4, 4, 2, 5, 4, 5, 4, 4, 4, 1, 1, 2, 4, 5, 4, 5, 4, 3, 5, 4, 1, 3, 5, 4, 2, 3, 4, 5, 3, 1, 5, 4, 3, 3, 2, 5, 3, 2, 5, 5, 5, 5]",filler
-"In the evening, the boy-scouts made a fire and baked some potatoes.",4.3,0.8631,50,"[2, 4, 4, 5, 5, 5, 4, 4, 5, 5, 3, 5, 4, 5, 4, 5, 3, 4, 4, 4, 2, 5, 4, 5, 5, 5, 5, 5, 4, 3, 5, 4, 5, 3, 5, 4, 4, 5, 5, 3, 4, 5, 5, 5, 3, 3, 5, 5, 5, 5]",filler
-It was a warm day and so Melissa went to the beach.,3.5,1.2495,50,"[5, 4, 4, 4, 1, 1, 4, 4, 4, 4, 5, 5, 4, 5, 4, 4, 3, 4, 5, 1, 2, 5, 3, 3, 2, 5, 3, 4, 2, 3, 4, 4, 5, 4, 5, 3, 2, 4, 4, 3, 3, 1, 5, 5, 3, 4, 1, 4, 2, 2]",filler
-Judith had been dating Brian for three years when she got pregnant.,4.34,0.9607,50,"[2, 5, 3, 5, 4, 5, 5, 5, 4, 5, 3, 5, 5, 5, 5, 5, 4, 4, 3, 3, 5, 5, 4, 5, 3, 5, 5, 5, 4, 4, 4, 5, 5, 4, 5, 4, 4, 1, 5, 4, 5, 5, 4, 5, 5, 5, 5, 5, 5, 2]",filler
-"Last night, a van exploded in the parking-lot but nobody was hurt.",3.9,1.0926,50,"[4, 3, 4, 4, 5, 5, 4, 3, 4, 4, 4, 5, 4, 2, 4, 5, 3, 5, 5, 4, 3, 5, 4, 2, 3, 2, 4, 5, 4, 3, 4, 4, 5, 4, 5, 4, 2, 4, 5, 3, 5, 1, 5, 4, 3, 5, 5, 1, 5, 5]",filler
-Mark was selling his old Mercedes hoping to buy a small sail-boat.,3.88,1.0999,50,"[4, 4, 4, 3, 5, 5, 5, 3, 3, 3, 5, 5, 5, 4, 5, 5, 3, 3, 5, 1, 2, 5, 4, 4, 3, 4, 4, 5, 4, 4, 3, 3, 5, 5, 5, 2, 3, 5, 4, 4, 4, 1, 4, 4, 3, 2, 5, 5, 5, 3]",filler
-Nobody could have predicted an earthquake in this part of the country.,4.62,0.8303,50,"[5, 5, 4, 5, 5, 3, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 4, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 2, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5]",filler
-"Since Richard didn't know the city at all, he bought a map.",4.56,0.6749,50,"[3, 5, 4, 4, 4, 5, 5, 5, 2, 5, 4, 5, 5, 4, 5, 5, 4, 5, 5, 3, 5, 5, 4, 5, 4, 5, 5, 5, 5, 4, 5, 5, 5, 4, 5, 4, 4, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 4]",filler
-Somebody rearranged the papers in the file-cabinet and the professor got angry.,4.12,1.0622,50,"[3, 3, 5, 5, 5, 5, 5, 4, 3, 5, 3, 5, 4, 4, 4, 5, 3, 3, 5, 3, 4, 5, 4, 3, 4, 4, 5, 5, 5, 5, 5, 5, 5, 3, 5, 4, 4, 2, 5, 4, 5, 1, 4, 5, 1, 4, 5, 3, 5, 5]",filler
-Stephanie stopped by a pharmacy to get some medicines for her brother.,4.08,1.2262,50,"[3, 5, 5, 5, 5, 3, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 4, 1, 4, 3, 3, 5, 4, 5, 4, 2, 3, 3, 4, 5, 5, 5, 4, 1, 5, 5, 3, 5, 1, 5, 3, 5, 4, 5, 5, 2, 2]",filler
-The acrobat was nervous about the trick and so he kept practicing.,3.66,1.1537,50,"[3, 4, 4, 5, 1, 5, 4, 3, 5, 4, 3, 5, 4, 3, 4, 4, 3, 4, 5, 2, 2, 5, 4, 3, 2, 5, 3, 4, 4, 4, 4, 4, 4, 3, 3, 4, 3, 5, 5, 3, 4, 1, 5, 4, 4, 5, 4, 5, 1, 1]",filler
-The actor appeared who had gotten tired of the fame and fortune and had moved to a farmhouse in France.,3.0,1.4142,5,"[4, 2, 4, 1, 4]",test
-The actor appeared who had gotten tired of the fame and fortune.,2.2,1.2293,10,"[5, 1, 3, 2, 2, 1, 3, 1, 2, 2]",test
-The actor appeared who was tired of performing.,1.6,0.8433,10,"[3, 2, 1, 1, 1, 2, 1, 3, 1, 1]",test
+A skin rash appeared which probably surfaced because I am nervous about my piano recital which is coming up tomorrow.,2.6250,1.7678,8,"[1, 2, 2, 1, 1, 5, 5, 4]",test
+A skin rash appeared which probably surfaced because I am nervous about my piano recital.,2.9615,1.1129,26,"[3, 3, 3, 4, 5, 4, 1, 2, 4, 1, 3, 4, 4, 3, 3, 2, 4, 3, 1, 3, 4, 3, 2, 3, 1, 4]",test
+A skin rash appeared which surfaces when I am nervous.,1.7895,0.9763,19,"[1, 1, 1, 2, 1, 2, 2, 2, 1, 3, 1, 3, 1, 3, 3, 1, 1, 4, 1]",test
+A skin rash which probably surfaced because I am nervous about my piano recital appeared.,2.3158,1.2043,19,"[2, 4, 1, 2, 3, 5, 3, 1, 2, 3, 2, 3, 2, 3, 1, 1, 4, 1, 1]",test
+A skin rash which probably surfaced because I am nervous about my piano recital which is coming up tomorrow appeared.,2.0000,1.1952,8,"[1, 4, 1, 1, 1, 3, 3, 2]",test
+A skin rash which surfaces when I am nervous appeared.,2.7000,1.0809,20,"[2, 4, 1, 3, 2, 5, 1, 3, 2, 3, 4, 3, 2, 2, 3, 3, 3, 4, 1, 3]",test
+A student showed up who had a bad habit of skipping class whenever possible because he just wasn't interested.,2.6667,1.0000,9,"[2, 3, 3, 4, 4, 3, 2, 2, 1]",test
+A student showed up who had a bad habit of skipping class whenever possible.,3.6500,1.1367,20,"[3, 5, 5, 5, 4, 3, 4, 1, 3, 2, 4, 3, 2, 3, 4, 5, 4, 4, 4, 5]",test
+A student showed up who had terrible attendance.,3.1333,1.5055,15,"[4, 5, 1, 5, 3, 2, 5, 5, 4, 3, 2, 3, 1, 1, 3]",test
+A student who had a bad habit of skipping class whenever possible because he just wasn't interested showed up.,2.5000,1.3093,8,"[3, 2, 2, 1, 1, 5, 3, 3]",test
+A student who had a bad habit of skipping class whenever possible showed up.,2.6667,1.1547,30,"[4, 4, 3, 1, 1, 2, 3, 1, 1, 3, 2, 1, 2, 1, 3, 2, 4, 3, 4, 2, 4, 4, 4, 4, 3, 4, 2, 2, 2, 4]",test
+A student who had terrible attendance showed up.,3.8333,0.8575,18,"[5, 4, 5, 3, 3, 3, 2, 4, 4, 4, 4, 4, 4, 5, 5, 3, 3, 4]",test
+A toddler arose who had been fast asleep before his mother yelled his name from the kitchen so that everyone in the house could hear.,2.0000,1.3416,11,"[2, 1, 1, 4, 1, 2, 2, 1, 1, 5, 2]",test
+A toddler arose who had been fast asleep before his mother yelled his name.,2.0000,1.1055,19,"[1, 1, 4, 2, 3, 2, 2, 4, 2, 1, 1, 1, 1, 2, 3, 1, 4, 2, 1]",test
+A toddler arose who had been fast asleep.,2.8000,1.1965,20,"[3, 4, 3, 4, 4, 5, 3, 3, 4, 1, 3, 3, 1, 2, 4, 2, 2, 1, 1, 3]",test
+A toddler who had been fast asleep arose.,2.9412,1.4349,17,"[2, 1, 3, 2, 4, 2, 5, 1, 1, 4, 5, 5, 3, 2, 2, 4, 4]",test
+A toddler who had been fast asleep before his mother yelled his name arose.,1.8750,0.8502,24,"[1, 3, 3, 3, 1, 2, 2, 1, 2, 1, 1, 2, 1, 2, 2, 3, 2, 2, 2, 2, 4, 1, 1, 1]",test
+A toddler who had been fast asleep before his mother yelled his name from the kitchen so that everyone in the house could hear arose.,1.3750,0.5175,8,"[1, 1, 1, 2, 1, 2, 1, 2]",test
+"After the panelist answered a very difficult question, the audience started applauding.",4.2772,0.9499,101,"[3, 5, 3, 4, 5, 5, 5, 5, 4, 5, 3, 5, 3, 4, 5, 4, 3, 5, 4, 5, 5, 5, 3, 5, 3, 4, 5, 5, 5, 4, 4, 5, 5, 3, 5, 4, 4, 5, 5, 3, 4, 5, 5, 3, 5, 5, 5, 3, 5, 5, 4, 5, 5, 4, 3, 2, 5, 5, 5, 5, 2, 4, 2, 5, 5, 4, 5, 4, 4, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 4, 3, 3, 3, 5, 4, 5, 4, 2, 5, 5, 1, 5, 3, 3, 5, 5, 5, 5, 4, 5, 4]",filler
+"After the writer finished the novel, he wanted to go on vacation.",4.4200,0.8782,100,"[5, 5, 4, 5, 5, 5, 5, 5, 4, 5, 4, 5, 3, 2, 5, 5, 3, 4, 5, 3, 5, 5, 3, 4, 2, 5, 5, 4, 5, 4, 4, 5, 5, 3, 5, 4, 5, 5, 5, 3, 4, 5, 5, 3, 5, 4, 5, 4, 4, 4, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 3, 4, 3, 5, 2, 2, 5, 5, 4, 5, 5, 4, 5, 5, 5, 5, 5, 5, 3, 5, 4, 5, 3, 5, 5, 5, 2, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5]",filler
+Amanda suspected that Denise was having an affair with someone at work.,4.7525,0.6543,101,"[3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 4, 5, 4, 1, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4, 5, 5, 4, 5, 5, 4, 5, 5, 5, 5, 5, 5, 3, 5, 2, 5, 5, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5]",filler
+Ann and David were arguing for three hours and felt exhausted afterwards.,4.2673,0.8932,101,"[3, 5, 4, 4, 5, 5, 4, 4, 3, 5, 3, 5, 4, 4, 5, 4, 2, 4, 5, 4, 5, 5, 3, 4, 4, 4, 5, 5, 5, 3, 5, 5, 5, 5, 5, 3, 4, 5, 5, 4, 5, 5, 3, 4, 3, 5, 5, 1, 5, 3, 4, 4, 3, 4, 4, 2, 5, 5, 3, 5, 4, 4, 4, 5, 2, 4, 4, 5, 3, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 4, 5, 2, 5, 4, 5, 5, 5, 5, 4, 5, 5, 5, 4, 5, 5, 4, 4, 4, 5, 4, 4]",filler
+"As part of the project, the fieldworker took a trip to Australia.",4.3200,0.9307,100,"[3, 5, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 3, 4, 5, 1, 4, 5, 4, 5, 5, 4, 3, 4, 5, 5, 5, 5, 4, 5, 4, 5, 4, 5, 4, 4, 1, 5, 4, 4, 5, 4, 5, 5, 5, 5, 5, 5, 3, 4, 5, 4, 5, 4, 3, 5, 5, 4, 5, 3, 5, 4, 5, 5, 2, 5, 4, 4, 5, 5, 4, 5, 5, 5, 3, 5, 5, 4, 4, 5, 4, 5, 4, 4, 5, 5, 2, 2, 4, 5, 4, 3, 2, 5, 5, 4, 5, 5, 5, 4]",filler
+"At the bus-stop, Jason was approached by a stranger with an accent.",4.3267,0.9707,101,"[2, 3, 5, 5, 5, 5, 3, 5, 4, 5, 3, 5, 5, 5, 5, 5, 4, 4, 5, 1, 5, 5, 5, 5, 4, 4, 5, 5, 5, 4, 5, 5, 5, 4, 5, 4, 4, 5, 5, 3, 4, 1, 5, 5, 2, 5, 5, 5, 5, 3, 4, 4, 5, 5, 4, 3, 5, 5, 5, 5, 3, 4, 2, 5, 3, 3, 5, 4, 4, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 4, 4, 4, 5, 5, 5, 2, 4, 5, 3, 5, 4, 4, 3, 3, 5, 5, 4, 5, 5]",filler
+"At the party, the guests admitted that the wine was truly exceptional.",4.2000,0.8989,100,"[4, 3, 5, 5, 4, 5, 5, 5, 4, 4, 3, 5, 4, 4, 4, 5, 3, 4, 5, 3, 5, 5, 4, 3, 4, 4, 5, 5, 5, 4, 5, 5, 5, 4, 5, 4, 3, 5, 5, 4, 4, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 4, 3, 4, 3, 4, 5, 2, 5, 3, 5, 3, 5, 4, 2, 5, 4, 3, 5, 3, 5, 5, 3, 2, 5, 4, 5, 4, 5, 3, 5, 4, 4, 5, 5, 2, 3, 4, 5, 5, 2, 5, 5, 4, 4, 3, 3, 5, 4]",filler
+Barbara was concerned about the surgery which the dentist had recommended.,3.6600,1.2079,100,"[2, 5, 3, 5, 5, 5, 4, 4, 5, 4, 3, 5, 4, 4, 5, 4, 5, 3, 2, 4, 5, 2, 2, 3, 3, 5, 4, 4, 2, 5, 4, 5, 2, 5, 3, 4, 1, 5, 3, 3, 1, 5, 3, 3, 2, 5, 5, 3, 2, 5, 4, 4, 2, 5, 2, 5, 5, 1, 3, 4, 5, 1, 4, 5, 4, 4, 3, 3, 4, 5, 3, 5, 4, 3, 5, 1, 4, 3, 3, 5, 3, 5, 4, 5, 4, 4, 4, 4, 2, 2, 3, 4, 2, 4, 4, 5, 2, 4, 5, 2]",filler
+"Because Sarah was upset by the news, she forgot about the appointment.",4.3267,0.9285,101,"[2, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 4, 4, 4, 5, 4, 5, 5, 4, 5, 4, 4, 5, 5, 5, 5, 4, 5, 5, 4, 5, 3, 5, 5, 5, 3, 4, 4, 3, 5, 3, 5, 5, 5, 5, 2, 5, 5, 3, 5, 3, 3, 5, 5, 5, 5, 2, 3, 4, 5, 3, 3, 5, 3, 4, 5, 5, 5, 5, 5, 3, 5, 4, 5, 5, 4, 4, 4, 4, 3, 5, 5, 5, 2, 5, 5, 5, 5, 4, 4, 2, 5, 5, 3, 4, 5, 5]",filler
+"Before James found a solution, he spent many nights in his office.",4.1683,1.0302,101,"[4, 5, 5, 5, 4, 5, 5, 5, 1, 5, 3, 5, 4, 2, 5, 5, 2, 3, 4, 4, 4, 5, 4, 5, 3, 5, 5, 5, 4, 4, 4, 5, 5, 3, 5, 3, 4, 4, 5, 3, 4, 5, 5, 5, 5, 5, 5, 4, 5, 3, 3, 4, 1, 5, 4, 3, 5, 5, 4, 5, 3, 5, 3, 5, 5, 3, 5, 5, 3, 4, 5, 4, 5, 5, 5, 4, 5, 5, 2, 5, 4, 3, 5, 3, 3, 5, 5, 2, 5, 4, 3, 5, 3, 5, 5, 5, 5, 2, 3, 5, 4]",filler
+"Before starting the experiment, the scientist wanted to double-check everything very carefully.",4.6040,0.6493,101,"[4, 4, 4, 5, 5, 5, 4, 4, 5, 5, 4, 5, 5, 5, 5, 4, 2, 5, 4, 2, 4, 5, 4, 5, 4, 5, 5, 4, 5, 5, 5, 4, 5, 5, 5, 3, 5, 5, 5, 4, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 3, 5, 5, 5, 5, 4, 5, 4, 5, 4, 5, 4, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 4, 3, 5, 4, 4, 5, 5, 4, 5, 5, 5, 5, 4, 4, 5, 4, 5, 5, 5, 5, 5]",filler
+"Before the meeting, Anthony evaluated the proposal and called Donald for advice.",4.5050,0.7697,101,"[5, 5, 5, 5, 4, 5, 5, 5, 4, 5, 4, 5, 5, 5, 4, 4, 4, 4, 3, 5, 4, 5, 3, 5, 4, 2, 5, 5, 5, 5, 5, 5, 5, 3, 5, 4, 4, 5, 5, 4, 5, 5, 4, 5, 5, 5, 5, 3, 5, 5, 5, 5, 3, 5, 5, 3, 5, 5, 5, 5, 3, 5, 2, 5, 4, 4, 5, 4, 5, 4, 5, 5, 5, 5, 5, 4, 5, 3, 5, 5, 4, 3, 3, 4, 4, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 3, 5, 5]",filler
+Diane visited her mother in Europe but could not stay for long.,4.3069,0.9460,101,"[3, 5, 4, 5, 2, 5, 5, 5, 4, 5, 3, 5, 4, 3, 5, 5, 2, 5, 4, 3, 4, 5, 3, 4, 5, 5, 3, 5, 5, 4, 4, 5, 5, 4, 5, 3, 3, 5, 5, 4, 5, 1, 5, 5, 2, 5, 5, 2, 5, 5, 5, 4, 4, 5, 3, 3, 5, 5, 5, 4, 3, 5, 3, 5, 2, 5, 4, 5, 4, 5, 5, 5, 4, 5, 5, 5, 4, 5, 5, 5, 5, 4, 3, 5, 5, 5, 5, 4, 5, 5, 5, 4, 4, 5, 5, 4, 4, 5, 4, 5, 4]",filler
+"During the storm, the road-sign turned sideways and was misleading the drivers.",3.8713,1.0360,101,"[4, 4, 3, 5, 5, 5, 4, 5, 3, 5, 3, 5, 5, 3, 5, 5, 3, 2, 3, 4, 5, 5, 4, 2, 3, 5, 5, 5, 5, 4, 3, 3, 5, 4, 4, 3, 3, 4, 5, 4, 3, 1, 3, 5, 4, 4, 5, 2, 5, 5, 4, 5, 4, 4, 3, 2, 4, 5, 2, 5, 2, 5, 3, 5, 5, 3, 5, 2, 4, 4, 5, 4, 4, 3, 2, 3, 5, 5, 5, 4, 2, 3, 3, 3, 4, 3, 4, 4, 3, 3, 3, 5, 3, 4, 4, 5, 5, 4, 3, 3, 5]",filler
+Every sound echoed in the big house and Laura was feeling scared.,3.7745,1.0615,102,"[4, 5, 3, 5, 4, 5, 4, 4, 4, 4, 1, 5, 5, 3, 3, 3, 4, 5, 4, 5, 3, 5, 3, 3, 4, 3, 4, 5, 2, 5, 5, 4, 5, 3, 5, 3, 5, 4, 5, 3, 3, 4, 4, 4, 3, 4, 1, 4, 1, 5, 4, 2, 4, 5, 4, 3, 2, 5, 4, 3, 5, 3, 1, 3, 5, 4, 3, 2, 3, 4, 4, 5, 3, 4, 5, 5, 1, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 5, 4, 3, 4, 4, 3, 2, 4, 2, 5, 5, 4, 4, 5, 4]",filler
+"If Robin finishes her dissertation soon, she can defend in the fall.",3.7327,1.2561,101,"[4, 5, 5, 5, 2, 1, 5, 3, 4, 4, 2, 5, 4, 5, 4, 4, 4, 1, 1, 2, 4, 5, 4, 5, 4, 3, 5, 4, 1, 3, 5, 4, 2, 3, 4, 5, 3, 1, 5, 4, 3, 3, 2, 5, 3, 2, 5, 5, 5, 5, 4, 3, 5, 4, 4, 3, 5, 5, 5, 5, 3, 4, 3, 4, 4, 2, 5, 4, 5, 4, 5, 4, 3, 5, 5, 3, 5, 5, 5, 4, 5, 3, 5, 3, 5, 2, 5, 2, 2, 1, 3, 3, 3, 5, 3, 5, 1, 2, 3, 5, 4]",filler
+"In the evening, the boy-scouts made a fire and baked some potatoes.",4.2871,0.9310,101,"[2, 4, 4, 5, 5, 5, 4, 4, 5, 5, 3, 5, 4, 5, 4, 5, 3, 4, 4, 4, 2, 5, 4, 5, 5, 5, 5, 5, 4, 3, 5, 4, 5, 3, 5, 4, 4, 5, 5, 3, 4, 5, 5, 5, 3, 3, 5, 5, 5, 5, 5, 5, 5, 4, 3, 3, 5, 5, 5, 5, 4, 4, 3, 5, 5, 4, 5, 5, 1, 5, 1, 4, 5, 4, 5, 5, 2, 5, 5, 4, 5, 4, 5, 5, 4, 5, 5, 4, 3, 5, 4, 4, 4, 5, 5, 4, 3, 4, 4, 5, 5]",filler
+It was a warm day and so Melissa went to the beach.,3.4653,1.1624,101,"[5, 4, 4, 4, 1, 1, 4, 4, 4, 4, 5, 5, 4, 5, 4, 4, 3, 4, 5, 1, 2, 5, 3, 3, 2, 5, 3, 4, 2, 3, 4, 4, 5, 4, 5, 3, 2, 4, 4, 3, 3, 1, 5, 5, 3, 4, 1, 4, 2, 2, 5, 3, 4, 5, 3, 4, 5, 2, 2, 3, 3, 2, 3, 5, 4, 4, 2, 4, 3, 3, 5, 2, 4, 3, 5, 4, 2, 4, 4, 4, 4, 3, 3, 5, 3, 4, 4, 2, 4, 2, 2, 2, 2, 3, 3, 1, 5, 4, 4, 5, 4]",filler
+Judith had been dating Brian for three years when she got pregnant.,4.3400,0.9607,50,"[2, 5, 3, 5, 4, 5, 5, 5, 4, 5, 3, 5, 5, 5, 5, 5, 4, 4, 3, 3, 5, 5, 4, 5, 3, 5, 5, 5, 4, 4, 4, 5, 5, 4, 5, 4, 4, 1, 5, 4, 5, 5, 4, 5, 5, 5, 5, 5, 5, 2]",filler
+"Last night, a van exploded in the parking-lot but nobody was hurt.",3.9703,1.0531,101,"[4, 3, 4, 4, 5, 5, 4, 3, 4, 4, 4, 5, 4, 2, 4, 5, 3, 5, 5, 4, 3, 5, 4, 2, 3, 2, 4, 5, 4, 3, 4, 4, 5, 4, 5, 4, 2, 4, 5, 3, 5, 1, 5, 4, 3, 5, 5, 1, 5, 5, 1, 3, 4, 5, 4, 3, 5, 4, 3, 5, 3, 3, 3, 5, 4, 4, 4, 4, 4, 5, 5, 5, 4, 3, 5, 4, 4, 5, 5, 5, 5, 2, 5, 4, 5, 5, 4, 2, 4, 5, 3, 5, 4, 5, 3, 2, 5, 5, 3, 5, 4]",filler
+Mark was selling his old Mercedes hoping to buy a small sail-boat.,3.7426,1.1459,101,"[4, 4, 4, 3, 5, 5, 5, 3, 3, 3, 5, 5, 5, 4, 5, 5, 3, 3, 5, 1, 2, 5, 4, 4, 3, 4, 4, 5, 4, 4, 3, 3, 5, 5, 5, 2, 3, 5, 4, 4, 4, 1, 4, 4, 3, 2, 5, 5, 5, 3, 4, 5, 3, 4, 5, 2, 5, 5, 2, 4, 4, 4, 2, 4, 1, 4, 2, 4, 5, 5, 5, 4, 2, 4, 5, 3, 4, 5, 4, 3, 1, 5, 5, 4, 4, 3, 5, 4, 2, 3, 1, 3, 4, 3, 5, 3, 4, 2, 3, 3, 4]",filler
+Nobody could have predicted an earthquake in this part of the country.,4.6238,0.7981,101,"[5, 5, 4, 5, 5, 3, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 4, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 2, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 4, 5, 3, 5, 5, 5, 5, 2, 5, 2, 4, 5, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 3, 5, 5]",filler
+"Since Richard didn't know the city at all, he bought a map.",4.5100,0.7977,100,"[3, 5, 4, 4, 4, 5, 5, 5, 2, 5, 4, 5, 5, 4, 5, 5, 4, 5, 5, 3, 5, 5, 4, 5, 4, 5, 5, 5, 5, 4, 5, 5, 5, 4, 5, 4, 4, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 4, 5, 5, 5, 4, 4, 3, 5, 5, 3, 5, 5, 5, 2, 5, 5, 2, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 4, 5, 5, 5, 2, 5, 4, 5, 5, 3, 4, 3, 5, 5, 5, 4, 5]",filler
+Somebody rearranged the papers in the file-cabinet and the professor got angry.,4.1765,1.0188,102,"[3, 3, 5, 5, 5, 5, 5, 4, 3, 5, 3, 5, 4, 4, 4, 5, 3, 3, 5, 3, 4, 5, 4, 3, 4, 4, 5, 5, 5, 5, 5, 5, 5, 3, 5, 4, 4, 2, 5, 4, 5, 1, 4, 5, 1, 4, 5, 3, 5, 5, 5, 5, 5, 4, 5, 4, 2, 5, 5, 1, 5, 3, 3, 3, 4, 4, 4, 5, 4, 4, 5, 5, 5, 4, 4, 4, 5, 5, 5, 4, 5, 5, 2, 4, 4, 3, 5, 5, 4, 4, 5, 2, 5, 4, 5, 3, 4, 5, 5, 5, 5, 5]",filler
+Stephanie stopped by a pharmacy to get some medicines for her brother.,4.0792,1.1017,101,"[3, 5, 5, 5, 5, 3, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 4, 1, 4, 3, 3, 5, 4, 5, 4, 2, 3, 3, 4, 5, 5, 5, 4, 1, 5, 5, 3, 5, 1, 5, 3, 5, 4, 5, 5, 2, 2, 4, 5, 3, 5, 4, 3, 5, 4, 3, 5, 4, 5, 3, 3, 5, 5, 4, 3, 3, 2, 5, 4, 5, 4, 5, 4, 5, 5, 2, 4, 1, 3, 5, 5, 4, 3, 5, 5, 4, 4, 4, 5, 4, 3, 5, 4, 5, 5, 5, 4, 4]",filler
+The acrobat was nervous about the trick and so he kept practicing.,3.7228,1.1056,101,"[3, 4, 4, 5, 1, 5, 4, 3, 5, 4, 3, 5, 4, 3, 4, 4, 3, 4, 5, 2, 2, 5, 4, 3, 2, 5, 3, 4, 4, 4, 4, 4, 4, 3, 3, 4, 3, 5, 5, 3, 4, 1, 5, 4, 4, 5, 4, 5, 1, 1, 5, 4, 4, 4, 4, 3, 5, 4, 1, 3, 4, 5, 2, 5, 5, 4, 2, 3, 4, 5, 5, 4, 3, 4, 5, 4, 2, 5, 4, 4, 4, 3, 5, 4, 3, 4, 5, 4, 4, 3, 3, 3, 3, 1, 4, 2, 3, 5, 4, 5, 5]",filler
+The actor appeared who had gotten tired of the fame and fortune and had moved to a farmhouse in France.,3.0000,1.4142,5,"[4, 2, 4, 1, 4]",test
+The actor appeared who had gotten tired of the fame and fortune.,2.0476,1.0235,21,"[5, 1, 3, 2, 2, 1, 3, 1, 2, 2, 1, 2, 1, 3, 2, 2, 1, 3, 2, 3, 1]",test
+The actor appeared who was tired of performing.,1.8929,0.9560,28,"[3, 2, 1, 1, 1, 2, 1, 3, 1, 1, 2, 3, 2, 1, 1, 3, 1, 1, 2, 2, 3, 1, 3, 1, 1, 3, 3, 4]",test
 The actor who had gotten tired of the fame and fortune and had moved to a farmhouse in France appeared.,1.6364,0.6742,11,"[1, 2, 2, 2, 2, 1, 1, 1, 2, 1, 3]",test
-The actor who had gotten tired of the fame and fortune appeared.,2.6667,0.866,9,"[3, 3, 2, 3, 3, 3, 1, 2, 4]",test
-The actor who was tired of performing appeared.,2.5,1.7321,4,"[1, 2, 2, 5]",test
-The admiral hoped that the casualties would be minimal during the battle.,4.66,0.6581,50,"[3, 4, 5, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 3, 4, 5, 3, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 3, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5]",filler
-The boy emerged who had been undetectable while hidden in a laundry basket for over twenty-five minutes in spite of the people around him.,2.1111,0.928,9,"[2, 2, 2, 2, 4, 1, 3, 1, 2]",test
-The boy emerged who had been undetectable while hidden in a laundry basket.,2.1667,1.2673,12,"[1, 2, 1, 1, 1, 2, 2, 5, 2, 4, 3, 2]",test
-The boy emerged who was hiding.,1.0,0.0,2,"[1, 1]",test
-The boy who had been undetectable while hidden in a laundry basket emerged.,2.4444,1.3333,9,"[5, 4, 2, 1, 2, 2, 3, 2, 1]",test
+The actor who had gotten tired of the fame and fortune appeared.,2.7500,1.1642,20,"[3, 3, 2, 3, 3, 3, 1, 2, 4, 4, 3, 5, 1, 2, 1, 4, 3, 4, 1, 3]",test
+The actor who was tired of performing appeared.,2.6429,1.0082,14,"[1, 2, 2, 5, 2, 3, 3, 3, 2, 3, 4, 3, 2, 2]",test
+The admiral hoped that the casualties would be minimal during the battle.,4.4752,0.8197,101,"[3, 4, 5, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 3, 4, 5, 3, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 3, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 4, 2, 4, 5, 2, 5, 2, 3, 3, 5, 5, 4, 4, 5, 4, 5, 5, 5, 5, 5, 5, 4, 2, 3, 5, 4, 5, 3, 5, 4, 4, 5, 5, 4, 5, 5, 5, 4, 5, 5, 5, 4, 4, 4, 4, 5, 4]",filler
+The boy emerged who had been undetectable while hidden in a laundry basket for over twenty-five minutes in spite of the people around him.,2.1111,0.9280,9,"[2, 2, 2, 2, 4, 1, 3, 1, 2]",test
+The boy emerged who had been undetectable while hidden in a laundry basket.,2.0667,1.0807,30,"[1, 2, 1, 1, 1, 2, 2, 5, 2, 4, 3, 2, 4, 1, 2, 3, 1, 2, 2, 2, 1, 4, 2, 2, 1, 1, 3, 2, 1, 2]",test
+The boy emerged who was hiding.,2.1818,1.0787,11,"[1, 1, 4, 3, 4, 2, 1, 2, 2, 2, 2]",test
+The boy who had been undetectable while hidden in a laundry basket emerged.,2.7619,1.1360,21,"[5, 4, 2, 1, 2, 2, 3, 2, 1, 2, 3, 4, 4, 4, 3, 3, 4, 3, 2, 3, 1]",test
 The boy who had been undetectable while hidden in a laundry basket for over twenty-five minutes in spite of the people around him emerged.,1.5556,0.7265,9,"[2, 1, 2, 2, 1, 3, 1, 1, 1]",test
-The boy who was hiding emerged.,3.3333,1.4142,9,"[4, 4, 2, 4, 5, 2, 3, 5, 1]",test
-The butler started a rumor but the cook did not believe him.,3.84,1.1314,50,"[2, 5, 5, 5, 4, 5, 3, 4, 4, 4, 4, 5, 4, 5, 5, 3, 2, 4, 2, 4, 2, 5, 3, 4, 4, 2, 3, 5, 5, 2, 4, 5, 5, 4, 5, 3, 3, 2, 5, 4, 5, 1, 4, 3, 3, 4, 5, 3, 5, 5]",filler
-The child was running around the room and tripped on a cord.,4.7083,0.5442,48,"[3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4, 5, 5, 4, 4, 5, 3, 5, 5, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 4, 5, 5, 4, 5, 4, 5, 5, 5]",filler
-The chiropractor was contacted by a famous athlete who got injured recently.,3.92,1.1753,50,"[3, 4, 4, 3, 5, 5, 5, 4, 4, 5, 4, 5, 3, 4, 5, 5, 2, 1, 5, 5, 4, 5, 3, 4, 2, 2, 5, 5, 5, 2, 5, 2, 5, 3, 5, 2, 3, 5, 5, 3, 4, 2, 4, 4, 3, 5, 5, 3, 5, 5]",filler
-The cop that wounded the fleeing robber was from the precinct downtown.,3.7,1.165,50,"[3, 4, 3, 4, 5, 5, 5, 5, 4, 4, 3, 5, 2, 3, 5, 5, 4, 3, 4, 1, 4, 4, 2, 3, 4, 1, 5, 5, 5, 3, 5, 3, 5, 2, 5, 3, 3, 4, 5, 4, 4, 1, 4, 5, 3, 3, 4, 3, 2, 4]",filler
-The economist concluded that the condition of the market would improve soon.,4.4286,0.7906,49,"[3, 4, 4, 5, 5, 5, 5, 5, 5, 5, 3, 5, 4, 4, 5, 4, 2, 4, 4, 5, 5, 3, 5, 5, 4, 5, 4, 5, 5, 5, 5, 5, 4, 5, 4, 4, 5, 5, 4, 4, 5, 5, 5, 5, 4, 5, 2, 4, 5]",filler
-The ghost materialized who had been locked in the attic for what felt like centuries after being killed in an industrial accident.,1.8,0.4472,5,"[1, 2, 2, 2, 2]",test
-The ghost materialized who had been locked in the attic for what felt like centuries.,2.3636,1.5667,11,"[3, 1, 3, 1, 5, 2, 3, 1, 1, 5, 1]",test
-The ghost materialized who had died recently.,2.1667,1.6021,6,"[5, 2, 1, 1, 3, 1]",test
+The boy who was hiding emerged.,3.3810,1.2836,21,"[4, 4, 2, 4, 5, 2, 3, 5, 1, 4, 1, 2, 4, 3, 5, 4, 4, 2, 5, 4, 3]",test
+The butler started a rumor but the cook did not believe him.,3.8000,1.1282,100,"[2, 5, 5, 5, 4, 5, 3, 4, 4, 4, 4, 5, 4, 5, 5, 3, 2, 4, 2, 4, 2, 5, 3, 4, 4, 2, 3, 5, 5, 2, 4, 5, 5, 4, 5, 3, 3, 2, 5, 4, 5, 1, 4, 3, 3, 4, 5, 3, 5, 5, 4, 3, 3, 4, 3, 3, 5, 4, 3, 5, 3, 4, 2, 5, 3, 4, 2, 4, 3, 5, 5, 4, 5, 5, 3, 4, 5, 4, 5, 5, 2, 3, 3, 4, 5, 5, 4, 5, 4, 1, 3, 2, 5, 2, 4, 1, 4, 4, 5, 5]",filler
+The child was running around the room and tripped on a cord.,4.5859,0.7826,99,"[3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4, 5, 5, 4, 4, 5, 3, 5, 5, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 4, 5, 5, 4, 5, 4, 5, 5, 5, 2, 5, 5, 5, 5, 3, 5, 5, 5, 5, 2, 5, 2, 5, 2, 4, 5, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 4, 4, 4, 5, 5, 4, 5, 5, 4, 5, 4]",filler
+The chiropractor was contacted by a famous athlete who got injured recently.,3.8911,1.0479,101,"[3, 4, 4, 3, 5, 5, 5, 4, 4, 5, 4, 5, 3, 4, 5, 5, 2, 1, 5, 5, 4, 5, 3, 4, 2, 2, 5, 5, 5, 2, 5, 2, 5, 3, 5, 2, 3, 5, 5, 3, 4, 2, 4, 4, 3, 5, 5, 3, 5, 5, 3, 4, 5, 4, 5, 4, 5, 5, 3, 5, 3, 4, 2, 4, 4, 4, 4, 4, 4, 3, 5, 3, 2, 5, 5, 4, 5, 5, 3, 4, 4, 3, 3, 4, 5, 4, 4, 4, 3, 5, 2, 3, 4, 5, 3, 5, 4, 3, 2, 3, 4]",filler
+The cop that wounded the fleeing robber was from the precinct downtown.,3.7525,1.0715,101,"[3, 4, 3, 4, 5, 5, 5, 5, 4, 4, 3, 5, 2, 3, 5, 5, 4, 3, 4, 1, 4, 4, 2, 3, 4, 1, 5, 5, 5, 3, 5, 3, 5, 2, 5, 3, 3, 4, 5, 4, 4, 1, 4, 5, 3, 3, 4, 3, 2, 4, 3, 5, 4, 4, 4, 4, 5, 5, 5, 4, 4, 2, 4, 4, 4, 4, 4, 4, 3, 3, 5, 5, 4, 3, 4, 4, 1, 4, 3, 4, 4, 1, 5, 5, 3, 4, 5, 4, 3, 4, 5, 2, 4, 5, 4, 4, 4, 3, 3, 4, 2]",filler
+The economist concluded that the condition of the market would improve soon.,4.4500,0.7703,100,"[3, 4, 4, 5, 5, 5, 5, 5, 5, 5, 3, 5, 4, 4, 5, 4, 2, 4, 4, 5, 5, 3, 5, 5, 4, 5, 4, 5, 5, 5, 5, 5, 4, 5, 4, 4, 5, 5, 4, 4, 5, 5, 5, 5, 4, 5, 2, 4, 5, 5, 4, 5, 4, 4, 4, 5, 5, 2, 5, 3, 4, 4, 5, 4, 4, 5, 4, 4, 5, 5, 4, 5, 5, 5, 4, 5, 5, 4, 5, 5, 2, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 3, 5, 5]",filler
+The ghost materialized who had been locked in the attic for what felt like centuries after being killed in an industrial accident.,1.8000,0.4472,5,"[1, 2, 2, 2, 2]",test
+The ghost materialized who had been locked in the attic for what felt like centuries.,2.2273,1.3068,22,"[3, 1, 3, 1, 5, 2, 3, 1, 1, 5, 1, 2, 1, 3, 3, 2, 1, 4, 1, 1, 3, 2]",test
+The ghost materialized who had died recently.,2.1579,1.3023,19,"[5, 2, 1, 1, 3, 1, 3, 3, 2, 3, 5, 1, 1, 3, 2, 1, 2, 1, 1]",test
 The ghost who had been locked in the attic for what felt like centuries after being killed in an industrial accident materialized.,2.1667,1.0299,12,"[3, 2, 1, 3, 4, 2, 1, 1, 2, 3, 1, 3]",test
-The ghost who had been locked in the attic for what felt like centuries materialized.,3.125,1.3562,8,"[3, 2, 2, 5, 4, 4, 4, 1]",test
-The ghost who had died recently materialized.,2.25,1.3887,8,"[2, 1, 3, 3, 1, 1, 2, 5]",test
+The ghost who had been locked in the attic for what felt like centuries materialized.,2.6875,1.1955,16,"[3, 2, 2, 5, 4, 4, 4, 1, 2, 2, 2, 2, 4, 3, 2, 1]",test
+The ghost who had died recently materialized.,2.4444,1.2810,27,"[2, 1, 3, 3, 1, 1, 2, 5, 4, 3, 2, 2, 4, 2, 4, 1, 3, 1, 3, 1, 3, 2, 2, 4, 1, 1, 5]",test
 The girl passed by who used to bully me back when I had a bowl cut and lots of pimples on my face.,2.8571,1.7728,7,"[2, 4, 5, 2, 5, 1, 1]",test
-The girl passed by who used to bully me back when I had a bowl cut.,2.9167,1.2401,12,"[3, 3, 2, 1, 5, 3, 2, 4, 3, 1, 4, 4]",test
-The girl passed by who used to bully me.,2.8889,1.5366,9,"[3, 1, 2, 2, 3, 5, 1, 4, 5]",test
-The girl who used to bully me back when I had a bowl cut and lots of pimples on my face passed by.,3.2857,0.488,7,"[4, 3, 3, 3, 3, 4, 3]",test
-The girl who used to bully me back when I had a bowl cut passed by.,2.75,0.8864,8,"[4, 2, 4, 3, 2, 3, 2, 2]",test
-The girl who used to bully me passed by.,3.7143,0.9512,7,"[3, 3, 5, 4, 3, 5, 3]",test
-The millionaire that inherited a famous painting by Picasso lived in France.,3.551,1.1913,49,"[4, 4, 3, 3, 4, 5, 4, 4, 4, 4, 3, 5, 4, 4, 5, 5, 2, 3, 5, 1, 2, 5, 2, 2, 2, 2, 4, 5, 2, 3, 4, 5, 2, 3, 3, 3, 5, 5, 3, 4, 1, 2, 5, 3, 5, 5, 3, 4, 4]",filler
-The mom ran in who had been cooking.,1.7778,0.9718,9,"[3, 1, 2, 1, 1, 3, 1, 3, 1]",test
-The mom ran in who had been taking a break by breastfeeding in the kitchen after a long night in which the baby hardly slept.,2.0,0.8165,4,"[2, 2, 3, 1]",test
-The mom ran in who had been taking a break by breastfeeding in the kitchen.,1.375,0.744,8,"[1, 1, 3, 1, 2, 1, 1, 1]",test
-The mom who had been cooking ran in.,2.875,0.6409,8,"[3, 3, 2, 3, 2, 3, 3, 4]",test
-The mom who had been taking a break by breastfeeding in the kitchen after a long night in which the baby hardly slept ran in.,1.4,0.6992,10,"[3, 1, 2, 2, 1, 1, 1, 1, 1, 1]",test
-The mom who had been taking a break by breastfeeding in the kitchen ran in.,1.6364,1.0269,11,"[2, 1, 1, 1, 1, 3, 1, 4, 1, 1, 2]",test
-The mummy arose who had been laying still.,2.5,0.7071,2,"[2, 3]",test
+The girl passed by who used to bully me back when I had a bowl cut.,2.7083,0.9991,24,"[3, 3, 2, 1, 5, 3, 2, 4, 3, 1, 4, 4, 3, 2, 3, 2, 4, 2, 2, 2, 2, 3, 2, 3]",test
+The girl passed by who used to bully me.,2.5000,1.3955,20,"[3, 1, 2, 2, 3, 5, 1, 4, 5, 3, 1, 1, 3, 3, 1, 2, 4, 4, 1, 1]",test
+The girl who used to bully me back when I had a bowl cut and lots of pimples on my face passed by.,3.2857,0.4880,7,"[4, 3, 3, 3, 3, 4, 3]",test
+The girl who used to bully me back when I had a bowl cut passed by.,3.0952,0.9437,21,"[4, 2, 4, 3, 2, 3, 2, 2, 4, 4, 3, 5, 2, 3, 3, 3, 4, 4, 4, 2, 2]",test
+The girl who used to bully me passed by.,3.8636,0.9409,22,"[3, 3, 5, 4, 3, 5, 3, 5, 3, 2, 5, 3, 5, 4, 5, 4, 5, 4, 4, 3, 4, 3]",test
+The millionaire that inherited a famous painting by Picasso lived in France.,3.6238,1.1735,101,"[4, 4, 3, 3, 4, 5, 4, 4, 4, 4, 3, 5, 4, 4, 5, 5, 2, 3, 5, 1, 2, 5, 2, 2, 2, 2, 4, 5, 2, 3, 4, 5, 2, 3, 3, 3, 5, 5, 3, 4, 1, 2, 5, 3, 5, 5, 3, 4, 4, 5, 4, 5, 4, 4, 2, 3, 5, 5, 1, 5, 2, 4, 5, 5, 4, 2, 2, 2, 2, 4, 5, 4, 4, 4, 4, 4, 5, 5, 3, 4, 3, 3, 5, 5, 4, 4, 4, 3, 2, 3, 2, 3, 2, 5, 5, 5, 5, 3, 3, 4, 2]",filler
+The mom ran in who had been cooking.,2.0000,0.9428,19,"[3, 1, 2, 1, 1, 3, 1, 3, 1, 2, 2, 4, 2, 2, 2, 3, 3, 1, 1]",test
+The mom ran in who had been taking a break by breastfeeding in the kitchen after a long night in which the baby hardly slept.,2.0000,0.8165,4,"[2, 2, 3, 1]",test
+The mom ran in who had been taking a break by breastfeeding in the kitchen.,1.5714,0.8701,21,"[1, 1, 3, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 4, 2, 1, 1, 3]",test
+The mom who had been cooking ran in.,2.5909,0.8541,22,"[3, 3, 2, 3, 2, 3, 3, 4, 2, 3, 3, 3, 4, 1, 2, 1, 3, 3, 2, 1, 3, 3]",test
+The mom who had been taking a break by breastfeeding in the kitchen after a long night in which the baby hardly slept ran in.,1.4000,0.6992,10,"[3, 1, 2, 2, 1, 1, 1, 1, 1, 1]",test
+The mom who had been taking a break by breastfeeding in the kitchen ran in.,1.9600,1.1358,25,"[2, 1, 1, 1, 1, 3, 1, 4, 1, 1, 2, 3, 3, 2, 1, 3, 1, 1, 2, 3, 2, 5, 3, 1, 1]",test
+The mummy arose who had been laying still.,2.1250,0.9574,16,"[2, 3, 1, 3, 4, 2, 1, 4, 2, 1, 2, 2, 2, 2, 2, 1]",test
 The mummy arose who had presumably been laying dead in its tomb for millennia before the archaeologists stumbled upon its ancient tomb.,1.6667,1.2111,6,"[1, 4, 2, 1, 1, 1]",test
-The mummy arose who had presumably been laying dead in its tomb for millennia.,3.5,1.6903,8,"[5, 2, 5, 2, 5, 1, 5, 3]",test
-The mummy who had been laying still arose.,2.9167,1.3114,12,"[3, 2, 3, 3, 5, 1, 4, 3, 1, 2, 3, 5]",test
-The mummy who had presumably been laying dead in its tomb for millennia arose.,3.375,1.1877,8,"[4, 3, 3, 2, 5, 2, 5, 3]",test
+The mummy arose who had presumably been laying dead in its tomb for millennia.,3.3810,1.3220,21,"[5, 2, 5, 2, 5, 1, 5, 3, 5, 5, 3, 2, 3, 3, 3, 4, 4, 3, 1, 3, 4]",test
+The mummy who had been laying still arose.,2.9200,1.1874,25,"[3, 2, 3, 3, 5, 1, 4, 3, 1, 2, 3, 5, 2, 2, 4, 2, 4, 4, 2, 1, 2, 4, 3, 4, 4]",test
+The mummy who had presumably been laying dead in its tomb for millennia arose.,3.0526,1.0788,19,"[4, 3, 3, 2, 5, 2, 5, 3, 3, 2, 2, 2, 4, 3, 5, 3, 3, 2, 2]",test
 The mummy who had presumably been laying dead in its tomb for millennia before the archaeologists stumbled upon its ancient tomb arose.,2.4286,1.0163,14,"[2, 3, 3, 4, 4, 1, 2, 2, 2, 2, 1, 2, 2, 4]",test
-The new white pants dirtied quickly and Christopher took them to dry-cleaning.,3.2041,1.1722,49,"[2, 3, 2, 5, 4, 3, 4, 3, 3, 3, 4, 2, 1, 4, 3, 2, 2, 4, 1, 3, 5, 1, 4, 4, 4, 3, 5, 2, 4, 5, 4, 5, 2, 4, 2, 2, 4, 4, 3, 4, 1, 2, 3, 3, 2, 5, 4, 4, 4]",filler
-The night-club gave a big discount to students from the local university.,4.54,0.8381,50,"[3, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 4, 4, 5, 3, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4, 3, 5, 5, 4, 5, 1, 4, 5, 3, 5, 5, 5, 5, 5]",filler
-The patient that ordered a new wheelchair was an old war veteran.,4.08,1.085,50,"[3, 4, 4, 3, 5, 5, 5, 5, 4, 4, 4, 5, 2, 5, 5, 5, 4, 2, 4, 4, 1, 5, 3, 2, 3, 4, 5, 5, 5, 4, 3, 5, 5, 5, 5, 3, 4, 5, 5, 3, 5, 5, 4, 5, 3, 5, 5, 3, 2, 5]",filler
+The new white pants dirtied quickly and Christopher took them to dry-cleaning.,3.1000,1.1934,100,"[2, 3, 2, 5, 4, 3, 4, 3, 3, 3, 4, 2, 1, 4, 3, 2, 2, 4, 1, 3, 5, 1, 4, 4, 4, 3, 5, 2, 4, 5, 4, 5, 2, 4, 2, 2, 4, 4, 3, 4, 1, 2, 3, 3, 2, 5, 4, 4, 4, 3, 4, 4, 3, 1, 4, 5, 4, 1, 2, 4, 2, 3, 3, 2, 2, 3, 3, 3, 1, 5, 3, 4, 5, 2, 4, 5, 5, 4, 2, 5, 1, 3, 3, 4, 4, 4, 2, 3, 1, 1, 2, 4, 2, 4, 2, 2, 2, 3, 2, 3]",filler
+The night-club gave a big discount to students from the local university.,4.4950,0.8789,101,"[3, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 4, 4, 5, 3, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4, 3, 5, 5, 4, 5, 1, 4, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 4, 5, 5, 5, 5, 1, 5, 3, 5, 1, 4, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 4, 5, 5, 3, 5, 4, 5, 4, 5, 4, 5, 5, 3, 5, 5, 5, 5, 4, 5, 4, 4, 4, 4, 5, 4]",filler
+The patient that ordered a new wheelchair was an old war veteran.,4.0990,1.0345,101,"[3, 4, 4, 3, 5, 5, 5, 5, 4, 4, 4, 5, 2, 5, 5, 5, 4, 2, 4, 4, 1, 5, 3, 2, 3, 4, 5, 5, 5, 4, 3, 5, 5, 5, 5, 3, 4, 5, 5, 3, 5, 5, 4, 5, 3, 5, 5, 3, 2, 5, 5, 4, 5, 4, 4, 3, 5, 5, 2, 5, 2, 3, 3, 4, 4, 3, 5, 5, 3, 4, 5, 5, 4, 5, 4, 5, 5, 5, 4, 4, 4, 2, 5, 4, 5, 5, 5, 4, 4, 3, 1, 4, 5, 5, 5, 4, 5, 3, 4, 4, 5]",filler
 The scientist came over who dedicated her life to finding a cure for cancer by working in molecular neuroscience with mice.,2.4615,1.1983,13,"[2, 3, 2, 1, 3, 2, 3, 1, 2, 4, 3, 5, 1]",test
-The scientist came over who dedicated her life to finding a cure for cancer.,2.0,1.2247,5,"[2, 4, 1, 1, 2]",test
-The scientist came over who was very dedicated.,1.8333,1.1934,12,"[1, 1, 2, 1, 2, 2, 1, 1, 3, 1, 2, 5]",test
+The scientist came over who dedicated her life to finding a cure for cancer.,2.5789,1.4650,19,"[2, 4, 1, 1, 2, 4, 1, 4, 3, 1, 5, 4, 5, 2, 1, 2, 1, 2, 4]",test
+The scientist came over who was very dedicated.,2.2609,1.3218,23,"[1, 1, 2, 1, 2, 2, 1, 1, 3, 1, 2, 5, 5, 4, 1, 2, 4, 3, 3, 1, 3, 1, 3]",test
 The scientist who dedicated her life to finding a cure for cancer by working in molecular neuroscience with mice came over.,1.6667,0.8165,6,"[2, 1, 1, 2, 3, 1]",test
-The scientist who dedicated her life to finding a cure for cancer came over.,2.8889,1.1667,9,"[4, 4, 2, 1, 2, 2, 3, 4, 4]",test
-The scientist who was very dedicated came over.,3.4,1.5166,5,"[2, 3, 2, 5, 5]",test
-The snacks arrived which you ordered this morning for the Superbowl party at Carla's house which is the red house on the corner.,1.5,0.7559,8,"[1, 1, 3, 1, 1, 1, 2, 2]",test
-The snacks arrived which you ordered this morning for the Superbowl party at Carla's house.,3.1,1.4491,10,"[3, 3, 5, 4, 1, 4, 3, 1, 5, 2]",test
-The snacks arrived which you ordered this morning.,1.5,0.5477,6,"[2, 2, 1, 2, 1, 1]",test
-The snacks which you ordered this morning arrived.,3.25,1.488,8,"[3, 4, 4, 5, 2, 5, 2, 1]",test
-The snacks which you ordered this morning for the Superbowl party at Carla's house arrived.,2.4,0.8944,5,"[3, 3, 1, 3, 2]",test
+The scientist who dedicated her life to finding a cure for cancer came over.,3.0400,1.1358,25,"[4, 4, 2, 1, 2, 2, 3, 4, 4, 1, 4, 3, 3, 3, 5, 4, 2, 4, 3, 4, 4, 4, 1, 2, 3]",test
+The scientist who was very dedicated came over.,3.0000,1.1547,16,"[2, 3, 2, 5, 5, 4, 2, 4, 2, 1, 3, 2, 3, 4, 3, 3]",test
+The snacks arrived which you ordered this morning for the Superbowl party at Carla's house which is the red house on the corner.,1.5000,0.7559,8,"[1, 1, 3, 1, 1, 1, 2, 2]",test
+The snacks arrived which you ordered this morning for the Superbowl party at Carla's house.,2.2609,1.3557,23,"[3, 3, 5, 4, 1, 4, 3, 1, 5, 2, 3, 2, 1, 1, 1, 1, 1, 1, 3, 1, 3, 1, 2]",test
+The snacks arrived which you ordered this morning.,2.0714,1.2067,14,"[2, 2, 1, 2, 1, 1, 4, 1, 1, 2, 4, 3, 4, 1]",test
+The snacks which you ordered this morning arrived.,2.8182,1.3323,22,"[3, 4, 4, 5, 2, 5, 2, 1, 4, 2, 2, 4, 1, 3, 2, 3, 3, 2, 1, 3, 1, 5]",test
+The snacks which you ordered this morning for the Superbowl party at Carla's house arrived.,2.9524,1.2836,21,"[3, 3, 1, 3, 2, 5, 2, 1, 4, 2, 5, 3, 5, 3, 2, 4, 4, 4, 2, 1, 3]",test
 The snacks which you ordered this morning for the Superbowl party at Carla's house which is the red house on the corner arrived.,1.3846,0.6504,13,"[1, 2, 1, 1, 1, 2, 1, 2, 1, 3, 1, 1, 1]",test
-The speech that the politician prepared was too long for the meeting.,4.2,1.0498,50,"[5, 4, 5, 5, 4, 5, 4, 5, 5, 5, 2, 5, 3, 3, 5, 4, 4, 3, 5, 3, 5, 5, 3, 3, 2, 5, 5, 5, 5, 1, 4, 4, 5, 2, 5, 4, 3, 5, 4, 5, 5, 5, 4, 5, 5, 4, 5, 5, 3, 5]",filler
-The sprinklers turned on automatically every evening but recently something got broken.,3.2,1.178,50,"[3, 4, 2, 3, 3, 5, 4, 4, 3, 4, 3, 4, 3, 1, 4, 4, 3, 3, 5, 1, 3, 5, 2, 3, 3, 4, 4, 5, 3, 2, 4, 1, 4, 2, 4, 1, 3, 1, 5, 3, 4, 1, 2, 4, 3, 4, 5, 4, 3, 2]",filler
-The star athlete entered who had been playing baseball his whole life after early attempts at soccer and then basketball.,1.6,0.9661,10,"[1, 1, 1, 1, 4, 2, 2, 1, 2, 1]",test
-The star athlete entered who had been playing baseball his whole life.,2.875,1.3562,8,"[3, 4, 2, 2, 4, 1, 5, 2]",test
-The star athlete entered who was traditionally introduced last.,1.8333,0.9832,6,"[1, 1, 1, 3, 2, 3]",test
+The speech that the politician prepared was too long for the meeting.,4.3168,0.9266,101,"[5, 4, 5, 5, 4, 5, 4, 5, 5, 5, 2, 5, 3, 3, 5, 4, 4, 3, 5, 3, 5, 5, 3, 3, 2, 5, 5, 5, 5, 1, 4, 4, 5, 2, 5, 4, 3, 5, 4, 5, 5, 5, 4, 5, 5, 4, 5, 5, 3, 5, 5, 5, 3, 5, 5, 3, 5, 5, 4, 5, 2, 3, 4, 5, 4, 3, 4, 3, 5, 4, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 4, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 4, 4, 4, 4, 4, 4]",filler
+The sprinklers turned on automatically every evening but recently something got broken.,3.0099,1.1180,101,"[3, 4, 2, 3, 3, 5, 4, 4, 3, 4, 3, 4, 3, 1, 4, 4, 3, 3, 5, 1, 3, 5, 2, 3, 3, 4, 4, 5, 3, 2, 4, 1, 4, 2, 4, 1, 3, 1, 5, 3, 4, 1, 2, 4, 3, 4, 5, 4, 3, 2, 3, 4, 3, 4, 2, 3, 4, 1, 2, 3, 2, 2, 1, 3, 3, 3, 4, 4, 3, 2, 5, 3, 3, 3, 2, 3, 1, 5, 2, 3, 1, 2, 5, 3, 2, 3, 3, 3, 4, 2, 2, 2, 3, 2, 4, 1, 4, 2, 3, 3, 4]",filler
+The star athlete entered who had been playing baseball his whole life after early attempts at soccer and then basketball.,1.6000,0.9661,10,"[1, 1, 1, 1, 4, 2, 2, 1, 2, 1]",test
+The star athlete entered who had been playing baseball his whole life.,2.8750,1.3562,8,"[3, 4, 2, 2, 4, 1, 5, 2]",test
+The star athlete entered who was traditionally introduced last.,1.8824,1.0537,17,"[1, 1, 1, 3, 2, 3, 1, 3, 1, 1, 3, 3, 1, 2, 1, 1, 4]",test
 The star athlete who had been playing baseball his whole life after early attempts at soccer and then basketball entered.,1.3333,0.8165,6,"[1, 1, 1, 1, 3, 1]",test
 The star athlete who had been playing baseball his whole life entered.,2.3333,1.2247,9,"[2, 1, 3, 1, 2, 2, 2, 5, 3]",test
-The star athlete who was traditionally introduced last entered.,2.5455,1.8091,11,"[5, 1, 1, 1, 1, 1, 2, 2, 5, 4, 5]",test
-The tea that Julie made got cold while she wrote some emails.,3.86,1.125,50,"[3, 4, 4, 3, 5, 5, 5, 4, 4, 4, 3, 5, 2, 4, 5, 5, 4, 4, 3, 4, 4, 5, 2, 5, 3, 3, 5, 4, 4, 4, 5, 2, 5, 5, 5, 4, 3, 1, 3, 3, 5, 1, 5, 5, 5, 2, 4, 5, 3, 3]",filler
-The teaching assistant arrived who clearly did not want to be administering and grading the test because she was also teaching two other classes.,1.5,0.5345,8,"[1, 2, 2, 1, 1, 2, 2, 1]",test
-The teaching assistant arrived who clearly did not want to be administering and grading the test.,3.125,0.991,8,"[2, 4, 3, 3, 3, 2, 3, 5]",test
-The teaching assistant arrived who was administering the test.,2.9333,1.3345,15,"[2, 4, 3, 1, 5, 1, 5, 3, 1, 3, 2, 4, 3, 4, 3]",test
-The teaching assistant who clearly did not want to be administering and grading the test arrived.,2.75,1.488,8,"[2, 5, 2, 2, 2, 5, 1, 3]",test
-The teaching assistant who clearly did not want to be administering and grading the test because she was also teaching two other classes arrived.,1.6,0.8944,5,"[3, 2, 1, 1, 1]",test
-The teaching assistant who was administering the test arrived.,3.3333,1.3663,6,"[3, 2, 5, 5, 2, 3]",test
-The vegetarian hoped that the restaurant would carry some dishes without meat.,4.52,0.7351,50,"[3, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 4, 5, 4, 4, 3, 5, 2, 5, 5, 4, 3, 5, 5, 5, 5, 3, 5, 5, 4, 5, 5, 5, 4, 4, 5, 5, 4, 5, 5, 4, 5, 5, 5, 5, 4, 4, 5]",filler
-The woman arrived who was very funny.,2.8462,1.3445,13,"[3, 2, 4, 1, 4, 3, 4, 2, 5, 4, 3, 1, 1]",test
+The star athlete who was traditionally introduced last entered.,1.9200,1.3820,25,"[5, 1, 1, 1, 1, 1, 2, 2, 5, 4, 5, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 2, 3, 2, 1]",test
+The tea that Julie made got cold while she wrote some emails.,3.8039,1.1522,102,"[3, 4, 4, 3, 5, 5, 5, 4, 4, 4, 3, 5, 2, 4, 5, 5, 4, 4, 3, 4, 4, 5, 2, 5, 3, 3, 5, 4, 4, 4, 5, 2, 5, 5, 5, 4, 3, 1, 3, 3, 5, 1, 5, 5, 5, 2, 4, 5, 3, 3, 2, 4, 4, 4, 5, 5, 2, 4, 5, 3, 5, 2, 3, 3, 4, 1, 4, 4, 3, 5, 4, 5, 5, 5, 5, 5, 4, 5, 2, 5, 3, 4, 2, 5, 4, 3, 4, 5, 4, 1, 3, 1, 3, 5, 4, 5, 3, 4, 5, 4, 3, 3]",filler
+The teaching assistant arrived who clearly did not want to be administering and grading the test because she was also teaching two other classes.,1.5000,0.5345,8,"[1, 2, 2, 1, 1, 2, 2, 1]",test
+The teaching assistant arrived who clearly did not want to be administering and grading the test.,2.9643,1.1049,28,"[2, 4, 3, 3, 3, 2, 3, 5, 1, 3, 3, 3, 5, 3, 3, 4, 2, 4, 1, 4, 3, 1, 3, 3, 3, 4, 4, 1]",test
+The teaching assistant arrived who was administering the test.,2.7308,1.2508,26,"[2, 4, 3, 1, 5, 1, 5, 3, 1, 3, 2, 4, 3, 4, 3, 3, 2, 1, 3, 2, 3, 3, 5, 1, 2, 2]",test
+The teaching assistant who clearly did not want to be administering and grading the test arrived.,2.6500,1.1821,20,"[2, 5, 2, 2, 2, 5, 1, 3, 4, 3, 1, 3, 1, 4, 2, 3, 2, 3, 2, 3]",test
+The teaching assistant who clearly did not want to be administering and grading the test because she was also teaching two other classes arrived.,1.6000,0.8944,5,"[3, 2, 1, 1, 1]",test
+The teaching assistant who was administering the test arrived.,3.7857,1.1217,14,"[3, 2, 5, 5, 2, 3, 4, 3, 4, 3, 4, 5, 5, 5]",test
+The vegetarian hoped that the restaurant would carry some dishes without meat.,4.5050,0.7826,101,"[3, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 4, 5, 4, 4, 3, 5, 2, 5, 5, 4, 3, 5, 5, 5, 5, 3, 5, 5, 4, 5, 5, 5, 4, 4, 5, 5, 4, 5, 5, 4, 5, 5, 5, 5, 4, 4, 5, 5, 4, 5, 4, 4, 3, 5, 5, 3, 5, 3, 2, 4, 5, 2, 4, 4, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 3, 5, 3, 5, 5, 4, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5]",filler
+The woman arrived who was very funny.,2.5333,1.2794,30,"[3, 2, 4, 1, 4, 3, 4, 2, 5, 4, 3, 1, 1, 1, 2, 1, 1, 3, 2, 4, 5, 4, 2, 3, 2, 1, 2, 3, 1, 2]",test
 The woman arrived whose keen sense of humor entertained everyone around her except for her younger sister who was jealous.,3.8333,1.3292,6,"[5, 5, 3, 3, 2, 5]",test
-The woman arrived whose keen sense of humor entertained everyone around her.,3.5,0.5774,4,"[4, 4, 3, 3]",test
-The woman who was very funny arrived.,2.6429,0.9288,14,"[4, 2, 3, 2, 2, 1, 3, 2, 2, 2, 4, 3, 3, 4]",test
-The woman whose keen sense of humor entertained everyone around her arrived.,4.0,0.8165,4,"[4, 4, 3, 5]",test
+The woman arrived whose keen sense of humor entertained everyone around her.,2.8462,1.2142,13,"[4, 4, 3, 3, 4, 2, 4, 4, 1, 3, 3, 1, 1]",test
+The woman who was very funny arrived.,2.4643,0.8812,28,"[4, 2, 3, 2, 2, 1, 3, 2, 2, 2, 4, 3, 3, 4, 3, 3, 2, 3, 3, 1, 2, 2, 1, 3, 3, 1, 2, 3]",test
+The woman whose keen sense of humor entertained everyone around her arrived.,3.0000,1.3093,15,"[4, 4, 3, 5, 4, 3, 4, 5, 2, 1, 2, 2, 3, 1, 2]",test
 The woman whose keen sense of humor entertained everyone around her except for her younger sister who was jealous arrived.,1.3333,0.7071,9,"[3, 1, 1, 1, 1, 1, 2, 1, 1]",test
-The zookeeper was very worried about the health of the polar bear.,4.8,0.4949,50,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 4, 5, 5, 3, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4, 4, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5]",filler
-Tina met with an architect to discuss the layout of the building.,4.88,0.3854,50,"[4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5]",filler
-"To everyone's surprise, the businessman had to be hospitalized for two weeks.",4.44,0.8843,50,"[2, 5, 4, 5, 5, 5, 5, 5, 4, 5, 3, 5, 3, 4, 5, 5, 3, 5, 5, 4, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 2, 4, 4, 5, 4, 3, 5, 4, 5, 5, 5, 5, 3, 5, 5]",filler
-"To meet the deadline, the engineers worked to utter exhaustion for months.",4.28,0.9906,50,"[3, 5, 5, 3, 4, 5, 5, 5, 3, 4, 3, 5, 5, 3, 5, 5, 3, 3, 5, 4, 5, 4, 4, 5, 5, 5, 5, 5, 5, 4, 4, 5, 5, 2, 5, 3, 3, 3, 5, 4, 5, 5, 5, 5, 5, 5, 5, 1, 5, 4]",filler
-Tom got married to a lawyer last year and seemed very happy.,4.18,1.0821,50,"[2, 3, 4, 4, 5, 5, 5, 4, 3, 5, 3, 5, 4, 3, 5, 4, 3, 4, 5, 1, 5, 5, 2, 4, 4, 2, 5, 5, 5, 5, 4, 5, 5, 5, 5, 3, 5, 5, 5, 3, 5, 2, 4, 4, 5, 5, 5, 5, 5, 5]",filler
-"When several sophomores broke the rules, the principal immediately contacted the parents.",4.38,0.9234,50,"[2, 5, 4, 5, 5, 5, 5, 5, 4, 5, 3, 5, 4, 4, 5, 4, 3, 4, 5, 1, 5, 5, 3, 4, 5, 5, 5, 5, 5, 4, 5, 5, 5, 3, 4, 4, 5, 5, 5, 3, 5, 5, 4, 3, 5, 5, 5, 5, 4, 5]",filler
-"While the manager was interviewing the employee, the secretary received a phone-call.",4.12,1.0622,50,"[3, 3, 4, 5, 4, 5, 4, 5, 4, 5, 3, 5, 5, 4, 5, 5, 4, 5, 4, 2, 3, 5, 4, 5, 3, 5, 5, 5, 4, 4, 4, 4, 5, 4, 5, 2, 4, 1, 5, 3, 5, 1, 3, 5, 4, 5, 5, 4, 5, 5]",filler
+The zookeeper was very worried about the health of the polar bear.,4.8218,0.4335,101,"[5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 4, 5, 5, 3, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4, 4, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 4]",filler
+Tina met with an architect to discuss the layout of the building.,4.8416,0.4412,101,"[4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 4, 5, 5, 5, 4, 3, 5, 5, 5, 5, 4, 5, 3, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]",filler
+"To everyone's surprise, the businessman had to be hospitalized for two weeks.",4.2574,1.0455,101,"[2, 5, 4, 5, 5, 5, 5, 5, 4, 5, 3, 5, 3, 4, 5, 5, 3, 5, 5, 4, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 2, 4, 4, 5, 4, 3, 5, 4, 5, 5, 5, 5, 3, 5, 5, 4, 2, 3, 5, 5, 1, 5, 5, 5, 5, 2, 5, 3, 5, 2, 2, 5, 4, 4, 4, 5, 5, 4, 5, 4, 5, 5, 5, 5, 5, 5, 3, 4, 4, 4, 5, 5, 2, 3, 5, 5, 2, 4, 5, 5, 3, 4, 2, 4, 5, 5]",filler
+"To meet the deadline, the engineers worked to utter exhaustion for months.",4.1584,1.0073,101,"[3, 5, 5, 3, 4, 5, 5, 5, 3, 4, 3, 5, 5, 3, 5, 5, 3, 3, 5, 4, 5, 4, 4, 5, 5, 5, 5, 5, 5, 4, 4, 5, 5, 2, 5, 3, 3, 3, 5, 4, 5, 5, 5, 5, 5, 5, 5, 1, 5, 4, 5, 4, 5, 3, 3, 1, 5, 5, 4, 5, 3, 3, 2, 4, 5, 3, 5, 4, 4, 3, 5, 4, 4, 5, 4, 4, 5, 4, 4, 4, 5, 2, 5, 5, 4, 5, 4, 2, 5, 4, 5, 4, 4, 5, 4, 5, 3, 5, 2, 5, 4]",filler
+Tom got married to a lawyer last year and seemed very happy.,4.1782,1.0430,101,"[2, 3, 4, 4, 5, 5, 5, 4, 3, 5, 3, 5, 4, 3, 5, 4, 3, 4, 5, 1, 5, 5, 2, 4, 4, 2, 5, 5, 5, 5, 4, 5, 5, 5, 5, 3, 5, 5, 5, 3, 5, 2, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 4, 2, 3, 5, 5, 4, 5, 2, 5, 3, 4, 4, 3, 5, 5, 2, 5, 5, 4, 2, 5, 2, 5, 5, 5, 5, 5, 4, 2, 5, 5, 5, 5, 5, 3, 4, 4, 4, 4, 4, 5, 5, 5, 4, 4, 4, 5, 4]",filler
+"When several sophomores broke the rules, the principal immediately contacted the parents.",4.2772,0.9178,101,"[2, 5, 4, 5, 5, 5, 5, 5, 4, 5, 3, 5, 4, 4, 5, 4, 3, 4, 5, 1, 5, 5, 3, 4, 5, 5, 5, 5, 5, 4, 5, 5, 5, 3, 4, 4, 5, 5, 5, 3, 5, 5, 4, 3, 5, 5, 5, 5, 4, 5, 5, 5, 4, 4, 4, 2, 5, 5, 3, 5, 5, 3, 3, 4, 4, 4, 5, 3, 4, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 4, 4, 2, 4, 4, 5, 3, 5, 2, 4, 3, 5, 5, 3, 4, 4, 5, 5, 3, 4, 4, 5]",filler
+"While the manager was interviewing the employee, the secretary received a phone-call.",4.0792,0.9968,101,"[3, 3, 4, 5, 4, 5, 4, 5, 4, 5, 3, 5, 5, 4, 5, 5, 4, 5, 4, 2, 3, 5, 4, 5, 3, 5, 5, 5, 4, 4, 4, 4, 5, 4, 5, 2, 4, 1, 5, 3, 5, 1, 3, 5, 4, 5, 5, 4, 5, 5, 3, 5, 4, 5, 4, 4, 5, 5, 3, 5, 4, 3, 3, 5, 4, 3, 5, 4, 3, 3, 5, 5, 4, 3, 5, 1, 5, 4, 4, 3, 5, 4, 4, 4, 5, 5, 4, 2, 3, 3, 4, 5, 3, 4, 5, 5, 5, 4, 4, 5, 4]",filler
+A man showed up who consistently wore colorful clothes to school events to draw attention to himself.,2.9000,0.7379,10,"[2, 3, 3, 3, 4, 3, 3, 2, 2, 4]",test
+A man who consistently wore colorful clothes to school events to draw attention to himself to find showed up.,1.6364,0.9244,11,"[1, 1, 3, 1, 1, 3, 3, 1, 1, 2, 1]",test
+An amateur came in who did too much complaining about the weather and his lack of friends.,2.5714,1.1579,14,"[2, 2, 1, 4, 3, 4, 1, 4, 3, 4, 3, 1, 2, 2]",test
+An amateur came in who did too much complaining.,2.4167,1.2401,12,"[3, 2, 5, 2, 1, 2, 4, 3, 3, 1, 1, 2]",test
+An amateur who did too much complaining about the weather and his lack of friends came in.,1.5625,0.8921,16,"[1, 1, 1, 1, 2, 2, 2, 1, 3, 4, 1, 1, 1, 1, 1, 2]",test
+An amateur who did too much complaining came in.,3.0000,1.1180,9,"[4, 3, 3, 2, 2, 2, 4, 5, 2]",test
+Judith has been dating Brian for three years when she got pregnant.,3.0588,1.5800,51,"[5, 2, 3, 3, 4, 3, 1, 5, 1, 2, 3, 1, 2, 1, 3, 4, 4, 5, 4, 4, 5, 3, 1, 5, 1, 4, 1, 5, 1, 5, 1, 3, 4, 5, 4, 5, 5, 5, 2, 1, 1, 1, 3, 1, 5, 1, 5, 5, 2, 3, 3]",filler
+The star athlete entered who had been playing this sport his whole life.,2.4286,0.8516,14,"[3, 4, 2, 2, 2, 3, 2, 2, 2, 2, 2, 4, 1, 3]",test
+The star athlete who had been playing this sport his whole life entered.,2.1667,0.8348,12,"[1, 2, 3, 2, 2, 3, 2, 1, 1, 3, 3, 3]",test

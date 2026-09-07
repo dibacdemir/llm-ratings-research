@@ -1,0 +1,389 @@
+[
+ {
+  "id": "italian_locative_v7",
+  "label": "discourse",
+  "n": 192,
+  "families": 30,
+  "fam_ctx_varies": 26,
+  "fam_crossed": 26,
+  "fam_target_only": 4
+ },
+ {
+  "id": "italian_dative_v2",
+  "label": "discourse",
+  "n": 192,
+  "families": 67,
+  "fam_ctx_varies": 14,
+  "fam_crossed": 14,
+  "fam_target_only": 51
+ },
+ {
+  "id": "chinese_dative",
+  "label": "discourse",
+  "n": 96,
+  "families": 49,
+  "fam_ctx_varies": 0,
+  "fam_crossed": 0,
+  "fam_target_only": 47
+ },
+ {
+  "id": "dative_finnish",
+  "label": "discourse",
+  "n": 96,
+  "families": 38,
+  "fam_ctx_varies": 10,
+  "fam_crossed": 10,
+  "fam_target_only": 28
+ },
+ {
+  "id": "dative_turkish",
+  "label": "discourse",
+  "n": 96,
+  "families": 36,
+  "fam_ctx_varies": 12,
+  "fam_crossed": 12,
+  "fam_target_only": 24
+ },
+ {
+  "id": "locative_topicalization_survey",
+  "label": "discourse",
+  "n": 229,
+  "families": 71,
+  "fam_ctx_varies": 26,
+  "fam_crossed": 26,
+  "fam_target_only": 3
+ },
+ {
+  "id": "acceptability_extension_959_v5",
+  "label": "discourse",
+  "n": 566,
+  "families": 144,
+  "fam_ctx_varies": 0,
+  "fam_crossed": 0,
+  "fam_target_only": 144
+ },
+ {
+  "id": "replication_study_9_59",
+  "label": "discourse",
+  "n": 185,
+  "families": 64,
+  "fam_ctx_varies": 16,
+  "fam_crossed": 16,
+  "fam_target_only": 44
+ },
+ {
+  "id": "acd_context_polly_1_nov_23_2012",
+  "label": "discourse",
+  "n": 310,
+  "families": 69,
+  "fam_ctx_varies": 36,
+  "fam_crossed": 36,
+  "fam_target_only": 3
+ },
+ {
+  "id": "chomsky_items_1",
+  "label": "discourse",
+  "n": 91,
+  "families": 37,
+  "fam_ctx_varies": 2,
+  "fam_crossed": 2,
+  "fam_target_only": 25
+ },
+ {
+  "id": "cul_jack_april_12_2012_54_short_texts_with_two_comprehension_questions",
+  "label": "discourse",
+  "n": 210,
+  "families": 60,
+  "fam_ctx_varies": 0,
+  "fam_crossed": 0,
+  "fam_target_only": 30
+ },
+ {
+  "id": "cul_jack_april_2012_60_short_texts_with_two_comprehension_questions_an",
+  "label": "discourse",
+  "n": 210,
+  "families": 60,
+  "fam_ctx_varies": 0,
+  "fam_crossed": 0,
+  "fam_target_only": 30
+ },
+ {
+  "id": "imperative_control_iad_gs_may_16_2011_purple_puppy",
+  "label": "discourse",
+  "n": 96,
+  "families": 48,
+  "fam_ctx_varies": 0,
+  "fam_crossed": 0,
+  "fam_target_only": 24
+ },
+ {
+  "id": "orange_camel_sentence_naturalness_survey_nov_2010",
+  "label": "discourse",
+  "n": 144,
+  "families": 72,
+  "fam_ctx_varies": 24,
+  "fam_crossed": 24,
+  "fam_target_only": 0
+ },
+ {
+  "id": "quantitative_syntax_survey",
+  "label": "discourse",
+  "n": 121,
+  "families": 37,
+  "fam_ctx_varies": 10,
+  "fam_crossed": 10,
+  "fam_target_only": 17
+ },
+ {
+  "id": "sentence_naturalness_survey_acd_v1_jan_2012",
+  "label": "discourse",
+  "n": 128,
+  "families": 69,
+  "fam_ctx_varies": 11,
+  "fam_crossed": 11,
+  "fam_target_only": 28
+ },
+ {
+  "id": "sentence_naturalness_survey_acd_v6_oct_25_2012",
+  "label": "discourse",
+  "n": 128,
+  "families": 55,
+  "fam_ctx_varies": 2,
+  "fam_crossed": 2,
+  "fam_target_only": 23
+ },
+ {
+  "id": "sentence_naturalness_survey_for_gs_apr_4_2010",
+  "label": "discourse",
+  "n": 132,
+  "families": 42,
+  "fam_ctx_varies": 0,
+  "fam_crossed": 0,
+  "fam_target_only": 18
+ },
+ {
+  "id": "sentence_naturalness_survey_for_gs_dec_2009",
+  "label": "discourse",
+  "n": 122,
+  "families": 39,
+  "fam_ctx_varies": 13,
+  "fam_crossed": 13,
+  "fam_target_only": 1
+ },
+ {
+  "id": "sentence_naturalness_survey_for_gs_jan_2010",
+  "label": "discourse",
+  "n": 133,
+  "families": 42,
+  "fam_ctx_varies": 0,
+  "fam_crossed": 0,
+  "fam_target_only": 19
+ },
+ {
+  "id": "sentence_naturalness_survey_for_gs_jan_23_2010",
+  "label": "discourse",
+  "n": 216,
+  "families": 48,
+  "fam_ctx_varies": 0,
+  "fam_crossed": 0,
+  "fam_target_only": 24
+ },
+ {
+  "id": "sentence_naturalness_survey_for_gs_may_11_2011_purple_puppy",
+  "label": "discourse",
+  "n": 72,
+  "families": 48,
+  "fam_ctx_varies": 0,
+  "fam_crossed": 0,
+  "fam_target_only": 24
+ },
+ {
+  "id": "sentence_naturalness_survey_for_jk_april_4_2010",
+  "label": "discourse",
+  "n": 96,
+  "families": 64,
+  "fam_ctx_varies": 32,
+  "fam_crossed": 0,
+  "fam_target_only": 0
+ },
+ {
+  "id": "sentence_naturalness_survey_for_jk_april_4_expt_3_2010",
+  "label": "discourse",
+  "n": 96,
+  "families": 48,
+  "fam_ctx_varies": 16,
+  "fam_crossed": 16,
+  "fam_target_only": 0
+ },
+ {
+  "id": "sentence_naturalness_survey_for_jk_april_9_expt_4_2010",
+  "label": "discourse",
+  "n": 96,
+  "families": 48,
+  "fam_ctx_varies": 16,
+  "fam_crossed": 16,
+  "fam_target_only": 0
+ },
+ {
+  "id": "sentence_naturalness_survey_for_jk_june_24_2010_v2",
+  "label": "discourse",
+  "n": 176,
+  "families": 71,
+  "fam_ctx_varies": 33,
+  "fam_crossed": 1,
+  "fam_target_only": 6
+ },
+ {
+  "id": "sentence_naturalness_survey_for_jk_mar_2010",
+  "label": "discourse",
+  "n": 96,
+  "families": 64,
+  "fam_ctx_varies": 32,
+  "fam_crossed": 0,
+  "fam_target_only": 0
+ },
+ {
+  "id": "sentence_naturalness_survey_for_jkm_dec_2009",
+  "label": "discourse",
+  "n": 128,
+  "families": 68,
+  "fam_ctx_varies": 11,
+  "fam_crossed": 11,
+  "fam_target_only": 28
+ },
+ {
+  "id": "sentence_naturalness_survey_for_jkm_jan_2012",
+  "label": "discourse",
+  "n": 128,
+  "families": 68,
+  "fam_ctx_varies": 11,
+  "fam_crossed": 11,
+  "fam_target_only": 28
+ },
+ {
+  "id": "sentence_naturalness_survey_for_lb_dec_2009",
+  "label": "discourse",
+  "n": 108,
+  "families": 90,
+  "fam_ctx_varies": 18,
+  "fam_crossed": 0,
+  "fam_target_only": 0
+ },
+ {
+  "id": "sentence_naturalness_survey_for_lb_feb_2010",
+  "label": "discourse",
+  "n": 45,
+  "families": 41,
+  "fam_ctx_varies": 4,
+  "fam_crossed": 0,
+  "fam_target_only": 0
+ },
+ {
+  "id": "sentence_naturalness_survey_for_lb_feb_20_2010",
+  "label": "discourse",
+  "n": 64,
+  "families": 64,
+  "fam_ctx_varies": 0,
+  "fam_crossed": 0,
+  "fam_target_only": 0
+ },
+ {
+  "id": "sentence_naturalness_survey_for_lb_feb_20_2010_v2",
+  "label": "discourse",
+  "n": 77,
+  "families": 73,
+  "fam_ctx_varies": 4,
+  "fam_crossed": 0,
+  "fam_target_only": 0
+ },
+ {
+  "id": "sentence_naturalness_survey_for_lb_jan_2011",
+  "label": "discourse",
+  "n": 519,
+  "families": 13,
+  "fam_ctx_varies": 6,
+  "fam_crossed": 5,
+  "fam_target_only": 1
+ },
+ {
+  "id": "sentence_naturalness_survey_for_lb_jan_2011_v2",
+  "label": "discourse",
+  "n": 519,
+  "families": 5,
+  "fam_ctx_varies": 4,
+  "fam_crossed": 4,
+  "fam_target_only": 1
+ },
+ {
+  "id": "sentence_naturalness_survey_for_lb_jan_2011_v3",
+  "label": "discourse",
+  "n": 519,
+  "families": 11,
+  "fam_ctx_varies": 6,
+  "fam_crossed": 5,
+  "fam_target_only": 1
+ },
+ {
+  "id": "sentence_naturalness_survey_for_lb_mar_2010",
+  "label": "discourse",
+  "n": 123,
+  "families": 107,
+  "fam_ctx_varies": 16,
+  "fam_crossed": 0,
+  "fam_target_only": 0
+ },
+ {
+  "id": "sentence_naturalness_survey_for_lb_mar_2010_2",
+  "label": "discourse",
+  "n": 241,
+  "families": 106,
+  "fam_ctx_varies": 98,
+  "fam_crossed": 40,
+  "fam_target_only": 5
+ },
+ {
+  "id": "sentence_naturalness_survey_for_lb_may_2010",
+  "label": "discourse",
+  "n": 148,
+  "families": 84,
+  "fam_ctx_varies": 16,
+  "fam_crossed": 0,
+  "fam_target_only": 48
+ },
+ {
+  "id": "sentence_naturalness_survey_for_lb_prelim_oct_2010",
+  "label": "discourse",
+  "n": 402,
+  "families": 145,
+  "fam_ctx_varies": 94,
+  "fam_crossed": 69,
+  "fam_target_only": 27
+ },
+ {
+  "id": "sentence_naturalness_survey_for_lb_v2_oct_2010",
+  "label": "discourse",
+  "n": 402,
+  "families": 145,
+  "fam_ctx_varies": 94,
+  "fam_crossed": 69,
+  "fam_target_only": 27
+ },
+ {
+  "id": "sentence_naturalness_survey_for_rw_dec_2009",
+  "label": "discourse",
+  "n": 180,
+  "families": 90,
+  "fam_ctx_varies": 30,
+  "fam_crossed": 30,
+  "fam_target_only": 0
+ },
+ {
+  "id": "sentence_naturalness_survey_for_rw_jan_2010",
+  "label": "discourse",
+  "n": 480,
+  "families": 210,
+  "fam_ctx_varies": 90,
+  "fam_crossed": 90,
+  "fam_target_only": 0
+ }
+]
