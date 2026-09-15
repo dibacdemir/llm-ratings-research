@@ -1,0 +1,40 @@
+{
+  "task": "mk_grammaticality_study_7_20",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 1524,
+  "n_ratings": 15145,
+  "ratings_per_item_median": 10,
+  "ratings_per_item_min": 8,
+  "ratings_per_item_max": 10,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "raw participant-facing Description in all 24 batch files states the dimension verbatim: 'Read and rate the naturalness of 140 sentences (Red-Rhinoceros code name)'",
+    "scale_labels": "own row dashboard_scale_labels ('Grammatical | Ungrammatical', scale_source_project='Grammaticality', match_score 0.33) REJECTED: binary scale conflicts with observed 1-5 continuous range. Used instead SCALE_CATALOG row 29 (Extremely unnatural...Extremely natural, 5-pt, 3 tedlab naturalness projects including 'Verb transitivity/causal study - syntax (MK)', same PI initials/family as this dataset)",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/mk_grammaticality_study_7_20.csv",
+    "instruction": "mturk_norms/instructions/mk_grammaticality_study_7_20_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.874,
+    "spearman_sb": 0.876,
+    "n_items_used": 1524,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

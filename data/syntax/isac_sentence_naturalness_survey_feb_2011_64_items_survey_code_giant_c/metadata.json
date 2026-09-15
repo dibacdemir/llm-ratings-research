@@ -1,0 +1,42 @@
+{
+  "task": "isac_sentence_naturalness_survey_feb_2011_64_items_survey_code_giant_c",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged | MERGED 2026-08-22 with isac_sentence_naturalness_survey_feb_2011_survey_code_giant_cobra (identical items + instruction; ratings pooled)",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 256,
+  "n_ratings": 10712,
+  "ratings_per_item_median": 42,
+  "ratings_per_item_min": 38,
+  "ratings_per_item_max": 46,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [
+    "isac_sentence_naturalness_survey_feb_2011_survey_code_giant_cobra"
+  ],
+  "provenance": {
+    "question_wording": "folder-name convention ('Sentence naturalness survey'); raw HIT Title/Description generic ('64 sentences followed by a question and a rating: survey code = GIANT-COBRA')",
+    "scale_labels": "own row's recovered scale_labels field is the generic bias_norm.html A/B-preference template (match_score 0.5, wrong dimension -- disregarded); no project-specific dashboard row exists. Used the tedlab 7-point naturalness scale (SCALE_CATALOG row 41, whose sole directly-named project is 'Word3/Word3-b: Word naturalness survey May 2011'; row 5's related 9-point Yes/No+7-point family is the closest attested analogue) matched to the observed 1-7 range and the folder's 'naturalness' name; dashboard_confirmed (RESOLVED_QUERIES.md, 2026-08-20)",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/isac_sentence_naturalness_survey_feb_2011_64_items_survey_code_giant_c.csv",
+    "instruction": "mturk_norms/instructions/isac_sentence_naturalness_survey_feb_2011_64_items_survey_code_giant_c_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.904,
+    "spearman_sb": 0.885,
+    "n_items_used": 256,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

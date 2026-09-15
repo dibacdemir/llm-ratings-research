@@ -1,0 +1,36 @@
+{
+  "task": "lancaster2020_interoceptive",
+  "source": "published",
+  "level": "lexical_semantics",
+  "sublevel": "perceptual_motor",
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 39954,
+  "n_ratings": 874369,
+  "ratings_per_item_median": 17,
+  "ratings_per_item_min": 4,
+  "ratings_per_item_max": 16043,
+  "has_individual_ratings": true,
+  "scale": [
+    0,
+    5
+  ],
+  "placeholder": "word",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {},
+  "original": {
+    "ratings": "norm_datasets/lancaster2020_data/lancaster2020_interoceptive.csv",
+    "instruction": "instructions/lancaster2020_instructions/lancaster2020_interoceptive_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.843,
+    "spearman_sb": 0.778,
+    "n_items_used": 39954,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

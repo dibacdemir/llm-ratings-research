@@ -1,0 +1,10 @@
+How likely is the event described by the sentence?
+Rate on a scale from 1 to 5:
+1 = Very unlikely
+2 = Unlikely
+3 = Neutral
+4 = Likely
+5 = Very likely
+Answer with one digit.
+
+<<{sentence}>>

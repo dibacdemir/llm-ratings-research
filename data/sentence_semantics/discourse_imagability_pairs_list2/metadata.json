@@ -1,0 +1,44 @@
+{
+  "task": "discourse_imagability_pairs_list2",
+  "source": "surveyor",
+  "level": "sentence_semantics",
+  "sublevel": "conceptual_content",
+  "level_decided_by": "fable_resolution",
+  "level_rationale": "rates the CONTENT evoked by the sentence(s) (mental states/physical objects/scenes/imageability), not a relation between sentences; pairs treated like singles",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 100,
+  "n_ratings": 2991,
+  "ratings_per_item_median": 30,
+  "ratings_per_item_min": 28,
+  "ratings_per_item_max": 30,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "survey_id": "discourse_imagability_pairs_list2",
+    "owner": "samhutch@mit.edu",
+    "participants": 30,
+    "n_test": 100,
+    "n_filler": 0,
+    "n_practice": 0,
+    "anchors_dropped": 2
+  },
+  "original": {
+    "ratings": "surveyor_norms/norm_datasets/sentence_semantics/discourse_imagability_pairs_list2.csv",
+    "instruction": "surveyor_norms/instructions/sentence_semantics/discourse_imagability_pairs_list2_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.953,
+    "spearman_sb": 0.946,
+    "n_items_used": 100,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

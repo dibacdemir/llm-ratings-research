@@ -1,0 +1,42 @@
+{
+  "task": "sentence_naturalness_survey_acd_ratings_v4_july_13_2012",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged | MERGED 2026-08-22 (near-duplicate, pooled on shared items) with sentence_naturalness_survey_acd_ratings_v2_jan_2012",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 176,
+  "n_ratings": 8915,
+  "ratings_per_item_median": 35,
+  "ratings_per_item_min": 9,
+  "ratings_per_item_max": 161,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [
+    "sentence_naturalness_survey_acd_ratings_v2_jan_2012"
+  ],
+  "provenance": {
+    "question_wording": "reconstructed",
+    "scale_labels": "dashboard_sibling: dashboard_scale_labels for this folder, scale_source_project=\"Sentence naturalness survey for JK June 24\"; C row 42",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/sentence_naturalness_survey_acd_ratings_v4_july_13_2012.csv",
+    "instruction": "mturk_norms/instructions/sentence_naturalness_survey_acd_ratings_v4_july_13_2012_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.776,
+    "spearman_sb": 0.748,
+    "n_items_used": 176,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

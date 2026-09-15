@@ -1,0 +1,40 @@
+{
+  "task": "orange_camel_sentence_naturalness_survey_nov_2010",
+  "source": "mturk",
+  "level": "discourse",
+  "sublevel": null,
+  "level_decided_by": "andrea_policy_Q2",
+  "level_rationale": "felicity depends on relations across sentences/clauses (presupposition, anaphora, ellipsis, implicit causality)",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 144,
+  "n_ratings": 2799,
+  "ratings_per_item_median": 10,
+  "ratings_per_item_min": 9,
+  "ratings_per_item_max": 40,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "raw folder name states the dimension ('sentence naturalness survey'); no per-item question text in export",
+    "scale_labels": "own row scale_labels (verbatim per-item text) = 'Rating: Extremely unnatural | Somewhat unnatural | Possible | Somewhat natural | Extremely natural || YNQ: Yes | No'; template_source=html_maker_rating.py match_score=1.0; SCALE_CATALOG rows 3/29",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/orange_camel_sentence_naturalness_survey_nov_2010.csv",
+    "instruction": "mturk_norms/instructions/orange_camel_sentence_naturalness_survey_nov_2010_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.965,
+    "spearman_sb": 0.861,
+    "n_items_used": 144,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

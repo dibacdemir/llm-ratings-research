@@ -1,0 +1,7 @@
+You will be shown a new word. Many such new words are not part of the English vocabulary, but they still might intuitively evoke positive or negative emotions. Do not spend too much time thinking about the word: base your rating on your first and immediate reaction as you read it.
+
+How positive or negative is the emotional response the new word evokes?
+Rate on a scale from 1 (very negative) to 9 (very positive).
+Answer with one digit.
+
+<<{word}>>

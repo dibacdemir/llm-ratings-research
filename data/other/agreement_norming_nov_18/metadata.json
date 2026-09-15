@@ -1,0 +1,41 @@
+{
+  "task": "agreement_norming_nov_18",
+  "source": "mturk",
+  "level": "other",
+  "sublevel": "sentence",
+  "level_decided_by": "andrea_review_page",
+  "level_rationale": "Andrea (review page): same as nov_17 → other | merged into `other` 2026-08-22 (was other); sublevel=sentence",
+  "level_blind_check_agrees": false,
+  "language": "english",
+  "n_items": 127,
+  "n_ratings": 1916,
+  "ratings_per_item_median": 15,
+  "ratings_per_item_min": 14,
+  "ratings_per_item_max": 30,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "dashboard_confirmed (RESOLVED_QUERIES.md, 2026-08-20)",
+    "scale_labels": "dashboard_confirmed (RESOLVED_QUERIES.md, 2026-08-20) -- RESOLVED_QUERIES.md B1: the export folder 'Agreement norming Nov' pools two projects; BatchId 649992 = 'Agreement norming Nov 18', ordinal most/least-likely scale (verbatim). NOT naturalness",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/agreement_norming_nov_18.csv",
+    "instruction": "mturk_norms/instructions/agreement_norming_nov_18_i.txt"
+  },
+  "note": "blind pass: syntax. Kept: Andrea's review decision (see nov_17).",
+  "human_reliability": {
+    "pearson_sb": 0.838,
+    "spearman_sb": 0.818,
+    "n_items_used": 127,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

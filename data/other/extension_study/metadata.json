@@ -1,0 +1,44 @@
+{
+  "task": "extension_study",
+  "source": "surveyor",
+  "level": "other",
+  "sublevel": "lexical",
+  "level_decided_by": "andrea_policy_Q5",
+  "level_rationale": "naturalness rating whose items vary only in lexical choice (abbreviation vs full form) | merged into `other` 2026-08-22 (was lexical_other); sublevel=lexical",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 142,
+  "n_ratings": 1073,
+  "ratings_per_item_median": 8,
+  "ratings_per_item_min": 4,
+  "ratings_per_item_max": 17,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "survey_id": "extension study",
+    "owner": "kmcewan@mit.edu",
+    "participants": 30,
+    "n_test": 142,
+    "n_filler": 0,
+    "n_practice": 0,
+    "anchors_dropped": 0
+  },
+  "original": {
+    "ratings": "surveyor_norms/norm_datasets/syntax/extension_study.csv",
+    "instruction": "surveyor_norms/instructions/syntax/extension_study_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.626,
+    "spearman_sb": 0.559,
+    "n_items_used": 142,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

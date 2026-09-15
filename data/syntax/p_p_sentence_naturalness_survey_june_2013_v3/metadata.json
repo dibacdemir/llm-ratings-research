@@ -1,0 +1,40 @@
+{
+  "task": "p_p_sentence_naturalness_survey_june_2013_v3",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "andrea_review_page",
+  "level_rationale": "Andrea (review page): treat with its p_p siblings as the same anaphora paradigm → syntax",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 242,
+  "n_ratings": 19678,
+  "ratings_per_item_median": 48,
+  "ratings_per_item_min": 18,
+  "ratings_per_item_max": 199,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "raw folder name states 'naturalness survey' but no per-item question text in export; the recovered scale is a likelihood scale (see notes)",
+    "scale_labels": "own row dashboard_scale_labels ('Yes | No | Extremely unlikely...Extremely likely', RECOVERED) scale_source_project='ERP norming error detection June 2013'; SCALE_CATALOG row 24 explicitly names this exact dataset ('P&P Sentence naturalness survey June 2013 v3') as an example study; dashboard_confirmed (RESOLVED_QUERIES.md, 2026-08-20)",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/p_p_sentence_naturalness_survey_june_2013_v3.csv",
+    "instruction": "mturk_norms/instructions/p_p_sentence_naturalness_survey_june_2013_v3_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.929,
+    "spearman_sb": 0.928,
+    "n_items_used": 242,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

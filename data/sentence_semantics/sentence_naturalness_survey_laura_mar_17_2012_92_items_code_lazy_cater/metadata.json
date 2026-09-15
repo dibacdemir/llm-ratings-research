@@ -1,0 +1,40 @@
+{
+  "task": "sentence_naturalness_survey_laura_mar_17_2012_92_items_code_lazy_cater",
+  "source": "mturk",
+  "level": "sentence_semantics",
+  "sublevel": "plausibility",
+  "level_decided_by": "andrea_policy_Q5",
+  "level_rationale": "naturalness asked, but items vary in meaning (semantic/animacy anomalies, malapropisms, personification)",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 368,
+  "n_ratings": 5462,
+  "ratings_per_item_median": 15,
+  "ratings_per_item_min": 13,
+  "ratings_per_item_max": 15,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "reconstructed: 'How natural does the sentence sound?' -- folder-name convention + verified against raw MTurk export: single Input.trial_N sentence + Input.question_1_N comprehension question + one Answer.RatingN field per trial (no A/B paired stimulus columns), consistent with the standard single-sentence naturalness-rating template, not a paired-choice template.",
+    "scale_labels": "SCALE_CATALOG.md row 41 (7-point 'Extremely unnatural...Extremely natural' naturalness scale, attested for contemporaneous tedlab studies incl. Word3/Word3-b May 2011); verified against converted CSV individual_ratings min=1 max=7 across all 368 rows.; dashboard_confirmed (RESOLVED_QUERIES.md, 2026-08-20)",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/sentence_naturalness_survey_laura_mar_17_2012_92_items_code_lazy_cater.csv",
+    "instruction": "mturk_norms/instructions/sentence_naturalness_survey_laura_mar_17_2012_92_items_code_lazy_cater_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.903,
+    "spearman_sb": 0.883,
+    "n_items_used": 368,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

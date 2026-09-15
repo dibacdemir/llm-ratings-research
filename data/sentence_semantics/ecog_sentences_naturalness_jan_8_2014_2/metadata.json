@@ -1,0 +1,40 @@
+{
+  "task": "ecog_sentences_naturalness_jan_8_2014_2",
+  "source": "mturk",
+  "level": "sentence_semantics",
+  "sublevel": "plausibility",
+  "level_decided_by": "andrea_policy_Q5",
+  "level_rationale": "naturalness asked, but items vary in meaning (semantic/animacy anomalies, malapropisms, personification)",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 120,
+  "n_ratings": 4441,
+  "ratings_per_item_median": 37,
+  "ratings_per_item_min": 35,
+  "ratings_per_item_max": 40,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "folder-name convention ('naturalness'); raw HIT Title/Description generic ('Rating 120 English sentences: EXTRAVAGANT HAWK survey'), no project-specific dashboard row",
+    "scale_labels": "no own dashboard_scale_labels; own scale_labels field is the generic bias_norm.html A/B-preference template (match_score 0.5, wrong dimension, disregarded). Standard tedlab 5-point naturalness scale used instead (SCALE_CATALOG rows 3/29, the most common naturalness scale in the corpus), corroborated structurally by paired-dimension sibling ecog_sentences_imaginability_jan_8_2014 (same survey, same unit set, same 5-point+Yes/No layout)",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/ecog_sentences_naturalness_jan_8_2014_2.csv",
+    "instruction": "mturk_norms/instructions/ecog_sentences_naturalness_jan_8_2014_2_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.903,
+    "spearman_sb": 0.727,
+    "n_items_used": 120,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

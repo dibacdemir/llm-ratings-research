@@ -1,0 +1,40 @@
+{
+  "task": "verb_particle_ratings",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 136,
+  "n_ratings": 512,
+  "ratings_per_item_median": 2,
+  "ratings_per_item_min": 2,
+  "ratings_per_item_max": 8,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 1,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "raw HIT Description recovered verbatim in questionnaire_wording.csv states the dimension outright: 'Rate English sentences for how good they sound.' -- rendered as 'How natural does the sentence sound?' per corpus convention (Description text itself is not phrased as a question).",
+    "scale_labels": "verbatim from questionnaire_wording.csv scale_labels field for this folder's own row: template_family=html_maker_rating.py, match_score=1.0, 'Rating: Extremely unnatural | Somewhat unnatural | Possible | Somewhat natural | Extremely natural || YNQ: Yes | No' -- Rating-field labels only (5), matches SCALE_CATALOG.md rows 3/29.",
+    "quality_flag": "caveat: thin (median n/unit < 5)"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/verb_particle_ratings.csv",
+    "instruction": "mturk_norms/instructions/verb_particle_ratings_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.716,
+    "spearman_sb": 0.66,
+    "n_items_used": 136,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

@@ -1,0 +1,1155 @@
+<meta charset="utf-8">
+<title>Item Inspector</title>
+<style>
+:root{
+  --paper:#f4f5f7; --surface:#fff; --surface-2:#eceff3; --ink:#15181d; --ink-2:#3d4653;
+  --muted:#6a737f; --rule:#dce1e7; --band:#26313f; --band-ink:#e7ecf2;
+  --model:#2a78d6; --human:#eb6834; --flag:#bd3320;
+  --serif:ui-serif,"Iowan Old Style","Charter","Palatino Linotype",Palatino,Georgia,serif;
+  --sans:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;
+  --mono:ui-monospace,"SF Mono","Cascadia Mono","Roboto Mono",Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#0f1216; --surface:#171b21; --surface-2:#1f252d; --ink:#e8ebef; --ink-2:#b7c0cc;
+  --muted:#8e98a5; --rule:#28303a; --band:#1b232d; --band-ink:#dce4ed;
+  --model:#3987e5; --human:#d95926; --flag:#e0705c;
+}}
+:root[data-theme="dark"]{
+  --paper:#0f1216; --surface:#171b21; --surface-2:#1f252d; --ink:#e8ebef; --ink-2:#b7c0cc;
+  --muted:#8e98a5; --rule:#28303a; --band:#1b232d; --band-ink:#dce4ed;
+  --model:#3987e5; --human:#d95926; --flag:#e0705c;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);
+     font-size:15px;line-height:1.55}
+.wrap{max-width:1000px;margin:0 auto;padding:0 22px 80px}
+h1{font-family:var(--serif);font-size:27px;font-weight:600;margin:0 0 4px}
+h2{font-family:var(--sans);font-size:12px;letter-spacing:.09em;text-transform:uppercase;
+   color:var(--muted);font-weight:650;margin:0 0 10px}
+p.sub{color:var(--ink-2);margin:0;max-width:62ch}
+code,.num{font-family:var(--mono);font-variant-numeric:tabular-nums}
+
+header{background:var(--band);color:var(--band-ink);padding:26px 0 24px;margin-bottom:24px}
+header h1{color:var(--band-ink)}
+header p.sub{color:var(--band-ink);opacity:.8}
+
+.picker{display:flex;flex-wrap:wrap;gap:12px;align-items:flex-end;margin-bottom:26px}
+.picker div{display:flex;flex-direction:column;gap:4px}
+.picker label{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+select{font:inherit;font-size:15px;padding:8px 12px;border-radius:6px;border:1px solid var(--rule);
+       background:var(--surface);color:var(--ink);min-width:230px;cursor:pointer}
+select:focus-visible,button:focus-visible{outline:2px solid var(--model);outline-offset:2px}
+
+section{margin-bottom:30px}
+.card{background:var(--surface);border:1px solid var(--rule);border-radius:8px}
+
+/* prompt */
+pre.prompt{margin:0;padding:16px 18px;font-family:var(--mono);font-size:12.5px;line-height:1.7;
+  white-space:pre-wrap;word-break:break-word;color:var(--ink-2);max-height:340px;overflow:auto}
+.tok{color:var(--muted);opacity:.75}
+.stim{background:color-mix(in srgb, var(--model) 16%, transparent);
+      border-bottom:2px solid var(--model);border-radius:2px;padding:1px 2px;color:var(--ink);font-weight:600}
+.answer{display:flex;gap:10px;align-items:center;padding:12px 18px;border-top:1px solid var(--rule);
+        flex-wrap:wrap;font-size:13px;color:var(--ink-2)}
+.answer .chip{font-family:var(--mono);font-size:12px;padding:3px 8px;border-radius:4px;
+        border:1px solid var(--rule);background:var(--surface-2)}
+
+/* summary */
+.sum{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1px;
+     background:var(--rule);border:1px solid var(--rule);border-radius:8px;overflow:hidden}
+.sum>div{background:var(--surface);padding:14px 16px}
+.sum .k{font-size:11px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin-bottom:6px}
+.sum .pair{display:flex;gap:14px;align-items:baseline}
+.sum .v{font-family:var(--mono);font-size:20px;font-variant-numeric:tabular-nums;line-height:1}
+.sum .v.m{color:var(--model)} .sum .v.h{color:var(--human)}
+.sum .one{font-family:var(--mono);font-size:20px;line-height:1}
+.sum small{display:block;font-size:11px;color:var(--muted);margin-top:6px}
+
+/* items */
+.tools{display:flex;gap:10px;align-items:center;margin-bottom:10px;flex-wrap:wrap}
+.tools input[type=search]{font:inherit;font-size:14px;padding:7px 11px;border-radius:6px;
+  border:1px solid var(--rule);background:var(--surface);color:var(--ink);flex:1;min-width:180px}
+button.seg{font:inherit;font-size:13px;padding:6px 11px;border-radius:6px;border:1px solid var(--rule);
+  background:var(--surface);color:var(--ink);cursor:pointer}
+button.seg[aria-pressed="true"]{background:var(--band);color:var(--band-ink);border-color:var(--band)}
+.rows{border:1px solid var(--rule);border-radius:8px;overflow:hidden;background:var(--surface)}
+.row{display:grid;grid-template-columns:1fr 120px 66px 66px;gap:14px;align-items:center;
+     padding:10px 16px;border-bottom:1px solid var(--rule);cursor:pointer;text-align:left;
+     width:100%;background:none;border-left:0;border-right:0;border-top:0;font:inherit;color:inherit}
+.row:last-child{border-bottom:none}
+.row:hover,.row:focus-visible{background:var(--surface-2)}
+.row[aria-current="true"]{background:color-mix(in srgb,var(--model) 9%,transparent)}
+.row .txt{font-size:13.5px;line-height:1.45;overflow:hidden;text-overflow:ellipsis;
+          display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.row .mean{font-family:var(--mono);font-size:13.5px;font-variant-numeric:tabular-nums;text-align:right}
+.row .mean.m{color:var(--model)} .row .mean.h{color:var(--human)}
+.hd{display:grid;grid-template-columns:1fr 120px 66px 66px;gap:14px;padding:8px 16px;
+    background:var(--surface-2);font-size:10.5px;letter-spacing:.07em;text-transform:uppercase;
+    color:var(--muted);font-weight:650}
+.hd span:nth-child(n+3){text-align:right}
+.legend{display:flex;gap:16px;font-size:12.5px;color:var(--ink-2);margin-bottom:10px;align-items:center}
+.key{display:inline-flex;gap:6px;align-items:center}
+.sw{width:10px;height:10px;border-radius:2px}
+svg{display:block}
+.empty{padding:26px 16px;color:var(--muted);font-size:14px;text-align:center}
+
+/* task provenance strip */
+.prov{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:-14px 0 24px;font-size:13px}
+.tag{display:inline-flex;align-items:center;gap:6px;padding:3px 10px;border-radius:99px;
+  font-size:11.5px;font-weight:650;letter-spacing:.03em;border:1px solid transparent}
+.tag.lvl{background:color-mix(in srgb,var(--model) 13%,transparent);color:var(--model);
+  border-color:color-mix(in srgb,var(--model) 30%,transparent)}
+.tag.src{background:var(--surface-2);color:var(--ink-2);border-color:var(--rule)}
+.tag.guess{opacity:.75;font-style:italic}
+.prov .gloss{color:var(--muted);font-size:13px}
+.prov details.instr{flex-basis:100%;margin-top:6px;border:1px solid var(--rule);
+  border-radius:6px;background:var(--surface)}
+.prov details.instr>summary{cursor:pointer;padding:7px 12px;font-size:12.5px;color:var(--ink-2);
+  list-style:none}
+.prov details.instr>summary::before{content:"\25B8 ";color:var(--muted);font-size:10px}
+.prov details.instr[open]>summary::before{content:"\25BE "}
+.prov details.instr pre{margin:0;padding:10px 14px 12px;border-top:1px solid var(--rule);
+  font-family:var(--mono);font-size:12px;line-height:1.6;white-space:pre-wrap;
+  word-break:break-word;color:var(--ink-2);max-height:260px;overflow:auto}
+.prov details.instr .who{padding:7px 14px 9px;border-top:1px solid var(--rule);font-size:12px;
+  color:var(--muted)}
+.prov .note{flex-basis:100%;margin-top:4px;padding:9px 13px;border-radius:6px;font-size:13px;
+  line-height:1.5;color:var(--ink-2);background:color-mix(in srgb,var(--human) 8%,transparent);
+  border-left:3px solid var(--human)}
+
+/* prompt browser */
+.plist{display:flex;flex-direction:column;gap:10px}
+details.ds{border:1px solid var(--rule);border-radius:8px;background:var(--surface);
+  overflow:hidden}
+details.ds>summary{cursor:pointer;padding:12px 16px;display:flex;gap:10px;
+  align-items:center;flex-wrap:wrap;list-style:none}
+details.ds>summary::-webkit-details-marker{display:none}
+details.ds>summary::before{content:"\25B8";color:var(--muted);font-size:11px;
+  transition:transform .12s}
+details.ds[open]>summary::before{transform:rotate(90deg)}
+details.ds[open]>summary{border-bottom:1px solid var(--rule);background:var(--surface-2)}
+.ds .nm{font-weight:600;font-size:14px}
+.ds .meta{color:var(--muted);font-size:12.5px;font-family:var(--mono);margin-left:auto;
+  white-space:nowrap}
+.ds .body{padding:14px 16px}
+.ds .why{margin:0 0 12px;padding:9px 13px;border-radius:6px;font-size:12.5px;line-height:1.55;
+  background:color-mix(in srgb,var(--flag) 9%,transparent);border-left:3px solid var(--flag);
+  color:var(--ink-2)}
+.ds .why b{color:var(--flag)}
+.ds .stimpick{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+.ds .stimpick button{font:inherit;font-size:12px;font-family:var(--mono);padding:4px 9px;
+  border-radius:5px;border:1px solid var(--rule);background:var(--surface);color:var(--ink-2);
+  cursor:pointer;max-width:340px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ds .stimpick button[aria-pressed="true"]{background:var(--band);color:var(--band-ink);
+  border-color:var(--band)}
+.ds pre.prompt{border:1px solid var(--rule);border-radius:6px;max-height:420px}
+.ds dl{display:grid;grid-template-columns:auto 1fr;gap:3px 14px;margin:12px 0 0;font-size:12.5px}
+.ds dt{color:var(--muted)}
+.ds dd{margin:0;font-family:var(--mono)}
+
+/* comparison table */
+.scrollx{overflow-x:auto}
+table.cmp{border-collapse:collapse;width:100%;font-size:13.5px}
+table.cmp th,table.cmp td{padding:8px 12px;text-align:right;white-space:nowrap;
+  border-bottom:1px solid var(--rule)}
+table.cmp th{background:var(--surface-2);font-size:10.5px;letter-spacing:.07em;
+  text-transform:uppercase;color:var(--muted);font-weight:650;cursor:pointer;user-select:none}
+table.cmp th:first-child,table.cmp td:first-child{text-align:left}
+table.cmp th[aria-sort]{color:var(--ink)}
+table.cmp th .car{opacity:.5;font-size:9px;margin-left:3px}
+table.cmp td{font-family:var(--mono);font-variant-numeric:tabular-nums}
+table.cmp td:first-child{font-family:var(--sans)}
+table.cmp tbody tr{cursor:pointer}
+table.cmp tbody tr:hover td{background:var(--surface-2)}
+table.cmp tr[aria-current="true"] td{background:color-mix(in srgb,var(--model) 10%,transparent);
+  font-weight:600}
+table.cmp tr.human td{background:color-mix(in srgb,var(--human) 9%,transparent);
+  color:var(--human);cursor:default}
+table.cmp tr.human:hover td{background:color-mix(in srgb,var(--human) 9%,transparent)}
+table.cmp tr:last-child td{border-bottom:none}
+table.cmp td.warn{color:var(--flag)}
+table.cmp td.dim{opacity:.45}
+.foot{color:var(--muted);font-size:12.5px;margin-top:10px}
+
+/* tabs */
+nav.tabs{display:flex;gap:4px;border-bottom:1px solid var(--rule);margin-bottom:24px}
+nav.tabs button{font:inherit;font-size:14px;font-weight:600;padding:11px 16px;border:0;
+  background:none;color:var(--muted);cursor:pointer;border-bottom:2px solid transparent;
+  margin-bottom:-1px}
+nav.tabs button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--model)}
+nav.tabs button:hover{color:var(--ink)}
+[hidden]{display:none!important}
+
+/* heatmap */
+.heat{--heat-lo:#eaf1fb; --heat-hi:#1d5fae;
+      --div-lo:#2a78d6; --div-mid:#e6e9ed; --div-hi:#d4562c;
+      --heat-text-lo:#15181d; --heat-text-hi:#ffffff}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .heat{
+      --heat-lo:#1a222c; --heat-hi:#63a6f2;
+      --div-lo:#4b95ea; --div-mid:#2b333d; --div-hi:#e07a4e;
+      --heat-text-lo:#e8ebef; --heat-text-hi:#0f1216}}
+:root[data-theme="dark"] .heat{
+      --heat-lo:#1a222c; --heat-hi:#63a6f2;
+      --div-lo:#4b95ea; --div-mid:#2b333d; --div-hi:#e07a4e;
+      --heat-text-lo:#e8ebef; --heat-text-hi:#0f1216}
+table.heat{border-collapse:separate;border-spacing:2px;width:100%;font-size:13px}
+table.heat th{font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);
+  font-weight:650;padding:4px 8px;vertical-align:bottom;text-align:center;line-height:1.35}
+table.heat th.rh{text-align:left;font-size:13px;letter-spacing:0;text-transform:none;
+  color:var(--ink-2);font-weight:500;font-family:var(--sans);white-space:nowrap;
+  padding-right:12px;cursor:pointer}
+table.heat th.rh:hover{color:var(--ink);text-decoration:underline}
+table.heat td{text-align:center;padding:9px 6px;border-radius:4px;font-family:var(--mono);
+  font-variant-numeric:tabular-nums;min-width:76px}
+table.heat td.na{background:repeating-linear-gradient(45deg,transparent,transparent 4px,
+  var(--rule) 4px,var(--rule) 5px);color:var(--muted)}
+.scale{display:flex;align-items:center;gap:10px;margin:14px 0 4px;font-size:12px;color:var(--muted)}
+.scale .bar{height:10px;flex:0 0 190px;border-radius:3px}
+.metricpick{display:flex;flex-wrap:wrap;gap:12px;align-items:flex-end;margin-bottom:6px}
+.metricpick select{min-width:270px}
+@media (max-width:640px){
+  .row,.hd{grid-template-columns:1fr 96px 54px 54px;gap:9px}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+
+/* ---- workbench shell: task tree on the left, the selected task on the right ---- */
+.shell{display:grid;grid-template-columns:300px minmax(0,1fr);max-width:1320px;margin:0 auto}
+#rail{position:sticky;top:0;height:100vh;overflow:auto;border-right:1px solid var(--rule);
+  background:var(--surface);padding:14px 0 40px}
+.rail-top{display:flex;flex-direction:column;gap:8px;padding:0 14px 12px;border-bottom:1px solid var(--rule)}
+.ovbtn{font:inherit;font-weight:600;font-size:13px;padding:8px 12px;border-radius:6px;
+  border:1px solid var(--rule);background:var(--surface-2);color:var(--ink);cursor:pointer;text-align:left}
+.ovbtn[aria-current="true"]{background:var(--band);color:var(--band-ink);border-color:var(--band)}
+#nav-q{font:inherit;font-size:13.5px;padding:7px 10px;border-radius:6px;border:1px solid var(--rule);
+  background:var(--paper);color:var(--ink)}
+details.lv>summary{cursor:pointer;list-style:none;display:flex;align-items:center;gap:8px;
+  padding:10px 14px 5px;font-size:11px;letter-spacing:.08em;text-transform:uppercase;
+  color:var(--muted);font-weight:650}
+details.lv>summary::-webkit-details-marker{display:none}
+details.lv>summary::before{content:"\25B8";font-size:9px;transition:transform .12s}
+details.lv[open]>summary::before{transform:rotate(90deg)}
+details.lv>summary .n{margin-left:auto;font-family:var(--mono);letter-spacing:0;text-transform:none;
+  font-weight:500}
+details.lv>summary .n b{color:var(--model);font-weight:650}
+.trow{display:grid;grid-template-columns:9px 1fr auto;gap:9px;align-items:center;width:100%;
+  text-align:left;font:inherit;font-size:13px;padding:5px 14px 5px 24px;border:0;background:none;
+  color:var(--ink-2);cursor:pointer}
+.trow:hover{background:var(--surface-2)}
+.trow[aria-current="true"]{background:color-mix(in srgb,var(--model) 12%,transparent);
+  color:var(--ink);font-weight:600}
+.trow .nm{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.trow .dot{width:7px;height:7px;border-radius:50%;border:1.5px solid var(--muted);box-sizing:border-box}
+.trow .dot.on{background:var(--model);border-color:var(--model)}
+.trow .k{font-family:var(--mono);font-size:10.5px;color:var(--muted)}
+.trow .k b{color:var(--model);font-weight:600}
+.rail-key{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:11px;color:var(--muted);padding-top:2px}
+.rail-key .dot{display:inline-block;width:7px;height:7px;border-radius:50%;border:1.5px solid var(--muted);
+  box-sizing:border-box;vertical-align:middle;margin-right:2px}
+.rail-key .dot.on{background:var(--model);border-color:var(--model)}
+.rail-key b{color:var(--model);font-family:var(--mono);font-weight:600}
+.rail-empty{padding:14px;color:var(--muted);font-size:13px}
+#main{padding:22px 30px 90px;min-width:0}
+.models{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:-6px 0 22px}
+.models .lbl{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-right:4px}
+#mpick{font-family:var(--mono);font-size:13px;min-width:320px;max-width:100%}
+.mpos{font-size:12.5px;color:var(--muted)}
+.mpos a{color:var(--model);cursor:pointer;text-decoration:none}
+.mpos a:hover{text-decoration:underline}
+table.cov{border-collapse:collapse;font-size:12.5px;white-space:nowrap;min-width:100%}
+table.cov th,table.cov td{padding:5px 9px;border-bottom:1px solid var(--rule);text-align:center}
+table.cov th{font-size:10.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);
+  font-weight:650;background:var(--surface-2);position:sticky;top:0;z-index:1}
+table.cov th.t,table.cov td.t{text-align:left;position:sticky;left:0;background:var(--surface);
+  max-width:300px;overflow:hidden;text-overflow:ellipsis;z-index:1}
+table.cov th.t{z-index:2;background:var(--surface-2)}
+table.cov tr.lv td{background:var(--surface-2);font-size:11px;letter-spacing:.08em;text-transform:uppercase;
+  color:var(--muted);font-weight:650;text-align:left;position:sticky;left:0}
+table.cov td.on{color:var(--model);font-size:15px;line-height:1}
+table.cov td.off{color:var(--rule);font-size:15px;line-height:1}
+table.cov td.t a{color:inherit;text-decoration:none;cursor:pointer}
+table.cov td.t a:hover{text-decoration:underline}
+table.cov td.t .src{font-family:var(--mono);font-size:10.5px;color:var(--muted);margin-left:6px}
+.chk{font-size:13px;color:var(--ink-2);display:inline-flex;gap:6px;align-items:center;cursor:pointer}
+.stimpick{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+.stimpick button{font:inherit;font-size:12px;font-family:var(--mono);padding:4px 9px;border-radius:5px;
+  border:1px solid var(--rule);background:var(--surface);color:var(--ink-2);cursor:pointer;
+  max-width:340px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.stimpick button[aria-pressed="true"]{background:var(--band);color:var(--band-ink);border-color:var(--band)}
+@media (max-width:880px){
+  .shell{grid-template-columns:1fr}
+  #rail{position:static;height:auto;max-height:42vh;border-right:0;border-bottom:1px solid var(--rule)}
+  #main{padding:18px 16px 80px}
+}
+@media (prefers-reduced-motion:reduce){details.lv>summary::before{transition:none}}
+</style>
+
+<header><div class="wrap">
+  <h1>Item Inspector</h1>
+  <p class="sub">Every rating task the lab has, by the level of language it probes.
+     Pick one to see what the raters were asked, what the data looks like, and
+     how each model answered the same items.</p>
+</div></header>
+
+<div class="shell">
+<aside id="rail" aria-label="Tasks">
+  <div class="rail-top">
+    <button id="nav-overview" class="ovbtn" aria-current="false">Overview &mdash; who has been run on what</button>
+    <input type="search" id="nav-q" placeholder="Find a task&hellip;" aria-label="Find a task">
+    <div class="rail-key">
+      <span><span class="dot on"></span> scored</span>
+      <span><span class="dot"></span> not yet</span>
+      <span><b>N</b> models run</span>
+      <span><b>P</b> published &middot; <b>S</b> surveyor &middot; <b>M</b> mturk</span>
+    </div>
+  </div>
+  <div id="tree"></div>
+</aside>
+
+<main id="main">
+
+<div id="view-overview" hidden>
+  <section>
+    <h2>Coverage</h2>
+    <p class="sub" style="margin-bottom:12px">One row per task, one column per model.
+      A filled dot is a finished run. Click a task name to open it.</p>
+    <div class="tools">
+      <label class="chk"><input type="checkbox" id="cov-all"> also list tasks with no runs yet</label>
+      <span class="foot" id="cov-note" style="margin:0 0 0 auto"></span>
+    </div>
+    <div class="scrollx"><table class="cov" id="cov"></table></div>
+  </section>
+  <section>
+    <h2>Any metric, every model &times; task</h2>
+    <div class="metricpick">
+      <div><label for="metric">Metric</label><select id="metric"></select></div>
+      <div><label for="horder">Rows</label><select id="horder">
+        <option value="metric">best on this metric first</option>
+        <option value="name">by model name</option>
+      </select></div>
+    </div>
+    <p class="foot" id="mhelp" style="margin:0 0 14px"></p>
+    <div class="scrollx heat"><table class="heat" id="heat"></table></div>
+    <div class="scale heat" id="hscale"></div>
+    <p class="foot" id="hnote"></p>
+  </section>
+</div>
+
+<div id="view-task">
+  <div class="prov" id="prov"></div>
+  <div class="models" id="models"></div>
+
+  <div id="results">
+    <section>
+      <h2>What the model was given</h2>
+      <div class="card">
+        <pre class="prompt" id="prompt"></pre>
+        <div class="answer" id="answer"></div>
+      </div>
+      <p class="foot" id="fmtnote"></p>
+    </section>
+    <section>
+      <h2>Overall, across every item</h2>
+      <div class="sum" id="summary"></div>
+    </section>
+    <section>
+      <h2>Every model on this task</h2>
+      <div class="tools">
+        <input type="search" id="cmpq" placeholder="Filter models&hellip;" aria-label="Filter models">
+        <span class="foot" id="cmpn" style="margin:0"></span>
+      </div>
+      <div class="rows"><div class="scrollx"><table class="cmp" id="cmp"></table></div></div>
+      <p class="foot">Click a row to switch to that model. Sort by any column.
+         The <b>Humans</b> row is what the raters themselves did.
+         A red <b>SD</b> flags a model whose answers carry little information:
+         <b>!</b> it gave almost the same number every time, <b>&darr;</b> or <b>&uarr;</b> it
+         answered at one end of the scale almost every time, <b>&#8645;</b> it used both
+         ends but not the middle.</p>
+    </section>
+    <section>
+      <h2>Item by item</h2>
+      <div class="legend">
+        <span class="key" id="lg-human"><span class="sw" style="background:var(--human)"></span>Human raters</span>
+        <span class="key"><span class="sw" style="background:var(--model)"></span>Model</span>
+        <span style="color:var(--muted)">Click a row to see its exact prompt above.</span>
+      </div>
+      <div class="tools">
+        <input type="search" id="q" placeholder="Filter items by text&hellip;" aria-label="Filter items">
+        <button class="seg" id="sord" aria-pressed="true">dataset order</button>
+        <button class="seg" id="sdis" aria-pressed="false">biggest disagreement</button>
+      </div>
+      <div class="rows">
+        <div class="hd"><span>Item</span><span>Distribution</span><span>Human</span><span>Model</span></div>
+        <div id="rows"></div>
+      </div>
+      <p class="foot" id="samplenote"></p>
+    </section>
+  </div>
+
+  <div id="preview" hidden>
+    <section>
+      <h2>Prompt preview</h2>
+      <p class="sub" style="margin-bottom:12px">No model has been run on this task yet. This is
+        the exact text a model would receive, with a real stimulus in place.</p>
+      <div class="stimpick" id="pv-picks"></div>
+      <div class="card"><pre class="prompt" id="pv-prompt"></pre></div>
+      <p class="foot" id="pv-note"></p>
+    </section>
+  </div>
+</div>
+
+</main>
+</div>
+
+<select id="task" hidden aria-hidden="true"></select>
+<select id="model" hidden aria-hidden="true"></select>
+
+<script>
+const INLINE = /*__DATA__*/;
+const PACK = /*__PACK__*/;
+const $ = s => document.querySelector(s);
+
+/* Data loading.
+   Served from a directory that has data/index.json (the normal local case), the
+   page loads only the small index up front and fetches a pair's items when it
+   is selected — so opening stays fast however many models and tasks exist.
+   Opened as a lone file, or published as an artifact, that fetch cannot work.
+   Then PACK — every pair's items, gzipped and base64'd by
+   pipeline/pack_inspector_data.py — is inflated instead. INLINE alone carries the
+   statistics for every pair but no items; it is the last resort. */
+let DATA = INLINE, LAZY = false, PACKED = false, ITEMS_WHY = "";
+const pairCache = new Map();
+async function inflatePack(b64){
+  const bin = atob(b64), bytes = new Uint8Array(bin.length);
+  for(let i=0;i<bin.length;i++) bytes[i] = bin.charCodeAt(i);
+  const stream = new Blob([bytes]).stream().pipeThrough(new DecompressionStream("gzip"));
+  return await new Response(stream).json();
+}
+async function boot(){
+  try{
+    const r = await fetch("data/index.json", {cache:"no-store"});
+    if(!r.ok) throw 0;
+    const idx = await r.json();
+    if(idx && idx.pairs && idx.pairs.length){ DATA = idx; LAZY = true; return; }
+  }catch(e){ /* standalone file: no server to fetch from */ }
+  if(typeof PACK === "string" && PACK.length){
+    if(typeof DecompressionStream === "undefined"){
+      ITEMS_WHY = "This browser cannot inflate the packed item data; use a current Chrome, Safari or Firefox.";
+      return;
+    }
+    try{
+      const packed = await inflatePack(PACK);
+      if(packed && packed.pairs && packed.pairs.length){ DATA = packed; PACKED = true; }
+    }catch(e){ ITEMS_WHY = "The packed item data could not be read: " + e; }
+  } else if(INLINE && INLINE.packed){
+    ITEMS_WHY = "This copy of the page carries statistics only; open it from the local server for items.";
+  }
+}
+async function fetchPair(model, task){
+  const key = model+"|"+task;
+  if(pairCache.has(key)) return pairCache.get(key);
+  const stub = DATA.pairs.find(p=>p.model===model && p.task===task);
+  if(!stub) return null;
+  let full = stub;
+  if(LAZY && !stub.items){
+    try{
+      const r = await fetch(`data/${encodeURIComponent(model)}__${encodeURIComponent(task)}.json`,
+                            {cache:"force-cache"});
+      if(r.ok) full = Object.assign({}, stub, await r.json());
+    }catch(e){ /* fall through: stats still render, items will be empty */ }
+  }
+  pairCache.set(key, full);
+  return full;
+}
+const esc = s => String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const f = (v,d=2) => (v===null||v===undefined||Number.isNaN(v)) ? "—" : Number(v).toFixed(d);
+let pair = null, sel = 0, sortBy = "order";
+
+/* ---- selectors ---- */
+function taskLabel(t){
+  const p = DATA.pairs.find(x=>x.task===t);
+  return p ? p.task_label : t;
+}
+$("#task").innerHTML = DATA.tasks.map(t=>`<option value="${t}">${esc(taskLabel(t))}</option>`).join("");
+function fillModels(){
+  const t = $("#task").value;
+  const ms = DATA.pairs.filter(p=>p.task===t).map(p=>p.model).sort();
+  const keep = ms.includes($("#model").value) ? $("#model").value : ms[0];
+  $("#model").innerHTML = ms.map(m=>`<option value="${m}">${esc(m)}</option>`).join("");
+  $("#model").value = keep;
+}
+async function load(){
+  const t = $("#task").value, m = $("#model").value;
+  sel = 0;
+  // stats come from the index, so the summary and tables paint immediately
+  pair = DATA.pairs.find(p=>p.task===t && p.model===m) || null;
+  if(!pair) return;
+  renderProv(); renderSummary(); renderCmp();
+  $("#rows").innerHTML = `<div class="empty">Loading items…</div>`;
+  pair = await fetchPair(m, t) || pair;
+  if(!pair.items){
+    // shared single-file copy: statistics for every pair, items for the first
+    // few, so the tables stay complete without carrying the whole corpus
+    renderPrompt();
+    $("#rows").innerHTML = `<div class="empty">The statistics above cover all
+      ${pair.n_items ? pair.n_items.toLocaleString() : ""} items of this run.<br>
+      Item-by-item browsing for this pair is in the local copy — run
+      <code>pipeline/refresh_pages.sh --serve</code>.</div>`;
+    return;
+  }
+  render();
+}
+$("#task").onchange = ()=>{ fillModels(); load(); };
+$("#model").onchange = load;
+
+/* ---- prompt panel ---- */
+function renderPrompt(){
+  const it = visible()[sel];
+  if(!pair || !it){
+    $("#prompt").textContent = ITEMS_WHY || (pair && !(pair.items||[]).length
+      ? "Item-level data is not in this copy of the page." : "No items.");
+    $("#answer").innerHTML=""; return; }
+  if(!pair.prompt_text || !pair.prompt_spans){
+    $("#prompt").textContent = "(prompt could not be reconstructed for this run)";
+  } else {
+    // dim the chat-template control tokens so the instruction itself reads clearly
+    const mark = s => esc(s).replace(/(&lt;\|[^|]*\|&gt;|&lt;\|?[a-z_]+\|?&gt;)/g,
+                                    '<span class="tok">$1</span>');
+    // The stored text is the example built for one item; the spans say where
+    // the stimulus was written into it. Substituting the selected item into
+    // every span reproduces that item's prompt exactly, because the scorer
+    // fills every placeholder in the template with the same string.
+    const wrap = {angle: u => "<<" + u + ">>", quote: u => '"' + u + '"'};
+    const stim = (wrap[pair.fmt_style] || (u => u))(it.u);
+    const txt = pair.prompt_text;
+    let out = "", at = 0;
+    for(const [a,b] of pair.prompt_spans){
+      out += mark(txt.slice(at, a)) + `<span class="stim">${esc(stim)}</span>`;
+      at = b;
+    }
+    $("#prompt").innerHTML = out + mark(txt.slice(at));
+  }
+  const [lo,hi] = pair.scale;
+  const chips = it.p.map((v,i)=>
+    `<span class="chip">${lo+i}: ${(100*v).toFixed(v>=0.1?0:1)}%</span>`).join("");
+  $("#answer").innerHTML =
+    `<b style="color:var(--model)">Model answer</b> ${chips}`
+    + `<span style="margin-left:auto;color:var(--muted)">expected rating `
+    + `<b class="num" style="color:var(--model)">${f(it.e)}</b> · humans `
+    + `<b class="num" style="color:var(--human)">${f(it.hm)}</b> from ${it.n} raters</span>`;
+}
+
+/* ---- summary ---- */
+const noHumanDist = () => pair && pair.human_trial_level === false;
+function renderSummary(){
+  if(!pair){ $("#summary").innerHTML=""; return; }
+  const s = pair.stats, [lo,hi] = pair.scale;
+  const two = (k,m,h,note) => `<div><div class="k">${k}</div><div class="pair">
+      <span class="v m">${m}</span><span class="v h">${h}</span></div><small>${note}</small></div>`;
+  const one = (k,v,note) => `<div><div class="k">${k}</div>
+      <div class="one">${v}</div><small>${note}</small></div>`;
+  // Without trial-level data there is no human distribution, so the tiles that
+  // compare one are dropped rather than shown against a number derived from
+  // the mean. Mean, spread across items and correlation all still hold.
+  const dist = pair.human_trial_level !== false;
+  $("#summary").innerHTML =
+      two("Mean rating", f(s.model_mean), f(s.human_mean), `model vs humans · scale ${lo}–${hi}`)
+    + two("Spread (SD)", f(s.model_sd), f(s.human_sd), "across item means")
+    + one("Correlation", f(s.pearson), `Pearson · Spearman ${f(s.spearman)}`
+          + (typeof pair.human_rho_sb === "number" ? ` · human ceiling ρ ${f(pair.human_rho_sb)}` : ""))
+    + (dist ? one("Distribution gap", f(s.w1_mean), "mean distance in scale points") : "")
+    + (dist ? two("Answer certainty", f(s.model_entropy), f(s.human_entropy),
+                  "entropy in bits — lower is more decided")
+            : one("Answer certainty", f(s.model_entropy),
+                  "the model's entropy in bits; the raters' is unrecorded"))
+    + one("Answer read", (s.mass_median>=0.9?"clean":"suspect"),
+          `${(100*s.mass_median).toFixed(0)}% of probability on valid answers`);
+}
+
+/* ---- comparison table: every model on the selected task ---- */
+const CMP = [
+  ["model",         "Model",   "the model, as scored"],
+  ["model_mean",    "Mean",    "average rating it gives"],
+  ["model_sd",      "SD",      "spread of its item means"],
+  ["pearson",       "r",       "correlation with human item means"],
+  ["spearman",      "ρ",  "rank correlation"],
+  ["w1_mean",       "Gap",     "mean distance between the two distributions, in scale points"],
+  ["model_entropy", "H",       "answer certainty in bits; lower is more decided"],
+  ["mass_median",   "Mass",    "probability on valid answers before renormalising"],
+];
+let cmpKey = "pearson", cmpDesc = true;
+function renderCmp(){
+  if(!pair){ $("#cmp").innerHTML = ""; return; }
+  const cq = ($("#cmpq").value||"").toLowerCase().trim();
+  const allRows = DATA.pairs.filter(p=>p.task===pair.task);
+  const rows = cq ? allRows.filter(p=>p.model.toLowerCase().includes(cq)) : allRows;
+  $("#cmpn").textContent = cq ? `${rows.length} of ${allRows.length} models` : `${allRows.length} models`;
+  if(!rows.length){ $("#cmp").innerHTML = ""; return; }
+  const val = (p,k) => k==="model" ? p.model : p.stats[k];
+  const sorted = rows.slice().sort((a,b)=>{
+    const x = val(a,cmpKey), y = val(b,cmpKey);
+    if(cmpKey==="model") return cmpDesc ? String(y).localeCompare(x) : String(x).localeCompare(y);
+    return cmpDesc ? y-x : x-y;
+  });
+  const s0 = rows[0].stats;
+  const head = "<thead><tr>" + CMP.map(([k,label,tipText])=>{
+    const on = k===cmpKey;
+    return `<th data-k="${k}" title="${esc(tipText)}"
+      ${on?`aria-sort="${cmpDesc?"descending":"ascending"}"`:""}>${label}`
+      + (on?`<span class="car">${cmpDesc?"▼":"▲"}</span>`:"") + `</th>`;
+  }).join("") + "</tr></thead>";
+  const human = `<tr class="human"><td>Humans</td>`
+    + `<td>${f(s0.human_mean)}</td><td>${f(s0.human_sd)}</td>`
+    + `<td>—</td>`
+    + `<td title="split-half reliability of the raters, Spearman-Brown corrected: the most a model could reach">${typeof pair.human_rho_sb === "number" ? f(pair.human_rho_sb) : "—"}</td>`
+    + `<td>—</td>`
+    + `<td>${s0.human_entropy == null ? "&mdash;" : f(s0.human_entropy)}</td>`
+    + `<td>—</td></tr>`;
+  const body = "<tbody>" + human + sorted.map(p=>{
+    const s = p.stats, cur = p.model===pair.model;
+    // A model that answers nearly the same number to every item has no spread
+    // for a correlation to be computed from, so r and rho on that row mean
+    // very little however they happen to come out. Flag it where it shows.
+    const width = (p.scale && p.scale[1] > p.scale[0]) ? p.scale[1] - p.scale[0] : 1;
+    const flat = s.model_sd / width < 0.02;
+    // Treating a graded scale as a yes/no choice: nearly all the mass on the
+    // two ends, and far more of it there than the raters put.
+    // With no trial-level human data there is no human distribution to compare
+    // against, so the "far more than the raters" half of the test cannot be
+    // made; a model still piling everything onto one option is worth saying,
+    // but the wording must not claim a comparison that was never computed.
+    // In JS `null + 0.35` is 0.35, so the guard has to be explicit.
+    const hasHumanEnds = typeof s.human_ends === "number";
+    const ends = typeof s.model_ends === "number" && width > 2
+              && s.model_ends > 0.85
+              && (hasHumanEnds ? s.model_ends > s.human_ends + 0.35
+                               : s.model_ends > 0.95);
+    // pinned to one end and split between both are different failures, and the
+    // note has to say which, or it describes the wrong thing
+    const pinLow  = ends && s.model_low  > 0.85;
+    const pinHigh = ends && s.model_high > 0.85;
+    const endsWhy = !ends ? "" : pinLow || pinHigh
+      ? `${(100 * (pinLow ? s.model_low : s.model_high)).toFixed(0)}% of this `
+        + `model's probability sits on the ${pinLow ? "lowest" : "highest"} `
+        + `option, ${pinLow ? p.scale[0] : p.scale[1]}: it answers the same end `
+        + `to almost every item, so its correlations say very little`
+      : `${(100 * s.model_ends).toFixed(0)}% of this model's probability sits on `
+        + `the two ends of the scale`
+        + (hasHumanEnds
+            ? ` against ${(100 * s.human_ends).toFixed(0)}% for the raters`
+            : ` (this study published means only, so there is no rater `
+              + `distribution to compare)`)
+        + `: it is answering a graded question as if it were either/or`;
+    const fn = flat ? ' title="the model gave essentially one answer to every item, so the correlations on this row carry little meaning"' : "";
+    return `<tr data-m="${esc(p.model)}" aria-current="${cur}">`
+      + `<td>${esc(p.model)}${oldFormat(p)
+            ? ` <span class="tag src" title="scored with the old <<…>> delimiter; prompt differs from current runs">old fmt</span>` : ""}</td>`
+      + `<td>${f(s.model_mean)}</td>`
+      + `<td class="${flat||ends?"warn":""}"${fn}${ends?` title="${esc(endsWhy)}"`:""}>`
+      + `${f(s.model_sd)}${flat?" !":""}${ends&&!flat?(pinLow?" \u2193":pinHigh?" \u2191":" \u21C5"):""}</td>`
+      + `<td class="${flat?"dim":""}">${f(s.pearson)}</td>`
+      + `<td class="${flat?"dim":""}">${f(s.spearman)}</td>`
+      + `<td>${s.w1_mean == null ? "&mdash;" : f(s.w1_mean)}</td>`
+      + `<td>${f(s.model_entropy)}</td>`
+      + `<td class="${s.mass_median<0.9?"warn":""}">${f(s.mass_median)}</td></tr>`;
+  }).join("") + "</tbody>";
+  $("#cmp").innerHTML = head + body;
+  $("#cmp").querySelectorAll("th").forEach(th=>th.onclick = ()=>{
+    const k = th.dataset.k;
+    if(k===cmpKey) cmpDesc = !cmpDesc;
+    else { cmpKey = k; cmpDesc = k!=="model"; }
+    renderCmp();
+  });
+  $("#cmp").querySelectorAll("tbody tr[data-m]").forEach(tr=>tr.onclick = ()=>{
+    go({task: $("#task").value, model: tr.dataset.m});
+  });
+}
+
+/* ---- item rows ---- */
+function bars(it){
+  const n = it.p.length, W = 116, H = 26, gap = 1.5;
+  // A study that published only item means gives no per-item human
+  // distribution, so the model's bars take the full width and stand alone
+  // rather than beside an empty half.
+  const solo = !it.h;
+  const bw = (W - gap*(n-1))/n, half = solo ? bw : (bw-1)/2;
+  const hp = solo ? null : it.h.map(c => c / it.h.reduce((a,b)=>a+b,0));
+  const max = Math.max(...it.p, ...(hp || []), .01);
+  let g = "";
+  for(let i=0;i<n;i++){
+    const x = i*(bw+gap);
+    const hm = (it.p[i]/max)*H;
+    if(!solo){
+      const hh = (hp[i]/max)*H;
+      g += `<rect x="${x}" y="${H-hh}" width="${half}" height="${Math.max(hh,.8)}" rx="1.5" fill="var(--human)"></rect>`;
+    }
+    g += `<rect x="${solo ? x : x+half+1}" y="${H-hm}" width="${half}" height="${Math.max(hm,.8)}" rx="1.5" fill="var(--model)"></rect>`;
+  }
+  return `<svg viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img"
+    aria-label="${solo ? "model distribution" : "human and model distribution"}">${g}</svg>`;
+}
+function visible(){
+  if(!pair || !pair.items) return [];
+  const q = ($("#q").value||"").trim().toLowerCase();
+  let list = pair.items.filter(it => !q || it.u.toLowerCase().includes(q));
+  if(sortBy === "disagree")
+    list = list.slice().sort((a,b)=>Math.abs(b.e-b.hm)-Math.abs(a.e-a.hm));
+  return list;
+}
+function renderRows(){
+  const list = visible();
+  if(!list.length){ $("#rows").innerHTML = `<div class="empty">Nothing matches.</div>`; return; }
+  $("#rows").innerHTML = list.map((it,i)=>`
+    <button class="row" data-i="${i}" aria-current="${i===sel}">
+      <span class="txt">${esc(it.u)}</span>
+      <span>${bars(it)}</span>
+      <span class="mean h">${f(it.hm)}</span>
+      <span class="mean m">${f(it.e)}</span>
+    </button>`).join("");
+  $("#rows").querySelectorAll(".row").forEach(b=>b.onclick = ()=>{
+    sel = +b.dataset.i; renderRows(); renderPrompt();
+    // bring the prompt into view without throwing the reader to the top of the page
+    $("#prompt").scrollIntoView({behavior:"smooth", block:"center"});
+  });
+}
+function render(){
+  if(!pair){ return; }
+  sel = 0;
+  renderProv(); renderSummary(); renderCmp(); renderRows(); renderPrompt();
+  // the human swatch would promise a bar that this dataset cannot draw
+  $("#lg-human").hidden = pair && pair.human_trial_level === false;
+  $("#fmtnote").innerHTML = (oldFormat(pair)
+      ? `<b style="color:var(--flag)">Old format.</b> This run wrapped the stimulus in
+         <code>&lt;&lt;…&gt;&gt;</code>; runs since 2026-09-07 use double quotes for every model,
+         so this prompt is not what the current models see. Re-run this model to compare. `
+      : "") + `Run ${esc(pair.run_date||"")} \u00b7 stimulus in ${esc(fmtLabel(pair))}. `;
+  $("#fmtnote").innerHTML +=
+    (pair.fmt_suffix==="auto"
+      ? `<b style="color:var(--flag)">Old run:</b> a “respond with a single number” line was appended after the instruction; current runs use the instruction as written. `
+      : `The instruction as written, nothing appended. `)
+    + `Read in ${pair.dtype}. Control tokens from the model’s own chat template are dimmed.`;
+  $("#samplenote").textContent =
+    `Showing ${pair.n_shown} of ${pair.n_items} items, spread evenly through the set. `
+    + `The summary above uses all ${pair.n_items}.`;
+}
+$("#q").oninput = ()=>{ sel = 0; renderRows(); renderPrompt(); };
+$("#sord").onclick = ()=>{ sortBy="order"; sel=0;
+  $("#sord").setAttribute("aria-pressed",true); $("#sdis").setAttribute("aria-pressed",false);
+  renderRows(); renderPrompt(); };
+$("#sdis").onclick = ()=>{ sortBy="disagree"; sel=0;
+  $("#sdis").setAttribute("aria-pressed",true); $("#sord").setAttribute("aria-pressed",false);
+  renderRows(); renderPrompt(); };
+
+// Andrea's scheme (audit/CODEBOOK.md), coarse to fine. The four older keys
+// are kept so a run scored before the reclassification still has a home.
+const LEVEL_ORDER = ["subword","lexical_semantics","syntax","sentence_semantics",
+                     "pragmatics","discourse","other","form","semantic","lexical"];
+const LEVEL_NAME  = {subword:"Subword", lexical_semantics:"Lexical semantics",
+                     syntax:"Syntax", sentence_semantics:"Sentence semantics",
+                     pragmatics:"Pragmatics", discourse:"Discourse", other:"Other",
+                     form:"Form", semantic:"Semantics", lexical:"Lexical"};
+function taskOptions(){
+  const byLvl = new Map();
+  for(const t of DATA.tasks){
+    const p = DATA.pairs.find(x=>x.task===t) || {};
+    const l = p.level || "other";
+    if(!byLvl.has(l)) byLvl.set(l, []);
+    byLvl.get(l).push([t, p]);
+  }
+  return LEVEL_ORDER.filter(l=>byLvl.has(l)).map(l=>
+    `<optgroup label="${LEVEL_NAME[l]||l} (${byLvl.get(l).length})">`
+    + byLvl.get(l).map(([t,p])=>
+      `<option value="${esc(t)}">${esc(taskLabel(t))}${
+        p.sublevel_label ? " · " + esc(p.sublevel_label) : ""}</option>`).join("")
+    + `</optgroup>`).join("");
+}
+
+/* ---- where the task came from and what it probes ---- */
+const SRC_LABEL = {published:"Published norms", surveyor:"Surveyor", mturk:"MTurk"};
+const SRC_TITLE = {
+  published:"A released norming study, from norm_datasets/",
+  surveyor:"Collected here through Surveyor, from surveyor_norms/",
+  mturk:"Collected here through MTurk, from mturk_norms/"};
+const LVL_TITLE = {
+  form:"Form — how a word is spelled or pronounced",
+  syntax:"Syntax — whether a sentence is well formed",
+  semantic:"Semantics — the meaning of a sentence, or its fit to a context",
+  lexical:"Lexical — a property of a single word or concept"};
+let card = null;   // the selected task, from the catalogue; scored or not
+// Runs scored before 2026-09-07 chose the stimulus delimiter per model; since
+// then every model gets double quotes. An angle-bracket run is from the old
+// regime and its prompt differs from the current one, so say so wherever the
+// run is offered or read, rather than letting two regimes look alike.
+const oldFormat = p => p && p.fmt_style === "angle";
+const fmtLabel  = p => !p ? "" : (p.fmt_style === "angle" ? "<<…>> old format"
+                                : p.fmt_style === "quote" ? "\u201c\u2026\u201d quotes" : p.fmt_style);
+function renderProv(){
+  const pair = card;
+  if(!pair){ $("#prov").innerHTML = ""; return; }
+  const lvl = pair.level || "", src = pair.source || "";
+  const guess = pair.level_confirmed === false;
+  const bits = [];
+  if(lvl) bits.push(`<span class="tag lvl ${guess?"guess":""}"
+      title="${esc(pair.level_rationale || LVL_TITLE[lvl] || "")}${guess?" (inferred, not confirmed)":""}"
+      >${esc(LEVEL_NAME[lvl]||pair.domain||lvl)}${
+        pair.sublevel_label ? " · " + esc(pair.sublevel_label) : ""}${guess?" ?":""}</span>`);
+  if(src) bits.push(`<span class="tag src" title="${esc(SRC_TITLE[src]||"")}"
+      >${esc(SRC_LABEL[src]||src)}</span>`);
+  if(pair.language && pair.language !== "english")
+    bits.push(`<span class="tag src">${esc(pair.language)}</span>`);
+  if(pair.merged_from && pair.merged_from.length)
+    bits.push(`<span class="tag src" title="${esc(pair.merged_from.join(", "))}"
+      >merged from ${pair.merged_from.length} batch${pair.merged_from.length>1?"es":""}</span>`);
+  // the dataset in numbers: how big, how many raters, what scale
+  const rpi = pair.ratings_per_item || [];
+  const facts = [];
+  if(pair.dataset_n_items) facts.push(`${pair.dataset_n_items.toLocaleString()} items`);
+  if(pair.dataset_n_ratings) facts.push(`${pair.dataset_n_ratings.toLocaleString()} ratings`);
+  if(rpi[1] != null) facts.push(`${rpi[1]} raters per item (${rpi[0]}–${rpi[2]})`);
+  else if(pair.human_trial_level === false) facts.push("item means only");
+  if(pair.scale) facts.push(`scale ${pair.scale[0]}–${pair.scale[1]}`);
+  if(typeof pair.human_rho_sb === "number")
+    facts.push(`<span title="split-half reliability of the raters' item means, Spearman-Brown corrected: the ceiling for a model's rank correlation">human reliability ρ ${f(pair.human_rho_sb)}</span>`);
+  if(facts.length) bits.push(`<span class="gloss">${facts.join(" · ")}</span>`);
+  // the instruction itself, folded, so the card stays short until asked
+  const instr = pair.instruction || ((DATA.task_info||{})[pair.task]||{}).instruction || "";
+  if(instr)
+    bits.push(`<details class="instr"><summary>instruction the model is given</summary>
+      <pre>${esc(instr)}</pre>
+      ${pair.level_decided_by ? `<div class="who">level decided by
+        <code>${esc(pair.level_decided_by)}</code>${
+        pair.level_rationale ? " — " + esc(pair.level_rationale) : ""}</div>` : ""}
+      </details>`);
+  // a caveat that changes how the numbers should be read, never hidden
+  let note = pair.note ? `<div class="note">${esc(pair.note)}</div>` : "";
+  if(pair.human_trial_level === false){
+    note += `<div class="note">This study published item means only, with no
+      record of what each rater answered. The model's own distribution is shown;
+      the human side is a single number, so the distribution comparison, the
+      raters' entropy and the per-item spread are left blank rather than
+      invented from the mean.</div>`;
+  }
+  $("#prov").innerHTML = bits.join("") + note;
+}
+
+/* ---- prompts: every dataset, scored or not ----
+   Loaded on demand, because this tab covers all three collections and most
+   visits never open it. */
+const PROMPTS_INLINE = /*__PROMPTS__*/;
+let PROMPTS = null;
+async function loadPrompts(){
+  if(PROMPTS) return PROMPTS;
+  // The catalogue travels with the page so a shared copy can browse prompts
+  // too; the fetch is only for a build where it was left out.
+  if(PROMPTS_INLINE && PROMPTS_INLINE.datasets){
+    PROMPTS = PROMPTS_INLINE.datasets;
+    return PROMPTS;
+  }
+  try{
+    const r = await fetch("data/prompts.json", {cache:"force-cache"});
+    if(r.ok) PROMPTS = (await r.json()).datasets;
+  }catch(e){ /* neither inlined nor served */ }
+  if(!PROMPTS) PROMPTS = [];
+  return PROMPTS;
+}
+
+/* ---- by metric: model x task heatmap ----
+   Magnitude metrics get one hue, light to dark. Metrics that are a signed
+   difference from the humans get two hues with a neutral midpoint at zero,
+   so "the model is above / below the raters" is readable as a direction. */
+/* This view puts tasks side by side, and the tasks do not share a scale:
+   0-1, 1-3, 0-5, 1-6 and 1-7 all appear. Anything measured in scale points
+   (a mean, a spread, a distance) or in bits (entropy, whose ceiling is
+   log2(number of options)) is therefore not comparable across columns until
+   it is expressed relative to the scale, which is what `norm` does below.
+   Correlations and answer mass are already scale-free. */
+const METRICS = [
+  {k:"pearson", label:"Correlation with human means (r)", kind:"seq", dp:2,
+   help:"Pearson correlation between the model's item ratings and the raters'. Higher is better. Scale-free, so columns compare directly."},
+  {k:"spearman", label:"Rank correlation (ρ)", kind:"seq", dp:2,
+   help:"Same, on ranks — insensitive to how the model uses the scale. Higher is better. Scale-free."},
+  {k:"rho_ceiling", label:"Rank correlation as a share of the human ceiling", kind:"seq", dp:2,
+   help:"Spearman ρ divided by the raters' own split-half reliability (Spearman-Brown corrected). 1.0 means the model agrees with the raters as well as the raters agree with each other. Blank where the dataset has no individual ratings."},
+  {k:"w1_mean", label:"Distribution gap, as a share of the scale", kind:"seq", dp:3,
+   invert:true, norm:"range",
+   help:"Distance between the model's and the raters' distribution, divided by the width of the scale so tasks compare. Lower is better."},
+  {k:"d_mean", label:"Mean − human mean, as a share of the scale", kind:"div",
+   dp:3, norm:"range",
+   help:"Positive means the model rates higher than the raters. Divided by the width of the scale, so 0.1 means a tenth of the scale in either direction."},
+  {k:"d_sd", label:"Spread − human spread, as a share of the scale", kind:"div",
+   dp:3, norm:"range",
+   help:"Negative means the model uses a narrower band of the scale than the raters did."},
+  {k:"d_entropy", label:"Certainty − human certainty, normalised", kind:"div",
+   dp:3, norm:"bits",
+   help:"Entropy difference divided by the most this scale allows (log2 of the number of options). Negative means the model is more decided than the raters."},
+  {k:"mass_median", label:"Answer mass", kind:"seq", dp:2,
+   help:"Probability on valid answers before renormalising. Below 0.9 the run should not be trusted. Scale-free."},
+];
+function derived(p, m){
+  const s = p.stats;
+  let v = m.k==="d_mean" ? s.model_mean-s.human_mean
+        : m.k==="d_sd" ? s.model_sd-s.human_sd
+        : m.k==="d_entropy" ? s.model_entropy-s.human_entropy
+        : m.k==="rho_ceiling" ? ((typeof p.human_rho_sb === "number" && p.human_rho_sb > 0
+                                  && typeof s.spearman === "number") ? s.spearman/p.human_rho_sb : null)
+        : s[m.k];
+  if(!Number.isFinite(v) || !m.norm || !p.scale) return v;
+  const [lo,hi] = p.scale;
+  if(m.norm==="range") return (hi>lo) ? v/(hi-lo) : v;
+  const k = hi-lo+1;                       // options on this scale
+  return k>1 ? v/Math.log2(k) : v;         // bits, relative to this scale's max
+}
+$("#metric").innerHTML = METRICS.map((m,i)=>`<option value="${i}">${esc(m.label)}</option>`).join("");
+
+function renderHeat(){
+  const m = METRICS[+$("#metric").value];
+  const tasks = DATA.tasks;
+  const models = [...new Set(DATA.pairs.map(p=>p.model))];
+  const cell = {}, vals = [];
+  for(const p of DATA.pairs){
+    const v = derived(p, m);
+    cell[p.model+"|"+p.task] = v;
+    if(Number.isFinite(v)) vals.push(v);
+  }
+  if(!vals.length){ $("#heat").innerHTML = ""; return; }
+
+  let lo, hi, mid = null;
+  if(m.kind==="div"){ hi = Math.max(...vals.map(Math.abs)); lo = -hi; mid = 0; }
+  else { lo = Math.min(...vals); hi = Math.max(...vals); }
+  const span = (hi-lo) || 1;
+
+  // t in [0,1]; for "invert" metrics low values are the good, dark end
+  const tOf = v => { const t = (v-lo)/span; return m.invert ? 1-t : t; };
+  const bg = v => m.kind==="div"
+    ? (v >= 0
+        ? `color-mix(in oklab, var(--div-hi) ${Math.round(100*Math.abs(v)/hi)}%, var(--div-mid))`
+        : `color-mix(in oklab, var(--div-lo) ${Math.round(100*Math.abs(v)/hi)}%, var(--div-mid))`)
+    : `color-mix(in oklab, var(--heat-hi) ${Math.round(100*tOf(v))}%, var(--heat-lo))`;
+  const ink = v => {
+    const strong = m.kind==="div" ? Math.abs(v)/hi > 0.55 : tOf(v) > 0.58;
+    return strong ? "var(--heat-text-hi)" : "var(--heat-text-lo)";
+  };
+
+  const rowScore = mo => {
+    const xs = tasks.map(t=>cell[mo+"|"+t]).filter(Number.isFinite);
+    if(!xs.length) return -Infinity;
+    const mean = xs.reduce((a,b)=>a+b,0)/xs.length;
+    return m.kind==="div" ? -Math.abs(mean) : (m.invert ? -mean : mean);
+  };
+  const order = $("#horder").value;
+  models.sort((a,b)=> order==="name" ? a.localeCompare(b) : rowScore(b)-rowScore(a));
+
+  const head = "<thead><tr><th class='rh'></th>"
+    + tasks.map(t=>{
+        const p = DATA.pairs.find(x=>x.task===t) || {};
+        const sc = p.scale ? `<br><span style="opacity:.6;font-weight:400">${p.scale[0]}–${p.scale[1]}</span>` : "";
+        return `<th title="${esc(p.gloss||"")}">`
+             + esc(p.task_label||t).replace(" · ","<br>") + sc + `</th>`;
+      }).join("") + "</tr></thead>";
+  const body = "<tbody>" + models.map(mo=>
+    `<tr><th class="rh" data-m="${esc(mo)}" title="Open ${esc(mo)} in the other tab">${esc(mo)}</th>`
+    + tasks.map(t=>{
+        const v = cell[mo+"|"+t];
+        if(!Number.isFinite(v)) return `<td class="na" title="not run">—</td>`;
+        return `<td style="background:${bg(v)};color:${ink(v)}"
+                 title="${esc(mo)} · ${esc(t)}&#10;${esc(m.label)}: ${v.toFixed(m.dp)}">`
+             + `${v.toFixed(m.dp)}</td>`;
+      }).join("") + "</tr>").join("") + "</tbody>";
+  $("#heat").innerHTML = head + body;
+  $("#heat").querySelectorAll("th.rh[data-m]").forEach(th=>th.onclick = ()=>{
+    const mo = th.dataset.m;
+    const p = DATA.pairs.find(x=>x.model===mo);
+    if(!p) return;
+    go({task: p.task, model: mo});
+  });
+
+  const grad = m.kind==="div"
+    ? `linear-gradient(90deg, var(--div-lo), var(--div-mid), var(--div-hi))`
+    : (m.invert ? `linear-gradient(90deg, var(--heat-hi), var(--heat-lo))`
+                : `linear-gradient(90deg, var(--heat-lo), var(--heat-hi))`);
+  $("#hscale").innerHTML =
+    `<span>${lo.toFixed(m.dp)}</span><span class="bar" style="background:${grad}"></span>`
+    + `<span>${hi.toFixed(m.dp)}</span>`
+    + (m.kind==="div" ? `<span style="margin-left:8px">neutral at 0 — `
+        + `<b style="color:var(--div-lo)">below the raters</b> / `
+        + `<b style="color:var(--div-hi)">above</b></span>`
+      : m.invert ? `<span style="margin-left:8px">darker is better</span>`
+                 : `<span style="margin-left:8px">darker is higher</span>`);
+  $("#mhelp").textContent = m.help;
+  $("#hnote").textContent =
+    `Hatched cells were not run. Click a model name to open it in the other tab. `
+    + `Colour range is set by the values actually shown, not a fixed scale.`;
+}
+$("#metric").onchange = renderHeat;
+$("#horder").onchange = renderHeat;
+
+/* ---- the task tree, the model strip, coverage, and routing ---- */
+const SRC_GLYPH = {published:"P", surveyor:"S", mturk:"M"};
+let CAT = new Map();                       // task -> catalogue entry (all 291)
+function catalogue(){
+  if(CAT.size) return CAT;
+  for(const d of (PROMPTS||[])) CAT.set(d.task, d);
+  // a scored task missing from the catalogue (old layout) still gets a row
+  for(const p of DATA.pairs) if(!CAT.has(p.task)) CAT.set(p.task, {
+    task:p.task, label:p.task_label, level:p.level, sublevel_label:p.sublevel_label,
+    source:p.source, scale:p.scale, n_items:p.dataset_n_items, n_trial_items:p.n_items,
+    ratings_per_item:p.ratings_per_item, merged_from:p.merged_from, language:p.language,
+    level_decided_by:p.level_decided_by, level_rationale:p.level_rationale, note:p.note,
+    gloss:p.gloss, samples:[], instruction:"", scorable:true, problems:[]});
+  return CAT;
+}
+const runsOf = t => DATA.pairs.filter(p=>p.task===t);
+const modelsOf = t => [...new Set(runsOf(t).map(p=>p.model))].sort();
+
+function buildRail(q){
+  const cat = catalogue(); q = (q||"").toLowerCase().trim();
+  const byLvl = new Map();
+  for(const d of cat.values()){
+    if(q && !d.task.toLowerCase().includes(q) && !(d.label||"").toLowerCase().includes(q)) continue;
+    const l = d.level || "other";
+    if(!byLvl.has(l)) byLvl.set(l, []);
+    byLvl.get(l).push(d);
+  }
+  const cur = $("#task").value;
+  const html = LEVEL_ORDER.filter(l=>byLvl.has(l)).map(l=>{
+    const ds = byLvl.get(l).sort((a,b)=>a.task.localeCompare(b.task));
+    const scored = ds.filter(d=>modelsOf(d.task).length).length;
+    const open = q || ds.some(d=>d.task===cur) || l===(cat.get(cur)||{}).level;
+    return `<details class="lv" ${open?"open":""}><summary>${esc(LEVEL_NAME[l]||l)}
+        <span class="n"><b>${scored}</b>/${ds.length}</span></summary>`
+      + ds.map(d=>{
+          const n = modelsOf(d.task).length;
+          return `<button class="trow" data-t="${esc(d.task)}" aria-current="${d.task===cur}"
+            title="${esc(d.task)} · ${esc(d.source||"")}${d.sublevel_label?" · "+esc(d.sublevel_label):""}">
+            <span class="dot ${n?"on":""}"></span>
+            <span class="nm">${esc(d.task)}</span>
+            <span class="k">${n?`<b>${n}</b>`:""}${SRC_GLYPH[d.source]||""}</span></button>`;
+        }).join("") + `</details>`;
+  }).join("");
+  $("#tree").innerHTML = html || `<div class="rail-empty">No task matches "${esc(q)}".</div>`;
+  $("#tree").querySelectorAll(".trow").forEach(b=>b.onclick = ()=>go({task:b.dataset.t}));
+}
+
+function renderModels(t){
+  // One control, however many models: a select sorted best-first with the
+  // correlation in the label, plus the neighbours so the current choice reads
+  // in context. The full ranking lives in the comparison table below.
+  const runs = runsOf(t), cur = $("#model").value;
+  if(!runs.length){ $("#models").innerHTML = ""; return; }
+  const ranked = runs.slice().sort((a,b)=>(b.stats.pearson||-9)-(a.stats.pearson||-9));
+  const pos = ranked.findIndex(p=>p.model===cur);
+  const flag = p => (p.stats.mass_median<0.9) ? " \u26a0" : "";
+  $("#models").innerHTML =
+      `<span class="lbl">model</span>`
+    + `<select id="mpick" aria-label="Model">${ranked.map((p,i)=>
+        `<option value="${esc(p.model)}" ${p.model===cur?"selected":""}>`
+        + `${i+1}. ${esc(p.model)} \u2014 r ${f(p.stats.pearson)}${flag(p)}${
+            oldFormat(p) ? " \u00b7 <<>> old format" : ""}</option>`).join("")}</select>`
+    + `<span class="mpos">${pos+1} of ${ranked.length} by correlation`
+    + (pos>0 ? ` \u00b7 <a data-m="${esc(ranked[pos-1].model)}">\u2191 ${esc(ranked[pos-1].model)}</a>` : "")
+    + (pos<ranked.length-1 ? ` \u00b7 <a data-m="${esc(ranked[pos+1].model)}">\u2193 ${esc(ranked[pos+1].model)}</a>` : "")
+    + `</span>`;
+  $("#mpick").onchange = e => go({task:t, model:e.target.value});
+  $("#models").querySelectorAll("a[data-m]").forEach(a=>a.onclick = ()=>go({task:t, model:a.dataset.m}));
+}
+
+function promptFor(d, unit){
+  // the same text the scorer builds: the stimulus in every slot, in double quotes
+  const re = /<<\{[a-z_]+\}>>/g; let out = "", at = 0, m;
+  while((m = re.exec(d.instruction||""))){
+    out += esc(d.instruction.slice(at, m.index)) + `<span class="stim">${esc('"'+unit+'"')}</span>`;
+    at = m.index + m[0].length;
+  }
+  out += esc((d.instruction||"").slice(at));
+  if(d.scale) out += esc("\n\nRespond with a single number from "+d.scale[0]+" to "+d.scale[1]+" and nothing else.");
+  return out;
+}
+function renderPreview(d){
+  const picks = d.samples || [];
+  $("#pv-picks").innerHTML = picks.map((u,j)=>
+    `<button data-j="${j}" aria-pressed="${j===0}" title="${esc(u)}">${esc(u.slice(0,60))}</button>`).join("");
+  $("#pv-prompt").innerHTML = picks.length ? promptFor(d, picks[0]) : "(no stimuli in this file)";
+  $("#pv-picks").querySelectorAll("button").forEach(b=>b.onclick = ()=>{
+    $("#pv-prompt").innerHTML = promptFor(d, picks[+b.dataset.j]);
+    $("#pv-picks").querySelectorAll("button").forEach(o=>o.setAttribute("aria-pressed", o===b));
+  });
+  $("#pv-note").textContent = d.problems && d.problems.length
+    ? "Not wired into the sweep: " + d.problems.join("; ") + "."
+    : "Ready to score: run  ./ratings run --tasks " + d.task + " --models \"...\"";
+}
+
+function selectTask(t, m){
+  const d = catalogue().get(t); if(!d) return;
+  const ms = modelsOf(t);
+  // the card reads the catalogue record; the results read the scored pair
+  card = Object.assign({}, d, {
+    domain: LEVEL_NAME[d.level]||d.level, dataset_n_items: d.n_items,
+    dataset_n_ratings: d.n_ratings, human_trial_level: !!(d.n_trial_items),
+    level_confirmed: true });
+  $("#task").innerHTML = `<option value="${esc(t)}">${esc(t)}</option>`;
+  $("#task").value = t;
+  $("#model").innerHTML = ms.map(x=>`<option value="${esc(x)}">${esc(x)}</option>`).join("");
+  $("#model").value = (m && ms.includes(m)) ? m : (ms[0]||"");
+  $("#results").hidden = !ms.length; $("#preview").hidden = !!ms.length;
+  renderProv(); renderModels(t);
+  if(ms.length) load(); else renderPreview(d);
+  buildRail($("#nav-q").value);
+  try{ localStorage.setItem("inspector.task", t); }catch(e){}
+}
+
+function renderCoverage(){
+  const cat = catalogue(), all = $("#cov-all").checked;
+  const models = [...new Set(DATA.pairs.map(p=>p.model))].sort();
+  const have = new Set(DATA.pairs.map(p=>p.model+"|"+p.task));
+  const byLvl = new Map();
+  for(const d of cat.values()){
+    if(!all && !modelsOf(d.task).length) continue;
+    const l = d.level||"other"; if(!byLvl.has(l)) byLvl.set(l, []); byLvl.get(l).push(d);
+  }
+  let rows = 0, cells = 0;
+  const head = `<thead><tr><th class="t">Task</th>${models.map(m=>`<th title="${esc(m)}">${esc(m.replace(/-Instruct.*$/,""))}</th>`).join("")}</tr></thead>`;
+  const body = "<tbody>" + LEVEL_ORDER.filter(l=>byLvl.has(l)).map(l=>{
+    const ds = byLvl.get(l).sort((a,b)=>a.task.localeCompare(b.task));
+    return `<tr class="lv"><td colspan="${models.length+1}">${esc(LEVEL_NAME[l]||l)} · ${ds.length}</td></tr>`
+      + ds.map(d=>{ rows++;
+          return `<tr><td class="t"><a data-t="${esc(d.task)}">${esc(d.task)}</a><span class="src">${SRC_GLYPH[d.source]||""}</span></td>`
+            + models.map(m=>{ const on = have.has(m+"|"+d.task); cells += on;
+                return `<td class="${on?"on":"off"}" title="${esc(m)} · ${esc(d.task)}">${on?"●":"·"}</td>`; }).join("")
+            + `</tr>`; }).join("");
+  }).join("") + "</tbody>";
+  $("#cov").innerHTML = head + body;
+  $("#cov").querySelectorAll("td.t a").forEach(a=>a.onclick = ()=>go({task:a.dataset.t}));
+  $("#cov-note").textContent = `${rows} task${rows===1?"":"s"} × ${models.length} models · ${cells} runs`;
+}
+$("#cov-all").onchange = renderCoverage;
+$("#cmpq").oninput = renderCmp;
+
+function showView(v){
+  $("#view-overview").hidden = v!=="overview";
+  $("#view-task").hidden = v!=="task";
+  $("#nav-overview").setAttribute("aria-current", v==="overview");
+  if(v==="overview"){ renderCoverage(); renderHeat(); }
+}
+function go(st){
+  const h = st.overview ? "#overview"
+          : "#task=" + encodeURIComponent(st.task) + (st.model ? "&model=" + encodeURIComponent(st.model) : "");
+  if(location.hash !== h) location.hash = h; else route();
+}
+function route(){
+  const h = location.hash.replace(/^#/, "");
+  if(h === "overview"){ showView("overview"); buildRail($("#nav-q").value); return; }
+  const q = new URLSearchParams(h);
+  let t = q.get("task"), m = q.get("model");
+  if(!t){ try{ t = localStorage.getItem("inspector.task"); }catch(e){} }
+  if(!t || !catalogue().has(t)) t = (DATA.tasks && DATA.tasks[0]) || [...catalogue().keys()][0];
+  showView("task"); selectTask(t, m);
+}
+window.addEventListener("hashchange", route);
+$("#nav-overview").onclick = ()=>go({overview:true});
+$("#nav-q").oninput = ()=>buildRail($("#nav-q").value);
+
+boot().then(async ()=>{
+  await loadPrompts();
+  buildRail("");
+  route();
+});
+</script>

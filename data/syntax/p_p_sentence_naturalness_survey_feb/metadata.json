@@ -1,0 +1,40 @@
+{
+  "task": "p_p_sentence_naturalness_survey_feb",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "andrea_scheme_v4",
+  "level_rationale": "single-sentence donkey-anaphora / pronoun-binding items (formal link); within-sentence binding → syntax, consistent with Andrea's decision on p_p_june_2013_v3 and codebook v4 boundary rule",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 614,
+  "n_ratings": 15402,
+  "ratings_per_item_median": 16,
+  "ratings_per_item_min": 7,
+  "ratings_per_item_max": 158,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "raw folder name states the dimension ('sentence naturalness survey'); no per-item question text in export",
+    "scale_labels": "own row scale_labels (verbatim per-item text) = 'Rating: Extremely unnatural | Somewhat unnatural | Possible | Somewhat natural | Extremely natural || YNQ: Yes | No'; template_source=html_maker_rating.py match_score=1.0; SCALE_CATALOG rows 3/29",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/p_p_sentence_naturalness_survey_feb.csv",
+    "instruction": "mturk_norms/instructions/p_p_sentence_naturalness_survey_feb_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.654,
+    "spearman_sb": 0.664,
+    "n_items_used": 614,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

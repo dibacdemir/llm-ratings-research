@@ -1,0 +1,44 @@
+{
+  "task": "copy_of_verb_causality_study_semantics_ratings_mk_april_2010",
+  "source": "mturk",
+  "level": "lexical_semantics",
+  "sublevel": "conceptual",
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged | MERGED 2026-08-22 with copy_of_verb_causality_study_semantics_ratings_v3o1_mk_april_2010, copy_of_verb_causality_study_semantics_ratings_v3o2_mk_april_2010, copy_of_verb_causality_study_semantics_ratings_v3o4_mk_april_2010 (identical items + instruction; ratings pooled)",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 62,
+  "n_ratings": 2470,
+  "ratings_per_item_median": 40,
+  "ratings_per_item_min": 39,
+  "ratings_per_item_max": 40,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "word",
+  "unit_non_ascii": 0,
+  "merged_from": [
+    "copy_of_verb_causality_study_semantics_ratings_v3o1_mk_april_2010",
+    "copy_of_verb_causality_study_semantics_ratings_v3o2_mk_april_2010",
+    "copy_of_verb_causality_study_semantics_ratings_v3o4_mk_april_2010"
+  ],
+  "provenance": {
+    "question_wording": "reconstructed from own-row dashboard_scale_labels poles (self-caused vs. externally-caused event); raw HIT Title/Description are generic ('Brief English-language survey: Apatosaurus-convention code name') and do not name the dimension",
+    "scale_labels": "own row dashboard_scale_labels (wording_status=RECOVERED via dashboard_layout, scale_source_project='Verb causality study - semantics ratings (MK)', i.e. this project itself); SCALE_CATALOG row 70 (single-project scale)",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/copy_of_verb_causality_study_semantics_ratings_mk_april_2010.csv",
+    "instruction": "mturk_norms/instructions/copy_of_verb_causality_study_semantics_ratings_mk_april_2010_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.863,
+    "spearman_sb": 0.83,
+    "n_items_used": 62,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

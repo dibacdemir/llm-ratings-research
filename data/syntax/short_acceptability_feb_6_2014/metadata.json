@@ -1,0 +1,40 @@
+{
+  "task": "short_acceptability_feb_6_2014",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 128,
+  "n_ratings": 2904,
+  "ratings_per_item_median": 13,
+  "ratings_per_item_min": 12,
+  "ratings_per_item_max": 52,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "reconstructed: 'How natural does the sentence sound?' -- no dashboard_scale_labels/dashboard_instructions recovered for this folder (wording_sources=local_template;csv_input_questions only); question wording follows the corpus-wide convention that tedlab 'acceptability' studies use the naturalness-scale question (see scale_source), not a literal recovered question string.",
+    "scale_labels": "No direct dashboard row for this folder's own scale. questionnaire_wording.csv attaches template_family=bias_norm.html / scale_labels='Strongly prefer A...Prefer B' at match_score=0.5, but that is the generic A/B-preference demo scale baked into the bias_norm.html generator file itself, not a per-study substitution, and it cannot be rated 1-5 on a single sentence -- rejected as not evidentially applicable. Instead used SCALE_CATALOG.md row 3 ('Yes . No . Extremely unnatural . Somewhat unnatural . Possible . Somewhat natural . Extremely natural', 57 projects incl. explicitly 'Acceptability Judgments - Kang'), stripped of Yes/No -> exact 5-label match to observed 1-5 range, and consistent with every other 5-point naturalness-scale sibling dataset in this batch (verb_particle_ratings, wm2_wm5, word_length_context, verb_causality_syntax) which independently confirm this exact 5-label set was tedlab's standard sentence-naturalness instrument in this period.",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/short_acceptability_feb_6_2014.csv",
+    "instruction": "mturk_norms/instructions/short_acceptability_feb_6_2014_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.928,
+    "spearman_sb": 0.907,
+    "n_items_used": 128,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

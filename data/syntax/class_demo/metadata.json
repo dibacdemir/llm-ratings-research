@@ -1,0 +1,47 @@
+{
+  "task": "class_demo",
+  "source": "surveyor",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged | MERGED 2026-08-22 with demo_9_59_2025, demo_9_59_2026 (identical items + instruction; ratings pooled)",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 44,
+  "n_ratings": 1110,
+  "ratings_per_item_median": 16,
+  "ratings_per_item_min": 5,
+  "ratings_per_item_max": 57,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [
+    "demo_9_59_2025",
+    "demo_9_59_2026"
+  ],
+  "provenance": {
+    "survey_id": "class_demo",
+    "owner": "moshepol@mit.edu",
+    "participants": 23,
+    "n_test": 32,
+    "n_filler": 12,
+    "n_practice": 0,
+    "anchors_dropped": 0
+  },
+  "original": {
+    "ratings": "surveyor_norms/norm_datasets/syntax/class_demo.csv",
+    "instruction": "surveyor_norms/instructions/syntax/class_demo_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.941,
+    "spearman_sb": 0.927,
+    "n_items_used": 44,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

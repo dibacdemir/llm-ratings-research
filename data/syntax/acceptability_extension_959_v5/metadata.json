@@ -1,0 +1,44 @@
+{
+  "task": "acceptability_extension_959_v5",
+  "source": "surveyor",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "andrea_review_page",
+  "level_rationale": "Andrea (review page): lead-in contexts inert; scrambled target judged on its own → syntax",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 566,
+  "n_ratings": 2155,
+  "ratings_per_item_median": 4,
+  "ratings_per_item_min": 1,
+  "ratings_per_item_max": 10,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 81,
+  "merged_from": [],
+  "provenance": {
+    "survey_id": "acceptability_extension_959_v5",
+    "owner": "sukrith@mit.edu",
+    "participants": 31,
+    "n_test": 566,
+    "n_filler": 0,
+    "n_practice": 0,
+    "anchors_dropped": 0
+  },
+  "original": {
+    "ratings": "surveyor_norms/norm_datasets/syntax/acceptability_extension_959_v5.csv",
+    "instruction": "surveyor_norms/instructions/syntax/acceptability_extension_959_v5_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.806,
+    "spearman_sb": 0.797,
+    "n_items_used": 514,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

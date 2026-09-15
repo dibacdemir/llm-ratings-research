@@ -1,0 +1,46 @@
+{
+  "task": "base_acceptability_0908",
+  "source": "surveyor",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged | MERGED 2026-08-22 (near-duplicate, pooled on shared items) with base_acceptability_0911",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 73,
+  "n_ratings": 4247,
+  "ratings_per_item_median": 61,
+  "ratings_per_item_min": 30,
+  "ratings_per_item_max": 62,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [
+    "base_acceptability_0911"
+  ],
+  "provenance": {
+    "survey_id": "base_acceptability_0908",
+    "owner": "susanw26@mit.edu",
+    "participants": 30,
+    "n_test": 30,
+    "n_filler": 40,
+    "n_practice": 0,
+    "anchors_dropped": 0
+  },
+  "original": {
+    "ratings": "surveyor_norms/norm_datasets/syntax/base_acceptability_0908.csv",
+    "instruction": "surveyor_norms/instructions/syntax/base_acceptability_0908_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.943,
+    "spearman_sb": 0.931,
+    "n_items_used": 73,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

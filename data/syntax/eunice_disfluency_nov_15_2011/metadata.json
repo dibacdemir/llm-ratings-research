@@ -1,0 +1,40 @@
+{
+  "task": "eunice_disfluency_nov_15_2011",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 468,
+  "n_ratings": 6655,
+  "ratings_per_item_median": 10,
+  "ratings_per_item_min": 8,
+  "ratings_per_item_max": 62,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "folder-name convention ('disfluency' naturalness study); raw HIT Title/Description generic ('108 sentences followed by a question and a rating')",
+    "scale_labels": "own row scale_labels, local_template html_maker_rating.py, match_score 1.0 (direct recovery); SCALE_CATALOG row 3",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/eunice_disfluency_nov_15_2011.csv",
+    "instruction": "mturk_norms/instructions/eunice_disfluency_nov_15_2011_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.814,
+    "spearman_sb": 0.807,
+    "n_items_used": 468,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

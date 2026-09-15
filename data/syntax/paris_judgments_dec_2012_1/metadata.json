@@ -1,0 +1,42 @@
+{
+  "task": "paris_judgments_dec_2012_1",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged | MERGED 2026-08-22 (near-duplicate, pooled on shared items) with paris_judgments_2_dec_2012_1",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 488,
+  "n_ratings": 5085,
+  "ratings_per_item_median": 10,
+  "ratings_per_item_min": 4,
+  "ratings_per_item_max": 40,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 1,
+  "merged_from": [
+    "paris_judgments_2_dec_2012_1"
+  ],
+  "provenance": {
+    "question_wording": "raw Title/Description name no dimension ('96 sentences followed by a rating and a question'); dimension recovered from sibling dashboard_scale_labels",
+    "scale_labels": "dashboard_scale_labels on the sibling row 'Paris judgments 3 Dec 2012' (RECOVERED); SCALE_CATALOG row 2 (names 'Paris judgments 3 Dec 2012' / 'Paris judgments 2 Dec 2012' among its 71 projects)",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/paris_judgments_dec_2012_1.csv",
+    "instruction": "mturk_norms/instructions/paris_judgments_dec_2012_1_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.858,
+    "spearman_sb": 0.857,
+    "n_items_used": 488,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

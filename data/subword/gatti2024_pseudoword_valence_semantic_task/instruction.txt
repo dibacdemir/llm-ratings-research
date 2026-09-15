@@ -1,0 +1,7 @@
+You will be shown a new word. Many such new words are not part of the English vocabulary, but they may still suggest a possible meaning. Think about what the new word might mean, and judge the emotional valence of that possible meaning.
+
+How positive or negative is the meaning the new word suggests?
+Rate on a scale from 1 (very negative) to 9 (very positive).
+Answer with one digit.
+
+<<{word}>>

@@ -1,0 +1,40 @@
+{
+  "task": "melissa_short_naturalness_test",
+  "source": "mturk",
+  "level": "sentence_semantics",
+  "sublevel": "plausibility",
+  "level_decided_by": "andrea_policy_Q5",
+  "level_rationale": "naturalness asked, but items vary in meaning (semantic/animacy anomalies, malapropisms, personification)",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 24,
+  "n_ratings": 1431,
+  "ratings_per_item_median": 60,
+  "ratings_per_item_min": 58,
+  "ratings_per_item_max": 60,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "dashboard_confirmed (RESOLVED_QUERIES.md, 2026-08-20)",
+    "scale_labels": "dashboard_confirmed (RESOLVED_QUERIES.md, 2026-08-20) -- RESOLVED_QUERIES.md A2 row 'Melissa: Short naturalness test' -- NON-STANDARD 1-5 labels, verbatim",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/melissa_short_naturalness_test.csv",
+    "instruction": "mturk_norms/instructions/melissa_short_naturalness_test_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.988,
+    "spearman_sb": 0.968,
+    "n_items_used": 24,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task": "relative_clause_displacements_in_english_sentences",
+  "source": "surveyor",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "fable_resolution",
+  "level_rationale": "comprehensibility/naturalness of structurally complex (center-embedded, displaced) sentences: what varies is structure; comprehensibility is a processing measure of it",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 180,
+  "n_ratings": 897,
+  "ratings_per_item_median": 5,
+  "ratings_per_item_min": 1,
+  "ratings_per_item_max": 11,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "survey_id": "Relative clause displacements in English Sentences",
+    "owner": "sdurai30@mit.edu",
+    "participants": 30,
+    "n_test": 180,
+    "n_filler": 0,
+    "n_practice": 0,
+    "anchors_dropped": 0
+  },
+  "original": {
+    "ratings": "surveyor_norms/norm_datasets/sentence_semantics/relative_clause_displacements_in_english_sentences.csv",
+    "instruction": "surveyor_norms/instructions/sentence_semantics/relative_clause_displacements_in_english_sentences_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.507,
+    "spearman_sb": 0.501,
+    "n_items_used": 170,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

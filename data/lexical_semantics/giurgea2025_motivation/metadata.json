@@ -1,0 +1,36 @@
+{
+  "task": "giurgea2025_motivation",
+  "source": "published",
+  "level": "lexical_semantics",
+  "sublevel": "conceptual",
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 8765,
+  "n_ratings": 255943,
+  "ratings_per_item_median": 25,
+  "ratings_per_item_min": 16,
+  "ratings_per_item_max": 649,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "word",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {},
+  "original": {
+    "ratings": "norm_datasets/giurgea2025_data/giurgea2025_motivation.csv",
+    "instruction": "instructions/giurgea2025_instructions/giurgea2025_motivation_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.862,
+    "spearman_sb": 0.856,
+    "n_items_used": 8765,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

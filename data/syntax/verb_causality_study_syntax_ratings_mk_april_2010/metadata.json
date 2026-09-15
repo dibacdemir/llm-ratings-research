@@ -1,0 +1,40 @@
+{
+  "task": "verb_causality_study_syntax_ratings_mk_april_2010",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 653,
+  "n_ratings": 4628,
+  "ratings_per_item_median": 4,
+  "ratings_per_item_min": 1,
+  "ratings_per_item_max": 24,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "reconstructed: 'How natural does the sentence sound?', following the naturalness-scale convention evidenced by SCALE_CATALOG.md row 29 (see scale_source).",
+    "scale_labels": "CONFLICT, resolved: questionnaire_wording.csv row for this folder carries scale_source_project='Verb causality study - semantics ratings (MK)' (the SIBLING semantics study's causality labels, SCALE_CATALOG.md row 70) via a low-confidence fuzzy match -- but this dataset's units are nonce-verb sentences (e.g. \"He's abating the spow.\") that cannot coherently be rated on a 'happens on its own vs is caused' scale, and the observed range (1-5) matches a 5-point scale, not the causality scale's 5 semantically-specific labels either way. SCALE_CATALOG.md row 29 = 'Extremely unnatural . Somewhat unnatural . Possible . Somewhat natural . Extremely natural', explicitly attested for 'Verb transitivity/causal study - syntax (MK)' (3 projects) -- a direct project-name match to THIS dataset's own study, naming the syntax half specifically as distinct from the semantics half. Causality labels rejected; naturalness scale (row 29) adopted.",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/verb_causality_study_syntax_ratings_mk_april_2010.csv",
+    "instruction": "mturk_norms/instructions/verb_causality_study_syntax_ratings_mk_april_2010_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.628,
+    "spearman_sb": 0.633,
+    "n_items_used": 565,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "task": "reasoning_and_language_tasks_survey_code_talkative_pigeon",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged | MERGED 2026-08-22 with social_interaction_and_language_tasks_survey_code_talkative_pigeon (identical items + instruction; ratings pooled)",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 72,
+  "n_ratings": 8590,
+  "ratings_per_item_median": 90,
+  "ratings_per_item_min": 88,
+  "ratings_per_item_max": 180,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [
+    "social_interaction_and_language_tasks_survey_code_talkative_pigeon"
+  ],
+  "provenance": {
+    "question_wording": "reconstructed",
+    "scale_labels": "dashboard_sibling: dashboard_scale_labels, scale_source_project=\"reasoning and language tasks\"; scale_catalog row 40; dashboard_confirmed (RESOLVED_QUERIES.md, 2026-08-20)",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/reasoning_and_language_tasks_survey_code_talkative_pigeon.csv",
+    "instruction": "mturk_norms/instructions/reasoning_and_language_tasks_survey_code_talkative_pigeon_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.953,
+    "spearman_sb": 0.941,
+    "n_items_used": 72,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "task": "locative_topicalization_survey",
+  "source": "surveyor",
+  "level": "discourse",
+  "sublevel": null,
+  "level_decided_by": "andrea_rule_context_v3",
+  "level_rationale": "context manipulated across items: 26/71 families cross context (referent introduced or not) with target (a/the, inversion)",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 229,
+  "n_ratings": 2172,
+  "ratings_per_item_median": 5,
+  "ratings_per_item_min": 1,
+  "ratings_per_item_max": 34,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "survey_id": "Locative Topicalization Survey",
+    "owner": "aalargen06@gmail.com",
+    "participants": 34,
+    "n_test": 189,
+    "n_filler": 40,
+    "n_practice": 0,
+    "anchors_dropped": 0
+  },
+  "original": {
+    "ratings": "surveyor_norms/norm_datasets/syntax/locative_topicalization_survey.csv",
+    "instruction": "surveyor_norms/instructions/syntax/locative_topicalization_survey_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.766,
+    "spearman_sb": 0.777,
+    "n_items_used": 217,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "task": "acd_project_also_3_nov_24_2012_2",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 128,
+  "n_ratings": 3338,
+  "ratings_per_item_median": 15,
+  "ratings_per_item_min": 13,
+  "ratings_per_item_max": 60,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "reconstructed",
+    "scale_labels": "scale_catalog row 2 (PSYCHEDELIC EGGPLANT / Paris judgments family) via the ACD sibling \"ACD project- expt 46 also in HKV 2\" dashboard row",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/acd_project_also_3_nov_24_2012_2.csv",
+    "instruction": "mturk_norms/instructions/acd_project_also_3_nov_24_2012_2_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.906,
+    "spearman_sb": 0.874,
+    "n_items_used": 128,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

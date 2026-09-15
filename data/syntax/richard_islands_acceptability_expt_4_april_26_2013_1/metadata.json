@@ -1,0 +1,40 @@
+{
+  "task": "richard_islands_acceptability_expt_4_april_26_2013_1",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 100,
+  "n_ratings": 2058,
+  "ratings_per_item_median": 10,
+  "ratings_per_item_min": 9,
+  "ratings_per_item_max": 40,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "dashboard_confirmed (RESOLVED_QUERIES.md, 2026-08-20)",
+    "scale_labels": "dashboard_confirmed (RESOLVED_QUERIES.md, 2026-08-20) -- RESOLVED_QUERIES.md A1 row 'Richard Islands acceptability expt 4 April 26 2013'",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/richard_islands_acceptability_expt_4_april_26_2013_1.csv",
+    "instruction": "mturk_norms/instructions/richard_islands_acceptability_expt_4_april_26_2013_1_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.964,
+    "spearman_sb": 0.931,
+    "n_items_used": 100,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

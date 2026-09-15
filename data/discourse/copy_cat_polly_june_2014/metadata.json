@@ -1,0 +1,43 @@
+{
+  "task": "copy_cat_polly_june_2014",
+  "source": "mturk",
+  "level": "discourse",
+  "sublevel": null,
+  "level_decided_by": "fable_resolution",
+  "level_rationale": "likelihood that a causal statement holds between two events described in the passage = relation between sentences | MERGED 2026-08-22 (near-duplicate, pooled on shared items) with copy_cat_polly_dec_2013_1, copy_cat_polly_june_2014_v2_1",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 102,
+  "n_ratings": 7574,
+  "ratings_per_item_median": 59,
+  "ratings_per_item_min": 20,
+  "ratings_per_item_max": 200,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [
+    "copy_cat_polly_dec_2013_1",
+    "copy_cat_polly_june_2014_v2_1"
+  ],
+  "provenance": {
+    "question_wording": "verbatim marker phrase embedded in every raw unit ('How likely is the following causal statement:') + raw HIT Title states the causality dimension",
+    "scale_labels": "own row dashboard_scale_labels (wording_status=RECOVERED via dashboard_layout, scale_source_project='Copy cat Polly June 2014 / Dec 2013'); SCALE_CATALOG row 23",
+    "quality_flag": "caveat: rating prompt text merged into unit"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/copy_cat_polly_june_2014.csv",
+    "instruction": "mturk_norms/instructions/copy_cat_polly_june_2014_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.972,
+    "spearman_sb": 0.865,
+    "n_items_used": 102,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

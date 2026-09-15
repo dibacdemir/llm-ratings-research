@@ -1,0 +1,36 @@
+{
+  "task": "troche2014_social_interaction",
+  "source": "published",
+  "level": "lexical_semantics",
+  "sublevel": "conceptual",
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 751,
+  "n_ratings": 16220,
+  "ratings_per_item_median": null,
+  "ratings_per_item_min": null,
+  "ratings_per_item_max": null,
+  "has_individual_ratings": false,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "word",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {},
+  "original": {
+    "ratings": "norm_datasets/troche2014_data/troche2014_social_interaction.csv",
+    "instruction": "instructions/troche2014_instructions/troche2014_social_interaction_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": null,
+    "spearman_sb": null,
+    "n_items_used": 0,
+    "min_raters": 2,
+    "n_splits": 0,
+    "method": "not computable: means only"
+  }
+}

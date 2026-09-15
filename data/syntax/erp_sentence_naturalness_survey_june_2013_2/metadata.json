@@ -1,0 +1,40 @@
+{
+  "task": "erp_sentence_naturalness_survey_june_2013_2",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 483,
+  "n_ratings": 9618,
+  "ratings_per_item_median": 20,
+  "ratings_per_item_min": 18,
+  "ratings_per_item_max": 20,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "raw HIT Title states the dimension verbatim ('165 sentences to be rated for naturalness')",
+    "scale_labels": "own row dashboard_scale_labels (wording_status=RECOVERED via dashboard_layout, scale_source_project = 'Verb transitivity/causal study - syntax (MK)', cross-project dashboard borrow); SCALE_CATALOG row 29",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/erp_sentence_naturalness_survey_june_2013_2.csv",
+    "instruction": "mturk_norms/instructions/erp_sentence_naturalness_survey_june_2013_2_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.959,
+    "spearman_sb": 0.922,
+    "n_items_used": 483,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

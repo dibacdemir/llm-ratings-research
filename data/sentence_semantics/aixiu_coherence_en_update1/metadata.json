@@ -1,0 +1,44 @@
+{
+  "task": "aixiu_coherence_en_update1",
+  "source": "surveyor",
+  "level": "sentence_semantics",
+  "sublevel": "plausibility",
+  "level_decided_by": "andrea_policy_Q5",
+  "level_rationale": "naturalness asked, but items vary in meaning (semantic/animacy anomalies, malapropisms, personification)",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 277,
+  "n_ratings": 2946,
+  "ratings_per_item_median": 11,
+  "ratings_per_item_min": 2,
+  "ratings_per_item_max": 24,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "survey_id": "aixiu_coherence_en_update1",
+    "owner": "moshepol@mit.edu",
+    "participants": 41,
+    "n_test": 277,
+    "n_filler": 0,
+    "n_practice": 0,
+    "anchors_dropped": 0
+  },
+  "original": {
+    "ratings": "surveyor_norms/norm_datasets/sentence_semantics/aixiu_coherence_en_update1.csv",
+    "instruction": "surveyor_norms/instructions/sentence_semantics/aixiu_coherence_en_update1_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.893,
+    "spearman_sb": 0.882,
+    "n_items_used": 277,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "task": "depth_charge_with_noise",
+  "source": "surveyor",
+  "level": "sentence_semantics",
+  "sublevel": "plausibility",
+  "level_decided_by": "fable_resolution",
+  "level_rationale": "comparative-illusion items: logical/semantic sense varies, structure constant",
+  "level_blind_check_agrees": false,
+  "language": "english",
+  "n_items": 188,
+  "n_ratings": 3206,
+  "ratings_per_item_median": 10,
+  "ratings_per_item_min": 3,
+  "ratings_per_item_max": 35,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "survey_id": "Depth Charge With Noise",
+    "owner": "arthurmilanferencei@gmail.com",
+    "participants": 35,
+    "n_test": 128,
+    "n_filler": 60,
+    "n_practice": 0,
+    "anchors_dropped": 0
+  },
+  "original": {
+    "ratings": "surveyor_norms/norm_datasets/syntax/depth_charge_with_noise.csv",
+    "instruction": "surveyor_norms/instructions/syntax/depth_charge_with_noise_i.txt"
+  },
+  "note": "blind pass: syntax (noise corruptions in ~28% of items). Kept: 72% of items are the depth-charge illusion set; noise is a secondary factor.",
+  "human_reliability": {
+    "pearson_sb": 0.857,
+    "spearman_sb": 0.854,
+    "n_items_used": 188,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

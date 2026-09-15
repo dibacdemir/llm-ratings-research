@@ -1,0 +1,36 @@
+{
+  "task": "gatti2024_pseudoword_valence_semantic_task",
+  "source": "published",
+  "level": "subword",
+  "sublevel": null,
+  "level_decided_by": "andrea_policy_Q4",
+  "level_rationale": "rating driven by word form (pseudoword valence, iconicity, wordlikeness)",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 500,
+  "n_ratings": 15000,
+  "ratings_per_item_median": null,
+  "ratings_per_item_min": null,
+  "ratings_per_item_max": null,
+  "has_individual_ratings": false,
+  "scale": [
+    1,
+    9
+  ],
+  "placeholder": "word",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {},
+  "original": {
+    "ratings": "norm_datasets/gatti2024_data/gatti2024_pseudoword_valence_semantic_task.csv",
+    "instruction": "instructions/gatti2024_instructions/gatti2024_pseudoword_valence_semantic_task_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": null,
+    "spearman_sb": null,
+    "n_items_used": 0,
+    "min_raters": 2,
+    "n_splits": 0,
+    "method": "not computable: means only"
+  }
+}

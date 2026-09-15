@@ -1,0 +1,40 @@
+{
+  "task": "word_length_context_sentence_naturalness_survey_april_2011",
+  "source": "mturk",
+  "level": "other",
+  "sublevel": "sentence",
+  "level_decided_by": "andrea_policy_Q3",
+  "level_rationale": "sentence-level frequency / cloze predictability / word-length-in-context — not lexical, not a semantic dimension | merged into `other` 2026-08-22 (was other); sublevel=sentence",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 131,
+  "n_ratings": 4774,
+  "ratings_per_item_median": 20,
+  "ratings_per_item_min": 19,
+  "ratings_per_item_max": 80,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "reconstructed: 'How natural does the sentence sound?' -- raw Title/Description in questionnaire_wording.csv name no dimension explicitly; question follows the exact-match template scale (see scale_source). Unit is a re-keyed context-fragment + completing word (e.g. 'After losing, John went' + 'home'), but the recombined unit is a single complete sentence, so the question stays sentence-level.",
+    "scale_labels": "verbatim from questionnaire_wording.csv scale_labels field for this folder's own row: template_family=html_maker_rating.py, match_score=1.0, 'Rating: Extremely unnatural | Somewhat unnatural | Possible | Somewhat natural | Extremely natural || YNQ: Yes | No' -- Rating-field labels only (5), matches SCALE_CATALOG.md rows 3/29.",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/word_length_context_sentence_naturalness_survey_april_2011.csv",
+    "instruction": "mturk_norms/instructions/word_length_context_sentence_naturalness_survey_april_2011_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.816,
+    "spearman_sb": 0.762,
+    "n_items_used": 131,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

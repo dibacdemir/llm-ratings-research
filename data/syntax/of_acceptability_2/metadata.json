@@ -1,0 +1,44 @@
+{
+  "task": "of_acceptability_2",
+  "source": "surveyor",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 88,
+  "n_ratings": 3837,
+  "ratings_per_item_median": 38,
+  "ratings_per_item_min": 20,
+  "ratings_per_item_max": 60,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "survey_id": "of_acceptability_2",
+    "owner": "susanw26@mit.edu",
+    "participants": 60,
+    "n_test": 48,
+    "n_filler": 40,
+    "n_practice": 0,
+    "anchors_dropped": 0
+  },
+  "original": {
+    "ratings": "surveyor_norms/norm_datasets/syntax/of_acceptability_2.csv",
+    "instruction": "surveyor_norms/instructions/syntax/of_acceptability_2_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.956,
+    "spearman_sb": 0.951,
+    "n_items_used": 88,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

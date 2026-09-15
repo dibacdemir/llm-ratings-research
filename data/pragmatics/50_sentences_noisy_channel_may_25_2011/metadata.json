@@ -1,0 +1,40 @@
+{
+  "task": "50_sentences_noisy_channel_may_25_2011",
+  "source": "mturk",
+  "level": "pragmatics",
+  "sublevel": null,
+  "level_decided_by": "andrea_scheme_v4",
+  "level_rationale": "within-sentence inferential interpretation (presupposition / literalness / intended meaning / agreement with an inference)",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 208,
+  "n_ratings": 3107,
+  "ratings_per_item_median": 15,
+  "ratings_per_item_min": 13,
+  "ratings_per_item_max": 15,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "reconstructed",
+    "scale_labels": "dashboard_own: dashboard_scale_labels, scale_source_project=\"50 sentences --Noisy Channel- may 25 2011\" (this project); scale_catalog row 67",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/50_sentences_noisy_channel_may_25_2011.csv",
+    "instruction": "mturk_norms/instructions/50_sentences_noisy_channel_may_25_2011_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.602,
+    "spearman_sb": 0.555,
+    "n_items_used": 208,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "task": "ecog_sentences_imaginability_jan_8_2014",
+  "source": "mturk",
+  "level": "sentence_semantics",
+  "sublevel": "conceptual_content",
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 120,
+  "n_ratings": 4784,
+  "ratings_per_item_median": 40,
+  "ratings_per_item_min": 38,
+  "ratings_per_item_max": 40,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "dimension confirmed by own-row dashboard_scale_labels vocabulary ('imaginable'/'unimaginable') and folder name; raw HIT Title/Description generic ('Rating 120 English sentences: EXTRAVAGANT HAWK survey') and do not name the dimension directly",
+    "scale_labels": "own row dashboard_scale_labels (wording_status=RECOVERED via dashboard_layout, scale_source_project = this project itself); SCALE_CATALOG row 57 (unique single-project scale)",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/ecog_sentences_imaginability_jan_8_2014.csv",
+    "instruction": "mturk_norms/instructions/ecog_sentences_imaginability_jan_8_2014_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.869,
+    "spearman_sb": 0.833,
+    "n_items_used": 120,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

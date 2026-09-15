@@ -1,0 +1,40 @@
+{
+  "task": "sentence_naturalness_survey_denise_jan_12_2011_survey_code_pig_the_pig",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 200,
+  "n_ratings": 31957,
+  "ratings_per_item_median": 199,
+  "ratings_per_item_min": 97,
+  "ratings_per_item_max": 201,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "reconstructed",
+    "scale_labels": "scale_catalog rows 41 and 5 (attested tedlab 7-point naturalness scale); dashboard_confirmed (RESOLVED_QUERIES.md, 2026-08-20)",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/sentence_naturalness_survey_denise_jan_12_2011_survey_code_pig_the_pig.csv",
+    "instruction": "mturk_norms/instructions/sentence_naturalness_survey_denise_jan_12_2011_survey_code_pig_the_pig_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.992,
+    "spearman_sb": 0.986,
+    "n_items_used": 200,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "task": "topicalization_e1",
+  "source": "surveyor",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged | MERGED 2026-08-22 (near-duplicate, pooled on shared items) with topicalization_e1_v2",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 77,
+  "n_ratings": 3733,
+  "ratings_per_item_median": 49,
+  "ratings_per_item_min": 21,
+  "ratings_per_item_max": 60,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [
+    "topicalization_e1_v2"
+  ],
+  "provenance": {
+    "survey_id": "topicalization_E1",
+    "owner": "moshepol@mit.edu",
+    "participants": 49,
+    "n_test": 48,
+    "n_filler": 28,
+    "n_practice": 0,
+    "anchors_dropped": 0
+  },
+  "original": {
+    "ratings": "surveyor_norms/norm_datasets/syntax/topicalization_e1.csv",
+    "instruction": "surveyor_norms/instructions/syntax/topicalization_e1_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.982,
+    "spearman_sb": 0.942,
+    "n_items_used": 77,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

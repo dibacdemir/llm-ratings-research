@@ -1,0 +1,43 @@
+{
+  "task": "sentence_naturalness_survey_for_lb_feb_20_2010_v2",
+  "source": "mturk",
+  "level": "discourse",
+  "sublevel": null,
+  "level_decided_by": "andrea_policy_Q2",
+  "level_rationale": "felicity depends on relations across sentences/clauses (presupposition, anaphora, ellipsis, implicit causality) | MERGED 2026-08-22 (near-duplicate, pooled on shared items) with sentence_naturalness_survey_for_lb_feb_2010, sentence_naturalness_survey_for_lb_feb_20_2010",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 79,
+  "n_ratings": 5424,
+  "ratings_per_item_median": 56,
+  "ratings_per_item_min": 20,
+  "ratings_per_item_max": 100,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [
+    "sentence_naturalness_survey_for_lb_feb_2010",
+    "sentence_naturalness_survey_for_lb_feb_20_2010"
+  ],
+  "provenance": {
+    "question_wording": "reconstructed (question wording not directly recovered; 'How natural does the passage sound?' reconstructed from the shared 'Sentence naturalness survey' folder-name convention + the recovered 5-point naturalness scale labels, verified against per-item description text '<n> short texts followed by a rating')",
+    "scale_labels": "dashboard HTML scrape (questionnaire_wording.csv dashboard_scale_labels field, own folder) = 'Extremely unnatural | Somewhat unnatural | Possible | Somewhat natural | Entirely natural | Yes|No', matching SCALE_CATALOG.md row 42; verified against converted CSV individual_ratings min=1 max=5 for all rows",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/sentence_naturalness_survey_for_lb_feb_20_2010_v2.csv",
+    "instruction": "mturk_norms/instructions/sentence_naturalness_survey_for_lb_feb_20_2010_v2_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.973,
+    "spearman_sb": 0.951,
+    "n_items_used": 79,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

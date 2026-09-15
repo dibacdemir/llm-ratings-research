@@ -1,0 +1,40 @@
+{
+  "task": "massive_mem_familiarity_mar_2014",
+  "source": "mturk",
+  "level": "other",
+  "sublevel": "lexical",
+  "level_decided_by": "andrea_policy_Q3",
+  "level_rationale": "word-level psycholinguistic variable that is not meaning (AoA/familiarity) | merged into `other` 2026-08-22 (was lexical_other); sublevel=lexical",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 2020,
+  "n_ratings": 63880,
+  "ratings_per_item_median": 30,
+  "ratings_per_item_min": 27,
+  "ratings_per_item_max": 238,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "word",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "reconstructed: question wording paraphrases the dimension name and scale-endpoint semantics; raw MTurk HIT Title/Description ('Rate N English words / phrases for <dimension>') verified verbatim in questionnaire_wording.csv row for source_folder and in raw batch CSV Title/Description fields; no literal on-page question text recovered (template_source pointer in questionnaire_wording.csv resolves to an unrelated bias_norm.html A/B-preference template, not the single-item word-rating page actually used).",
+    "scale_labels": "verbatim from questionnaire_wording.csv dashboard_scale_labels field (5 labels, match_score 1.0) for this folder; cross-checked against SCALE_CATALOG.md row for 'Massive mem: <dimension> Mar 2013/2014'",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/massive_mem_familiarity_mar_2014.csv",
+    "instruction": "mturk_norms/instructions/massive_mem_familiarity_mar_2014_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.961,
+    "spearman_sb": 0.885,
+    "n_items_used": 2020,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

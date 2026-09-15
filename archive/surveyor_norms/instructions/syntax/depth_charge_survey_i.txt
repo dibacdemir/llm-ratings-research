@@ -1,0 +1,8 @@
+How does this sentence sound*
+Rate on a scale from 1 to 7:
+1 = makes no sense/written poorly
+4 = intermediate
+7 = makes perfect sense/written well
+Answer with one digit.
+
+<<{sentence}>>

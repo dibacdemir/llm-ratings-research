@@ -1,0 +1,36 @@
+{
+  "task": "diveica2023_socialness",
+  "source": "published",
+  "level": "lexical_semantics",
+  "sublevel": "conceptual",
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 8948,
+  "n_ratings": 233407,
+  "ratings_per_item_median": 25,
+  "ratings_per_item_min": 11,
+  "ratings_per_item_max": 605,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "word",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {},
+  "original": {
+    "ratings": "norm_datasets/diveica2023_data/diveica2023_socialness.csv",
+    "instruction": "instructions/diveica2023_instructions/diveica2023_socialness_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.885,
+    "spearman_sb": 0.883,
+    "n_items_used": 8948,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

@@ -1,0 +1,5 @@
+You are invited to take part in the study that is investigating emotion, and concerns how people respond to different types of words. You will use a scale to rate how you felt while reading each word. Please work at a rapid pace and don't spend too much time thinking about each word. Rather, make your ratings based on your first and immediate reaction as you read each word.
+
+The data use a low-to-high arousal scale from 1 (calm/unaroused) to 9 (excited/aroused). At one extreme of this scale, you are completely relaxed, calm, sluggish, dull, sleepy, or unaroused. At the other extreme, you are stimulated, excited, frenzied, jittery, wide-awake, or aroused. If you feel neither excited nor calm, select the middle of the scale (rating 5).
+
+Please rate the word <<{word}>> on a scale from 1 (calm/unaroused) to 9 (excited/aroused). Answer with one digit.

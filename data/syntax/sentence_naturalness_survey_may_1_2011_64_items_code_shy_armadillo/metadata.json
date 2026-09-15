@@ -1,0 +1,40 @@
+{
+  "task": "sentence_naturalness_survey_may_1_2011_64_items_code_shy_armadillo",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 232,
+  "n_ratings": 2556,
+  "ratings_per_item_median": 5,
+  "ratings_per_item_min": 4,
+  "ratings_per_item_max": 40,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 14,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "reconstructed: 'How natural does the sentence sound?' inferred from the recovered naturalness scale and the folder-name convention shared with all sibling '*sentence naturalness survey*' folders in this corpus; no literal on-page question text recovered for this specific folder (dashboard_instructions field empty in questionnaire_wording.csv).",
+    "scale_labels": "CONFLICT, resolved: questionnaire_wording.csv row for this source_folder gives dashboard_scale_labels 'Extremely unnatural | Somewhat unnatural | Possible | Somewhat natural | Entirely natural | Yes | No' (5 naturalness labels) but flags scale_source_project='Sentence naturalness survey for JK June 24' (a DIFFERENT, borrowed project, match_score 0.14-0.5) = SCALE_CATALOG.md row 42 (1 project only, not this one); this 5-point scale cannot produce the observed 1-7 rating range in the converted CSV, so it is rejected. Used instead: SCALE_CATALOG.md row 41, the 7-point naturalness scale 'Extremely unnatural . Somewhat unnatural . Slightly unnatural . Possible . Slightly natural . Somewhat natural . Extremely natural', attested for the contemporaneous, identically-named 'Word3/Word3-b: Word naturalness survey May 2011' studies, and structurally confirmed by row 5 (same 7 naturalness labels + Yes/No, attested for other 2012 tedlab naturalness studies). Verbatim match to observed 1-7 range. Exact template variant used by this specific HIT is not directly recovered (no own dashboard row survives) -- flagged as analogy-based, not a direct per-study match.",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/sentence_naturalness_survey_may_1_2011_64_items_code_shy_armadillo.csv",
+    "instruction": "mturk_norms/instructions/sentence_naturalness_survey_may_1_2011_64_items_code_shy_armadillo_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.753,
+    "spearman_sb": 0.744,
+    "n_items_used": 232,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

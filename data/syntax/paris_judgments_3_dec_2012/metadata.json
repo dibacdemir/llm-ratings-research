@@ -1,0 +1,40 @@
+{
+  "task": "paris_judgments_3_dec_2012",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 477,
+  "n_ratings": 7714,
+  "ratings_per_item_median": 14,
+  "ratings_per_item_min": 9,
+  "ratings_per_item_max": 28,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "raw Title/Description name no dimension ('80 sentences followed by a rating and a question'); dimension recovered from this row's own dashboard_scale_labels",
+    "scale_labels": "own row dashboard_scale_labels (RECOVERED) scale_source_project='Paris judgments 3 Dec 2012' (this project itself); SCALE_CATALOG row 2 (names this project by name)",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/paris_judgments_3_dec_2012.csv",
+    "instruction": "mturk_norms/instructions/paris_judgments_3_dec_2012_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.873,
+    "spearman_sb": 0.845,
+    "n_items_used": 477,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

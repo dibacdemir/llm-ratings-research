@@ -1,0 +1,40 @@
+{
+  "task": "verb_causality_study_semantics_ratings_mk_april_2010",
+  "source": "mturk",
+  "level": "lexical_semantics",
+  "sublevel": "conceptual",
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 188,
+  "n_ratings": 9869,
+  "ratings_per_item_median": 42,
+  "ratings_per_item_min": 38,
+  "ratings_per_item_max": 80,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "word",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "reconstructed directly from the label poles ('Always happens on its own' vs 'Somebody/something always makes it'): 'Does the event named by the word happen on its own, or does somebody or something make it happen?' No literal on-page question text recovered (dashboard_instructions empty), but this is this folder's OWN dashboard row (wording_sources=local_template;dashboard_layout, scale_source_project matches this questionnaire's own name, match_score 0.67).",
+    "scale_labels": "verbatim from questionnaire_wording.csv dashboard_scale_labels for this folder's own row = SCALE_CATALOG.md row 70 ('Always happens on its own . Probably happens on its own . Either is possible . Somebody/something probably makes it . Somebody/something always makes it', 1 project: 'Verb causality study - semantics ratings (MK)' -- this exact dataset).",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/verb_causality_study_semantics_ratings_mk_april_2010.csv",
+    "instruction": "mturk_norms/instructions/verb_causality_study_semantics_ratings_mk_april_2010_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.975,
+    "spearman_sb": 0.972,
+    "n_items_used": 188,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

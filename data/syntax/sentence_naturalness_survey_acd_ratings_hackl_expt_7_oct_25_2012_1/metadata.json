@@ -1,0 +1,42 @@
+{
+  "task": "sentence_naturalness_survey_acd_ratings_hackl_expt_7_oct_25_2012_1",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "andrea_policy_Q1",
+  "level_rationale": "isolated sentences, no context; ellipsis/ACD structure varies | MERGED 2026-08-22 (near-duplicate, pooled on shared items) with sentence_naturalness_survey_acd_ratings_hackl_expt_5_oct_25_2012_1",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 176,
+  "n_ratings": 6614,
+  "ratings_per_item_median": 25,
+  "ratings_per_item_min": 7,
+  "ratings_per_item_max": 120,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [
+    "sentence_naturalness_survey_acd_ratings_hackl_expt_5_oct_25_2012_1"
+  ],
+  "provenance": {
+    "question_wording": "reconstructed",
+    "scale_labels": "dashboard_sibling: dashboard_scale_labels for this folder, scale_source_project=\"Sentence naturalness survey for JK June 24\"; C row 42",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/sentence_naturalness_survey_acd_ratings_hackl_expt_7_oct_25_2012_1.csv",
+    "instruction": "mturk_norms/instructions/sentence_naturalness_survey_acd_ratings_hackl_expt_7_oct_25_2012_1_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.867,
+    "spearman_sb": 0.886,
+    "n_items_used": 176,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

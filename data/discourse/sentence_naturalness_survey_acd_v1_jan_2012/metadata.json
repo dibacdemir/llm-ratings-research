@@ -1,0 +1,40 @@
+{
+  "task": "sentence_naturalness_survey_acd_v1_jan_2012",
+  "source": "mturk",
+  "level": "discourse",
+  "sublevel": null,
+  "level_decided_by": "andrea_rule_context_v3",
+  "level_rationale": "context manipulated across items: 11 families cross antecedent-set context (several/two) with every/the targets",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 128,
+  "n_ratings": 6128,
+  "ratings_per_item_median": 27,
+  "ratings_per_item_min": 25,
+  "ratings_per_item_max": 111,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "reconstructed",
+    "scale_labels": "dashboard_sibling: dashboard_scale_labels, scale_source_project=\"Sentence naturalness survey for JK June 24\"; C row 42",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/sentence_naturalness_survey_acd_v1_jan_2012.csv",
+    "instruction": "mturk_norms/instructions/sentence_naturalness_survey_acd_v1_jan_2012_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.266,
+    "spearman_sb": 0.299,
+    "n_items_used": 128,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

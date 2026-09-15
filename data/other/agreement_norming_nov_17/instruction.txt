@@ -1,0 +1,10 @@
+How likely is the phrase?
+Rate on a scale from 1 to 5:
+1 = Extremely unlikely
+2 = Somewhat unlikely
+3 = Possible
+4 = Somewhat likely
+5 = Extremely likely
+Answer with one digit.
+
+<<{sentence}>>

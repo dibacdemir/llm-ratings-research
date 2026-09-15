@@ -1,0 +1,44 @@
+{
+  "task": "european_portuguese_rc",
+  "source": "surveyor",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "non-english",
+  "n_items": 174,
+  "n_ratings": 2849,
+  "ratings_per_item_median": 9,
+  "ratings_per_item_min": 3,
+  "ratings_per_item_max": 53,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 134,
+  "merged_from": [],
+  "provenance": {
+    "survey_id": "european_portuguese_rc",
+    "owner": "moshepol@mit.edu",
+    "participants": 53,
+    "n_test": 144,
+    "n_filler": 30,
+    "n_practice": 0,
+    "anchors_dropped": 0
+  },
+  "original": {
+    "ratings": "surveyor_norms/non_english/norm_datasets/syntax/european_portuguese_rc.csv",
+    "instruction": "surveyor_norms/non_english/instructions/syntax/european_portuguese_rc_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.86,
+    "spearman_sb": 0.84,
+    "n_items_used": 174,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "task": "tuckute2024_general_frequency",
+  "source": "published",
+  "level": "other",
+  "sublevel": "sentence",
+  "level_decided_by": "andrea_policy_Q3",
+  "level_rationale": "sentence-level frequency / cloze predictability / word-length-in-context — not lexical, not a semantic dimension | merged into `other` 2026-08-22 (was other); sublevel=sentence",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 2000,
+  "n_ratings": 0,
+  "ratings_per_item_median": null,
+  "ratings_per_item_min": null,
+  "ratings_per_item_max": null,
+  "has_individual_ratings": false,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {},
+  "original": {
+    "ratings": "norm_datasets/tuckute2024_data/tuckute2024_general_frequency.csv",
+    "instruction": "instructions/tuckute2024_instructions/tuckute2024_general_frequency_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": null,
+    "spearman_sb": null,
+    "n_items_used": 0,
+    "min_raters": 2,
+    "n_splits": 0,
+    "method": "not computable: means only"
+  }
+}

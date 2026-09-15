@@ -1,0 +1,42 @@
+{
+  "task": "cul_jack_april_12_2012_54_short_texts_with_two_comprehension_questions",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "andrea_rule_context_v3",
+  "level_rationale": "7 multiple-wh target variants per constant passage (0/30 families vary context): context inert → syntax | MERGED 2026-08-22 with cul_jack_april_2012_60_short_texts_with_two_comprehension_questions_an (identical items + instruction; ratings pooled)",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 210,
+  "n_ratings": 11159,
+  "ratings_per_item_median": 32,
+  "ratings_per_item_min": 18,
+  "ratings_per_item_max": 198,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [
+    "cul_jack_april_2012_60_short_texts_with_two_comprehension_questions_an"
+  ],
+  "provenance": {
+    "question_wording": "reconstructed: passage-plus-final-target-sentence structure verified directly in converted CSV units; dimension not stated in raw HIT Title/Description ('54 short texts with two comprehension questions and a rating')",
+    "scale_labels": "own row dashboard_scale_labels stripped of the two Yes/No comprehension fields; SCALE_CATALOG row 5 explicitly lists this project by name among its 19 member projects ('cul jack april 12 2012 54 short texts') -- direct attestation, not analogy",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/cul_jack_april_12_2012_54_short_texts_with_two_comprehension_questions.csv",
+    "instruction": "mturk_norms/instructions/cul_jack_april_12_2012_54_short_texts_with_two_comprehension_questions_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.905,
+    "spearman_sb": 0.896,
+    "n_items_used": 210,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

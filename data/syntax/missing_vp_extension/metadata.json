@@ -1,0 +1,44 @@
+{
+  "task": "missing_vp_extension",
+  "source": "surveyor",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "fable_resolution",
+  "level_rationale": "comprehensibility/naturalness of structurally complex (center-embedded, displaced) sentences: what varies is structure; comprehensibility is a processing measure of it",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 80,
+  "n_ratings": 3715,
+  "ratings_per_item_median": 61,
+  "ratings_per_item_min": 22,
+  "ratings_per_item_max": 62,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "survey_id": "missing_vp_extension",
+    "owner": "ekaz.kerb@gmail.com",
+    "participants": 62,
+    "n_test": 40,
+    "n_filler": 40,
+    "n_practice": 0,
+    "anchors_dropped": 0
+  },
+  "original": {
+    "ratings": "surveyor_norms/norm_datasets/sentence_semantics/missing_vp_extension.csv",
+    "instruction": "surveyor_norms/instructions/sentence_semantics/missing_vp_extension_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.895,
+    "spearman_sb": 0.881,
+    "n_items_used": 80,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

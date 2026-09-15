@@ -1,0 +1,40 @@
+{
+  "task": "pronouns_following_verbs_ve",
+  "source": "mturk",
+  "level": "pragmatics",
+  "sublevel": null,
+  "level_decided_by": "andrea_scheme_v4",
+  "level_rationale": "pronoun reference resolution driven by verb implicit causality × connective (coherence relation) within one sentence",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 45,
+  "n_ratings": 3514,
+  "ratings_per_item_median": 80,
+  "ratings_per_item_min": 20,
+  "ratings_per_item_max": 80,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    3
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "reconstructed",
+    "scale_labels": "dashboard_own: dashboard_scale_labels, scale_source_project=\"pronouns following verbs\"; C row 71",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/pronouns_following_verbs_ve.csv",
+    "instruction": "mturk_norms/instructions/pronouns_following_verbs_ve_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.93,
+    "spearman_sb": 0.567,
+    "n_items_used": 45,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

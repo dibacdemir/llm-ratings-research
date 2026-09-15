@@ -1,0 +1,36 @@
+{
+  "task": "muraki2023_concreteness",
+  "source": "published",
+  "level": "lexical_semantics",
+  "sublevel": "perceptual_motor",
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 66404,
+  "n_ratings": 691689,
+  "ratings_per_item_median": 10,
+  "ratings_per_item_min": 1,
+  "ratings_per_item_max": 55,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "expression",
+  "unit_non_ascii": 45,
+  "merged_from": [],
+  "provenance": {},
+  "original": {
+    "ratings": "norm_datasets/muraki2023_data/muraki2023_concreteness.csv",
+    "instruction": "instructions/muraki2023_instructions/muraki2023_concreteness_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.828,
+    "spearman_sb": 0.829,
+    "n_items_used": 66293,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

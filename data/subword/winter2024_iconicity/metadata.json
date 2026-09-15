@@ -1,0 +1,36 @@
+{
+  "task": "winter2024_iconicity",
+  "source": "published",
+  "level": "subword",
+  "sublevel": null,
+  "level_decided_by": "andrea_policy_Q4",
+  "level_rationale": "rating driven by word form (pseudoword valence, iconicity, wordlikeness)",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 14776,
+  "n_ratings": 158327,
+  "ratings_per_item_median": null,
+  "ratings_per_item_min": null,
+  "ratings_per_item_max": null,
+  "has_individual_ratings": false,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "word",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {},
+  "original": {
+    "ratings": "norm_datasets/winter2024_data/winter2024_iconicity.csv",
+    "instruction": "instructions/winter2024_instructions/winter2024_iconicity_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": null,
+    "spearman_sb": null,
+    "n_items_used": 0,
+    "min_raters": 2,
+    "n_splits": 0,
+    "method": "not computable: means only"
+  }
+}

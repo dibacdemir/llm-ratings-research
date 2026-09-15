@@ -1,0 +1,12 @@
+Lütfen cümle çiftlerini okuyun ve ikinci (hedef) cümlenin ne kadar doğal olduğunu değerlendirin.
+
+Lütfen hedef cümlenin ne kadar doğal olduğunu değerlendirin.
+1'den 5'e kadar bir ölçekte değerlendirin:
+1 = hiç doğal değil
+2 = doğal değil
+3 = ne doğal ne de doğal olmayan
+4 = doğal
+5 = çok doğal
+Tek bir rakamla cevap verin.
+
+<<{sentence}>>

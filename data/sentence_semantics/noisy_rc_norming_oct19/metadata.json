@@ -1,0 +1,40 @@
+{
+  "task": "noisy_rc_norming_oct19",
+  "source": "mturk",
+  "level": "sentence_semantics",
+  "sublevel": "plausibility",
+  "level_decided_by": "andrea_policy_Q5",
+  "level_rationale": "naturalness asked, but items vary in meaning (semantic/animacy anomalies, malapropisms, personification)",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 128,
+  "n_ratings": 1274,
+  "ratings_per_item_median": 10,
+  "ratings_per_item_min": 9,
+  "ratings_per_item_max": 10,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "no dimension stated in raw Title/Description ('32 sentences followed by a question and a rating'); dimension not recoverable from export text",
+    "scale_labels": "own row scale_labels (verbatim per-item text) = 'Rating: Extremely unnatural | Somewhat unnatural | Possible | Somewhat natural | Extremely natural || YNQ: Yes | No'; template_source=html_maker_rating.py match_score=1.0 (exact structural match); SCALE_CATALOG rows 3/29",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/noisy_rc_norming_oct19.csv",
+    "instruction": "mturk_norms/instructions/noisy_rc_norming_oct19_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.901,
+    "spearman_sb": 0.838,
+    "n_items_used": 128,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "task": "green2025_aoa_reading",
+  "source": "published",
+  "level": "other",
+  "sublevel": "lexical",
+  "level_decided_by": "andrea_policy_Q3",
+  "level_rationale": "word-level psycholinguistic variable that is not meaning (AoA/familiarity) | merged into `other` 2026-08-22 (was lexical_other); sublevel=lexical",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 11074,
+  "n_ratings": 388568,
+  "ratings_per_item_median": 36,
+  "ratings_per_item_min": 5,
+  "ratings_per_item_max": 79,
+  "has_individual_ratings": true,
+  "scale": null,
+  "placeholder": "word",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {},
+  "original": {
+    "ratings": "norm_datasets/green2025_data/green2025_aoa_reading.csv",
+    "instruction": "instructions/green2025_instructions/green2025_aoa_reading_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.817,
+    "spearman_sb": 0.801,
+    "n_items_used": 11074,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

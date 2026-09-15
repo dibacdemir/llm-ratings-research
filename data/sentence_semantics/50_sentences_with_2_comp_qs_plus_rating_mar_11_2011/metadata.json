@@ -1,0 +1,41 @@
+{
+  "task": "50_sentences_with_2_comp_qs_plus_rating_mar_11_2011",
+  "source": "mturk",
+  "level": "sentence_semantics",
+  "sublevel": "plausibility",
+  "level_decided_by": "fable_resolution",
+  "level_rationale": "explicit likelihood-of-event rating; both agents agree",
+  "level_blind_check_agrees": false,
+  "language": "english",
+  "n_items": 208,
+  "n_ratings": 3053,
+  "ratings_per_item_median": 15,
+  "ratings_per_item_min": 13,
+  "ratings_per_item_max": 15,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "reconstructed",
+    "scale_labels": "scale_catalog row 68 (\"50 sentences with 2 comp qs ratings mar 10 2011\"), the immediately preceding run of this same ELMO HIT",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/50_sentences_with_2_comp_qs_plus_rating_mar_11_2011.csv",
+    "instruction": "mturk_norms/instructions/50_sentences_with_2_comp_qs_plus_rating_mar_11_2011_i.txt"
+  },
+  "note": "blind pass: syntax (voice/order variants). Kept: the question asks the likelihood of the described event; construct = plausibility.",
+  "human_reliability": {
+    "pearson_sb": 0.561,
+    "spearman_sb": 0.588,
+    "n_items_used": 208,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

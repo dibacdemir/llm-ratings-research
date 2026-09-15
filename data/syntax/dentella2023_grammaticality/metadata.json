@@ -1,0 +1,36 @@
+{
+  "task": "dentella2023_grammaticality",
+  "source": "published",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 80,
+  "n_ratings": 8000,
+  "ratings_per_item_median": 100,
+  "ratings_per_item_min": 100,
+  "ratings_per_item_max": 100,
+  "has_individual_ratings": true,
+  "scale": [
+    0,
+    1
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {},
+  "original": {
+    "ratings": "norm_datasets/dentella2023_data/dentella2023_grammaticality.csv",
+    "instruction": "instructions/dentella2023_instructions/dentella2023_grammaticality_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.985,
+    "spearman_sb": 0.981,
+    "n_items_used": 80,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

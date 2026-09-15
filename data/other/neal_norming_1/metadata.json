@@ -1,0 +1,40 @@
+{
+  "task": "neal_norming_1",
+  "source": "mturk",
+  "level": "other",
+  "sublevel": "sentence",
+  "level_decided_by": "andrea_review_page",
+  "level_rationale": "Andrea (review page): plausibility of NP-preposition-NP preambles → other | merged into `other` 2026-08-22 (was other); sublevel=sentence",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 704,
+  "n_ratings": 12940,
+  "ratings_per_item_median": 23,
+  "ratings_per_item_min": 11,
+  "ratings_per_item_max": 24,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "raw Title/Description only say 'Answer questions about 70 phrases' (dimension not named); dimension recovered from own dashboard_scale_labels label set, which is unambiguously a plausibility scale",
+    "scale_labels": "own row dashboard_scale_labels (RECOVERED via dashboard_layout scrape) scale_source_project='Neal Norming' (this project itself); SCALE_CATALOG row 60 (Neal Norming exclusively)",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/neal_norming_1.csv",
+    "instruction": "mturk_norms/instructions/neal_norming_1_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.889,
+    "spearman_sb": 0.815,
+    "n_items_used": 704,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

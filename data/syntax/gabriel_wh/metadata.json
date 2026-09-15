@@ -1,0 +1,44 @@
+{
+  "task": "gabriel_wh",
+  "source": "surveyor",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "non-english",
+  "n_items": 174,
+  "n_ratings": 2912,
+  "ratings_per_item_median": 10,
+  "ratings_per_item_min": 2,
+  "ratings_per_item_max": 54,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 133,
+  "merged_from": [],
+  "provenance": {
+    "survey_id": "gabriel_wh",
+    "owner": "moshepol@mit.edu",
+    "participants": 54,
+    "n_test": 144,
+    "n_filler": 30,
+    "n_practice": 0,
+    "anchors_dropped": 0
+  },
+  "original": {
+    "ratings": "surveyor_norms/non_english/norm_datasets/syntax/gabriel_wh.csv",
+    "instruction": "surveyor_norms/non_english/instructions/syntax/gabriel_wh_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.904,
+    "spearman_sb": 0.902,
+    "n_items_used": 174,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

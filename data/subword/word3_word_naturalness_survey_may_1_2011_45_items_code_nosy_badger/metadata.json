@@ -1,0 +1,40 @@
+{
+  "task": "word3_word_naturalness_survey_may_1_2011_45_items_code_nosy_badger",
+  "source": "mturk",
+  "level": "subword",
+  "sublevel": null,
+  "level_decided_by": "andrea_policy_Q4",
+  "level_rationale": "rating driven by word form (pseudoword valence, iconicity, wordlikeness)",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 45,
+  "n_ratings": 2239,
+  "ratings_per_item_median": 50,
+  "ratings_per_item_min": 48,
+  "ratings_per_item_max": 50,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "word",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "reconstructed: 'How natural does the made-up word sound as a possible English word?' -- raw Title recovered verbatim in questionnaire_wording.csv states 'ratings of 45 non-words: survey code = ...', hence 'made-up word' phrasing; no literal on-page question text recovered (dashboard_instructions empty for this folder).",
+    "scale_labels": "No own dashboard row for this folder (wording_sources=local_template;csv_input_questions only, no dashboard_layout). SCALE_CATALOG.md row 41 = 'Extremely unnatural . Somewhat unnatural . Slightly unnatural . Possible . Slightly natural . Somewhat natural . Extremely natural', explicitly attested for 2 projects: 'Word3 / Word3-b: Word naturalness survey May 2011' -- a direct, explicit project-name match to both this dataset and its Word3/Word3-b sibling. Exact 7-label match to observed 1-7 range.",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/word3_word_naturalness_survey_may_1_2011_45_items_code_nosy_badger.csv",
+    "instruction": "mturk_norms/instructions/word3_word_naturalness_survey_may_1_2011_45_items_code_nosy_badger_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.962,
+    "spearman_sb": 0.948,
+    "n_items_used": 45,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

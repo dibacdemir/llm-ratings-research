@@ -1,0 +1,43 @@
+{
+  "task": "cul_jack_sentence_naturalness_survey_april_2010",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged | MERGED 2026-08-22 with cul_jack_sentence_naturalness_survey_2_sept_2011 (identical items + instruction; ratings pooled) | MERGED 2026-08-22 (near-duplicate, pooled on shared items) with 2wh_3wh_sentence_naturalness_survey_april_2011",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 220,
+  "n_ratings": 24336,
+  "ratings_per_item_median": 63,
+  "ratings_per_item_min": 46,
+  "ratings_per_item_max": 352,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [
+    "cul_jack_sentence_naturalness_survey_2_sept_2011",
+    "2wh_3wh_sentence_naturalness_survey_april_2011"
+  ],
+  "provenance": {
+    "question_wording": "folder-name convention ('Sentence naturalness survey'); raw HIT Title/Description generic ('70 sentences followed by a question and a rating')",
+    "scale_labels": "own row scale_labels, local_template html_maker_rating.py, match_score 1.0 (direct recovery); SCALE_CATALOG rows 3/29",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/cul_jack_sentence_naturalness_survey_april_2010.csv",
+    "instruction": "mturk_norms/instructions/cul_jack_sentence_naturalness_survey_april_2010_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.98,
+    "spearman_sb": 0.952,
+    "n_items_used": 220,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

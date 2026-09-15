@@ -1,0 +1,10 @@
+How concrete or abstract is the word or phrase?
+Rate on a scale from 1 to 5:
+1 = Very abstract
+2 = Quite abstract
+3 = Somewhat concrete
+4 = Quite concrete
+5 = Very concrete
+Answer with one digit.
+
+<<{word}>>

@@ -1,0 +1,36 @@
+{
+  "task": "edwards2024_spelling_to_pronunciation_transparency",
+  "source": "published",
+  "level": "subword",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 23282,
+  "n_ratings": 617233,
+  "ratings_per_item_median": 27,
+  "ratings_per_item_min": 17,
+  "ratings_per_item_max": 30,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    6
+  ],
+  "placeholder": "word",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {},
+  "original": {
+    "ratings": "norm_datasets/edwards2024_data/edwards2024_spelling_to_pronunciation_transparency.csv",
+    "instruction": "instructions/edwards2024_instructions/edwards2024_spelling_to_pronunciation_transparency_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.851,
+    "spearman_sb": 0.826,
+    "n_items_used": 23282,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

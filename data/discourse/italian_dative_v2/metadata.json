@@ -1,0 +1,44 @@
+{
+  "task": "italian_dative_v2",
+  "source": "surveyor",
+  "level": "discourse",
+  "sublevel": null,
+  "level_decided_by": "andrea_rule_context_v3",
+  "level_rationale": "context manipulated across items: 14 families cross context with order",
+  "level_blind_check_agrees": true,
+  "language": "non-english",
+  "n_items": 192,
+  "n_ratings": 1246,
+  "ratings_per_item_median": 6,
+  "ratings_per_item_min": 1,
+  "ratings_per_item_max": 14,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 182,
+  "merged_from": [],
+  "provenance": {
+    "survey_id": "italian_dative_v2",
+    "owner": "moshepol@mit.edu",
+    "participants": 50,
+    "n_test": 192,
+    "n_filler": 0,
+    "n_practice": 0,
+    "anchors_dropped": 0
+  },
+  "original": {
+    "ratings": "surveyor_norms/non_english/norm_datasets/syntax/italian_dative_v2.csv",
+    "instruction": "surveyor_norms/non_english/instructions/syntax/italian_dative_v2_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.611,
+    "spearman_sb": 0.604,
+    "n_items_used": 190,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

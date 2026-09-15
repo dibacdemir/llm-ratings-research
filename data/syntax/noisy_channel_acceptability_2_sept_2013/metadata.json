@@ -1,0 +1,40 @@
+{
+  "task": "noisy_channel_acceptability_2_sept_2013",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "andrea_scheme_v4",
+  "level_rationale": "one noisy-channel design (stimulus-backed group): items are corrupted versions of base sentences — word-order transpositions, insertions/deletions (dominant) plus some role reversals; classified by the dominant structural manipulation, mixed nature noted",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 380,
+  "n_ratings": 23804,
+  "ratings_per_item_median": 59,
+  "ratings_per_item_min": 14,
+  "ratings_per_item_max": 239,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "no dimension stated in raw Title/Description ('Ratings and comprehension questions for 80 sentences'); dimension inferred from folder name ('acceptability') only",
+    "scale_labels": "dashboard_confirmed (RESOLVED_QUERIES.md, 2026-08-20)",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/noisy_channel_acceptability_2_sept_2013.csv",
+    "instruction": "mturk_norms/instructions/noisy_channel_acceptability_2_sept_2013_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.99,
+    "spearman_sb": 0.965,
+    "n_items_used": 380,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

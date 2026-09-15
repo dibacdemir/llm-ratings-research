@@ -1,0 +1,36 @@
+{
+  "task": "devarda2023_predictability",
+  "source": "published",
+  "level": "other",
+  "sublevel": "lexical",
+  "level_decided_by": "andrea_policy_Q3",
+  "level_rationale": "sentence-level frequency / cloze predictability / word-length-in-context — not lexical, not a semantic dimension | merged into `other` 2026-08-22 (was other); sublevel=lexical",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 1726,
+  "n_ratings": 101400,
+  "ratings_per_item_median": 59,
+  "ratings_per_item_min": 56,
+  "ratings_per_item_max": 62,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "item",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {},
+  "original": {
+    "ratings": "norm_datasets/devarda2023_data/devarda2023_predictability.csv",
+    "instruction": "instructions/devarda2023_instructions/devarda2023_predictability_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.963,
+    "spearman_sb": 0.959,
+    "n_items_used": 1726,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

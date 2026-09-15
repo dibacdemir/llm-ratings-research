@@ -1,0 +1,46 @@
+{
+  "task": "susan_canonicity_rerunning_2",
+  "source": "surveyor",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged | MERGED 2026-08-22 (near-duplicate, pooled on shared items) with susan_canonicity_rerunning_3",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 52,
+  "n_ratings": 2864,
+  "ratings_per_item_median": 59,
+  "ratings_per_item_min": 27,
+  "ratings_per_item_max": 73,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [
+    "susan_canonicity_rerunning_3"
+  ],
+  "provenance": {
+    "survey_id": "susan_canonicity_rerunning_2",
+    "owner": "moshepol@mit.edu",
+    "participants": 60,
+    "n_test": 48,
+    "n_filler": 0,
+    "n_practice": 0,
+    "anchors_dropped": 0
+  },
+  "original": {
+    "ratings": "surveyor_norms/norm_datasets/syntax/susan_canonicity_rerunning_2.csv",
+    "instruction": "surveyor_norms/instructions/syntax/susan_canonicity_rerunning_2_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.956,
+    "spearman_sb": 0.95,
+    "n_items_used": 52,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

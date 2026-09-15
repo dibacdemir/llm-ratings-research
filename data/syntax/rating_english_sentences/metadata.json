@@ -1,0 +1,44 @@
+{
+  "task": "rating_english_sentences",
+  "source": "surveyor",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 240,
+  "n_ratings": 6281,
+  "ratings_per_item_median": 22,
+  "ratings_per_item_min": 10,
+  "ratings_per_item_max": 40,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 2,
+  "merged_from": [],
+  "provenance": {
+    "survey_id": "Rating English Sentences",
+    "owner": "legermec1@gmail.com",
+    "participants": 40,
+    "n_test": 160,
+    "n_filler": 80,
+    "n_practice": 0,
+    "anchors_dropped": 0
+  },
+  "original": {
+    "ratings": "surveyor_norms/norm_datasets/syntax/rating_english_sentences.csv",
+    "instruction": "surveyor_norms/instructions/syntax/rating_english_sentences_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.9,
+    "spearman_sb": 0.899,
+    "n_items_used": 240,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

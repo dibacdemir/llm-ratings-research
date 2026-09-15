@@ -1,0 +1,10 @@
+How easy is it to form a mental image of the word?
+Rate on a scale from 1 to 5:
+1 = Really not imageable
+2 = Not very imageable
+3 = Somewhat imageable
+4 = Quite imageable
+5 = Highly imageable
+Answer with one digit.
+
+<<{word}>>

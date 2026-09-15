@@ -1,0 +1,40 @@
+{
+  "task": "sentence_completions_and_islands_acceptability_expt_1_nov_13_2012",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 112,
+  "n_ratings": 13215,
+  "ratings_per_item_median": 137,
+  "ratings_per_item_min": 19,
+  "ratings_per_item_max": 140,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "dashboard_confirmed (RESOLVED_QUERIES.md, 2026-08-20)",
+    "scale_labels": "dashboard_confirmed (RESOLVED_QUERIES.md, 2026-08-20) -- RESOLVED_QUERIES.md A1 row 'sentence completions and islands acceptability expt 1 Nov 13 2012'",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/sentence_completions_and_islands_acceptability_expt_1_nov_13_2012.csv",
+    "instruction": "mturk_norms/instructions/sentence_completions_and_islands_acceptability_expt_1_nov_13_2012_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.984,
+    "spearman_sb": 0.969,
+    "n_items_used": 112,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

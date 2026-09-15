@@ -1,0 +1,175 @@
+unit,mean,std,n,individual_ratings,item_type
+A altura das pirâmides impressionou os visitantes durante o passeio?,6.7273,0.4671,11,"[7, 7, 7, 7, 7, 7, 6, 6, 7, 7, 6]",test
+A beleza das flores confortou as famílias durante o velório?,6.2,1.3038,5,"[4, 7, 7, 6, 7]",test
+A beleza do deserto maravilhou os teus filhos durante o passeio?,6.3846,0.7679,13,"[7, 7, 6, 5, 5, 7, 6, 7, 7, 6, 7, 6, 7]",test
+A clareza dos documentos tranquilizou os advogados durante o julgamento?,6.25,0.866,12,"[6, 6, 7, 6, 6, 4, 7, 7, 6, 7, 6, 7]",test
+"A cor do descapotável encantou o jogador de futebol, por causa do seu brilho?",3.6,2.4083,5,"[3, 1, 2, 5, 7]",test
+"A empresa conseguiu, por fim, corresponder às expectativas dos funcionários?",6.0,1.249,51,"[7, 7, 7, 7, 7, 5, 6, 7, 7, 7, 7, 5, 4, 7, 3, 6, 3, 5, 7, 4, 4, 7, 7, 4, 6, 7, 6, 7, 5, 7, 7, 7, 5, 5, 6, 7, 6, 5, 6, 3, 7, 7, 6, 6, 7, 5, 5, 7, 7, 7, 7]",filler
+"A forma da janela desagradava ao pedreiro, pois ela não era perfeitamente simétrica?",4.1667,1.6021,6,"[6, 4, 6, 2, 3, 4]",test
+A fragilidade do prédio inquietava os vizinhos por ele estar todo quebrado?,4.5556,1.8782,9,"[6, 5, 5, 3, 1, 6, 3, 5, 7]",test
+A grandeza do evento deslumbrou os jornalistas na noite passada?,5.75,0.5,4,"[6, 6, 6, 5]",test
+"A instabilidade dos andaimes angustiava os moradores, apesar das palavras tranquilizadoras do empreiteiro?",5.2857,2.0587,7,"[7, 3, 7, 2, 6, 5, 7]",test
+"A limpeza do consultório tranquilizava os pacientes, assim que entravam?",3.9,1.6633,10,"[2, 3, 5, 4, 3, 5, 4, 6, 1, 6]",test
+A nova classificação do campeonato deixou o treinador satisfeito?,6.2745,1.0785,51,"[7, 7, 7, 7, 7, 6, 6, 7, 7, 7, 6, 7, 7, 7, 7, 7, 5, 4, 7, 5, 4, 7, 7, 3, 7, 7, 6, 7, 4, 7, 7, 5, 7, 5, 5, 7, 7, 5, 5, 7, 7, 5, 7, 6, 6, 7, 5, 7, 7, 7, 7]",filler
+"A nova sala de trabalho agradou aos jovens aprendizes, porque era espaçosa e bem iluminada.",6.5686,0.8308,51,"[7, 6, 7, 5, 7, 6, 6, 7, 7, 7, 6, 7, 7, 7, 7, 7, 7, 6, 5, 7, 7, 7, 7, 5, 7, 7, 7, 7, 7, 7, 6, 7, 7, 6, 5, 7, 7, 7, 7, 7, 7, 3, 7, 6, 5, 7, 7, 7, 7, 7, 7]",filler
+A nutricionista preparou um plano alimentar saudável que agradou aos filhos do Pedro?,5.64,1.3211,50,"[7, 7, 7, 7, 7, 6, 4, 6, 6, 6, 5, 6, 5, 4, 5, 7, 4, 5, 5, 4, 7, 7, 4, 7, 7, 3, 7, 4, 6, 7, 6, 5, 5, 6, 7, 6, 5, 6, 7, 7, 4, 5, 5, 6, 1, 5, 5, 7, 7, 5]",filler
+A onda de calor no hemisfério norte derreteu a camada de gelo dos cumes das montanhas.,6.549,0.8789,51,"[7, 7, 7, 6, 7, 6, 7, 7, 7, 6, 7, 7, 7, 7, 7, 7, 6, 3, 6, 4, 7, 7, 7, 6, 7, 7, 7, 7, 7, 7, 6, 6, 7, 5, 6, 7, 7, 7, 7, 7, 7, 4, 7, 7, 7, 7, 6, 6, 7, 7, 7]",filler
+A originalidade da inovação entusiasmou os teus colegas esta semana?,5.9,0.9944,10,"[5, 6, 7, 6, 5, 4, 6, 6, 7, 7]",test
+A padaria mais conhecida de São Paulo ficava num bairro tradicional da cidade e encantava tanto visitantes como moradores.,6.6863,0.4686,51,"[7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 7, 7, 7, 6, 7, 6, 6, 6, 6, 7, 7, 7, 6, 7, 7, 7, 6, 7, 7, 7, 6, 7, 6, 6, 7, 6, 7, 7, 7, 7, 6, 7, 6, 6, 7, 7, 7, 7, 6, 7]",filler
+A profundidade do desfiladeiro assustou o guia quando ele lançou uma pedra lá para baixo?,5.8462,1.3445,13,"[7, 5, 7, 7, 7, 7, 4, 5, 3, 6, 5, 7, 6]",test
+"A pureza do diamante fascinou o comprador, pois tinha um brilho intenso?",5.7,1.1595,10,"[7, 6, 6, 4, 5, 7, 7, 5, 6, 4]",test
+A simplicidade da receita tem agradado aos aprendizes há gerações?,5.0,1.4142,10,"[4, 6, 5, 4, 3, 6, 7, 6, 3, 6]",test
+Alguns aspetos das atividades da empresa ameaçavam a saúde dos funcionários?,6.1111,0.928,9,"[6, 6, 7, 6, 6, 6, 4, 7, 7]",test
+Alguns livros da biblioteca estavam na tua casa?,5.62,1.4968,50,"[7, 7, 7, 7, 6, 6, 4, 7, 4, 3, 7, 7, 4, 7, 7, 3, 7, 7, 4, 6, 7, 1, 4, 5, 7, 5, 5, 4, 6, 7, 6, 5, 6, 5, 5, 7, 4, 7, 7, 6, 3, 5, 3, 7, 5, 6, 6, 7, 7, 6]",filler
+As cores das flores alegravam as senhoras durante os seus passeios matinais?,6.2857,1.1127,7,"[7, 7, 6, 7, 7, 6, 4]",test
+As famílias admiraram a beleza das flores durante o velório?,6.0,1.291,7,"[7, 4, 7, 5, 7, 5, 7]",test
+As inovações tecnológicas das empresas de ponta sempre surpreendem as pessoas.,5.6275,1.4137,51,"[7, 7, 7, 5, 6, 3, 7, 2, 6, 5, 4, 6, 7, 7, 3, 5, 5, 2, 7, 7, 6, 6, 5, 5, 4, 7, 5, 6, 5, 6, 7, 6, 6, 5, 2, 6, 5, 6, 6, 7, 6, 5, 7, 5, 7, 4, 7, 6, 7, 7, 7]",filler
+As senhoras apreciavam as cores das flores durante os seus passeios matinais?,6.0,0.8944,6,"[6, 7, 5, 5, 6, 7]",test
+"De que andaimes a instabilidade angustiava os moradores, apesar das palavras tranquilizadoras do empreiteiro?",3.2222,1.3944,9,"[5, 4, 4, 3, 2, 2, 5, 1, 3]",test
+"De que andaimes os moradores desaprovavam a instabilidade, apesar das palavras tranquilizadoras do empreiteiro?",4.2857,1.8898,7,"[4, 5, 7, 6, 2, 4, 2]",test
+De que apartamento o jovem casal negociou o preço porque estava muito alto?,3.5714,2.3705,7,"[7, 1, 6, 4, 1, 2, 4]",test
+"De que apartamento o preço afastou os jovens consumidores, uma vez que eles costumam ter poucos rendimentos?",3.5714,1.1339,7,"[4, 2, 3, 5, 3, 5, 3]",test
+De que apartamento o preço espantou o jovem casal porque estava muito alto?,2.875,1.4577,8,"[1, 2, 3, 3, 3, 2, 3, 6]",test
+"De que apartamento os jovens consumidores criticaram o preço, uma vez que eles costumam ter poucos rendimentos?",2.75,1.7525,8,"[1, 3, 1, 1, 3, 6, 3, 4]",test
+De que atividades alguns aspetos ameaçavam a saúde dos funcionários?,2.5714,1.3973,7,"[1, 2, 4, 2, 1, 4, 4]",test
+De que atividades os funcionários temiam certos aspetos no que respeita à sua saúde?,2.5714,1.1339,7,"[3, 2, 2, 2, 4, 4, 1]",test
+"De que carne o cheiro incomodou o novo empregado de mesa, por ele ser vegetariano?",3.1667,2.4014,6,"[7, 5, 3, 2, 1, 1]",test
+"De que carne o novo empregado de mesa detestava o cheiro, por ele ser vegetariano?",3.8333,2.1672,12,"[6, 6, 3, 2, 5, 1, 2, 6, 1, 2, 6, 6]",test
+"De que consultório a limpeza tranquilizava os pacientes, assim que entravam?",2.7273,2.1019,11,"[3, 1, 2, 7, 1, 1, 2, 1, 4, 2, 6]",test
+"De que consultório os pacientes notavam a limpeza, assim que entravam?",5.3333,1.3663,6,"[6, 7, 5, 3, 5, 6]",test
+"De que descapotável a cor encantou o jogador de futebol, por causa do seu brilho?",2.9167,1.9287,12,"[3, 1, 1, 3, 2, 2, 6, 3, 1, 2, 4, 7]",test
+De que descapotável o jogador de futebol adorou a cor por causa do seu brilho?,2.3333,1.0328,6,"[1, 3, 4, 2, 2, 2]",test
+De que deserto a beleza maravilhou os teus filhos durante o passeio?,3.2222,1.7873,9,"[7, 1, 2, 3, 2, 4, 2, 4, 4]",test
+De que deserto os teus filhos apreciaram a beleza durante o passeio?,4.6667,1.5811,9,"[7, 3, 6, 5, 2, 4, 4, 5, 6]",test
+De que desfiladeiro a profundidade assustou o guia quando ele lançou uma pedra lá para baixo?,3.3333,1.5055,6,"[2, 3, 6, 4, 2, 3]",test
+De que desfiladeiro o guia deplorou a profundidade quando ele lançou uma pedra lá para baixo?,3.9231,1.801,13,"[6, 3, 1, 5, 1, 3, 4, 3, 6, 6, 3, 6, 4]",test
+"De que diamante a pureza fascinou o comprador, pois tinha um brilho intenso?",3.6667,1.2247,9,"[5, 3, 2, 6, 4, 3, 3, 3, 4]",test
+"De que diamante o comprador logo reconheceu a pureza, pois tinha um brilho intenso?",4.0,2.582,7,"[7, 1, 2, 5, 1, 6, 6]",test
+De que documentos a clareza tranquilizou os advogados durante o julgamento?,5.0,1.5119,8,"[4, 7, 5, 7, 4, 4, 6, 3]",test
+De que documentos os advogados apreciaram a clareza durante o julgamento?,4.2857,2.1381,7,"[7, 2, 4, 5, 1, 5, 6]",test
+De que evento a grandeza deslumbrou os jornalistas na noite passada?,2.3333,2.3094,3,"[1, 5, 1]",test
+"De que evento os jornalistas elogiaram a grandeza, como era de se esperar?",4.6364,1.7477,11,"[5, 7, 2, 3, 6, 4, 6, 4, 2, 6, 6]",test
+De que filme os alunos da nova professora de inglês gostaram mais?,6.0196,1.2081,51,"[7, 5, 7, 7, 6, 5, 6, 6, 7, 7, 7, 6, 4, 7, 4, 5, 6, 5, 7, 4, 7, 7, 7, 6, 6, 7, 7, 6, 5, 7, 3, 6, 7, 4, 6, 7, 7, 6, 6, 7, 7, 5, 4, 3, 7, 7, 7, 4, 7, 7, 7]",filler
+De que flores a beleza confortou as famílias durante o velório?,3.4286,2.3705,7,"[7, 1, 1, 4, 6, 2, 3]",test
+De que flores as cores alegravam as senhoras durante os seus passeios matinais?,3.0833,1.7816,12,"[3, 1, 1, 3, 3, 7, 3, 4, 2, 1, 4, 5]",test
+De que flores as famílias admiraram a beleza durante o velório?,3.8333,1.7224,6,"[3, 1, 6, 4, 5, 4]",test
+De que flores as senhoras apreciavam as cores durante os seus passeios matinais?,5.0,1.633,7,"[7, 6, 4, 2, 6, 5, 5]",test
+De que gabinete o novo funcionário criticou o tamanho porque era demasiado pequeno?,3.8571,1.6762,7,"[1, 4, 5, 3, 3, 6, 5]",test
+De que gabinete o tamanho decepcionou o novo funcionário porque era demasiado pequeno?,2.8889,1.5366,9,"[2, 3, 2, 3, 4, 1, 1, 5, 5]",test
+De que história o encanto cativou a plateia durante o discurso daquele jovem político?,3.375,1.4079,8,"[2, 5, 5, 4, 3, 1, 3, 4]",test
+De que história o público apreciou o encanto durante o discurso daquele jovem político?,4.2727,2.149,11,"[6, 1, 5, 1, 5, 5, 2, 6, 6, 3, 7]",test
+De que inovação a originalidade entusiasmou os teus colegas esta semana?,2.9,1.5951,10,"[2, 1, 4, 1, 2, 2, 4, 6, 4, 3]",test
+De que inovação os teus colegas admiraram a originalidade esta semana?,4.1667,1.7224,6,"[7, 2, 4, 3, 4, 5]",test
+"De que janela a forma desagradava ao pedreiro, pois ela não era perfeitamente simétrica?",1.6,0.8944,5,"[2, 1, 1, 3, 1]",test
+"De que janela o pedreiro desaprovou a forma, pois ela não era perfeitamente simétrica?",4.2667,1.6676,15,"[2, 5, 3, 3, 7, 7, 3, 5, 3, 5, 3, 6, 3, 6, 3]",test
+De que mísseis o alcance alarmou os coreanos depois do fracasso das negociações de paz?,3.2308,1.7867,13,"[7, 1, 2, 2, 1, 2, 5, 2, 3, 4, 4, 4, 5]",test
+De que mísseis os coreanos temiam o alcance depois do fracasso das negociações de paz?,4.1667,1.7224,6,"[5, 2, 2, 5, 5, 6]",test
+De que pacote o carteiro subestimou o peso porque não parecia ser tão pesado?,4.75,1.3887,8,"[4, 6, 4, 4, 3, 6, 7, 4]",test
+De que pacote o peso surpreendeu o carteiro porque não parecia ser tão pesado?,3.625,2.2638,8,"[7, 5, 1, 2, 3, 6, 4, 1]",test
+De que pirâmides a altura impressionou os visitantes durante o passeio?,4.0,2.2991,15,"[7, 7, 7, 1, 3, 4, 1, 4, 1, 2, 2, 5, 5, 4, 7]",test
+De que pirâmides os visitantes admiraram a altura durante o passeio?,4.5,1.7728,8,"[2, 3, 7, 5, 6, 3, 4, 6]",test
+De que prédio a fragilidade inquietava os vizinhos por ele estar todo quebrado?,3.0,1.1547,7,"[3, 4, 4, 2, 4, 1, 3]",test
+De que prédio os vizinhos constataram a fragilidade por ele estar todo quebrado?,4.3333,1.9365,9,"[7, 5, 2, 6, 2, 5, 2, 6, 4]",test
+De que ranking o impacto preocupou os professores relativamente à sua universidade?,2.7778,1.9861,9,"[2, 3, 1, 1, 4, 1, 2, 4, 7]",test
+De que ranking os professores receavam o impacto relativamente à sua universidade?,4.3846,1.6602,13,"[7, 1, 2, 4, 4, 7, 5, 5, 4, 5, 4, 4, 5]",test
+De que receita a simplicidade tem agradado aos aprendizes há gerações?,4.0,1.0,3,"[5, 3, 4]",test
+De que receita os aprendizes apreciavam a simplicidade há gerações?,4.5,1.0488,6,"[6, 4, 5, 3, 5, 4]",test
+De que sobremesa a Maria gostou mais?,6.4902,0.9027,51,"[7, 7, 7, 7, 6, 7, 7, 7, 7, 7, 7, 7, 7, 6, 7, 7, 6, 7, 7, 5, 6, 7, 7, 3, 5, 7, 7, 5, 7, 7, 7, 6, 7, 6, 6, 7, 6, 4, 7, 7, 7, 6, 7, 5, 7, 7, 5, 7, 7, 7, 7]",filler
+De quem aquelas pessoas estavam a falar quando eu cheguei?,5.451,1.4603,51,"[7, 7, 7, 5, 4, 3, 5, 3, 7, 4, 5, 6, 7, 6, 5, 6, 5, 6, 7, 6, 5, 6, 3, 1, 5, 7, 7, 5, 6, 6, 7, 4, 7, 4, 5, 4, 6, 5, 2, 7, 7, 6, 7, 5, 6, 4, 7, 4, 7, 6, 6]",filler
+"Em geral, é difícil os jovens comprarem apartamentos espaçosos, porque costumam ser caros.",6.5098,0.8803,51,"[7, 7, 7, 4, 7, 3, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 6, 6, 6, 7, 7, 7, 6, 7, 7, 7, 7, 7, 7, 6, 6, 7, 6, 5, 7, 7, 7, 7, 5, 7, 5, 7, 6, 5, 7, 7, 6, 7, 7, 7]",filler
+O alcance dos mísseis alarmou os coreanos depois do fracasso das negociações de paz?,6.5,0.5477,6,"[7, 6, 6, 7, 7, 6]",test
+O carteiro subestimou o peso do pacote porque não parecia ser tão pesado?,4.125,2.1002,8,"[2, 6, 2, 6, 5, 5, 1, 6]",test
+"O cheiro da carne incomodou o novo empregado de mesa, por ele ser vegetariano?",4.875,2.2321,8,"[7, 6, 3, 6, 3, 7, 6, 1]",test
+"O comprador logo reconheceu a pureza do diamante, pois tinha um brilho intenso?",3.5,2.0736,6,"[1, 4, 4, 6, 5, 1]",test
+O encanto da história cativou a plateia durante o discurso daquele jovem político?,4.2857,1.8898,7,"[4, 5, 3, 7, 5, 1, 5]",test
+O engenheiro da nova empresa quer contratar um arquiteto que saiba planear edifícios com alta tecnologia.,6.5098,0.946,51,"[7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 5, 7, 6, 7, 7, 5, 2, 7, 7, 7, 7, 7, 6, 6, 7, 7, 7, 6, 7, 7, 6, 7, 5, 6, 7, 6, 7, 6, 7, 7, 4, 6, 6, 7, 7, 7, 7, 6, 7, 7]",filler
+O guia deplorou a profundidade do desfiladeiro quando ele lançou uma pedra lá para baixo?,3.1667,2.4014,6,"[1, 7, 1, 5, 2, 3]",test
+O impacto do ranking preocupou os professores relativamente à sua universidade?,6.0,1.6903,8,"[7, 7, 6, 2, 7, 6, 7, 6]",test
+O jogador de futebol adorou a cor do descapotável por causa do seu brilho?,5.7273,1.6181,11,"[7, 6, 6, 2, 4, 5, 7, 7, 7, 5, 7]",test
+O jogador de futebol gostou do apartamento que o agente imobiliário ofereceu?,6.3725,1.019,51,"[7, 7, 7, 7, 7, 6, 7, 7, 7, 7, 7, 6, 7, 7, 7, 7, 5, 2, 7, 6, 6, 7, 7, 5, 6, 7, 6, 7, 4, 5, 7, 5, 6, 6, 6, 7, 7, 5, 7, 7, 7, 5, 7, 6, 7, 7, 5, 7, 7, 7, 7]",filler
+O jovem casal negociou o preço do apartamento porque estava muito alto?,5.5,1.6499,10,"[7, 7, 6, 6, 7, 2, 4, 4, 6, 6]",test
+O novo empregado de mesa detestava o cheiro da carne por ele ser vegetariano?,5.7143,1.1127,7,"[7, 6, 7, 4, 6, 5, 5]",test
+O novo funcionário criticou o tamanho do gabinete porque era demasiado pequeno?,6.1111,1.6915,9,"[7, 5, 7, 7, 7, 7, 2, 6, 7]",test
+O pai daquelas crianças conseguiu convencê-las de que é importante irem para casa antes de anoitecer?,6.1373,1.0587,51,"[7, 6, 7, 6, 7, 6, 7, 7, 7, 6, 6, 4, 7, 7, 7, 7, 6, 6, 6, 5, 6, 6, 7, 4, 7, 7, 7, 7, 5, 7, 6, 7, 6, 5, 6, 7, 7, 4, 6, 7, 7, 6, 3, 4, 6, 4, 5, 6, 7, 7, 7]",filler
+"O pedreiro desaprovou a forma da janela, pois ela não era perfeitamente simétrica?",5.0,1.5275,13,"[5, 7, 2, 3, 5, 7, 3, 6, 5, 5, 6, 5, 6]",test
+O peso do pacote surpreendeu o carteiro porque não parecia ser tão pesado?,5.2727,1.1909,11,"[6, 6, 4, 6, 6, 4, 3, 5, 6, 7, 5]",test
+"O preço do apartamento afastou os jovens consumidores, uma vez que eles costumam ter poucos rendimentos?",5.2857,1.7995,7,"[2, 6, 4, 6, 7, 7, 5]",test
+O preço do apartamento espantou o jovem casal porque estava muito alto?,5.0,2.0,8,"[6, 7, 4, 4, 1, 5, 6, 7]",test
+"O procurador da República, que tinha tomado posse recentemente, ficou satisfeito por encontrar todos os documentos muito bem organizados pelos assessores.",6.7059,0.6097,51,"[7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 6, 7, 6, 7, 7, 7, 6, 7, 7, 7, 7, 4, 7, 7, 6, 7, 6, 6, 7, 6, 7, 6, 7, 7, 6, 7, 7, 7, 7, 5, 7, 7, 7, 7]",filler
+O público apreciou o encanto da história durante o discurso daquele jovem político?,5.3,1.2517,10,"[7, 6, 5, 5, 3, 7, 5, 4, 5, 6]",test
+O restaurante está a especializar-se em comidas vegetarianas.,6.7255,0.6951,51,"[7, 7, 7, 7, 7, 6, 7, 7, 7, 7, 7, 6, 7, 7, 7, 7, 5, 3, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 7, 7, 7, 7, 6, 6, 7, 6, 7, 7, 7, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7]",filler
+O tamanho do gabinete decepcionou o novo funcionário porque era demasiado pequeno?,6.0,1.9149,7,"[7, 2, 7, 7, 5, 7, 7]",test
+Os advogados apreciaram a clareza dos documentos durante o julgamento?,5.9,0.8756,10,"[5, 5, 7, 5, 6, 5, 6, 7, 6, 7]",test
+"Os advogados daquele político corrupto tentaram tranquilizá-lo, mas foi em vão.",6.5882,0.6686,51,"[7, 7, 7, 6, 7, 6, 7, 7, 7, 7, 7, 7, 7, 6, 7, 7, 6, 6, 4, 6, 7, 7, 7, 6, 7, 7, 7, 6, 7, 7, 7, 6, 7, 5, 5, 7, 7, 6, 7, 7, 7, 6, 7, 7, 6, 6, 6, 7, 7, 7, 7]",filler
+Os alunos da professora de espanhol gostaram dos filmes que ela mostrou nas aulas?,6.4902,0.8093,51,"[7, 7, 7, 7, 7, 6, 7, 7, 7, 7, 6, 7, 7, 5, 7, 7, 5, 7, 7, 6, 7, 7, 7, 6, 7, 7, 7, 7, 6, 7, 7, 6, 6, 6, 5, 7, 6, 4, 7, 5, 7, 5, 5, 7, 7, 7, 5, 7, 7, 7, 7]",filler
+Os alunos de matemática receiam que a prova seja muito difícil porque não têm estudado.,6.2745,0.9814,51,"[7, 7, 7, 7, 7, 6, 5, 7, 7, 6, 7, 7, 7, 5, 6, 6, 5, 4, 7, 5, 6, 7, 4, 5, 7, 7, 5, 7, 6, 7, 7, 7, 7, 5, 6, 7, 3, 6, 7, 7, 7, 6, 7, 6, 6, 7, 6, 7, 7, 6, 7]",filler
+Os aprendizes apreciavam a simplicidade da receita há gerações?,4.0,1.6903,8,"[4, 4, 3, 1, 4, 7, 4, 5]",test
+"Os colegas da médica recém-contratada estão a preparar uma festa de boas-vindas, antes de ela começar a trabalhar.",5.9412,1.0847,51,"[7, 7, 7, 4, 7, 5, 4, 7, 6, 6, 5, 7, 7, 4, 7, 7, 3, 6, 6, 5, 7, 7, 7, 5, 7, 7, 6, 6, 6, 7, 6, 6, 5, 4, 5, 7, 7, 5, 6, 5, 7, 6, 5, 5, 6, 4, 6, 6, 7, 6, 7]",filler
+Os coreanos temiam o alcance dos mísseis depois do fracasso das negociações de paz?,5.8889,0.928,9,"[7, 5, 7, 5, 5, 6, 5, 7, 6]",test
+Os correios entregaram um pacote enorme hoje de manhã.,6.7647,0.5509,51,"[7, 7, 7, 7, 7, 5, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 7, 7, 7, 7, 7, 6, 7, 7, 7, 7, 7, 7, 7, 6, 7, 5, 5, 7, 7, 7, 6, 7, 7, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7]",filler
+Os filmes de terror do festival assustaram o público mais jovem que compareceu ao evento.,6.6863,0.6161,51,"[7, 7, 7, 5, 7, 6, 7, 7, 7, 7, 7, 7, 7, 5, 6, 7, 6, 6, 7, 7, 7, 7, 7, 5, 7, 7, 6, 7, 7, 7, 7, 6, 7, 5, 6, 7, 7, 7, 7, 7, 7, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7]",filler
+Os funcionários temiam certos aspetos de algumas atividades da empresa no que respeita à sua saúde?,5.25,1.3887,8,"[5, 7, 6, 5, 4, 3, 5, 7]",test
+"Os jardins de que aquele jardineiro cuida são sempre muito bonitos, apesar do que se diz sobre ele.",5.6471,1.5076,51,"[7, 5, 7, 5, 6, 3, 4, 1, 6, 7, 6, 3, 7, 5, 6, 7, 6, 6, 2, 4, 7, 7, 5, 5, 7, 7, 6, 4, 3, 7, 6, 6, 6, 6, 5, 7, 7, 6, 6, 7, 7, 3, 5, 4, 6, 7, 7, 5, 7, 7, 7]",filler
+"Os jornalistas elogiaram a grandeza do evento, como era de se esperar?",3.6,1.7764,10,"[1, 5, 2, 2, 3, 6, 3, 5, 6, 3]",test
+"Os jovens consumidores criticaram o preço do apartamento, uma vez que eles costumam ter poucos rendimentos?",5.2,1.9322,10,"[7, 6, 1, 4, 6, 7, 6, 3, 6, 6]",test
+"Os moradores desaprovavam a instabilidade dos andaimes, apesar das palavras tranquilizadoras do empreiteiro?",5.1818,1.2505,11,"[3, 5, 4, 6, 4, 6, 7, 4, 6, 6, 6]",test
+"Os pacientes notavam a limpeza do consultório, assim que entravam?",4.0,2.6186,8,"[1, 2, 2, 7, 7, 4, 2, 7]",test
+Os presentes de Natal que foram entregues às crianças do jardim de infância alegraram todos.,5.82,1.3952,50,"[7, 7, 7, 7, 7, 4, 7, 6, 5, 5, 7, 2, 6, 6, 4, 7, 3, 7, 5, 6, 6, 6, 1, 5, 7, 7, 6, 6, 6, 7, 6, 5, 5, 5, 7, 7, 5, 3, 6, 7, 5, 7, 5, 7, 7, 7, 6, 6, 6, 7]",filler
+Os professores receavam o impacto do ranking relativamente à sua universidade?,6.6667,0.5774,3,"[7, 6, 7]",test
+Os teus colegas admiraram a originalidade da inovação esta semana?,5.25,1.7123,12,"[7, 7, 2, 5, 5, 5, 2, 6, 6, 7, 5, 6]",test
+Os teus filhos apreciaram a beleza do deserto durante o passeio?,6.6,0.8944,5,"[7, 5, 7, 7, 7]",test
+Os visitantes admiraram a altura das pirâmides durante o passeio?,5.3333,2.2509,6,"[6, 5, 1, 7, 6, 7]",test
+Os vizinhos constataram a fragilidade do prédio por ele estar todo quebrado?,4.1,1.9692,10,"[2, 6, 4, 2, 7, 6, 4, 1, 5, 4]",test
+"Por que é que os engenheiros construíram um viaduto ali, por onde não circulam nem carros nem pessoas?",5.8039,1.3714,51,"[7, 5, 7, 3, 7, 6, 6, 6, 5, 7, 6, 6, 6, 7, 3, 7, 5, 6, 6, 5, 7, 7, 6, 2, 6, 7, 7, 7, 6, 7, 7, 6, 6, 5, 5, 7, 6, 5, 5, 7, 6, 3, 6, 5, 7, 1, 6, 6, 7, 5, 7]",filler
+Quais são as flores mais cheirosas que a florista tinha à venda nesse momento?,5.6078,1.5502,51,"[7, 5, 7, 6, 7, 3, 7, 7, 6, 6, 6, 2, 7, 7, 3, 5, 5, 7, 7, 6, 5, 4, 2, 5, 6, 7, 7, 6, 1, 6, 7, 6, 7, 5, 4, 6, 7, 5, 5, 7, 7, 5, 2, 6, 6, 7, 5, 5, 6, 6, 7]",filler
+Qual foi a cidade mais bonita que já visitaste nas férias?,6.6275,0.9157,51,"[7, 7, 7, 7, 7, 6, 6, 7, 7, 7, 6, 7, 7, 7, 7, 7, 7, 2, 7, 7, 7, 7, 6, 5, 7, 7, 7, 7, 4, 7, 7, 6, 7, 5, 6, 7, 7, 7, 7, 7, 7, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7]",filler
+Qual é o nome daquele novo restaurante que abriu na semana passada e que é especializado em pratos vegetarianos?,6.6275,0.6621,51,"[7, 7, 7, 5, 7, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 6, 7, 6, 7, 7, 7, 6, 7, 7, 7, 7, 6, 7, 7, 5, 7, 6, 6, 7, 7, 6, 6, 7, 7, 7, 6, 7, 7, 7, 4, 7, 7, 6, 7]",filler
+"Que andaimes a instabilidade de angustiava os moradores, apesar das palavras tranquilizadoras do empreiteiro?",1.75,0.7071,8,"[1, 2, 1, 2, 2, 3, 2, 1]",test
+"Que andaimes os moradores desaprovavam a instabilidade de, apesar das palavras tranquilizadoras do empreiteiro?",2.25,1.7525,8,"[1, 2, 1, 3, 1, 6, 3, 1]",test
+Que apartamento o jovem casal negociou o preço de porque estava muito alto?,3.2222,1.4814,9,"[2, 4, 1, 5, 4, 5, 4, 2, 2]",test
+"Que apartamento o preço de afastou os jovens consumidores, uma vez que eles costumam ter poucos rendimentos?",2.4,1.1738,10,"[3, 2, 1, 1, 2, 2, 5, 3, 3, 2]",test
+Que apartamento o preço de espantou o jovem casal porque estava muito alto?,2.125,2.031,8,"[1, 7, 2, 1, 2, 1, 2, 1]",test
+"Que apartamento os jovens consumidores criticaram o preço de, uma vez que eles costumam ter poucos rendimentos?",2.125,1.4577,8,"[2, 3, 1, 1, 1, 5, 3, 1]",test
+Que atividades alguns aspetos de ameaçavam a saúde dos funcionários?,2.1429,1.4639,7,"[2, 1, 5, 1, 1, 2, 3]",test
+Que atividades os funcionários temiam certos aspetos de no que respeita à sua saúde?,2.7692,1.4806,13,"[3, 4, 3, 2, 1, 2, 6, 1, 1, 3, 4, 4, 2]",test
+"Que carne o cheiro de incomodou o novo empregado de mesa, por ele ser vegetariano?",2.0,1.4142,9,"[1, 1, 1, 1, 5, 1, 3, 3, 2]",test
+"Que carne o novo empregado de mesa detestava o cheiro de, por ele ser vegetariano?",2.7778,0.9718,9,"[3, 1, 3, 2, 4, 4, 3, 3, 2]",test
+"Que consultório a limpeza de tranquilizava os pacientes, assim que entravam?",2.75,2.3755,8,"[6, 7, 1, 1, 1, 2, 2, 2]",test
+"Que consultório os pacientes notavam a limpeza de, assim que entravam?",3.1429,1.5736,7,"[2, 5, 3, 5, 2, 4, 1]",test
+"Que descapotável a cor de encantou o jogador de futebol, por causa do seu brilho?",1.4286,0.5345,7,"[2, 1, 2, 1, 1, 2, 1]",test
+Que descapotável o jogador de futebol adorou a cor de por causa do seu brilho?,3.4,1.6465,10,"[7, 3, 4, 3, 5, 2, 2, 2, 2, 4]",test
+Que deserto a beleza de maravilhou os teus filhos durante o passeio?,2.25,1.893,4,"[2, 5, 1, 1]",test
+Que deserto os teus filhos apreciaram a beleza de durante o passeio?,2.0,1.6125,11,"[1, 1, 1, 2, 1, 1, 4, 1, 2, 6, 2]",test
+Que desfiladeiro a profundidade de assustou o guia quando ele lançou uma pedra lá para baixo?,1.5556,0.7265,9,"[1, 1, 2, 1, 2, 1, 2, 1, 3]",test
+Que desfiladeiro o guia deplorou a profundidade de quando ele lançou uma pedra lá para baixo?,3.25,1.7078,4,"[4, 3, 5, 1]",test
+"Que diamante a pureza de fascinou o comprador, pois tinha um brilho intenso?",2.2,0.9189,10,"[2, 1, 2, 1, 2, 3, 3, 2, 2, 4]",test
+"Que diamante o comprador logo reconheceu a pureza de, pois tinha um brilho intenso?",1.7778,0.8333,9,"[1, 1, 1, 1, 3, 2, 2, 3, 2]",test
+Que documentos a clareza de tranquilizou os advogados durante o julgamento?,1.4,0.5477,5,"[1, 1, 2, 1, 2]",test
+Que documentos os advogados apreciaram a clareza de durante o julgamento?,2.4444,1.5899,9,"[2, 1, 5, 1, 2, 1, 2, 5, 3]",test
+Que evento a grandeza de deslumbrou os jornalistas na noite passada?,2.2,1.1353,10,"[2, 2, 3, 1, 1, 4, 1, 2, 4, 2]",test
+"Que evento os jornalistas elogiaram a grandeza de, como era de se esperar?",2.9231,1.8913,13,"[1, 7, 1, 3, 2, 1, 3, 3, 3, 4, 3, 6, 1]",test
+Que flores a beleza de confortou as famílias durante o velório?,1.5714,0.8516,14,"[1, 1, 1, 1, 1, 3, 1, 2, 2, 1, 3, 1, 3, 1]",test
+Que flores as cores de alegravam as senhoras durante os seus passeios matinais?,2.2,1.3166,10,"[1, 2, 1, 1, 5, 3, 2, 1, 3, 3]",test
+Que flores as famílias admiraram a beleza de durante o velório?,4.0833,2.2344,12,"[7, 7, 1, 3, 2, 4, 2, 6, 3, 2, 5, 7]",test
+Que flores as senhoras apreciavam as cores de durante os seus passeios matinais?,3.0,2.1213,9,"[2, 1, 1, 5, 2, 1, 3, 6, 6]",test
+Que gabinete o novo funcionário criticou o tamanho de porque era demasiado pequeno?,2.125,1.3562,8,"[1, 3, 2, 1, 2, 1, 5, 2]",test
+Que gabinete o tamanho de decepcionou o novo funcionário porque era demasiado pequeno?,1.5,0.9718,10,"[1, 2, 1, 1, 1, 1, 1, 4, 2, 1]",test
+Que história o encanto de cativou a plateia durante o discurso daquele jovem político?,1.875,0.991,8,"[1, 3, 1, 1, 3, 2, 1, 3]",test
+Que história o público apreciou o encanto de durante o discurso daquele jovem político?,1.2857,0.488,7,"[1, 1, 1, 2, 1, 2, 1]",test
+Que inovação a originalidade de entusiasmou os meus colegas esta semana?,2.5,1.9272,8,"[1, 2, 7, 2, 3, 1, 2, 2]",test
+Que inovação os teus colegas admiraram a originalidade de esta semana?,2.8,1.7889,5,"[1, 4, 1, 3, 5]",test
+"Que janela a forma de desagradava ao pedreiro, pois ela não era perfeitamente simétrica?",2.75,2.0529,8,"[7, 1, 3, 1, 1, 2, 3, 4]",test
+"Que janela o pedreiro desaprovou a forma de, pois ela não era perfeitamente simétrica?",2.25,0.9574,4,"[1, 3, 3, 2]",test
+Que livros foram indicados pela professora de Literatura antes das férias?,6.5294,0.7308,51,"[7, 7, 7, 6, 7, 6, 7, 7, 7, 7, 6, 7, 7, 7, 7, 7, 6, 6, 7, 5, 7, 7, 7, 5, 7, 7, 7, 6, 5, 7, 7, 7, 7, 5, 6, 7, 6, 5, 7, 7, 7, 6, 7, 5, 7, 7, 7, 5, 7, 6, 7]",filler
+Que mísseis o alcance de alarmou os coreanos depois do fracasso das negociações de paz?,2.0,1.0541,10,"[1, 1, 1, 2, 3, 1, 4, 2, 3, 2]",test
+Que mísseis os coreanos temiam o alcance de depois do fracasso das negociações de paz?,2.2857,1.1127,7,"[2, 3, 3, 1, 2, 4, 1]",test
+Que pacote o carteiro subestimou o peso de porque não parecia ser tão pesado?,3.0,2.0,7,"[1, 5, 1, 4, 2, 2, 6]",test
+Que pacote o peso de surpreendeu o carteiro porque não parecia ser tão pesado?,1.6667,1.118,9,"[1, 1, 2, 1, 1, 1, 3, 1, 4]",test
+Que pirâmides a altura de impressionou os visitantes durante o passeio?,1.8333,0.7528,6,"[1, 2, 2, 1, 2, 3]",test
+Que pirâmides os visitantes admiraram a altura de durante o passeio?,4.4,1.8166,5,"[4, 4, 5, 7, 2]",test
+Que prédio a fragilidade de inquietava os vizinhos por ele estar todo quebrado?,1.75,1.3887,8,"[1, 2, 2, 1, 5, 1, 1, 1]",test
+Que prédio os vizinhos constataram a fragilidade de por ele estar todo quebrado?,1.375,0.744,8,"[1, 1, 1, 2, 1, 1, 1, 3]",test
+Que ranking o impacto de preocupou os professores relativamente à sua universidade?,2.0,1.4142,8,"[2, 1, 5, 2, 1, 1, 1, 3]",test
+Que ranking os professores receavam o impacto de relativamente à sua universidade?,2.7778,1.9861,9,"[3, 1, 2, 2, 6, 6, 3, 1, 1]",test
+Que receita a simplicidade de tem agradado aos aprendizes há gerações?,2.1,1.8529,10,"[1, 7, 2, 2, 1, 3, 2, 1, 1, 1]",test
+Que receita os aprendizes apreciavam a simplicidade de há gerações?,3.3077,1.9742,13,"[2, 3, 1, 1, 2, 1, 5, 5, 4, 7, 3, 3, 6]",test

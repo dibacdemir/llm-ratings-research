@@ -1,70 +1,90 @@
-# LLM ratings research
+# llm-ratings-research
 
-Do LLMs reproduce human psycholinguistic norms? This repo pairs published rating
-datasets with the code to score language models on the same items and compare
-them to humans — at the level of both means and full response distributions.
+Do language models rate words and sentences the way people do? Each dataset is
+a rating task humans did; the same question, word for word, is put to a model
+and the model's answer distribution is compared with the raters'.
+
+The original README from the data collection (Andrea and Diba's) is
+[README_original.md](README_original.md).
+
+## Use
+
+```bash
+conda activate compressibility
+
+./ratings list              # every dataset, which are scorable, why the rest are not
+./ratings check             # read the prompts — do this before spending GPU time
+./ratings check <name>      # the full prompt for one dataset
+./ratings run --models "Qwen/Qwen2.5-7B-Instruct meta-llama/Llama-3.2-3B-Instruct"
+./ratings show --serve      # rebuild the pages and print the ssh -L line to reach them
+```
+
+`run` submits one Slurm job per model. Each job first checks the prompts and
+the logit reading for that model and refuses to score if either fails; then it
+scores every scorable dataset (`--tasks` narrows, `--limit N` caps items per
+dataset) and rebuilds the pages at the end.
 
 ## Layout
 
-| Path | Contents |
-| --- | --- |
-| `pipeline/` | **The code.** Scoring, analysis, Slurm runner. See [`pipeline/README.md`](pipeline/README.md). |
-| `norm_datasets/` | 20 published norm sources, one CSV per task: `unit, mean, std, n, individual_ratings`. |
-| `instructions/` | One prompt template per dataset, with a `{word}` / `{sentence}` / `{expression}` placeholder. |
-| `surveyor_norms/` | TedLab Prolific norms, 2023–2026. 100 datasets, same schema plus an `item_type` (test/filler) column. |
-| `mturk_norms/` | TedLab MTurk norms, 2011–2021. 167 datasets, all usable, same schema. |
-| `presentation/` | Dataset catalog and figures. |
-| `audit/` | Deep audit of the TedLab conversions (2026-08-19), the 2026-08-20/21 repairs, and remaining fixes. |
-
-Run everything from the repo root:
-
-```bash
-python pipeline/experiments.py --list
+```
+data/<level>/<task>/     one folder per dataset: instruction.txt, ratings.csv, metadata.json
+data/INDEX.csv           one row per dataset (generated from the metadata)
+metadata/                what the human data looks like: catalog, reliability, figures
+pipeline/                the code; pipeline/README.md says what each file is
+result/<model>/          one .jsonl per task: the model's distribution on every item
+result/inspector.html    the page: every task, every model, item by item
+audit/                   Andrea's classification of every dataset into levels, with evidence
+archive/                 the source trees the data/ folders were copied from, and retired code
+ratings                  the only command
+RUNBOOK.md               the same four verbs, with the details
 ```
 
-## Quick start
+## How a model is scored
 
-```bash
-module load miniforge && eval "$(conda shell.bash hook)" && conda create -n llm-ratings python=3.11 -y && conda activate llm-ratings
+One forward pass per item. The instruction is used exactly as the raters saw
+it, with the stimulus in double quotes where the placeholder was; nothing is
+appended. The next-token distribution is read at the answer position,
+restricted to the digits of that dataset's scale, and renormalised. The
+expected rating is the mean of that distribution; the whole distribution is
+kept, so any statistic can be computed later without re-running a model.
+
+`option_mass` — how much probability sat on the valid digits before
+renormalising — is stored per item and shown everywhere. Below ~0.9 the model
+did not answer with a number and the row should not be trusted.
+
+## Adding a dataset
+
+One folder, no code:
+
+```
+data/<level>/<name>/instruction.txt    the wording, <<{word}>> where the stimulus goes
+data/<level>/<name>/ratings.csv        unit,mean,std,n,individual_ratings
+data/<level>/<name>/metadata.json      at least {"task": "<name>", "source": "...", "level": "<level>"}
 ```
 
-```bash
-pip install torch transformers accelerate numpy scipy tqdm
-```
+Then `./ratings check <name>` to read the prompt; the next `run` includes it.
+`pipeline/human_reliability.py` fills in the human reliability,
+`pipeline/build_index.py` refreshes `data/INDEX.csv`.
 
-Grab a GPU, then smoke test on the smallest dataset:
+`individual_ratings` is what each rater answered. With it, model and human
+distributions are compared and the human split-half reliability is known.
+Without it, only means and correlations are.
 
-```bash
-python pipeline/experiments.py --model qwen17b --dataset dentella2023_grammaticality --show-prompt
-```
+## The human data
 
-Check `scale_mass` in the output before trusting anything — near 1.0 means the
-model answered with a rating digit; low means it answered with something else
-and the numbers are noise. Full details in [`pipeline/README.md`](pipeline/README.md).
+`metadata/` holds the catalog (`catalog.csv`, one row per task with size,
+scale, level and split-half reliability) and the figures, all generated by
+`pipeline/build_metadata.py` from `data/`. Human reliability is the ceiling a
+model-human correlation can reach on that task; the page shows it next to every
+correlation.
 
-## What gets measured
+## Before believing a number
 
-Each item is scored in a **single forward pass**: the next-token distribution is
-restricted to the rating-scale digits and renormalized, giving a probability
-distribution over the scale plus an expected rating. No sampling, no generation.
-
-That yields two levels of comparison:
-
-- **Means** — does `model_expected` correlate with `human_mean`, relative to the
-  ceiling set by human split-half reliability?
-- **Distributions** — does the model *spread* its answers the way people do?
-
-These can disagree sharply, which is the point of keeping trial-level human
-responses rather than just published averages.
-
-## Status
-
-Working: 17 datasets in `norm_datasets/` with trial-level responses, scored
-end-to-end on MIT Engaging.
-
-Not yet wired up: the 267 TedLab datasets in `surveyor_norms/` and
-`mturk_norms/` (audited and repaired 2026-08-20/21, see `audit/`; nothing blocked). Same schema (surveyor adds an `item_type`
-column), and each ships an `a_index.csv` carrying the rating scale and
-instruction provenance, so the hardcoded registry in `pipeline/experiments.py`
-could be replaced with auto-discovery. Note `std` in these two trees is sample
-SD (ddof=1).
+- `option_mass` < 0.9: the model did not answer with a digit.
+- The comparison table flags a model that answered almost the same number every
+  time (`!`) or used only the two ends of a graded scale (`⇅`).
+- Caveats that survive the data being correct (edwards2024 asks for difficulty,
+  not transparency; gatti2024's human column is a best-worst score) live in
+  `pipeline/llm_ratings/task_meta.NOTES` and print beside the task.
+- Levels are a judgement, decided in `audit/dataset_levels.csv`; the page shows
+  who decided each one and why.

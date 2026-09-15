@@ -1,0 +1,10 @@
+À quel point cette phrase vous paraît-elle naturelle ?
+Évaluez sur une échelle de 1 à 5 :
+1 = Pas du tout naturelle
+2 = Peu naturelle
+3 = Passable
+4 = Assez naturelle
+5 = Tout-à-fait naturelle
+Répondez par un seul chiffre.
+
+<<{sentence}>>

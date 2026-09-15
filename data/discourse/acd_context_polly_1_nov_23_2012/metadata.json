@@ -1,0 +1,40 @@
+{
+  "task": "acd_context_polly_1_nov_23_2012",
+  "source": "mturk",
+  "level": "discourse",
+  "sublevel": null,
+  "level_decided_by": "andrea_rule_context_v3",
+  "level_rationale": "context manipulated across items: 36 families cross context variants with ACD targets",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 310,
+  "n_ratings": 28701,
+  "ratings_per_item_median": 30,
+  "ratings_per_item_min": 13,
+  "ratings_per_item_max": 557,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "dashboard_confirmed (RESOLVED_QUERIES.md, 2026-08-20)",
+    "scale_labels": "dashboard_confirmed (RESOLVED_QUERIES.md, 2026-08-20) -- RESOLVED_QUERIES.md A1 row 'ACD context polly 1 nov 23 2012' (verbatim dashboard label set, presentation order)",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/acd_context_polly_1_nov_23_2012.csv",
+    "instruction": "mturk_norms/instructions/acd_context_polly_1_nov_23_2012_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.466,
+    "spearman_sb": 0.462,
+    "n_items_used": 310,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

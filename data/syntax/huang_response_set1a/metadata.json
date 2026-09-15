@@ -1,0 +1,44 @@
+{
+  "task": "huang_response_set1a",
+  "source": "surveyor",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 288,
+  "n_ratings": 14347,
+  "ratings_per_item_median": 50,
+  "ratings_per_item_min": 48,
+  "ratings_per_item_max": 50,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "survey_id": "huang_response_set1a",
+    "owner": "moshepol@mit.edu",
+    "participants": 50,
+    "n_test": 288,
+    "n_filler": 0,
+    "n_practice": 0,
+    "anchors_dropped": 0
+  },
+  "original": {
+    "ratings": "surveyor_norms/norm_datasets/syntax/huang_response_set1a.csv",
+    "instruction": "surveyor_norms/instructions/syntax/huang_response_set1a_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.966,
+    "spearman_sb": 0.966,
+    "n_items_used": 288,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

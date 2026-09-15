@@ -1,0 +1,36 @@
+{
+  "task": "amouyal2024_plausibility",
+  "source": "published",
+  "level": "sentence_semantics",
+  "sublevel": "plausibility",
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 853,
+  "n_ratings": 17154,
+  "ratings_per_item_median": 14,
+  "ratings_per_item_min": 6,
+  "ratings_per_item_max": 100,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {},
+  "original": {
+    "ratings": "norm_datasets/amouyal2024_data/amouyal2024_plausibility.csv",
+    "instruction": "instructions/amouyal2024_instructions/amouyal2024_plausibility_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.947,
+    "spearman_sb": 0.915,
+    "n_items_used": 853,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

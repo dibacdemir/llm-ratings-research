@@ -1,0 +1,47 @@
+{
+  "task": "acceptability_replication_959",
+  "source": "surveyor",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged | MERGED 2026-08-22 with montemayor_replication_acceptability_in_syntax, replication_v6 (identical items + instruction; ratings pooled)",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 288,
+  "n_ratings": 6126,
+  "ratings_per_item_median": 21,
+  "ratings_per_item_min": 11,
+  "ratings_per_item_max": 34,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 41,
+  "merged_from": [
+    "montemayor_replication_acceptability_in_syntax",
+    "replication_v6"
+  ],
+  "provenance": {
+    "survey_id": "acceptability_replication_959",
+    "owner": "sukrith@mit.edu",
+    "participants": 32,
+    "n_test": 288,
+    "n_filler": 0,
+    "n_practice": 0,
+    "anchors_dropped": 0
+  },
+  "original": {
+    "ratings": "surveyor_norms/norm_datasets/syntax/acceptability_replication_959.csv",
+    "instruction": "surveyor_norms/instructions/syntax/acceptability_replication_959_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.973,
+    "spearman_sb": 0.964,
+    "n_items_used": 288,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "task": "sentence_naturalness_survey_for_gs_jan_2010",
+  "source": "mturk",
+  "level": "pragmatics",
+  "sublevel": null,
+  "level_decided_by": "andrea_scheme_v4",
+  "level_rationale": "speech-act felicity: utterance rated for how natural it sounds in a described situation; situation constant across items, so the construct is felicity, not well-formedness",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 133,
+  "n_ratings": 5004,
+  "ratings_per_item_median": 20,
+  "ratings_per_item_min": 10,
+  "ratings_per_item_max": 120,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "reconstructed",
+    "scale_labels": "dashboard_sibling: dashboard_scale_labels for this folder, scale_source_project=\"Sentence naturalness survey for JK June 24\"; C row 42",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/sentence_naturalness_survey_for_gs_jan_2010.csv",
+    "instruction": "mturk_norms/instructions/sentence_naturalness_survey_for_gs_jan_2010_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.913,
+    "spearman_sb": 0.906,
+    "n_items_used": 133,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

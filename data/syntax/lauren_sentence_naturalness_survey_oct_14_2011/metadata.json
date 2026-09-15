@@ -1,0 +1,40 @@
+{
+  "task": "lauren_sentence_naturalness_survey_oct_14_2011",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 360,
+  "n_ratings": 5318,
+  "ratings_per_item_median": 6,
+  "ratings_per_item_min": 4,
+  "ratings_per_item_max": 60,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "reconstructed: question wording ('How natural does the sentence sound?') inferred from the 5-point naturalness scale (Extremely unnatural..Extremely natural) verbatim-verified in questionnaire_wording.csv row for source_folder and in the recovered local generator template html_maker_rating.py ($OD/.../replication/html_maker_rating.py, 'Sentence rating:' radio labels, match_score 1.0); no explicit interrogative question text survives in the recovered template (raw HIT Title/Description name no dimension).",
+    "scale_labels": "verbatim from questionnaire_wording.csv scale_labels field + recovered template html_maker_rating.py radio labels (5 labels, values 1-5); cross-checked against SCALE_CATALOG.md row 3/29",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/lauren_sentence_naturalness_survey_oct_14_2011.csv",
+    "instruction": "mturk_norms/instructions/lauren_sentence_naturalness_survey_oct_14_2011_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.806,
+    "spearman_sb": 0.703,
+    "n_items_used": 360,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

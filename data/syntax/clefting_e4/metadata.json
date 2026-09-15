@@ -1,0 +1,47 @@
+{
+  "task": "clefting_e4",
+  "source": "surveyor",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged | MERGED 2026-08-22 with clefting_e4_rep, clefting_e4_rep2 (identical items + instruction; ratings pooled)",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 48,
+  "n_ratings": 7244,
+  "ratings_per_item_median": 151,
+  "ratings_per_item_min": 128,
+  "ratings_per_item_max": 173,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [
+    "clefting_e4_rep",
+    "clefting_e4_rep2"
+  ],
+  "provenance": {
+    "survey_id": "clefting_E4",
+    "owner": "moshepol@mit.edu",
+    "participants": 50,
+    "n_test": 48,
+    "n_filler": 0,
+    "n_practice": 0,
+    "anchors_dropped": 0
+  },
+  "original": {
+    "ratings": "surveyor_norms/norm_datasets/syntax/clefting_e4.csv",
+    "instruction": "surveyor_norms/instructions/syntax/clefting_e4_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.979,
+    "spearman_sb": 0.969,
+    "n_items_used": 48,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

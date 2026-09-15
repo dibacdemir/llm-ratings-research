@@ -1,0 +1,44 @@
+{
+  "task": "russian_freezing",
+  "source": "surveyor",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "non-english",
+  "n_items": 180,
+  "n_ratings": 1503,
+  "ratings_per_item_median": 8,
+  "ratings_per_item_min": 2,
+  "ratings_per_item_max": 17,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 180,
+  "merged_from": [],
+  "provenance": {
+    "survey_id": "russian_freezing",
+    "owner": "moshepol@mit.edu",
+    "participants": 51,
+    "n_test": 180,
+    "n_filler": 0,
+    "n_practice": 0,
+    "anchors_dropped": 0
+  },
+  "original": {
+    "ratings": "surveyor_norms/non_english/norm_datasets/syntax/russian_freezing.csv",
+    "instruction": "surveyor_norms/non_english/instructions/syntax/russian_freezing_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.905,
+    "spearman_sb": 0.898,
+    "n_items_used": 180,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

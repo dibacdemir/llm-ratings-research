@@ -1,0 +1,40 @@
+{
+  "task": "animacy_passive_dative_kyle",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 120,
+  "n_ratings": 4649,
+  "ratings_per_item_median": 39,
+  "ratings_per_item_min": 35,
+  "ratings_per_item_max": 40,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "reconstructed",
+    "scale_labels": "dashboard_own: dashboard_scale_labels, scale_source_project=\"animacy passive dative-kyle\" (this project); scale_catalog row 62",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/animacy_passive_dative_kyle.csv",
+    "instruction": "mturk_norms/instructions/animacy_passive_dative_kyle_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.921,
+    "spearman_sb": 0.926,
+    "n_items_used": 120,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

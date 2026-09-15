@@ -1,0 +1,46 @@
+{
+  "task": "constituency_tests",
+  "source": "surveyor",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged | MERGED 2026-08-22 with topicalization_e2 (identical items + instruction; ratings pooled)",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 48,
+  "n_ratings": 2441,
+  "ratings_per_item_median": 51,
+  "ratings_per_item_min": 41,
+  "ratings_per_item_max": 61,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [
+    "topicalization_e2"
+  ],
+  "provenance": {
+    "survey_id": "Constituency tests",
+    "owner": "miau@mit.edu",
+    "participants": 53,
+    "n_test": 48,
+    "n_filler": 0,
+    "n_practice": 0,
+    "anchors_dropped": 0
+  },
+  "original": {
+    "ratings": "surveyor_norms/norm_datasets/syntax/constituency_tests.csv",
+    "instruction": "surveyor_norms/instructions/syntax/constituency_tests_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.689,
+    "spearman_sb": 0.654,
+    "n_items_used": 48,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

@@ -1,0 +1,15 @@
+We are interested in learning about how people read regular and irregular words. An example of a regular word is "cat," in which you can sound out each letter to get the right pronunciation of the word. Irregular words are not always spelled using conventional spelling rules though. An example of an irregular word is "aisle". It is an irregular word because you cannot exactly arrive at the word's pronunciation by sounding it out letter by letter.
+
+People who are unfamiliar with some words may apply a letter-to-sound matching strategy (i.e., phonics) when asked to read them. We would like to see how effective these strategies may be for correctly identifying the word pronunciations. We assume that certain strategies will be more successful for reading some irregular words than others.
+
+In this task, you will find a list of regular and irregular words. We would like you to pretend that the letter string is unfamiliar to you and try applying a letter-to-sound reading strategy to the letter string. Then rate the difficulty of matching your "sounded out" form of the word to the actual word pronunciation. Rate the difficulty of making the match between the sounded out form and correct pronunciation on a scale from 1 to 6, with 1 being very easy to match and 6 being very difficult to match.
+
+(Examples)
+For example, irregular words like "champagne" "yacht" and "suede" would typically be rated as very difficult to match between their sounded out forms and their actual pronunciations.
+Here is an example of a regular word (Tint) that would typically be rated as easiest to match from the sounded out form to the actual pronunciation, putting it at a 1 on the scale.
+Another example of more commonly heard irregular words like "rough" and "caption" would also be rated as somewhat difficult to match between the sounded out forms and the actual pronunciations.
+Here is an example of a regular word (Desktop) that would typically be rated as easiest to match from the sounded out form to the actual pronunciation, putting it at a 1 on the scale.
+Other commonly heard words like "pint" and "touch" are also irregular, but they would typically be rated as being easier to match from the sounded out forms to the actual pronunciations.
+Here is an example of a regular word (Lag) that would typically be rated as easiest to match from the sounded out form to the actual pronunciation, putting it at a 1 on the scale.
+
+Please rate the word <<{word}>> on a scale from 1 to 6. Answer with one digit.

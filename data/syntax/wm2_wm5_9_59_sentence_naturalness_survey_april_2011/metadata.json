@@ -1,0 +1,40 @@
+{
+  "task": "wm2_wm5_9_59_sentence_naturalness_survey_april_2011",
+  "source": "mturk",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "fable_resolution",
+  "level_rationale": "comprehensibility/naturalness of structurally complex (center-embedded, displaced) sentences: what varies is structure; comprehensibility is a processing measure of it",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 219,
+  "n_ratings": 3348,
+  "ratings_per_item_median": 11,
+  "ratings_per_item_min": 7,
+  "ratings_per_item_max": 48,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "reconstructed: 'How natural does the sentence sound?' -- raw Title/Description in questionnaire_wording.csv name no dimension explicitly, but the folder-name convention ('sentence naturalness survey') and the exact-match template scale (see scale_source) jointly support this question.",
+    "scale_labels": "verbatim from questionnaire_wording.csv scale_labels field for this folder's own row: template_family=html_maker_rating.py, match_score=1.0, 'Rating: Extremely unnatural | Somewhat unnatural | Possible | Somewhat natural | Extremely natural || YNQ: Yes | No' -- Rating-field labels only (5), matches SCALE_CATALOG.md rows 3/29.",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/wm2_wm5_9_59_sentence_naturalness_survey_april_2011.csv",
+    "instruction": "mturk_norms/instructions/wm2_wm5_9_59_sentence_naturalness_survey_april_2011_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.886,
+    "spearman_sb": 0.839,
+    "n_items_used": 219,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

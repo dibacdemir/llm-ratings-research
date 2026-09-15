@@ -1,0 +1,572 @@
+<meta charset="utf-8">
+<title>Rating Distributions Lab</title>
+<style>
+:root{
+  --paper:#f3f5f7; --surface:#ffffff; --surface-2:#eef1f4;
+  --ink:#15181d; --ink-2:#3c4552; --muted:#68717e; --rule:#dde2e8;
+  --band:#26313f; --band-ink:#e6ebf1;
+  --model:#2a78d6; --human:#eb6834; --flag:#bd3320; --ok:#1f7a4d;
+  --shadow:0 1px 2px rgba(21,24,29,.06), 0 8px 24px -16px rgba(21,24,29,.18);
+  --serif:ui-serif,"Iowan Old Style","Charter","Palatino Linotype",Palatino,Georgia,serif;
+  --sans:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;
+  --mono:ui-monospace,"SF Mono","Cascadia Mono","Roboto Mono",Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#0f1216; --surface:#171b21; --surface-2:#1e242c;
+    --ink:#e8ebef; --ink-2:#b6bfcb; --muted:#8d97a4; --rule:#28303a;
+    --band:#1b232d; --band-ink:#dbe3ec;
+    --model:#3987e5; --human:#d95926; --flag:#e0705c; --ok:#3f9e6c;
+    --shadow:0 1px 2px rgba(0,0,0,.4), 0 10px 30px -18px rgba(0,0,0,.8);
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#0f1216; --surface:#171b21; --surface-2:#1e242c;
+  --ink:#e8ebef; --ink-2:#b6bfcb; --muted:#8d97a4; --rule:#28303a;
+  --band:#1b232d; --band-ink:#dbe3ec;
+  --model:#3987e5; --human:#d95926; --flag:#e0705c; --ok:#3f9e6c;
+  --shadow:0 1px 2px rgba(0,0,0,.4), 0 10px 30px -18px rgba(0,0,0,.8);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);
+     font-size:15px;line-height:1.6;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1180px;margin:0 auto;padding:0 24px 96px}
+h1,h2,h3{font-family:var(--serif);font-weight:600;text-wrap:balance;margin:0}
+a{color:var(--model)}
+code,.num{font-family:var(--mono);font-variant-numeric:tabular-nums}
+
+/* header */
+header{background:var(--band);color:var(--band-ink);padding:44px 0 38px;margin-bottom:34px}
+header .wrap{padding-bottom:0}
+.eyebrow{font-size:11px;letter-spacing:.14em;text-transform:uppercase;
+         color:var(--band-ink);opacity:.62;font-family:var(--sans)}
+h1{font-size:clamp(28px,4.4vw,44px);line-height:1.12;margin:10px 0 12px;color:var(--band-ink)}
+.thesis{max-width:66ch;color:var(--band-ink);opacity:.82;font-size:16.5px}
+.counts{display:flex;flex-wrap:wrap;gap:28px;margin-top:26px;
+        border-top:1px solid rgba(255,255,255,.14);padding-top:20px}
+.count b{display:block;font-family:var(--mono);font-size:26px;font-variant-numeric:tabular-nums;
+         line-height:1.1;color:var(--band-ink)}
+.count span{font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;
+            color:var(--band-ink);opacity:.6}
+
+section{margin:0 0 52px}
+h2{font-size:23px;margin-bottom:6px;padding-top:8px}
+h2 .n{font-family:var(--mono);font-size:13px;color:var(--muted);margin-right:10px;
+      font-weight:400;vertical-align:2px}
+.lede{color:var(--ink-2);max-width:70ch;margin:0 0 20px}
+.note{color:var(--muted);font-size:13.5px;max-width:74ch}
+
+.card{background:var(--surface);border:1px solid var(--rule);border-radius:6px;
+      box-shadow:var(--shadow)}
+.pad{padding:20px 22px}
+
+/* gate callout */
+.gate{display:grid;gap:1px;background:var(--rule);border:1px solid var(--rule);
+      border-radius:6px;overflow:hidden;grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
+.gate>div{background:var(--surface);padding:18px 20px}
+.gate h3{font-size:15px;margin-bottom:6px;font-family:var(--sans);font-weight:650}
+.gate p{margin:0;font-size:13.5px;color:var(--ink-2)}
+
+/* tables */
+.scroll{overflow-x:auto;border:1px solid var(--rule);border-radius:6px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:13.5px}
+th,td{padding:8px 12px;text-align:right;border-bottom:1px solid var(--rule);white-space:nowrap}
+th{position:sticky;top:0;background:var(--surface-2);font-weight:600;font-size:11.5px;
+   letter-spacing:.05em;text-transform:uppercase;color:var(--muted);z-index:1}
+td.l,th.l{text-align:left}
+tbody tr:last-child td{border-bottom:none}
+tbody tr:hover td{background:var(--surface-2)}
+td .num{font-size:13px}
+.dim{color:var(--muted)}
+.bad{color:var(--flag);font-weight:600}
+.good{color:var(--ok)}
+.tag{display:inline-block;font-size:10.5px;letter-spacing:.05em;text-transform:uppercase;
+     padding:2px 7px;border-radius:3px;background:var(--surface-2);color:var(--muted);
+     border:1px solid var(--rule);font-family:var(--sans)}
+.tag.warn{color:var(--flag);border-color:currentColor}
+
+/* task cards */
+.tasks{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(250px,1fr))}
+.task h3{font-size:16px;margin-bottom:2px}
+.task .dom{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--model);
+           font-weight:650;margin-bottom:10px;display:flex;justify-content:space-between;
+           align-items:center;gap:8px}
+.task .dom .src{letter-spacing:.03em;text-transform:none;font-size:10.5px;font-weight:600;
+           color:var(--muted);background:var(--surface-2);border:1px solid var(--rule);
+           border-radius:99px;padding:2px 8px;white-space:nowrap}
+.task .gloss{font-size:12.5px;color:var(--ink-2);margin-top:-2px}
+.task dl{display:grid;grid-template-columns:auto 1fr;gap:3px 14px;margin:12px 0 0;font-size:13px}
+.task dt{color:var(--muted)}
+.task dd{margin:0;text-align:right;font-family:var(--mono);font-variant-numeric:tabular-nums}
+.task .instr{margin-top:12px;padding-top:12px;border-top:1px solid var(--rule);
+             font-size:12px;color:var(--muted);font-style:italic;line-height:1.5}
+
+/* charts */
+.legend{display:flex;gap:18px;align-items:center;margin:0 0 14px;font-size:12.5px;color:var(--ink-2)}
+.key{display:inline-flex;align-items:center;gap:7px}
+.sw{width:11px;height:11px;border-radius:2px;display:inline-block}
+.grid-sm{display:grid;gap:14px;grid-template-columns:repeat(auto-fill,minmax(232px,1fr))}
+.sm{background:var(--surface);border:1px solid var(--rule);border-radius:6px;padding:13px 14px}
+.sm .t{font-size:12.5px;font-weight:650;margin-bottom:1px;line-height:1.3}
+.sm .s{font-size:11px;color:var(--muted);margin-bottom:9px}
+svg{display:block;max-width:100%;overflow:visible}
+.controls{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px;align-items:center}
+.controls label{font-size:12px;color:var(--muted);letter-spacing:.04em;text-transform:uppercase}
+select,button.seg{font:inherit;font-size:13px;padding:5px 10px;border-radius:5px;
+       border:1px solid var(--rule);background:var(--surface);color:var(--ink);cursor:pointer}
+button.seg[aria-pressed="true"]{background:var(--band);color:var(--band-ink);border-color:var(--band)}
+select:focus-visible,button:focus-visible{outline:2px solid var(--model);outline-offset:2px}
+.tip{position:fixed;pointer-events:none;z-index:50;background:var(--band);color:var(--band-ink);
+     padding:7px 10px;border-radius:5px;font-size:12px;line-height:1.45;opacity:0;
+     transition:opacity .1s;max-width:260px;box-shadow:0 6px 20px -8px rgba(0,0,0,.5)}
+.tip .num{font-size:11.5px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+
+footer{border-top:1px solid var(--rule);padding-top:22px;color:var(--muted);font-size:13px}
+footer code{font-size:12px;background:var(--surface-2);padding:1px 5px;border-radius:3px}
+ul.tight{margin:8px 0 0;padding-left:20px}
+ul.tight li{margin-bottom:5px;color:var(--ink-2)}
+</style>
+
+<header>
+  <div class="wrap">
+    <div class="eyebrow">TedLab · LLM ratings</div>
+    <h1>Rating Distributions Lab</h1>
+    <p class="thesis">Language models are asked to rate words and sentences on the
+      same scales human participants used. Instead of sampling an answer, the
+      probability of every scale point is read straight off the logits — so each
+      item yields a full distribution, comparable to the distribution of the
+      humans who rated it.</p>
+    <div class="counts" id="counts"></div>
+  </div>
+</header>
+
+<div class="wrap">
+
+<section id="gate">
+  <h2><span class="n">01</span>Before you read any number</h2>
+  <p class="lede">Three things decide whether a row on this page means anything.
+     They are not caveats bolted on at the end; each one has already overturned a
+     result during this work.</p>
+  <div class="gate">
+    <div>
+      <h3>Check <code>mass</code> first</h3>
+      <p>How much probability sat on the valid answers before renormalising. Below
+         ~0.9 the distribution is a rescaled tail: not “the model disagrees with
+         people” but “we never read the model’s answer”. Four apparently sensible
+         results on this page were killed by this check.</p>
+    </div>
+    <div>
+      <h3>The prompt is the instruction, as written</h3>
+      <p>Every model sees the same text the raters saw, with the stimulus in
+         double quotes and nothing appended. A model that does not then answer
+         with a digit shows up as low mass and is flagged, rather than being
+         re-prompted; small Llama models are the usual case.</p>
+    </div>
+    <div>
+      <h3>bfloat16 is fine for rankings, not for single items</h3>
+      <p>Against float32, Pearson moves ≤0.001 and W1 ≤0.005, but 15–40% of items
+         have two scale points at <em>exactly</em> equal probability, because bf16
+         quantises logits in steps of ~0.031.</p>
+    </div>
+  </div>
+</section>
+
+<section id="tasks">
+  <h2><span class="n">02</span>The four tasks</h2>
+  <p class="lede">Chosen to sit at four different levels of linguistic analysis, and
+     to differ in how much the human raters agree with each other — the quantity
+     that decides how much a distributional comparison can add over a mean.</p>
+  <div class="tasks" id="taskcards"></div>
+</section>
+
+<section id="usage">
+  <h2><span class="n">03</span>How the scale gets used</h2>
+  <p class="lede">Each panel is one model on one task: the average probability it
+     assigns to each scale point across every item, against the same average for
+     the human raters. A model can correlate well with human means while using a
+     completely different part of the scale.</p>
+  <div class="controls">
+    <label for="usetask">Task</label>
+    <select id="usetask"></select>
+    <label for="usesort">Order</label>
+    <select id="usesort">
+      <option value="entropy">by sharpness</option>
+      <option value="pearson">by correlation</option>
+      <option value="model">by model name</option>
+    </select>
+  </div>
+  <div class="legend">
+    <span class="key"><span class="sw" style="background:var(--model)"></span>Model</span>
+    <span class="key"><span class="sw" style="background:var(--human)"></span>Human raters</span>
+    <span class="dim" style="font-size:12px">Bars are mean probability per scale point. Hover for values.</span>
+  </div>
+  <div class="grid-sm" id="usagegrid"></div>
+</section>
+
+<section id="sharp">
+  <h2><span class="n">04</span>Sharpness against the human spread</h2>
+  <p class="lede">Entropy of the average rating distribution, in bits. Left of the
+     human marker the model is more confident than the raters were; right of it,
+     less. This is a calibration axis, separate from whether the model ranks items
+     correctly.</p>
+  <div class="controls">
+    <label for="sharptask">Task</label>
+    <select id="sharptask"></select>
+  </div>
+  <div class="legend">
+    <span class="key"><span class="sw" style="background:var(--model)"></span>Model</span>
+    <span class="key"><span class="sw" style="background:var(--human)"></span>Human raters</span>
+  </div>
+  <div class="card pad"><div id="dumbbell"></div></div>
+</section>
+
+<section id="matrix">
+  <h2><span class="n">05</span>Every run</h2>
+  <p class="lede">All runs in <code>result/</code>, newest sweep and earlier work
+     together. Distributional columns are blank where the metric has not been
+     computed yet — the per-item distributions are stored, so any statistic can be
+     added later without re-running a model.</p>
+  <div class="controls">
+    <label for="mtask">Task</label><select id="mtask"></select>
+    <label for="mfam">Family</label><select id="mfam"></select>
+    <label>Sort</label>
+    <button class="seg" id="sortmass" aria-pressed="false">mass</button>
+    <button class="seg" id="sortpear" aria-pressed="true">pearson</button>
+    <button class="seg" id="sortsize" aria-pressed="false">size</button>
+    <label style="margin-left:auto"><input type="checkbox" id="hidebad"> hide runs with mass &lt; 0.9</label>
+  </div>
+  <div class="scroll"><table id="runs"><thead></thead><tbody></tbody></table></div>
+  <p class="note" style="margin-top:12px">
+    <b>mass</b> median option mass · <b>r</b> Pearson against human item means ·
+    <b>slope</b> OLS of human on model, 1.0 = matched range ·
+    <b>H</b> entropy in bits, with the human value beside it ·
+    <b>W1/δ</b> median Wasserstein-1 in units of the human split-half distance
+    (1.0 = as close as one half of the raters is to the other) ·
+    <b>equiv</b> share of items whose distributions are statistically indistinguishable.
+  </p>
+</section>
+
+<section id="earlier">
+  <h2><span class="n">06</span>What the earlier runs established</h2>
+  <p class="lede">Findings from the first pass — 47 runs over 15 models and 5 tasks,
+     with the full distributional pipeline computed.</p>
+  <div id="findings"></div>
+</section>
+
+<section id="verify">
+  <h2><span class="n">07</span>Is the measurement itself sound?</h2>
+  <p class="lede">Reading probabilities off logits is only worth anything if the
+     reading is correct. Two independent checks, in <code>pipeline/verify_scoring.py</code>.</p>
+  <div class="gate">
+    <div>
+      <h3>Internal — padding and positions</h3>
+      <p>In float32, scoring an item alone and scoring it inside a padded batch agree
+         to <code>3.3e-05</code>. A structural error in the left-padding, the attention
+         mask, or the “read the last position” assumption could not survive that.</p>
+    </div>
+    <div>
+      <h3>External — does the model emit what we claim?</h3>
+      <p>Greedy decoding matched our argmax on 4/4 items. Sampling the first token
+         400× at temperature 1 put 400/400 draws on a valid option, with empirical
+         frequencies within 0.005–0.040 of our distribution — inside the multinomial
+         noise band of 0.05.</p>
+    </div>
+    <div>
+      <h3>Cross-implementation</h3>
+      <p>Mean W1 computed independently in <code>analyze_run.py</code> reproduces
+         <code>alignment.model</code> from Ted’s code exactly, and matches it to
+         0.00e+00 over 200 random distribution pairs in the self-test.</p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p><b>Reproducing this page.</b>
+     <code>python pipeline/run_sweep.py</code>-style jobs write per-item distributions to
+     <code>result/&lt;model&gt;/&lt;task&gt;.jsonl</code>;
+     <code>pipeline/build_report_data.py</code> gathers them into
+     <code>result/report_data.json</code>;
+     <code>pipeline/build_report.py</code> renders this page. Adding runs and
+     re-running the last two steps refreshes everything here.</p>
+  <p id="stamp" class="dim"></p>
+</footer>
+</div>
+<div class="tip" id="tip" role="status"></div>
+
+<script>
+const DATA = /*__DATA__*/;
+const $ = s => document.querySelector(s);
+/* instruction text carries <<{sentence}>> placeholders; model ids carry slashes */
+const esc = s => String(s).replace(/[&<>"]/g, c =>
+  ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt = (v,d=3) => (v===null||v===undefined||Number.isNaN(v)) ? "—" : Number(v).toFixed(d);
+const pct = v => (v===null||v===undefined) ? "—" : (100*v).toFixed(1)+"%";
+const SHORT = {
+  edwards2024_spelling_to_pronunciation_transparency:"edwards2024 transparency",
+  diveica2023_socialness:"diveica2023 socialness",
+  huang_response_set2a:"huang set2a acceptability",
+  amouyal2024_plausibility:"amouyal2024 plausibility",
+  lancaster2020_visual:"lancaster2020 visual",
+  dentella2023_grammaticality:"dentella2023 grammaticality"
+};
+const short = t => SHORT[t] || t;
+/* "Meta-Llama-3.1-8B-Instruct" is 26 chars of mostly boilerplate in a chart label */
+const shortModel = m => m.replace(/^Meta-/,"").replace(/-Instruct$/,"").replace(/-it$/,"");
+const runs = DATA.runs;
+const tasks = DATA.tasks;
+
+/* ---------- header counts ---------- */
+(function(){
+  const models = new Set(runs.map(r=>r.model));
+  const tsk = new Set(runs.map(r=>r.task));
+  const items = runs.reduce((a,r)=>a+(r.n_items||0),0);
+  const c = [[runs.length,"runs"],[models.size,"models"],[tsk.size,"tasks"],
+             [items.toLocaleString(),"model ratings"],
+             [new Set(runs.map(r=>r.family)).size,"model families"]];
+  $("#counts").innerHTML = c.map(([b,s])=>
+    `<div class="count"><b>${b}</b><span>${s}</span></div>`).join("");
+  $("#stamp").textContent = DATA.n_runs + " runs in this build.";
+})();
+
+/* ---------- task cards ---------- */
+(function(){
+  // four levels of language, coarse to fine; anything unrecognised sorts last
+  const order = ["Form","Syntax","Semantics","Lexical"];
+  const SRC = {published:"Published norms", surveyor:"Surveyor", mturk:"MTurk"};
+  const shown = tasks.slice().sort((a,b)=>{
+    const i = order.indexOf(a.domain), j = order.indexOf(b.domain);
+    return ((i<0?99:i)-(j<0?99:j)) || a.task.localeCompare(b.task);
+  });
+  $("#taskcards").innerHTML = shown.map(t=>`
+    <div class="card pad task">
+      <div class="dom">${t.domain}<span class="src">${SRC[t.source]||t.source}</span></div>
+      <h3>${esc(t.label||short(t.task))}</h3>
+      ${t.gloss?`<div class="gloss">asked: ${esc(t.gloss)}</div>`:""}
+      <dl>
+        <dt>scale</dt><dd>${t.scale[0]}–${t.scale[1]}</dd>
+        <dt>items</dt><dd>${t.n_items_total.toLocaleString()}</dd>
+        <dt>raters / item</dt><dd>${t.median_n_raters===null?"—":Math.round(t.median_n_raters)}</dd>
+        <dt>human entropy</dt><dd>${fmt(t.human_entropy,2)}</dd>
+      </dl>
+      <div class="instr">${esc((t.instructions||"").split("\n").filter(Boolean).slice(-2).join(" ")).slice(0,240)}</div>
+    </div>`).join("");
+})();
+
+/* ---------- shared: pick the best run per model+task ---------- */
+function preferred(list){
+  const by = new Map();
+  for(const r of list){
+    const k = r.model+"|"+r.task;
+    const cur = by.get(k);
+    if(!cur){ by.set(k,r); continue; }
+    const score = x => (x.variant==="autofmt"?2:0) + (x.mass_median||0);
+    if(score(r) > score(cur)) by.set(k,r);
+  }
+  return [...by.values()];
+}
+
+/* ---------- tooltip ---------- */
+const tip = $("#tip");
+function showTip(e,html){
+  tip.innerHTML = html; tip.style.opacity = 1;
+  const r = tip.getBoundingClientRect();
+  let x = e.clientX + 14, y = e.clientY + 14;
+  if(x + r.width > innerWidth - 8) x = e.clientX - r.width - 14;
+  if(y + r.height > innerHeight - 8) y = e.clientY - r.height - 14;
+  tip.style.left = x+"px"; tip.style.top = y+"px";
+}
+function hideTip(){ tip.style.opacity = 0; }
+
+/* ---------- 03 scale usage small multiples ---------- */
+const taskList = [...new Set(runs.map(r=>r.task))]
+  .sort((a,b)=>(SHORT[a]?0:1)-(SHORT[b]?0:1) || a.localeCompare(b));
+function fillTaskSelect(sel, dflt){
+  sel.innerHTML = taskList.map(t=>`<option value="${t}">${short(t)}</option>`).join("");
+  if(taskList.includes(dflt)) sel.value = dflt;
+}
+fillTaskSelect($("#usetask"),"huang_response_set2a");
+fillTaskSelect($("#sharptask"),"huang_response_set2a");
+
+function usagePanel(r){
+  const m = r.model_marginal || [], h = r.human_marginal || [];
+  const n = m.length, W = 204, H = 74, pad = 2;
+  const bw = (W - pad*(n-1)) / n, half = (bw-2)/2;
+  const max = Math.max(...m, ...(h.length?h:[0]), .01);
+  let bars = "";
+  for(let i=0;i<n;i++){
+    const x = i*(bw+pad);
+    const hm = (m[i]/max)*H, hh = h.length ? (h[i]/max)*H : 0;
+    const lo = r.scale[0]+i;
+    const t = `<b>${lo}</b><br>model <span class="num">${fmt(m[i],3)}</span>`
+            + (h.length?`<br>human <span class="num">${fmt(h[i],3)}</span>`:"");
+    bars += `<g class="bar" data-tip="${t.replace(/"/g,'&quot;')}">`
+      + `<rect x="${x}" y="0" width="${bw}" height="${H}" fill="transparent"></rect>`
+      + `<rect x="${x}" y="${H-hm}" width="${half}" height="${Math.max(hm,1)}" rx="2" fill="var(--model)"></rect>`
+      + (h.length?`<rect x="${x+half+2}" y="${H-hh}" width="${half}" height="${Math.max(hh,1)}" rx="2" fill="var(--human)"></rect>`:"")
+      + `</g>`;
+  }
+  const ticks = Array.from({length:n},(_,i)=>{
+    const x = i*(bw+pad)+bw/2;
+    return `<text x="${x}" y="${H+12}" text-anchor="middle" font-size="9.5"
+             fill="var(--muted)" font-family="var(--mono)">${r.scale[0]+i}</text>`;
+  }).join("");
+  const flag = (r.mass_median<0.9) ? ` <span class="tag warn">mass ${fmt(r.mass_median,2)}</span>` : "";
+  return `<div class="sm">
+      <div class="t">${shortModel(r.model)}${flag}</div>
+      <div class="s">H ${fmt(r.model_entropy,2)} vs ${fmt(r.human_entropy,2)} ·
+           r ${fmt(r.pearson,2)}${r.variant?` · ${r.variant}`:""}</div>
+      <svg viewBox="0 0 ${W} ${H+16}" width="100%" height="${H+16}" role="img"
+           aria-label="scale usage for ${r.model}">${bars}${ticks}</svg>
+    </div>`;
+}
+function renderUsage(){
+  const t = $("#usetask").value, how = $("#usesort").value;
+  let rows = preferred(runs.filter(r=>r.task===t && r.model_marginal));
+  rows.sort((a,b)=> how==="entropy" ? (a.model_entropy-b.model_entropy)
+                 : how==="pearson" ? (b.pearson-a.pearson)
+                 : a.model.localeCompare(b.model));
+  $("#usagegrid").innerHTML = rows.map(usagePanel).join("") ||
+     `<p class="note">No runs for this task yet.</p>`;
+}
+$("#usetask").onchange = renderUsage;
+$("#usesort").onchange = renderUsage;
+renderUsage();
+
+/* ---------- 04 dumbbell ---------- */
+function renderDumbbell(){
+  const t = $("#sharptask").value;
+  const rows = preferred(runs.filter(r=>r.task===t && r.human_entropy!=null))
+                .sort((a,b)=>a.model_entropy-b.model_entropy);
+  if(!rows.length){ $("#dumbbell").innerHTML = `<p class="note">No runs yet.</p>`; return; }
+  // runs of one task can cover different item subsets, so their human entropy
+  // differs slightly; the reference line uses the median of what is on screen
+  const hs = rows.map(r=>r.human_entropy).sort((a,b)=>a-b);
+  const human = hs[Math.floor(hs.length/2)];
+  const maxE = Math.max(...rows.map(r=>Math.max(r.model_entropy,r.human_entropy)))*1.08;
+  const L = 178, R = 26, W = 760, rowH = 26, H = rows.length*rowH + 34;
+  const x = v => L + (v/maxE)*(W-L-R);
+  let out = `<svg viewBox="0 0 ${W} ${H}" width="100%" height="${H}" role="img"
+    aria-label="model entropy against human entropy">`;
+  out += `<line x1="${x(human)}" x2="${x(human)}" y1="6" y2="${rows.length*rowH+6}"
+           stroke="var(--human)" stroke-width="1" stroke-dasharray="3 3" opacity=".55"></line>`;
+  rows.forEach((r,i)=>{
+    const y = 18 + i*rowH;
+    const a = x(Math.min(r.model_entropy,r.human_entropy));
+    const b = x(Math.max(r.model_entropy,r.human_entropy));
+    const tipHtml = `<b>${r.model}</b><br>model H <span class="num">${fmt(r.model_entropy,3)}</span>`
+      + `<br>human H <span class="num">${fmt(r.human_entropy,3)}</span>`
+      + `<br>${r.model_entropy < r.human_entropy ? "sharper than raters" : "flatter than raters"}`;
+    out += `<g class="bar" data-tip="${tipHtml.replace(/"/g,'&quot;')}">`
+      + `<rect x="0" y="${y-rowH/2}" width="${W}" height="${rowH}" fill="transparent"></rect>`
+      + `<text x="${L-12}" y="${y+4}" text-anchor="end" font-size="12" fill="var(--ink-2)">${shortModel(r.model)}</text>`
+      + `<line x1="${a}" x2="${b}" y1="${y}" y2="${y}" stroke="var(--rule)" stroke-width="2"></line>`
+      + `<circle cx="${x(r.human_entropy)}" cy="${y}" r="4.5" fill="var(--human)"></circle>`
+      + `<circle cx="${x(r.model_entropy)}" cy="${y}" r="5" fill="var(--model)"
+                 stroke="var(--surface)" stroke-width="2"></circle>`
+      + `</g>`;
+  });
+  const yb = rows.length*rowH + 22;
+  for(let v=0; v<=maxE; v+=0.5){
+    out += `<text x="${x(v)}" y="${yb}" text-anchor="middle" font-size="10"
+             fill="var(--muted)" font-family="var(--mono)">${v.toFixed(1)}</text>`;
+  }
+  out += `<text x="${L-12}" y="${yb}" text-anchor="end" font-size="10"
+           fill="var(--muted)">entropy (bits)</text></svg>`;
+  $("#dumbbell").innerHTML = out;
+}
+$("#sharptask").onchange = renderDumbbell;
+renderDumbbell();
+
+/* ---------- 05 run table ---------- */
+const COLS = [
+  ["model","Model","l"],["params_b","B",""],["task","Task","l"],
+  ["variant","Run",""],["dtype","dtype",""],["n_items","n",""],
+  ["mass_median","mass",""],["pearson","r",""],["spearman","ρ",""],
+  ["ols_slope","slope",""],["model_entropy","H",""],["human_entropy","H human",""],
+  ["W1_over_delta","W1/δ",""],["frac_similar","equiv",""],["align_normalized","align",""]
+];
+let sortKey = "pearson";
+function renderTable(){
+  const t = $("#mtask").value, fam = $("#mfam").value, hide = $("#hidebad").checked;
+  let rows = runs.filter(r => (t==="*"||r.task===t) && (fam==="*"||r.family===fam)
+                              && (!hide || (r.mass_median??1) >= 0.9));
+  rows.sort((a,b)=>{
+    if(sortKey==="size") return (b.params_b||0)-(a.params_b||0);
+    const va = a[sortKey]??-9, vb = b[sortKey]??-9;
+    return vb-va;
+  });
+  $("#runs thead").innerHTML = "<tr>" + COLS.map(c=>
+    `<th class="${c[2]}">${c[1]}</th>`).join("") + "</tr>";
+  $("#runs tbody").innerHTML = rows.map(r=>{
+    const bad = (r.mass_median??1) < 0.9;
+    const cell = (k)=>{
+      const v = r[k];
+      if(k==="model") return `<td class="l">${v}</td>`;
+      if(k==="task")  return `<td class="l dim">${short(v)}</td>`;
+      if(k==="variant") return `<td class="dim">${v||"—"}</td>`;
+      if(k==="dtype") return `<td class="dim">${(v||"").replace("bfloat","bf").replace("float","fp")}</td>`;
+      if(k==="params_b") return `<td class="num dim">${v??"—"}</td>`;
+      if(k==="n_items") return `<td class="num dim">${(v||0).toLocaleString()}</td>`;
+      if(k==="mass_median") return `<td class="num ${bad?"bad":""}">${fmt(v,2)}</td>`;
+      if(k==="frac_similar") return `<td class="num">${pct(v)}</td>`;
+      return `<td class="num">${fmt(v,3)}</td>`;
+    };
+    return "<tr>" + COLS.map(c=>cell(c[0])).join("") + "</tr>";
+  }).join("");
+}
+(function(){
+  $("#mtask").innerHTML = `<option value="*">all tasks</option>` +
+    taskList.map(t=>`<option value="${t}">${short(t)}</option>`).join("");
+  const fams = [...new Set(runs.map(r=>r.family))].sort();
+  $("#mfam").innerHTML = `<option value="*">all families</option>` +
+    fams.map(f=>`<option value="${f}">${f}</option>`).join("");
+  const segs = {sortmass:"mass_median", sortpear:"pearson", sortsize:"size"};
+  for(const [id,key] of Object.entries(segs)){
+    $("#"+id).onclick = ()=>{
+      sortKey = key;
+      for(const i of Object.keys(segs)) $("#"+i).setAttribute("aria-pressed", i===id);
+      renderTable();
+    };
+  }
+  $("#mtask").onchange = $("#mfam").onchange = $("#hidebad").onchange = renderTable;
+  renderTable();
+})();
+
+/* ---------- 06 findings ---------- */
+$("#findings").innerHTML = `
+  <div class="gate">
+    <div><h3>No model reaches human agreement</h3>
+      <p>Across 15 models from 0.5B to 32B, the closest any run came was 1.01× the
+         human split-half distance, and at most 2.5% of items had distributions
+         statistically indistinguishable from the raters’. No exceptions.</p></div>
+    <div><h3>Mean and distribution rankings disagree</h3>
+      <p>Kendall τ between ordering models by Pearson and by W1/δ ran +0.07 to +0.39
+         across four tasks. Picking the best model by correlation does not pick the
+         best model by distribution.</p></div>
+    <div><h3>Model rankings do not transfer across tasks</h3>
+      <p>τ between task orderings, on six shared models: +0.73 for the two word
+         tasks, but <b>+0.07</b> between plausibility and visual sensorimotor.</p></div>
+    <div><h3>Sharpness matching explains the wins</h3>
+      <p>Llama-3.1-8B, the most diffuse model, takes first place on exactly the two
+         tasks with the widest human distributions. gemma-3-12b, the sharpest
+         (entropy 0.07–0.29 bits against a human 1.8–2.4), is last or near-last
+         everywhere.</p></div>
+    <div><h3>Where the gap lives depends on the task</h3>
+      <p>Splitting W1 into a location term and a shape term: shape is 2–25% on
+         plausibility but <b>27–54%</b> on socialness, the task where raters
+         disagree most. How much a distributional view adds tracks how much the
+         humans disagree.</p></div>
+    <div><h3>Scale bigger, calibration worse</h3>
+      <p>Within Qwen2.5, Pearson climbs 0.040 → 0.747 from 0.5B to 32B while
+         entropy falls from near-human 1.93 at 3B to 0.62 at 32B. Larger models
+         order items better and use the scale less like people.</p></div>
+  </div>`;
+
+/* ---------- tooltips ---------- */
+document.addEventListener("mousemove", e=>{
+  const g = e.target.closest("g.bar");
+  if(g && g.dataset.tip) showTip(e, g.dataset.tip); else hideTip();
+});
+document.addEventListener("mouseleave", hideTip);
+</script>

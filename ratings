@@ -1,0 +1,100 @@
+#!/bin/bash
+# The whole project, four verbs.
+#
+#   ./ratings list                    what datasets exist, and which can be scored
+#   ./ratings check [task]            read the prompts before spending GPU time
+#   ./ratings run --models "a b"      score models on every scorable dataset
+#   ./ratings show                    rebuild the pages and print the link
+#   ./ratings serve [--stop]          just the link (the server, no rebuild)
+#
+# Adding a dataset means adding two files and nothing else:
+#
+#   <tree>/norm_datasets/<name>.csv          unit,mean,std,n,individual_ratings
+#   <tree>/instructions/<name>_i.txt         the wording, with <<{word}>> where
+#                                            the stimulus goes
+#
+# Nothing here holds a list of datasets. `list` walks the trees, `check` reads
+# what it finds, `run` scores what `check` accepts, `show` renders what `run`
+# produced. A new file is picked up by all four.
+
+set -euo pipefail
+PY=${PY:-$HOME/.conda/envs/compressibility/bin/python}
+REPO=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+cd "$REPO"
+export PYTHONPATH="$REPO/pipeline:${PYTHONPATH:-}"
+
+usage () { sed -n '2,18p' "$0" | sed 's/^# \{0,1\}//'; exit "${1:-0}"; }
+[ $# -eq 0 ] && usage
+VERB=$1; shift
+
+case "$VERB" in
+
+list)
+    # means-only datasets are scorable too (compared on means and correlation)
+    "$PY" pipeline/check_tasks.py --allow-no-individual "$@"
+    ;;
+
+check)
+    # Encoding first: text decoded with the wrong codec makes every later check
+    # pass while the model reads different characters than the raters saw.
+    "$PY" pipeline/check_encoding.py --sources "${SOURCES:-published,surveyor,mturk}" || true
+    echo
+    if [ $# -gt 0 ] && [[ "$1" != -* ]]; then
+        "$PY" pipeline/show_prompts.py --task "$1" --sources all "${@:2}"
+    else
+        "$PY" pipeline/show_prompts.py --check --items 3 --sources "${SOURCES:-published}" "$@"
+    fi
+    ;;
+
+run)
+    MODELS=""; TASKS=""; LIMIT=${LIMIT:-1000}; LOCAL=""
+    while [ $# -gt 0 ]; do
+        case "$1" in
+            --models) MODELS=$2; shift 2 ;;
+            --tasks)  TASKS=$2;  shift 2 ;;
+            --limit)  LIMIT=$2;  shift 2 ;;
+            --local)  LOCAL=1;   shift ;;
+            *) echo "unknown option: $1" >&2; exit 2 ;;
+        esac
+    done
+    [ -z "$MODELS" ] && { echo "run needs --models \"<hf-id> ...\"" >&2; exit 2; }
+    if [ -z "$TASKS" ]; then
+        TASKS=$(LIMIT="$LIMIT" "$PY" - <<'PYEOF'
+import os, sys
+sys.path.insert(0, "pipeline")
+from show_prompts import wired_tasks
+print(" ".join("%s:%s" % (t, os.environ["LIMIT"]) for t, _c, _i in wired_tasks()))
+PYEOF
+)
+    fi
+    echo "== prompts =="
+    "$PY" pipeline/show_prompts.py --check --items 2 --sources "${SOURCES:-published}"
+    echo
+    echo "== $(wc -w <<< "$TASKS") datasets x $(wc -w <<< "$MODELS") models =="
+    # One job per model, each behind the GPU-side gate (tokenizer round-trip,
+    # option tokens, padding and greedy/sampling agreement) before any scoring.
+    if [ -n "$LOCAL" ]; then
+        SKIP_DIST=1 MODELS="$MODELS" TASKS="$TASKS" bash pipeline/run_checked.sh
+    else
+        for M in $MODELS; do
+            MODELS="$M" TASKS="$TASKS" sbatch --job-name="${JOB:-chk}-${M##*/}" pipeline/run_checked.sh
+        done
+        echo "watch with:  squeue -u \$USER      logs: result/logs/"
+    fi
+    ;;
+
+show)
+    # rebuild, then make sure the link is live. The server serves result/ from
+    # disk and stays up between sweeps, so the same URL always shows the latest.
+    pipeline/refresh_pages.sh
+    echo
+    exec pipeline/serve.sh
+    ;;
+
+serve)
+    exec pipeline/serve.sh "$@"
+    ;;
+
+-h|--help|help) usage ;;
+*) echo "unknown verb: $VERB" >&2; usage 2 ;;
+esac

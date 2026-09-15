@@ -1,0 +1,40 @@
+{
+  "task": "sentence_naturalness_survey_for_jkm_jan_2012",
+  "source": "mturk",
+  "level": "discourse",
+  "sublevel": null,
+  "level_decided_by": "andrea_rule_context_v3",
+  "level_rationale": "context manipulated across items: 11 families cross context with targets",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 128,
+  "n_ratings": 2225,
+  "ratings_per_item_median": 10,
+  "ratings_per_item_min": 9,
+  "ratings_per_item_max": 40,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "reconstructed: 'Read the exchange between Mary and John. How natural does Mary's final turn sound in the context that precedes it?' -- verified directly against the converted CSV: unit text is a Mary/John dialogue and 100% (128/128) of units end on a 'Mary:' turn, confirming the question's claim.",
+    "scale_labels": "dashboard HTML scrape (questionnaire_wording.csv dashboard_scale_labels field, own folder) = 'Extremely unnatural | Somewhat unnatural | Possible | Somewhat natural | Entirely natural | Yes|No', matching SCALE_CATALOG.md row 42; verified against converted CSV individual_ratings min=1 max=5.",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/sentence_naturalness_survey_for_jkm_jan_2012.csv",
+    "instruction": "mturk_norms/instructions/sentence_naturalness_survey_for_jkm_jan_2012_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.214,
+    "spearman_sb": 0.266,
+    "n_items_used": 128,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

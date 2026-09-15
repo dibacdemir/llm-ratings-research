@@ -1,0 +1,36 @@
+{
+  "task": "corenblum2025_cognition",
+  "source": "published",
+  "level": "lexical_semantics",
+  "sublevel": "conceptual",
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 8367,
+  "n_ratings": 164877,
+  "ratings_per_item_median": null,
+  "ratings_per_item_min": null,
+  "ratings_per_item_max": null,
+  "has_individual_ratings": false,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "word",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {},
+  "original": {
+    "ratings": "norm_datasets/corenblum2025_data/corenblum2025_cognition.csv",
+    "instruction": "instructions/corenblum2025_instructions/corenblum2025_cognition_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": null,
+    "spearman_sb": null,
+    "n_items_used": 0,
+    "min_raters": 2,
+    "n_splits": 0,
+    "method": "not computable: means only"
+  }
+}

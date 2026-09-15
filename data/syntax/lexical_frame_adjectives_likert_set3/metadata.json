@@ -1,0 +1,44 @@
+{
+  "task": "lexical_frame_adjectives_likert_set3",
+  "source": "surveyor",
+  "level": "syntax",
+  "sublevel": null,
+  "level_decided_by": "fable_resolution",
+  "level_rationale": "acceptability of verb/adjective + complement frames (subcategorization) — syntax-lexicon interface, treated as syntax",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 384,
+  "n_ratings": 7643,
+  "ratings_per_item_median": 20,
+  "ratings_per_item_min": 18,
+  "ratings_per_item_max": 20,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "survey_id": "lexical_frame_adjectives_likert_set3",
+    "owner": "moshepol@mit.edu",
+    "participants": 20,
+    "n_test": 192,
+    "n_filler": 192,
+    "n_practice": 0,
+    "anchors_dropped": 0
+  },
+  "original": {
+    "ratings": "surveyor_norms/norm_datasets/syntax/lexical_frame_adjectives_likert_set3.csv",
+    "instruction": "surveyor_norms/instructions/syntax/lexical_frame_adjectives_likert_set3_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.872,
+    "spearman_sb": 0.873,
+    "n_items_used": 384,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

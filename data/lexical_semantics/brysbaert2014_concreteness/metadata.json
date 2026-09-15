@@ -1,0 +1,36 @@
+{
+  "task": "brysbaert2014_concreteness",
+  "source": "published",
+  "level": "lexical_semantics",
+  "sublevel": "perceptual_motor",
+  "level_decided_by": "agents_consensus",
+  "level_rationale": "two independent classifiers agreed, confident, unflagged",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 39954,
+  "n_ratings": 1286344,
+  "ratings_per_item_median": null,
+  "ratings_per_item_min": null,
+  "ratings_per_item_max": null,
+  "has_individual_ratings": false,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "word",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {},
+  "original": {
+    "ratings": "norm_datasets/brysbaert2014_data/brysbaert2014_concreteness.csv",
+    "instruction": "instructions/brysbaert2014_instructions/brysbaert2014_concreteness_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": null,
+    "spearman_sb": null,
+    "n_items_used": 0,
+    "min_raters": 2,
+    "n_splits": 0,
+    "method": "not computable: means only"
+  }
+}

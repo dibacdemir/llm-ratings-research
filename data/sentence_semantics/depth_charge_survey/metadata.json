@@ -1,0 +1,44 @@
+{
+  "task": "depth_charge_survey",
+  "source": "surveyor",
+  "level": "sentence_semantics",
+  "sublevel": "plausibility",
+  "level_decided_by": "fable_resolution",
+  "level_rationale": "comparative-illusion items: logical/semantic sense varies, structure constant",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 188,
+  "n_ratings": 3394,
+  "ratings_per_item_median": 11,
+  "ratings_per_item_min": 4,
+  "ratings_per_item_max": 37,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    7
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 1,
+  "merged_from": [],
+  "provenance": {
+    "survey_id": "Depth Charge Survey",
+    "owner": "arthurmilanferencei@gmail.com",
+    "participants": 37,
+    "n_test": 128,
+    "n_filler": 60,
+    "n_practice": 0,
+    "anchors_dropped": 0
+  },
+  "original": {
+    "ratings": "surveyor_norms/norm_datasets/syntax/depth_charge_survey.csv",
+    "instruction": "surveyor_norms/instructions/syntax/depth_charge_survey_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.843,
+    "spearman_sb": 0.846,
+    "n_items_used": 188,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}

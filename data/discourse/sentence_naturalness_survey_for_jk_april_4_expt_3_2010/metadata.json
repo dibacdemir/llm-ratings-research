@@ -1,0 +1,40 @@
+{
+  "task": "sentence_naturalness_survey_for_jk_april_4_expt_3_2010",
+  "source": "mturk",
+  "level": "discourse",
+  "sublevel": null,
+  "level_decided_by": "andrea_policy_Q2",
+  "level_rationale": "felicity depends on relations across sentences/clauses (presupposition, anaphora, ellipsis, implicit causality)",
+  "level_blind_check_agrees": true,
+  "language": "english",
+  "n_items": 96,
+  "n_ratings": 3963,
+  "ratings_per_item_median": 21,
+  "ratings_per_item_min": 19,
+  "ratings_per_item_max": 83,
+  "has_individual_ratings": true,
+  "scale": [
+    1,
+    5
+  ],
+  "placeholder": "sentence",
+  "unit_non_ascii": 0,
+  "merged_from": [],
+  "provenance": {
+    "question_wording": "reconstructed",
+    "scale_labels": "dashboard_sibling: dashboard_scale_labels for this folder, scale_source_project=\"Sentence naturalness survey for JK June 24\"; C row 42",
+    "quality_flag": "ok"
+  },
+  "original": {
+    "ratings": "mturk_norms/norm_datasets/sentence_naturalness_survey_for_jk_april_4_expt_3_2010.csv",
+    "instruction": "mturk_norms/instructions/sentence_naturalness_survey_for_jk_april_4_expt_3_2010_i.txt"
+  },
+  "human_reliability": {
+    "pearson_sb": 0.86,
+    "spearman_sb": 0.83,
+    "n_items_used": 96,
+    "min_raters": 2,
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
+  }
+}
