@@ -1,0 +1,119 @@
+[
+ {
+  "keep": "clefting_e4",
+  "absorbed": [
+   "clefting_e4_rep",
+   "clefting_e4_rep2"
+  ],
+  "units": 48,
+  "ratings": 7244
+ },
+ {
+  "keep": "constituency_tests",
+  "absorbed": [
+   "topicalization_e2"
+  ],
+  "units": 48,
+  "ratings": 2441
+ },
+ {
+  "keep": "acceptability_replication_959",
+  "absorbed": [
+   "montemayor_replication_acceptability_in_syntax",
+   "replication_v6"
+  ],
+  "units": 288,
+  "ratings": 6126
+ },
+ {
+  "keep": "class_demo",
+  "absorbed": [
+   "demo_9_59_2025",
+   "demo_9_59_2026"
+  ],
+  "units": 44,
+  "ratings": 1110
+ },
+ {
+  "keep": "copy_of_verb_causality_study_semantics_ratings_mk_april_2010",
+  "absorbed": [
+   "copy_of_verb_causality_study_semantics_ratings_v3o1_mk_april_2010",
+   "copy_of_verb_causality_study_semantics_ratings_v3o2_mk_april_2010",
+   "copy_of_verb_causality_study_semantics_ratings_v3o4_mk_april_2010"
+  ],
+  "units": 62,
+  "ratings": 2470
+ },
+ {
+  "keep": "cul_jack_april_12_2012_54_short_texts_with_two_comprehension_questions",
+  "absorbed": [
+   "cul_jack_april_2012_60_short_texts_with_two_comprehension_questions_an"
+  ],
+  "units": 210,
+  "ratings": 11159
+ },
+ {
+  "keep": "cul_jack_sentence_naturalness_survey_april_2010",
+  "absorbed": [
+   "cul_jack_sentence_naturalness_survey_2_sept_2011"
+  ],
+  "units": 220,
+  "ratings": 20264
+ },
+ {
+  "keep": "isac_sentence_naturalness_survey_feb_2011_64_items_survey_code_giant_c",
+  "absorbed": [
+   "isac_sentence_naturalness_survey_feb_2011_survey_code_giant_cobra"
+  ],
+  "units": 256,
+  "ratings": 10712
+ },
+ {
+  "keep": "presup_survey_1_acd_july_2012",
+  "absorbed": [
+   "presup_survey_3_acd_july_2012"
+  ],
+  "units": 240,
+  "ratings": 7251
+ },
+ {
+  "keep": "pronouns_following_verbs_an",
+  "absorbed": [
+   "pronouns_following_verbs_an_2"
+  ],
+  "units": 44,
+  "ratings": 3511
+ },
+ {
+  "keep": "pronouns_following_verbs_ce",
+  "absorbed": [
+   "pronouns_following_verbs_ce_2"
+  ],
+  "units": 44,
+  "ratings": 3504
+ },
+ {
+  "keep": "pronouns_following_verbs_so",
+  "absorbed": [
+   "pronouns_following_verbs_so_2"
+  ],
+  "units": 44,
+  "ratings": 3508
+ },
+ {
+  "keep": "reasoning_and_language_tasks_survey_code_talkative_pigeon",
+  "absorbed": [
+   "social_interaction_and_language_tasks_survey_code_talkative_pigeon"
+  ],
+  "units": 72,
+  "ratings": 8590
+ },
+ {
+  "keep": "sentence_naturalness_survey_for_lb_prelim_oct_2010",
+  "absorbed": [
+   "sentence_naturalness_survey_for_lb_v2_oct_2010"
+  ],
+  "units": 402,
+  "ratings": 7933
+ }
+]
