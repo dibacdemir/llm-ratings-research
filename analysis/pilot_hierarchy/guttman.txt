@@ -1,0 +1,20 @@
+Pilot: implicational hierarchy across levels of language
+34 models (4 dropped: did not answer with a digit on most tasks: Llama-3.2-1B-Instruct, SmolLM-1.7B-Instruct, SmolLM-360M-Instruct, SmolLM2-135M-Instruct)
+cell = median over the level's tasks of rho / human split-half rho
+
+mean share of the human ceiling per level, all kept models:
+   Sentence semantics   0.68
+   Syntax               0.62
+   Discourse            0.57
+   Lexical semantics    0.51
+   Subword              0.48
+   Pragmatics           0.43
+
+threshold 0.5  order (passed by most -> fewest): Sentence semantics > Syntax > Discourse > Lexical semantics > Subword > Pragmatics
+   reproducibility 0.951  (errors 10/204)  minimal marginal 0.662  scalability 0.855  | shuffled-label baseline 0.846, p = 0.0000
+threshold 0.6  order (passed by most -> fewest): Sentence semantics > Syntax > Discourse > Subword > Lexical semantics > Pragmatics
+   reproducibility 0.951  (errors 10/204)  minimal marginal 0.667  scalability 0.853  | shuffled-label baseline 0.819, p = 0.0000
+threshold 0.7  order (passed by most -> fewest): Sentence semantics > Syntax > Discourse > Lexical semantics > Subword > Pragmatics
+   reproducibility 0.941  (errors 12/204)  minimal marginal 0.725  scalability 0.786  | shuffled-label baseline 0.801, p = 0.0000
+threshold 0.8  order (passed by most -> fewest): Sentence semantics > Syntax > Discourse > Subword > Lexical semantics > Pragmatics
+   reproducibility 0.990  (errors 2/204)  minimal marginal 0.863  scalability 0.929  | shuffled-label baseline 0.862, p = 0.0000

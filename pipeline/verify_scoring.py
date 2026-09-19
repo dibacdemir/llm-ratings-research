@@ -135,6 +135,12 @@ def main(argv=None):
     print("\n[5] SAMPLING  does the model actually emit what we claim?")
     n_show, n_samp, chunk = 4, 400, 25
     agree = 0
+    # a read error, as opposed to a model that will not answer: the model's own
+    # samples land on the options, yet our reading puts almost no mass there
+    from llm_ratings.hf_backend import normalise
+    lp_shown = sc32.option_logprobs(texts32[:n_show], options)
+    mass_shown = normalise(lp_shown)[1]
+    misread = 0
     for i in range(n_show):
         with torch.inference_mode():
             enc = sc32.tokenizer(texts32[i], return_tensors="pt",
@@ -160,6 +166,8 @@ def main(argv=None):
         ours = f32[i]
         pred_mode = options[int(np.argmax(ours))]
         agree += int(greedy.strip() == pred_mode)
+        if emp_all / n_samp >= 0.8 and mass_shown[i] < 0.5:
+            misread += 1
         print("  item %d  greedy=%r our argmax=%r %s" %
               (i, greedy.strip(), pred_mode,
                "MATCH" if greedy.strip() == pred_mode else "MISMATCH"))
@@ -170,6 +178,12 @@ def main(argv=None):
               % (np.abs(ours - emp).max(),
                  2 * np.sqrt(0.25 / max(emp_all, 1))))
     print("  greedy agrees with our argmax on %d/%d items" % (agree, n_show))
+    if misread * 2 >= n_show:
+        print("\n!! READ ERROR: on %d/%d items the model's samples are valid "
+              "options but our option_mass is < 0.5. The option token ids do "
+              "not match what the model emits (see hf_backend.variant_ids)."
+              % (misread, n_show))
+        return 1
 
     print("\nSUMMARY")
     print("  padding bf16   max|dP| %.2e" % pad_err)

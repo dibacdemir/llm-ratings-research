@@ -83,6 +83,27 @@ class HFRatingScorer:
                 if ids and ids not in seen:
                     seen.add(ids)
                     seqs.append(list(ids))
+            # Some sentencepiece tokenizers (Yi-1.5) put a dummy "▁" token in
+            # front of anything they encode, so encode("1") is ["▁", "1"] --
+            # a two-token event the model never produces after a chat
+            # template, which read as option_mass 0. The vocabulary entry for
+            # the bare string is the token the model actually emits.
+            vid = self.tokenizer.convert_tokens_to_ids(str(opt))
+            if (isinstance(vid, int) and vid >= 0
+                    and vid != self.tokenizer.unk_token_id
+                    and self.tokenizer.decode([vid]).strip() == str(opt)
+                    and (vid,) not in seen):
+                seen.add((vid,))
+                seqs.append([vid])
+            # the same dummy prefix in front of a multi-token option ("10")
+            probe = self.tokenizer.encode("1", add_special_tokens=False)
+            if (len(probe) == 2
+                    and self.tokenizer.convert_tokens_to_ids("1") == probe[1]):
+                for s_ in list(seqs):
+                    if len(s_) > 2 and s_[0] == probe[0] and tuple(s_[1:]) not in seen:
+                        seen.add(tuple(s_[1:]))
+                        seqs.append(s_[1:])
+                seqs = [s_ for s_ in seqs if not (len(s_) > 1 and s_[0] == probe[0])] or seqs
             if not seqs:
                 raise ValueError("option %r tokenises to nothing" % (opt,))
             if prefer_single_token:
