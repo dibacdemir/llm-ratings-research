@@ -38,10 +38,12 @@ class HFRatingScorer:
         device_map="auto",
         trust_remote_code=False,
         attn_implementation=None,
+        revision=None,
     ):
         self.model_name = model_name
+        self.revision = revision      # a branch/commit, e.g. an OLMo training checkpoint
         self.tokenizer = AutoTokenizer.from_pretrained(
-            model_name, trust_remote_code=trust_remote_code
+            model_name, trust_remote_code=trust_remote_code, revision=revision
         )
         if self.tokenizer.pad_token_id is None:
             self.tokenizer.pad_token = self.tokenizer.eos_token
@@ -54,6 +56,8 @@ class HFRatingScorer:
             kwargs["attn_implementation"] = attn_implementation
         if device_map:
             kwargs["device_map"] = device_map
+        if revision:
+            kwargs["revision"] = revision
         self.model = AutoModelForCausalLM.from_pretrained(model_name, **kwargs)
         self.model.eval()
         self.device = next(self.model.parameters()).device

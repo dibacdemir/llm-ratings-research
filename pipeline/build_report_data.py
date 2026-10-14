@@ -31,6 +31,20 @@ FAMILY = [
 ]
 
 
+
+def _strict(o):
+    """NaN and Infinity are not JSON: a browser refuses the whole file. A model
+    that gives every item the same answer has an undefined correlation; write
+    null and let the page show a dash."""
+    import math
+    if isinstance(o, float):
+        return None if (math.isnan(o) or math.isinf(o)) else o
+    if isinstance(o, dict):
+        return {k: _strict(v) for k, v in o.items()}
+    if isinstance(o, (list, tuple)):
+        return [_strict(v) for v in o]
+    return o
+
 def meta_of(name):
     fam = next((f for k, f in FAMILY if k in name), name.split("-")[0])
     size = None
@@ -144,7 +158,7 @@ def main(argv=None):
     facts_mod.save()
     out = {"runs": runs, "tasks": list(tasks.values()), "n_runs": len(runs)}
     with open(args.out, "w") as fh:
-        json.dump(out, fh, indent=1)
+        json.dump(_strict(out), fh, indent=1)
     print("wrote %s: %d runs, %d tasks" % (args.out, len(runs), len(tasks)))
     return 0
 

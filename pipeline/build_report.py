@@ -13,6 +13,20 @@ import os
 import sys
 
 
+
+def _strict(o):
+    """NaN and Infinity are not JSON: a browser refuses the whole file. A model
+    that gives every item the same answer has an undefined correlation; write
+    null and let the page show a dash."""
+    import math
+    if isinstance(o, float):
+        return None if (math.isnan(o) or math.isinf(o)) else o
+    if isinstance(o, dict):
+        return {k: _strict(v) for k, v in o.items()}
+    if isinstance(o, (list, tuple)):
+        return [_strict(v) for v in o]
+    return o
+
 def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument("--data", default="result/report_data.json")
@@ -34,7 +48,7 @@ def main(argv=None):
 
     # separators + no indent: the payload is inlined into a <script>, and the
     # page has to stay under the artifact size limit
-    blob = json.dumps(data, separators=(",", ":"), ensure_ascii=False)
+    blob = json.dumps(_strict(data), separators=(",", ":"), ensure_ascii=False)
     # </script> inside a string literal would end the block early
     blob = blob.replace("</", "<\\/")
     html = tpl.replace("/*__DATA__*/", blob)

@@ -25,6 +25,20 @@ import os
 HEAVY = ("items", "prompt_text", "prompt_spans", "prompt_unit")
 
 
+
+def _strict(o):
+    """NaN and Infinity are not JSON: a browser refuses the whole file. A model
+    that gives every item the same answer has an undefined correlation; write
+    null and let the page show a dash."""
+    import math
+    if isinstance(o, float):
+        return None if (math.isnan(o) or math.isinf(o)) else o
+    if isinstance(o, dict):
+        return {k: _strict(v) for k, v in o.items()}
+    if isinstance(o, (list, tuple)):
+        return [_strict(v) for v in o]
+    return o
+
 def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument("--split-dir", default="result/data")
@@ -53,10 +67,10 @@ def main(argv=None):
             if "items" in p:
                 p["items"] = p["items"][:k]
                 p["n_shown"] = len(p["items"])
-        raw = json.dumps({"pairs": pairs, "tasks": idx["tasks"],
+        raw = json.dumps(_strict({"pairs": pairs, "tasks": idx["tasks"],
                           "models": idx["models"],
                           "task_info": idx.get("task_info", {}),
-                          "items_per_pair": k},
+                          "items_per_pair": k}),
                          separators=(",", ":")).encode("utf-8")
         b64 = base64.b64encode(gzip.compress(raw, 9)).decode("ascii")
         if len(b64) <= args.budget_mb * 1e6:
@@ -67,7 +81,7 @@ def main(argv=None):
                          % args.budget_mb)
 
     with open(args.out, "w") as fh:
-        json.dump(blob, fh)
+        json.dump(_strict(blob), fh)
     # the page inflates the pack for everything; the stubs file only has to
     # carry what the first paint needs (the task list), not 4,000 stat rows
     stubs = {"pairs": [],
@@ -75,7 +89,7 @@ def main(argv=None):
              "task_info": idx.get("task_info", {}),
              "n_pairs_total": len(pairs), "packed": True}
     with open(args.stubs, "w") as fh:
-        json.dump(stubs, fh, separators=(",", ":"))
+        json.dump(_strict(stubs), fh, separators=(",", ":"))
     print("wrote %s: %d pairs, %d items per pair, %.1f MB (raw %.0f MB)"
           % (args.out, len(pairs), k_used, len(blob) / 1e6, len(raw) / 1e6))
     return 0

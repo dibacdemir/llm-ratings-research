@@ -25,6 +25,20 @@ from llm_ratings import prompt as prompt_mod  # noqa: E402
 
 
 
+
+def _strict(o):
+    """NaN and Infinity are not JSON: a browser refuses the whole file. A model
+    that gives every item the same answer has an undefined correlation; write
+    null and let the page show a dash."""
+    import math
+    if isinstance(o, float):
+        return None if (math.isnan(o) or math.isinf(o)) else o
+    if isinstance(o, dict):
+        return {k: _strict(v) for k, v in o.items()}
+    if isinstance(o, (list, tuple)):
+        return [_strict(v) for v in o]
+    return o
+
 def entropy(p):
     return float(-(p * np.log2(np.clip(p, 1e-12, 1))).sum())
 
@@ -253,11 +267,11 @@ def main(argv=None):
         for p in pairs:
             slug = "%s__%s" % (p["model"], p["task"])
             with open(os.path.join(args.split_dir, slug + ".json"), "w") as fh:
-                json.dump({k: p[k] for k in heavy}, fh, separators=(",", ":"))
+                json.dump(_strict({k: p[k] for k in heavy}), fh, separators=(",", ":"))
             index.append({k: v for k, v in p.items() if k not in heavy})
         with open(os.path.join(args.split_dir, "index.json"), "w") as fh:
-            json.dump({"pairs": index, "tasks": tasks, "models": models,
-                       "task_info": task_info}, fh, separators=(",", ":"))
+            json.dump(_strict({"pairs": index, "tasks": tasks, "models": models,
+                               "task_info": task_info}), fh, separators=(",", ":"))
         idx_kb = os.path.getsize(os.path.join(args.split_dir, "index.json")) / 1024
         print("wrote %s/: index %.0f KB + %d pair files"
               % (args.split_dir, idx_kb, len(pairs)))
@@ -280,7 +294,7 @@ def main(argv=None):
            "task_info": task_info,
            "n_pairs_total": len(pairs), "n_pairs_with_items": with_items}
     with open(args.out, "w") as fh:
-        json.dump(out, fh, separators=(",", ":"))
+        json.dump(_strict(out), fh, separators=(",", ":"))
     print("wrote %s: %d pairs, %d with items, %.0f KB"
           % (args.out, len(inline), with_items,
              os.path.getsize(args.out) / 1024))

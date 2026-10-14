@@ -28,6 +28,20 @@ from show_prompts import mojibake_of, wired_tasks, EXCLUDED  # noqa: E402
 DEMO_HINTS = ("demo", "class_", "_test", "test_", "sandbox", "practice", "example")
 
 
+
+def _strict(o):
+    """NaN and Infinity are not JSON: a browser refuses the whole file. A model
+    that gives every item the same answer has an undefined correlation; write
+    null and let the page show a dash."""
+    import math
+    if isinstance(o, float):
+        return None if (math.isnan(o) or math.isinf(o)) else o
+    if isinstance(o, dict):
+        return {k: _strict(v) for k, v in o.items()}
+    if isinstance(o, (list, tuple)):
+        return [_strict(v) for v in o]
+    return o
+
 def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument("--sources", default="published,surveyor,mturk")
@@ -112,7 +126,7 @@ def main(argv=None):
     out.sort(key=lambda r: (r["source"], r.get("variant", ""), r["task"]))
     os.makedirs(os.path.dirname(args.out), exist_ok=True)
     with open(args.out, "w") as fh:
-        json.dump({"datasets": out}, fh, separators=(",", ":"))
+        json.dump(_strict({"datasets": out}), fh, separators=(",", ":"))
     ok = sum(1 for r in out if r.get("scorable"))
     print("wrote %s: %d datasets, %d scorable, %.0f KB"
           % (args.out, len(out), ok, os.path.getsize(args.out) / 1024))

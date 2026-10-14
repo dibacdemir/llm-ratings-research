@@ -37,6 +37,10 @@ def parse_args(argv=None):
                    help="comma-separated: published,surveyor,mturk (for --list)")
     p.add_argument("--task", help="task name, e.g. amouyal2024_plausibility")
     p.add_argument("--model", help="HF model id or local path")
+    p.add_argument("--revision", default=None,
+                   help="Hub branch or commit, e.g. an OLMo checkpoint "
+                        "'stage1-step150000-tokens630B'; the result folder "
+                        "becomes <model>@<revision>")
     p.add_argument("--out", help="output .jsonl path (overrides --result-root)")
     p.add_argument("--result-root", default="result",
                    help="write to <root>/<model name>/<task>.jsonl (default: result)")
@@ -108,7 +112,8 @@ def main(argv=None):
             print("error: --%s is required (or use --list)" % req, file=sys.stderr)
             return 2
     if not args.out:
-        args.out = os.path.join(args.result_root, model_slug(args.model),
+        args.out = os.path.join(args.result_root,
+                                model_slug(args.model) + ("@" + args.revision if args.revision else ""),
                                 args.task + ".jsonl")
     if os.path.exists(args.out) and not args.overwrite:
         print("error: %s exists (use --overwrite)" % args.out, file=sys.stderr)
@@ -137,7 +142,7 @@ def main(argv=None):
     from llm_ratings.hf_backend import HFRatingScorer, expected_rating, normalise
 
     scorer = HFRatingScorer(args.model, dtype=args.dtype, device_map=args.device_map,
-                            trust_remote_code=args.trust_remote_code,
+                            trust_remote_code=args.trust_remote_code, revision=args.revision,
                             attn_implementation=args.attn)
 
     style, suffix = args.placeholder_style, (None if args.suffix == "none"
@@ -163,7 +168,7 @@ def main(argv=None):
         os.makedirs(outdir, exist_ok=True)
     meta = {
         "task": loc["task"], "source": loc["source"], "csv": loc["csv"],
-        "instructions_file": loc["instructions"], "model": args.model,
+        "instructions_file": loc["instructions"], "model": args.model, "revision": args.revision,
         "scale": [lo, hi], "options": options, "n_items": len(items),
         "chat_template": not args.no_chat, "system": args.system,
         "placeholder_style": style, "suffix": suffix or "none",
