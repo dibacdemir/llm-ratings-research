@@ -1,0 +1,45 @@
+Regression approach (ridge on hidden states) next to the ratings approach
+7 models: Falcon3-7B-Instruct, Meta-Llama-3.1-8B-Instruct, OLMo-2-1124-7B-Instruct, Qwen2.5-7B-Instruct, Qwen3-8B, Yi-1.5-9B-Chat, gemma-3-12b-it
+tasks: English, split-half reliability >= 0.7, >= 200 items; r = Pearson on a held-out 15%,
+averaged over 10 resamples; 'share' = r / split-half reliability (Spearman-Brown)
+
+N = 200
+   level                tasks     regr r  regr/ceil  ratings r   rat/ceil
+   Sentence semantics       4       0.72       0.81       0.78       0.88
+   Syntax                  40       0.85       0.95       0.66       0.73
+   Discourse                6       0.79       0.89       0.46       0.53
+   Lexical semantics       26       0.69       0.76       0.58       0.64
+   Subword                  1       0.49       0.59       0.54       0.65
+   Pragmatics               3       0.85       0.97       0.53       0.59
+
+N = 300
+   level                tasks     regr r  regr/ceil  ratings r   rat/ceil
+   Sentence semantics       3       0.78       0.88       0.76       0.86
+   Syntax                  19       0.84       0.95       0.61       0.72
+   Discourse                4       0.83       0.94       0.44       0.50
+   Lexical semantics       18       0.68       0.76       0.53       0.60
+   Subword                  1       0.53       0.64       0.54       0.65
+
+Where the chosen layer sits (relative depth, 0 = embeddings, 1 = last layer), N = 300 where available else 200:
+   Sentence semantics  median 0.53   IQR 0.48-0.61   (n=28)
+   Syntax              median 0.46   IQR 0.39-0.57   (n=277)
+   Discourse           median 0.48   IQR 0.38-0.54   (n=42)
+   Lexical semantics   median 0.47   IQR 0.40-0.54   (n=168)
+   Subword             median 0.50   IQR 0.46-0.62   (n=6)
+   Pragmatics          median 0.50   IQR 0.44-0.53   (n=21)
+
+Largest gaps, regression share minus ratings share (N=300 or 200, mean over models):
+   +1.32  erp_norming_error_detection_june_2013_4            Syntax
+   +0.59  mk_grammaticality_study_7_20                       Syntax
+   +0.56  sentence_naturalness_survey_for_lb_jan_2011        Discourse
+   +0.55  sentence_naturalness_survey_for_lb_jan_2011_v3     Discourse
+   +0.51  presup_survey_1_acd_july_2012                      Pragmatics
+   +0.46  p_p_sentence_naturalness_survey_june_2013_v3       Syntax
+   +0.46  huang_response_set1b                               Syntax
+   +0.45  alex_paunov_literal_inferences_dec_3_2011          Pragmatics
+   ...
+   -0.05  massive_mem_arousal_mar_2014                       Lexical semantics
+   -0.06  lancaster2020_foot_leg                             Lexical semantics
+   -0.07  massive_mem_valence_mar_2013_end_1                 Lexical semantics
+   -0.08  diveica2023_socialness                             Lexical semantics
+   -0.13  massive_mem_valence_mar_2014                       Lexical semantics
