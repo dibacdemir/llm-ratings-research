@@ -134,8 +134,8 @@ def main():
     ax.set_xticks(x); ax.set_xticklabels([LAB[lv].replace(" ", "\n") for lv in lvs], fontsize=8.5, color=INK)
     ax.set_ylim(0, 1.05); ax.axhline(1, color=MUTED, lw=0.8, ls=(0, (4, 3)))
     ax.set_ylabel("share of the human ceiling\n(r ÷ split-half reliability)", fontsize=8.5, color=INK2)
-    ax.legend(frameon=False, fontsize=8, loc="upper right")
-    ax.set_title("What the model encodes (regression) vs what it reports (ratings), %d models at 7-12B" % len(models), loc="left", fontsize=10, color=INK)
+    ax.legend(frameon=False, fontsize=8, loc="lower left", ncol=3, bbox_to_anchor=(0, 1.0))
+    ax.set_title("What the model encodes (regression) vs what it reports (ratings), %d models at 7-12B" % len(models), loc="left", fontsize=10, color=INK, pad=22)
     fig.tight_layout(); fig.savefig("analysis/regress/fig_regress_vs_ratings.png", dpi=220); plt.close(fig)
 
     # fig 2: scatter
