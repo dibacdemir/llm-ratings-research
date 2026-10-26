@@ -8,11 +8,11 @@
   "level_blind_check_agrees": true,
   "language": "english",
   "n_items": 2000,
-  "n_ratings": 0,
-  "ratings_per_item_median": null,
-  "ratings_per_item_min": null,
-  "ratings_per_item_max": null,
-  "has_individual_ratings": false,
+  "n_ratings": 31000,
+  "ratings_per_item_median": 16.0,
+  "ratings_per_item_min": 12,
+  "ratings_per_item_max": 19,
+  "has_individual_ratings": true,
   "scale": [
     1,
     7
@@ -26,11 +26,11 @@
     "instruction": "instructions/tuckute2024_instructions/tuckute2024_valence_i.txt"
   },
   "human_reliability": {
-    "pearson_sb": null,
-    "spearman_sb": null,
-    "n_items_used": 0,
+    "pearson_sb": 0.915,
+    "spearman_sb": 0.885,
+    "n_items_used": 2000,
     "min_raters": 2,
-    "n_splits": 0,
-    "method": "not computable: means only"
+    "n_splits": 100,
+    "method": "split-half, Spearman-Brown"
   }
 }
